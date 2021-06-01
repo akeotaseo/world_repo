@@ -1,0 +1,64 @@
+v2.1.2
+- Add preliminary support Kodi 19.0
+
+v2.1.1
+- Fix for auto switching timeout
+
+v2.1.0
+- Add 25hz and 30hz modes. Need "Clean Up" before use.
+
+v2.0.6
+- Fix hdcp_mode blank screen
+
+v2.0.5
+- Improved code to detect host operating system
+
+v2.0.4
+- Fix auto switching SPMC 16.6.81
+
+v2.0.3
+- Fix keymaps compatibility with Kodi 17.0
+  Skin Confluence must be installed to use keymaps
+
+v2.0.2
+- Add preliminary support Kodi 17.0
+
+v2.0.1
+- Added 4k
+
+v2
+- Runs on all AmLogic boards
+- Runs in Kodi
+
+v1.3.1
+- Fix for auto switching DVD-ISO and IMG files
+- Improved source frame rate detection
+- Reduced stand down period
+
+v1.3.0
+- Added Info mapped key
+
+v1.2.0
+- Added 50hz option for playback stop
+- Improved Clean Up
+
+v1.1.0
+- Settings shared between profiles
+- Added support for switching on end of playback
+- Prevented switching when playing audio files
+- Removed notification sound
+- Improved Automatic mapped key
+
+v1.0.0
+- Service optimization
+- Service startup changed from Login to XBMC Startup
+- Added Clean Up (for use before Uninstall and Disable)
+
+v0.0.3
+- Added support for key navigation (beta 3)
+
+v0.0.2
+- First published version (beta 2)
+
+v0.0.1
+- Unpublished dev version

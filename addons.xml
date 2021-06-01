@@ -298,4 +298,53 @@
 		</assets>
 	</extension>
 </addon>
+
+<addon
+  id="skin.19MatrixWorld"
+  version="4.0.19g"
+  name="skin.19MatrixWorld"
+  provider-name="Helly">
+  <requires>
+    <import addon="xbmc.gui" version="5.15.0"/>
+	  <import addon="script.favourites" version="7.1.1"/>
+	  <import addon="service.library.data.provider" version="0.3.2"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander &amp; Xenon &amp; Gb &amp; ML &amp; Tk edit by kropi</summary>
+    <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander &amp; Xenon &amp; Gb &amp; ML &amp; Tk edit by kropi</summary>
+    <summary lang="nl">Uitgebreide MOD van Confluence skin origineel door Jezz_X en CCM door Mudislander &amp; Xenon &amp; Gb &amp; ML &amp; Tk edit by kropi</summary>
+    <description lang="en">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="nl">Xonfluence is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
+    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
+    <platform>all</platform>
+	  <license>GNU General Public License version 2</license>
+	  <forum>https://forum.kodi.tv/showthread.php?tid=315391</forum>
+	  <website></website>
+	  <email></email>
+	  <source>https://github.com/Helly1206/skin.xonfluence</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+	    <screenshot>resources/screenshot-01.jpg</screenshot>
+	    <screenshot>resources/screenshot-02.jpg</screenshot>
+	    <screenshot>resources/screenshot-03.jpg</screenshot>
+	    <screenshot>resources/screenshot-04.jpg</screenshot>
+	    <screenshot>resources/screenshot-05.jpg</screenshot>
+	    <screenshot>resources/screenshot-06.jpg</screenshot>
+	    <screenshot>resources/screenshot-07.jpg</screenshot>
+	    <screenshot>resources/screenshot-08.jpg</screenshot>
+	    <screenshot>resources/screenshot-09.jpg</screenshot>
+    </assets>
+    <news>See changelog for latest changes</news>
+  </extension>
+</addon>
 </addons>

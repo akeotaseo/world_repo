@@ -299,6 +299,41 @@
 	</extension>
 </addon>
 
+<addon id="script.frequency.switcher" name="Frequency Switcher" version="2.1.2k" provider-name="pmos69">
+  <requires>
+        <trycatch>
+            <try>
+                <import addon="xbmc.python" version="3.0.0"/>
+            </try>
+
+            <catch>
+                <import addon="xbmc.python" version="2.14.0"/>
+            </catch>
+        </trycatch>
+    <import addon="script.module.pyxbmct" version="1.1.2"/>
+  </requires>
+  <extension point="xbmc.python.script" library="fswitch.py">
+    <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="fswitch_service.py" start="startup"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Frequency Switcher for AmLogic boards</summary>
+    <description lang="en">Supports 2160p, 1080p and 720p resolutions.[CR][CR]Please run Clean Up before you Uninstall or Disable.[CR][CR]Based on Minix Frequency Switcher.[CR][CR]Thanks MINIX-Ken, HardwareGuru, KenV99, Roman_V_M, takoi and Abbe</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform></platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+    <forum></forum>
+    <website>https://github.com/pmos69/Kodi.AmLogic.script.frequency.switcher</website>
+    <email></email>
+    <source></source>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+  </extension>
+</addon>
+
 <addon
   id="skin.19MatrixWorld"
   version="4.0.19g"

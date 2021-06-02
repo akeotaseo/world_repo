@@ -277,7 +277,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.Forceclose.matrix" version="0.0.1a" name="[COLOR aqua]Force Close Matrix[/COLOR]" provider-name="Aliunde">
+<addon id="plugin.program.Forceclose.matrix" version="0.0.1a" name="[COLOR red]Force Close Matrix[/COLOR]" provider-name="Aliunde">
     <extension point="xbmc.python.pluginsource" library="ForceClose.py">
         <provides>executable</provides>
     </extension>

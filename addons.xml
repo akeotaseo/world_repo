@@ -299,7 +299,7 @@
 	</extension>
 </addon>
 
-<addon id="script.frequency.switcher" name="Frequency Switcher" version="2.1.2k" provider-name="pmos69">
+<addon id="script.frequency.switcher" name="Frequency Switcher" version="2.1.2p" provider-name="pmos69">
   <requires>
         <trycatch>
             <try>

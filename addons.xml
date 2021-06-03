@@ -294,6 +294,29 @@
     </extension>
 </addon>
 
+<addon id="plugin.program.YouTubeAPIkey"
+version="19.0.1"
+name="YouTube API key"
+provider-name="GKoBu">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.xbmcswift2" />
+  <import addon="script.module.requests" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>false</reuselanguageinvoker>
+  <summary lang="en">Downloader</summary>
+  <description lang="en"></description>
+  <disclaimer lang="en">.</disclaimer>
+  <assets>
+      <icon>icon.png</icon>
+  </assets>
+</extension>
+</addon>
+
 <addon id="plugin.video.IPTV19"
        name="IPTV Player for Kodi 19"
        version="1.0.0"
@@ -393,6 +416,27 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+  </extension>
+</addon>
+
+<addon id="script.sites"
+  name="script.sites"
+  version="19"
+  provider-name="script sites">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">ML-kropi Sites</summary>
+    <description lang="en">ML-kropi Sites</description>
+	<disclaimer>ML-kropi Sites</disclaimer>
+	<assets>
+	<icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 

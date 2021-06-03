@@ -294,29 +294,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.YouTubeAPIkey"
-version="19.0.1"
-name="YouTube API key"
-provider-name="GKoBu">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.xbmcswift2" />
-  <import addon="script.module.requests" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>executable</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <reuselanguageinvoker>false</reuselanguageinvoker>
-  <summary lang="en">Downloader</summary>
-  <description lang="en"></description>
-  <disclaimer lang="en">.</disclaimer>
-  <assets>
-      <icon>icon.png</icon>
-  </assets>
-</extension>
-</addon>
-
 <addon id="plugin.video.IPTV19"
        name="IPTV Player for Kodi 19"
        version="1.0.0"
@@ -442,7 +419,7 @@ provider-name="GKoBu">
 
 <addon
   id="skin.19MatrixWorld"
-  version="4.0.19g"
+  version="4.0.20"
   name="skin.19MatrixWorld"
   provider-name="Helly">
   <requires>

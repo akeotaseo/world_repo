@@ -339,6 +339,35 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.12">
+    <requires>
+        <!--<import addon="xbmc.python" version="3.0.0"/>-->
+        <import addon="script.module.requests" version="2.22.0"/>
+        <import addon="script.module.routing" version="0.2.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="navigation.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <license>See https://github.com/i96751414/plugin.video.torrest/blob/master/LICENSE</license>
+        <source>https://github.com/i96751414/plugin.video.torrest</source>
+        <summary lang="en">Torrest on Kodi</summary>
+        <description lang="en">Torrest is a service with a rest API which allows torrent streaming.</description>
+        <news>
+        </news>
+        <assets>
+            <icon>icon.png</icon>
+            <screenshot>resources/screenshots/screenshot-1.jpg</screenshot>
+            <screenshot>resources/screenshots/screenshot-2.jpg</screenshot>
+            <screenshot>resources/screenshots/screenshot-3.jpg</screenshot>
+            <screenshot>resources/screenshots/screenshot-4.jpg</screenshot>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
 <addon id="repository.World" name="World Repository" version="0.1.1" provider-name="World">
 	<extension point="xbmc.addon.repository" name="World Repository">
 		<info compressed="false">https://gknwizard.eu/repo/Builds/World/Matrix_repo/addons.xml</info>

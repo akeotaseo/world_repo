@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="plugin.image.pdf2reader" name="PDF to Reader" version="2.0.4.006" provider-name="YDRAGON">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.pdf2image" version="1.4.2"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>image</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<language>en</language>
+		<platform>all</platform>
+		<summary lang="en_GB">PDF Reader</summary>
+		<summary lang="ru_RU">PDF Reader</summary>
+		<summary lang="uk_UA">PDF Reader</summary>
+		<description lang="en_GB">Read your pdf's.</description>
+		<description lang="ru_RU">Прочитайте свой PDF.</description>
+		<description lang="uk_UA">Прочитайте свій PDF.</description>
+		<platform>all</platform>
+		<license>GPL 2.0</license>
+		<email>nkvoronov@gmail.com</email>
+		<source>https://github.com/nkvoronov/plugin.image.pdf2reader.git</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.image.pdfreader" name="PDF Reader" version="2.0.2" provider-name="i96751414">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
@@ -638,6 +666,53 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+  </extension>
+</addon>
+
+<addon
+  id="skin.19MatrixWorld"
+  version="4.1.1a"
+  name="skin.19MatrixWorld"
+  provider-name="Helly,bsoriano">
+  <requires>
+    <import addon="xbmc.gui" version="5.15.0"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="nl">Uitgebreide MOD van Confluence skin origineel door Jezz_X en CCM door Mudislander.</summary>
+    <description lang="en">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="nl">Xonfluence is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
+    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
+    <platform>all</platform>
+	  <license>GNU General Public License version 2</license>
+	  <forum>https://forum.kodi.tv/showthread.php?tid=346302</forum>
+	  <website></website>
+	  <email></email>
+	  <source>https://github.com/bartolomesoriano/skin.xonfluence</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+	    <screenshot>resources/screenshot-01.jpg</screenshot>
+	    <screenshot>resources/screenshot-02.jpg</screenshot>
+	    <screenshot>resources/screenshot-03.jpg</screenshot>
+	    <screenshot>resources/screenshot-04.jpg</screenshot>
+	    <screenshot>resources/screenshot-05.jpg</screenshot>
+	    <screenshot>resources/screenshot-06.jpg</screenshot>
+	    <screenshot>resources/screenshot-07.jpg</screenshot>
+	    <screenshot>resources/screenshot-08.jpg</screenshot>
+	    <screenshot>resources/screenshot-09.jpg</screenshot>
+    </assets>
+    <news>See changelog for latest changes</news>
   </extension>
 </addon>
 </addons>

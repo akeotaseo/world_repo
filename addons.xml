@@ -345,7 +345,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.playlistloader" name="Playlist Loader" version="1.0.3+matrix" provider-name="Forked by Publish3r">
+<addon id="plugin.video.playlistloader" name="Playlist Loader" version="1.0.3g+matrix" provider-name="Forked by Publish3r">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0"/>

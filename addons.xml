@@ -625,7 +625,7 @@ v0.1.0
 
 <addon id="script.sites"
   name="script.sites"
-  version="19"
+  version="19a"
   provider-name="script sites">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -635,12 +635,30 @@ v0.1.0
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">ML-kropi Sites</summary>
-    <description lang="en">ML-kropi Sites</description>
-	<disclaimer>ML-kropi Sites</disclaimer>
+    <summary lang="en">ML-Gb kropi Sites</summary>
+    <description lang="en">ML-Gb kropi Sites</description>
+	<disclaimer>ML-Gb kropi Sites</disclaimer>
 	<assets>
 	<icon>icon.png</icon>
     </assets>
+  </extension>
+</addon>
+
+<addon id="service.subtitles.localsubtitle"
+       name="LocalSubtitle"
+       version="1.4.0"
+       provider-name="peno">
+  <requires>
+  </requires>
+  <extension point="xbmc.subtitle.module"
+             library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">LocalSubtitle</summary>
+    <description lang="en">Use subtitle from local store</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <source></source>
   </extension>
 </addon>
 

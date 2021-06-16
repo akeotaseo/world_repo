@@ -623,9 +623,27 @@ v0.1.0
   </extension>
 </addon>
 
+<addon id="script.module.bencodepy" name="bencode.py" version="4.0.0+matrix.1" provider-name="fuzeman">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Simple bencode parser</summary>
+    <description lang="en_GB">Simple bencode parser</description>
+    <license>BitTorrent Open Source License</license>
+    <platform>all</platform>
+    <website>https://github.com/fuzeman/bencode.py</website>
+    <source>https://github.com/fuzeman/bencode.py</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="script.sites"
   name="script.sites"
-  version="19.1"
+  version="19.2"
   provider-name="script sites">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -662,7 +680,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.2" provider-name="TechNEWSology">
+<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.3" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="vfs.sftp" />

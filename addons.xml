@@ -321,6 +321,45 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.EntertainMe" name="[COLOR red][B]E[COLOR yellow]nterTain Me[/B][/COLOR]" version="3.00.001" provider-name="@Nemzzy668">
+  <requires>
+	<import addon="script.module.six" />
+	<import addon="script.module.kodi-six" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.resolveurl" />
+	<import addon="script.module.beautifulsoup4" />
+	<import addon="script.module.pyxbmct" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">EnterTain Me, Built Off of SeeHD</summary>
+    <description lang="en">Find All the latest releases of Movies and Tv Shows in the best Qualitys Available, all content is obtained using scrapers and it is the users discretion how they choose to use this addon.
+
+
+Credits ::
+DevKong - For Starting Me Off In Pyxbmct
+Jsergio - For ResolveUrl
+EchoCoder - For Starting Me Off On Learning Python
+NjmSoccer - For Introducing Me To Kodi In The First Place, And Getting Me Into The Scence
+
+For Support Follow @Nemzzy668 On Twitter
+
+Addon Runs A Little Slower Now Due To Site Using CloudFlare
+</description>
+    <platform>all</platform>
+  <assets>
+   <icon>icon.png</icon>
+   <fanart>fanart.jpg</fanart>
+   <screenshot>resources/screenshots/screenshot001.jpg</screenshot>
+   <screenshot>resources/screenshots/screenshot002.jpg</screenshot>
+   <screenshot>resources/screenshots/screenshot003.jpg</screenshot>
+  </assets>
+  </extension>
+
+</addon>
+
 <addon id="plugin.video.IPTV19"
        name="IPTV Player for Kodi 19"
        version="1.0.0"

@@ -321,7 +321,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.EntertainMe" name="[COLOR red][B]E[COLOR yellow]nterTain Me[/B][/COLOR]" version="3.00.001" provider-name="@Nemzzy668">
+<addon id="plugin.video.EM" name="EM" version="3.00.001a" provider-name="@Nemzzy668">
   <requires>
 	<import addon="script.module.six" />
 	<import addon="script.module.kodi-six" />

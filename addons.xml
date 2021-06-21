@@ -321,7 +321,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.EntertainMe" name="[COLOR red][B]E[COLOR yellow]nterTain Me[/B][/COLOR]" version="3.00.001" provider-name="@Nemzzy668">
+<addon id="plugin.video.EntertainMe" name="[COLOR red][B]E[COLOR yellow]nterTain Me[/B][/COLOR]" version="3.00.001a" provider-name="@Nemzzy668">
   <requires>
 	<import addon="script.module.six" />
 	<import addon="script.module.kodi-six" />
@@ -487,6 +487,28 @@ v0.1.0
   </assets>
   <reuselanguageinvoker>true</reuselanguageinvoker>
 </extension>
+</addon>
+
+<addon id="program.acestreamhandler.monitor" name="Ace Stream Monitor" version="0.1.2" provider-name="zkte">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.25.1+matrix.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="script.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>false</reuselanguageinvoker>
+    <summary lang="en_GB">Ace Stream Monitor</summary>
+    <description lang="en_GB">Ace Stream Monitor</description>
+    <disclaimer lang="en_GB"></disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+        <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="repository.World" name="World Repository" version="0.1.1" provider-name="World">

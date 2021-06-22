@@ -511,7 +511,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="repository.World" name="World Repository" version="0.1.2" provider-name="World">
+<addon id="repository.World" name="World Repository" version="0.1.1" provider-name="World">
 	<extension point="xbmc.addon.repository" name="World Repository">
 		<info compressed="false">https://gknwizard.eu/repo/Builds/World/Matrix_repo/addons.xml</info>
 		<checksum>https://gknwizard.eu/repo/Builds/World/Matrix_repo/addons.xml.md5</checksum>

@@ -27,7 +27,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.018" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.020" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -767,7 +767,7 @@ v0.1.0
 
 <addon
   id="skin.19MatrixWorld"
-  version="4.1.1c"
+  version="4.1.1d"
   name="skin.19MatrixWorld"
   provider-name="Helly,bsoriano">
   <requires>

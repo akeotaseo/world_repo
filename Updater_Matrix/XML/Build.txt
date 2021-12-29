@@ -1,0 +1,10 @@
+  <builds>
+    
+        <build name = World Build (Matrix)">
+            <url>https://gknwizard.eu/repo/Builds/World/Build/World_v19.zip</url>
+            <icon>https://gknwizard.eu/repo/Builds/World/Build/icon.png</icon>
+            <fanart>https://gknwizard.eu/repo/Builds/World/Build/fanart.jpg</fanart>
+            <description>Greek Kodi Build</description>
+        </build>       
+   
+   </builds>

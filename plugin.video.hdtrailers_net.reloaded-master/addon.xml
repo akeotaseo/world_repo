@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+    id="plugin.video.hdtrailers_net.reloaded"
+    version="1.0.0"
+    name="HD-Trailers.net (reloaded)"
+    provider-name="WebEye">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.12.4"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>all</platform>
+    <license>GPL-3.0-only</license>
+    <website>https://github.com/Web-Eye/plugin.video.hdtrailers_net.reloaded</website>
+    <source>https://github.com/Web-Eye/plugin.video.hdtrailers_net.reloaded</source>
+    <summary lang="de">Trailer von der Internetseite "hd-trailers.news"</summary>
+    <summary lang="en">Trailers from the website "hd-trailers.net"</summary>
+    <disclaimer lang="en_GB">Use at your own risk. Post suggestions, improvements or bug reports directly to GitHub.</disclaimer>
+    <disclaimer lang="de_DE">Benutzung auf eigene Gefahr. Anregungen, Verbesserungen oder Bugs bitte direkt über GitHub posten.</disclaimer>
+    <assets>
+      <icon>resources/assets/icon.png</icon>
+<!--
+      <fanart>resources/assets/fanart.jpg</fanart>
+      <screenshot>resources/assets/screenshot_1.png</screenshot>
+      <screenshot>resources/assets/screenshot_2.png</screenshot>
+      <screenshot>resources/assets/screenshot_3.png</screenshot>
+-->
+    </assets>
+    <news>
+    </news>
+  </extension>
+
+
+
+
+</addon>

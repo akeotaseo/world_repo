@@ -24,11 +24,11 @@ Database_Addons33 = [('plugin.video.fmoviesto', 'repository.mbebe'),
                      ('plugin.video.tvone1111', 'repository.gkobu'),
                      ('plugin.video.shadow', 'repository.gkobu'),
                      ('plugin.video.last_played', 'repository.gkobu'),
-                     ('plugin.video.f4mTester', 'repository.gkobu'),
-                     ('script.skinshortcuts', 'repository.gkobu'),
+                     ('plugin.video.f4mTester', 'repository.gkobu'),    
                      ('plugin.video.microjen', 'repository.gkobu'),
                      ('repository.gkobu', 'repository.gkobu'),
                      ('script.gkobu.pairwith', 'repository.gkobu'),
+                     ('script.skinshortcuts', 'repository.gkobu'),
                      ('service.subtitles.localsubtitle', 'repository.gkobu'),
                      ('plugin.video.themoviedb.helper', 'repository.jurialmunkey'),
                      ('repository.arrownegra', 'repository.arrownegra'),
@@ -57,16 +57,16 @@ def Updater_Matrix():
 
 
     if not os.path.exists(UpdaterMatrix_path):
-       xbmc.sleep(1000)
-       xbmc.executebuiltin(UpdaterMatrix_1)
-       xbmc.sleep(5000)
-       BG.update(33, Dialog_U1, Dialog_U6)
+        xbmc.sleep(1000)
+        xbmc.executebuiltin(UpdaterMatrix_1)
+        xbmc.sleep(5000)
+        BG.update(33, Dialog_U1, Dialog_U6)
 
     if not os.path.exists(UpdaterMatrix_path2):
-       xbmc.sleep(1000)
-       xbmc.executebuiltin(UpdaterMatrix_2)
-       xbmc.sleep(5000)
-       BG.update(36, Dialog_U1, Dialog_U6)
+        xbmc.sleep(1000)
+        xbmc.executebuiltin(UpdaterMatrix_2)
+        xbmc.sleep(5000)
+        BG.update(36, Dialog_U1, Dialog_U6)
 
     if not os.path.exists(UpdaterMatrix_path3):
         xbmc.sleep(1000)

@@ -1,7 +1,7 @@
   <builds>
     
         <build name = "TechNEWSolgy Build (Matrix)">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/TechNEWSology_v19WORLD.zip</url>
+            <url>https://gknwizard.eu/repo/Builds/World/Builds/27012022world.zip</url>
             <icon>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/icon.png</icon>
             <fanart>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/fanart.jpg</fanart>
             <description>Greek Kodi Build</description>

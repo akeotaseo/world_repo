@@ -1,6 +1,6 @@
   <builds>
     
-        <build name = "TechNEWSolgy Build (Matrix)">
+        <build name = "World Build (Matrix)">
             <url>https://gknwizard.eu/repo/Builds/World/Builds/27012022world.zip</url>
             <icon>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/icon.png</icon>
             <fanart>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/fanart.jpg</fanart>

@@ -1,35 +1,35 @@
   <apis>
     
         <build name = "Κλειδί 1">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_1.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_1.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 2">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_2.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_2.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 3">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_3.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_3.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 4">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_4.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_4.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 5">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_5.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_5.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
@@ -37,21 +37,21 @@
         
    
         <build name = "Κλειδί 6">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_6.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_6.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 7">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_7.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_7.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 8">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_8.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_8.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
@@ -59,21 +59,21 @@
         
    
         <build name = "Κλειδί 9">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_9.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_9.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 10">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_10.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_10.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>
         </build>
         
         <build name = "Κλειδί 11">
-            <url>https://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Api_Key/key_11.zip</url>
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/Api_Key/key_11.zip</url>
             <icon>https://pngimg.com/uploads/youtube/youtube_PNG13.png</icon>
             <fanart>https://www.digitaltveurope.com/files/2021/02/YouTube-logo.jpg</fanart>
             <description>-</description>

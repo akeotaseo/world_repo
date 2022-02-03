@@ -81,7 +81,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.1f" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.1g" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -693,6 +693,28 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <fanart>fanart.jpg</fanart>
     </assets>
 	</extension>
+</addon>
+
+<addon id="plugin.video.dramacool" name="DramaCool" version="2.2.2" provider-name="groggyegg">
+    <requires>
+        <import addon="script.module.resolveurl" version="5.1.50"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.peewee"/>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/lib/addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Video plugin for DramaCool</summary>
+        <description lang="en_GB">Watch Asian Drama and Korean Show with English subtitles.</description>
+        <platform>all</platform>
+        <license>MIT License</license>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.duffyou" name="Duff You" version="0.1.3" provider-name="La Taberna">
@@ -1362,6 +1384,18 @@ v0.1.0
             <fanart>fanart.jpg</fanart>
         </assets>
   </extension>
+</addon>
+
+<addon id="script.module.peewee" name="Peewee" version="3.14.8" provider-name="groggyegg">
+    <extension point="xbmc.python.module" library="."/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Peewee is a simple and small ORM.</summary>
+        <description lang="en_GB">Peewee is a simple and small ORM. It has few (but expressive) concepts, making it easy to learn and intuitive to use.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>docs/peewee3-logo.png</icon>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="script.sites"

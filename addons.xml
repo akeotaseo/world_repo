@@ -1492,7 +1492,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="script.module.peewee" name="Peewee" version="3.14.8" provider-name="groggyegg">
+<addon id="script.module.peewee" name="Peewee" version="3.14.8a" provider-name="groggyegg">
     <extension point="xbmc.python.module" library="."/>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Peewee is a simple and small ORM.</summary>

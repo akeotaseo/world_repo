@@ -379,7 +379,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.02" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.03" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -1068,6 +1068,117 @@ Rumble - v1.0.0.matrix
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
+</addon>
+
+<addon id="plugin.video.tvone" name="tvOne" version="25+matrix.1" provider-name="RACC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.pycryptodome"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.kodi-six"/>
+    <import addon="script.module.future"/>
+    <import addon="script.module.routing"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">tvOne</summary>
+    <description lang="en_gb">tvOne</description>
+    <disclaimer lang="en_gb"/>
+    <language/>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <forum/>
+    <website/>
+    <email/>
+    <source/>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvone11" name="tvOne11" version="26+matrix.1" provider-name="RACC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.kodi-six"/>
+    <import addon="script.module.future"/>
+    <import addon="script.module.routing"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">tvOne11</summary>
+    <description lang="en_gb">tvOne11</description>
+    <disclaimer lang="en_gb"/>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvone111" name="tvOne111" version="23+matrix.2" provider-name="RACC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.pyamf"/>
+    <import addon="script.module.kodi-six"/>
+    <import addon="script.module.future"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.routing"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">tvOne111</summary>
+    <description lang="en_gb">tvOne111</description>
+    <disclaimer lang="en_gb"/>
+    <platform>all</platform>
+    <license>GPL-3.0-only</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvone1111" name="tvOne1112" version="111+matrix.1" provider-name="RACC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.pycryptodome"/>
+    <import addon="script.module.dateutil"/>
+    <import addon="script.module.pyamf"/>
+    <import addon="script.module.kodi-six"/>
+    <import addon="script.module.future"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.routing"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">tvOne1112</summary>
+    <description lang="en_gb">tvOne1112</description>
+    <disclaimer lang="en_gb"/>
+    <language/>
+    <platform>all</platform>
+    <license>GPL-3.0-only</license>
+    <forum/>
+    <website/>
+    <email/>
+    <source/>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.ustvgo" name="ustvgo" version="1.0.0" provider-name="lg">

@@ -550,7 +550,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.program.super.favourites" name="Super Favourites" version="2.0.10w" provider-name="jmooremcc, spoyser">
+<addon id="plugin.program.super.favourites" name="Super Favourites" version="8888.w" provider-name="jmooremcc, spoyser">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
   </requires>
@@ -1456,6 +1456,37 @@ v0.1.0
             <description>Diggz Matrix Repo</description>
             <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="repository.Parrot" name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Repository[/COLOR]" provider-name="Parrot Developers" version="1.0.3">
+	<extension point="xbmc.addon.repository" name="Parrot Repository" >
+			<dir minversion="19.0.0">
+			<info compressed="false">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/ParrotDevelopers/Repository/Matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Matrix/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Universal/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/ParrotDevelopers/Repository/Universal/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Universal/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+			</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Repository[/COLOR]</summary>
+		<description lang="en">[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Repository[/COLOR]</description>
+		<platform>all</platform>
+		<license>MIT</license>
+		<disclaimer lang="en">Kodi Addon Repository.</disclaimer>
+		<assets>
+			<icon>icon.jpg</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="repository.thegroove" name="[COLOR khaki][B] Thegroove Repository[/COLOR][/B]" version="1.1" provider-name="Thegroove360">

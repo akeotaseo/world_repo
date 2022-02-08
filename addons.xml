@@ -81,7 +81,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.1g" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.1k" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -102,7 +102,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.027i" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.027k" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -660,6 +660,28 @@ Use this to organize your Favourites.
     <license>GPL-2.0-or-later</license>
     <assets>
         <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.cabal" name="[COLOR crimson]Cabal[/COLOR]" version="1.0" provider-name="Forked by Wolfey B">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Playlists</summary>
+    <summary lang="de_DE"></summary>
+    <description lang="en_GB">This is a fork of Playlist Loader for Midian Playlists. Many thanks to the original developer and everyone involved in the continuance of this add-on.</description>
+    <description lang="de_DE"></description>
+    <language>en de</language>
+    <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>
@@ -1358,6 +1380,136 @@ v0.1.0
   </extension>
 </addon>
 
+<addon id="repository.centry" name="centry" version="0.0.1" provider-name="centry">
+    <extension point="xbmc.addon.repository" name="centry">
+        <dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>centry</summary>
+        <description>Welcome to the world of free sports and live TV</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+        <!--
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        -->
+        </assets>
+    </extension>
+</addon>
+
+    <addon id="repository.diggzmatrix" name="Diggz Matrix Repository" version="3.0" provider-name="Diggz">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Diggz Repository">
+            <info compressed="false">http://grumpeh.aion.feralhosting.com/wizard/MATRIX/_repo/addons.xml</info>
+            <checksum>http://grumpeh.aion.feralhosting.com/wizard/MATRIX/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://grumpeh.aion.feralhosting.com/wizard/MATRIX/_repo//</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Diggz Matrix Repo</summary>
+            <description>Diggz Matrix Repo</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.thegroove" name="[COLOR khaki][B] Thegroove Repository[/COLOR][/B]" version="1.1" provider-name="Thegroove360">
+    <requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="Thegroove360 Repository">
+		<info compressed="false">https://thegroove360.top/zip/addon.xml</info>
+		<checksum>https://thegroove360.top/zip/addons.xml.md5</checksum>
+		<datadir zip="true">https://thegroove360.top/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Thegroove 360 Official Repository</summary>
+		<description>Repository ufficiale di Thegroove 360</description>
+<news>1.1
+--- Host Repository
+1.0
+-- Decentralinizzata repository
+
+</news>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.twistednutz" name="[COLOR orange]Twisted Nutz Repo[/COLOR]" version="1.4" provider-name="[COLOR orange]Twisted Nutz[/COLOR]">
+	<extension point="xbmc.addon.repository" name="[COLOR orange]Twisted Nutz[/COLOR]">
+		<dir>
+			<info compressed="false">http://twistednutz.xyz/twisted/repo/addons.xml</info>
+			<checksum>http://twistednutz.xyz/twisted/repo/addonsmd5.txt</checksum>
+			<datadir zip="true">http://twistednutz.xyz/twisted/repo/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary lang="en">Twisted Nutz Repository</summary>
+        <description lang="en">Educational use only, Twisted Nutz Repository For Kodi</description>
+        <disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+        <platform>all</platform>
+        <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+	</extension>
+</addon>
+
+<addon id="repository.Wherethemonsterslive" name="Where The Monsters Live Repository" version="1.8" provider-name="Wolfey B">
+	<extension point="xbmc.addon.repository" name="Where The Monsters Live Repository">
+		<info compressed="false">http://www.midian.appboxes.co/wolfyB/files/addons.xml</info>
+		<checksum>http://www.midian.appboxes.co/wolfyB/files/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.midian.appboxes.co/wolfyB/files/</datadir>
+
+		<dir>
+    <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+ <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+  </dir>
+
+ <dir>
+    <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+  </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+    <platform>all</platform>
+    <description lang="en_GB">Where The Monsters Live</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart></fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="repository.World" name="World Repository" version="0.1.1" provider-name="World">
 	<extension point="xbmc.addon.repository" name="World Repository">
 		<info compressed="false">https://gknwizard.eu/repo/Builds/World/Matrix_repo/addons.xml</info>
@@ -1600,6 +1752,36 @@ v0.1.0
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+  </extension>
+</addon>
+
+<addon id="script.gkobu.pairwith"
+  name="GKoBu Pair Hosts"
+  version="6.7w"
+  provider-name="GKoBu">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="inputstream.adaptive" />
+    <import addon="inputstream.rtmp" />
+    <import addon="vfs.libarchive" />
+    <import addon="vfs.rar" />
+    <import addon="plugin.video.themoviedb.helper" version="1.0.0" />
+    <import addon="service.subtitles.localsubtitle" />
+    <import addon="resource.language.el_gr" version="9.0.31g" />
+    <import addon="plugin.program.autocompletion" version="2.0.2.1" />
+    <import addon="script.skinshortcuts" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">GKoBu Pairing for hosts</summary>
+    <description lang="en">GKoBu Pairing for hosts</description>
+    <disclaimer>GKoBu Pairing for hosts</disclaimer>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 

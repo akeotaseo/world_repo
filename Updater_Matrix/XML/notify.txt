@@ -1,16 +1,10 @@
-19002
+19001
 |||
-[COLOR blue]Έκδοση Build 1.6[/COLOR]
-[COLOR chartreuse]Δημιουργία 27 Ιανουαρίου 2022[/COLOR]
+[COLOR blue]Έκδοση Build 1.7[/COLOR]
+[COLOR chartreuse]Δημιουργία 09 Φεβρουαρίου 2022[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- 08/02/2022: Προσθήκη/ Αλλαγές σε συντομεύσεις
-  (και Add-ons).
-
-- 03/02/2022: Προσθήκη κατηγορίας YOUTUBE.
-- Προσθήκες Add-ons.
-- Αλλαγές / Διορθώσεις σε συντομεύσεις. 
   
 
    

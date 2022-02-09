@@ -971,6 +971,48 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
+<addon id="plugin.video.live.Ramses-Tv_Arena" name="[COLOR yellow]Ramses-TV[/COLOR] Arena" version="2.0" provider-name="[COLOR red]Ramses_[/COLOR]">
+	<requires>
+		<import addon="script.module.six" />
+		<import addon="script.module.kodi-six" />
+		<import addon="script.module.requests" optional="true"/>
+		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.dateutil" optional="true" />
+		<import addon="script.module.resolveurl" optional="true"/>
+		<import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.cloudscraper" optional="true"/>
+		<import addon="script.module.inputstreamhelper" optional="true"/>
+		<import addon="script.module.slproxy" optional="true"/>
+		<import addon="script.module.web-pdb" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR red]Streaming de emisiones Arenavision.site[/COLOR]</summary>
+		<description>
+[COLOR red]Streaming de cadenas de Arenavision.site[/COLOR]
+[COLOR yellow]Repositorio: https://missing-stator.000webhostapp.com/Ramses-Tv/[/COLOR]
+[COLOR yellow]Agradecimientos a @Javixxx[/COLOR]
+[COLOR red]By Ramses_[/COLOR]
+
+AVISO LEGAL:
+
+[COLOR red]Complemento gratuito que no aloja ningun contenido.[/COLOR]
+[COLOR yellow]Todo el contenido se encuentra en internet.[/COLOR]
+[COLOR red]No se acepta ninguna responsabilidad por el uso de este addon.[/COLOR]
+		</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.mlbtv" name="MLB.TV 1" version="2020.10.8+matrix.1" provider-name="eracknaphobia">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>

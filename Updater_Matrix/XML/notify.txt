@@ -1,7 +1,9 @@
 19001
 |||
-[COLOR blue]Έκδοση Build 1.7[/COLOR]
-[COLOR chartreuse]Δημιουργία 09 Φεβρουαρίου 2022[/COLOR]
+[COLOR chartreuse]Δημιουργία Build 04 Απριλίου 2021[/COLOR]
+
+[COLOR blue]Έκδοση Build 1.7[/COLOR] (Ενημέρωση 09 Φεβρουαρίου 2022)
+
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 

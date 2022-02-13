@@ -664,6 +664,42 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.1" provider-name="Bugatsinho - Modified by TechNEWSology ">
+  <requires>
+    <import addon="xbmc.addon" version="17.0.000"/>
+    <import addon="script.module.six" />
+    <import addon="script.module.resolveurl" version="5.0.00"/>
+    <import addon="script.module.pyxbmct" version="1.2.0"/>
+    <import addon="script.module.requests" version="2.19.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="el">ΑΤΛΑΣ ΕΛΛΗΝΙΚΟ ΠΡΟΣΘΕΤΟ</summary>
+    <description lang="el">ΤΑΙΝΕΣ ΚΑΙ ΣΕΙΡΕΣ ΜΕ ΥΠOΤΙΤΛΟΥΣ-ΕΛΛΗΝΙΚΕΣ-ΠΑΙΔΙΚΑ-ΜΟΥΣΙΚΗ.O Άτλας ήταν η μυθική μορφή που κρατούσε στους ώμους του το θόλο του Ουρανού πάνω από τη Γη.</description>
+    <disclaimer lang="el">Ο δημιουργός δεν φιλοξενεί ή διανέμει οποιαδήποτε από το περιεχόμενο που εμφανίζεται από αυτό το πρόσθετο και δεν έχει οποιαδήποτε σχέση με την ιστοσελίδα και τους ιδιοκτήτες αυτής.
+    </disclaimer>
+    <summary lang="en">ΑΤΛΑΣ ΕΛΛΗΝΙΚΟ ΠΡΟΣΘΕΤΟ</summary>
+    <description lang="en">ΤΑΙΝΕΣ ΚΑΙ ΣΕΙΡΕΣ ΜΕ ΥΠOΤΙΤΛΟΥΣ-ΕΛΛΗΝΙΚΕΣ-ΠΑΙΔΙΚΑ-ΜΟΥΣΙΚΗ.O Άτλας ήταν η μυθική μορφή που κρατούσε στους ώμους του το θόλο του Ουρανού πάνω από τη Γη.</description>
+    <disclaimer lang="en">Ο δημιουργός δεν φιλοξενεί ή διανέμει οποιαδήποτε από το περιεχόμενο που εμφανίζεται από αυτό το πρόσθετο και δεν έχει οποιαδήποτε σχέση με την ιστοσελίδα και τους ιδιοκτήτες αυτής.
+    </disclaimer>
+    <language>en el</language>
+    <license>GNU GPL, version 2</license>
+    <website>https://bugatsinho.github.io/</website>
+    <twitter>https://twitter.com/bugatsinho</twitter>
+    <repo>https://bugatsinho.github.io/repo/</repo>
+    <email>bugatsinho@protonmail.com</email>
+    <news>[B]v19.0.1[/B] 12/02/2022
+  - ΑΤΛΑΣ Kodi Matrix 19</news>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.cabal" name="[COLOR crimson]Cabal[/COLOR]" version="1.0" provider-name="Forked by Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

@@ -1343,6 +1343,37 @@ v0.1.0
 </extension>
 </addon>
 
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.0" provider-name="doko">
+    <requires>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.six"/>
+		<import addon="script.module.kodi-six" />
+		<import addon="script.module.simplejson" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
+[B]0.6.0:[/B]
+- Fixed Cloudflare Blocking Issues
+</news>
+        <description lang="en">
+Watch cartoons and anime from [COLOR orange][B]www.wcofun.com[/B][/COLOR].
+
+Support the WatchCartoonOnline website with a PayPal donation to:
+[COLOR khaki][B]wcohelp@yandex.com[/B][/COLOR]
+
+Add-on originally by doko.
+        </description>
+		<assets>
+            <icon>icon.png</icon>
+        </assets>
+        <platform lang="en">all</platform>
+        <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
+    </extension>
+</addon>
+
 <addon id="program.acestreamhandler" name="Ace Stream Handler" version="0.1.3" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

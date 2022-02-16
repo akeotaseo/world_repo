@@ -2,13 +2,13 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 04 Απριλίου 2021[/COLOR]
 
-[COLOR blue]Έκδοση Build 1.8[/COLOR]: 14 Φεβρουαρίου 2022
+[COLOR blue]Έκδοση Build 1.8[/COLOR] 14 Φεβρουαρίου 2022
 
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 - 15/02/2022: Παρακαλώ, για την εύρυθμη λειτουργία του Build 
-  προχωρήστε στην αναβάθιση 1.8.
+  προχωρήστε στην αναβάθμιση 1.8.
    
 
   

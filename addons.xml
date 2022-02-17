@@ -1343,21 +1343,44 @@ v0.1.0
 </extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.0" provider-name="doko">
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.1" provider-name="doko">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.simplejson" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
-[B]0.6.0:[/B]
-- Fixed Cloudflare Blocking Issues
-</news>
+[B]0.5.8:[/B]
+- Fixed Search by Genre
+- Changed more domain references to wcofun.com
+
+[B]0.5.7:[/B]
+- Changed domain to wcofun.com
+
+[B]0.5.6:[/B]
+- Fix Error from clean titles when viewing a show with martipart episodes
+- Fix Chapter select for episodes
+
+[B]0.5.5:[/B]
+- Fix Error from clean titles when there is no episode (specials)
+
+[B]0.5.4:[/B]
+- Fix times episode search point could not be found
+
+[B]0.5.3:[/B]
+- Fix Thumbnails in latest section (when enabled)
+
+[B]0.5.2:[/B]
+- Fix Error when clean titles is enabled
+
+[B]0.5.1:[/B]
+- Fix Latest Section
+
+[B]0.5.0:[/B]
+- Python 3 Compatible</news>
         <description lang="en">
 Watch cartoons and anime from [COLOR orange][B]www.wcofun.com[/B][/COLOR].
 

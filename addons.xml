@@ -1187,7 +1187,7 @@ AVISO LEGAL:
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone11" name="tvOne11" version="26+matrix.1" provider-name="RACC">
+<addon id="plugin.video.tvone11" name="tvOne11" version="27+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
@@ -1205,9 +1205,6 @@ AVISO LEGAL:
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0</license>
-    <assets>
-      <icon>icon.png</icon>
-    </assets>
   </extension>
 </addon>
 

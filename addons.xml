@@ -81,7 +81,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2a" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -102,7 +102,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.028" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />

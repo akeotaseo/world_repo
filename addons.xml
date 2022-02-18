@@ -40,6 +40,33 @@
     </extension>
 </addon>
 
+<addon id="plugin.audio.game.soundtracks" name="Game Soundtracks" version="1.0" provider-name="complexlogic">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+        <import addon="script.module.requests" version="2.9.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_US">Audio plugin for video game soundtracks</summary>
+        <description lang="en_US">A Kodi audio plugin for listening to and downloading video game soundtracks. The plugin scrapes the site KHInsider, which hosts the most comprehensive collection of video game soundtracks available online.</description>
+        <license>Unlicense</license>
+        <language>en</language>
+        <platform>all</platform>
+        <assets>
+          <icon>resources/icon.png</icon>
+          <fanart>resources/fanart.jpg</fanart>
+          <screenshot>resources/screenshot-01.jpg</screenshot>
+          <screenshot>resources/screenshot-02.jpg</screenshot>
+          <screenshot>resources/screenshot-03.jpg</screenshot>
+        </assets>
+        <news>v1.0 (2022-2-12)
+            - Initial Release</news>
+    </extension>
+</addon>
+
 <addon id="plugin.close.kodi" name="[COLOR red] Force Close Kodi[/COLOR] " version="3.1.3" provider-name="Based_Skid">
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>executable</provides>
@@ -81,7 +108,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2a" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2c" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -102,7 +129,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029a" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -664,7 +691,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.1" provider-name="Bugatsinho - Modified by TechNEWSology ">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.3" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.addon" version="17.0.000"/>
     <import addon="script.module.six" />
@@ -691,7 +718,7 @@ Use this to organize your Favourites.
     <twitter>https://twitter.com/bugatsinho</twitter>
     <repo>https://bugatsinho.github.io/repo/</repo>
     <email>bugatsinho@protonmail.com</email>
-    <news>[B]v19.0.1[/B] 12/02/2022
+    <news>[B]v19.0.3[/B] 17/02/2022
   - ΑΤΛΑΣ Kodi Matrix 19</news>
     <assets>
         <icon>icon.png</icon>
@@ -1728,6 +1755,36 @@ Add-on originally by doko.
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+  </extension>
+</addon>
+
+<addon id="script.gkobu.pairwith"
+  name="GKoBu Pair Hosts"
+  version="7.0w"
+  provider-name="GKoBu">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="inputstream.adaptive" />
+    <import addon="inputstream.rtmp" />
+    <import addon="vfs.libarchive" />
+    <import addon="vfs.rar" />
+    <import addon="plugin.video.themoviedb.helper" version="1.0.0" />
+    <import addon="service.subtitles.localsubtitle" />
+    <import addon="resource.language.el_gr" version="9.0.31g" />
+    <import addon="plugin.program.autocompletion" version="2.0.2.1" />
+    <import addon="script.skinshortcuts" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">GKoBu Pairing for hosts</summary>
+    <description lang="en">GKoBu Pairing for hosts</description>
+    <disclaimer>GKoBu Pairing for hosts</disclaimer>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 

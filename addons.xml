@@ -1553,54 +1553,6 @@ Add-on originally by doko.
   </extension>
 </addon>
 
-  <addon
-  id="repository.magellan"
-  name="[COLOR red]Mage[/COLOR] [COLOR black]llan[/COLOR] [COLORcyan]Repository[/COLOR]"
-  version="1.0.0"
-  provider-name="Magellan">
-  <requires>
-    <import addon="xbmc.addon" version="12.0.0"/>
-
-  </requires>
-
-
-  <extension point="xbmc.addon.repository" name="[COLOR red]Magellan [COLOR red]Repositorio[/COLOR]">
-
-      <dir>
-      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/addons.xml</info>
-      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/addons.xml.md5</checksum>
-      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main</datadir>
-      <hashes>false</hashes>
-    </dir>
-
-  <dir minversion="16.0.0" maxversion="18.9.0">
-      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml</info>
-      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml.md5</checksum>
-      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/leia</datadir>
-      <hashes>false</hashes>
-    </dir>
-
-   <dir minversion="18.9.1">
-      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml</info>
-      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml.md5</checksum>
-      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/matrix</datadir>
-      <hashes>false</hashes>
-    </dir>
-
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary>repositorio magellan</summary>
-    <description>repositorio oficial magellan - Proibido reproducao sem previa autorizacao</description>
-    <disclaimer></disclaimer>
-    <platform>all</platform>
-    <assets>
-      <icon>icon.png</icon>
-      <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
 <addon id="repository.World" name="World Repository" version="0.1.1" provider-name="World">
 	<extension point="xbmc.addon.repository" name="World Repository">
 		<info compressed="false">https://gknwizard.eu/repo/Builds/World/Matrix_repo/addons.xml</info>

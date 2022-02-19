@@ -1111,6 +1111,46 @@ AVISO LEGAL:
     </extension>
 </addon>
 
+<addon id="plugin.video.moestv" name="Moe's TV" version="0.1.3" provider-name="La Taberna">
+  <requires>
+    <import addon="script.module.six" version="1.11.0"/>
+    <import addon="script.module.simplecache"/>
+    <import addon="script.module.inputstreamhelper" version="0.5.0"/>
+    <import addon="plugin.video.duffyou" version="0.1.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Televisión a la carta</summary>
+    <disclaimer>Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR][COLOR red][B]Pero no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, por su uso o por recibir asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.jpg</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    <license>[B]Este es un software gratuito[/B]</license>
+    <news> - Versión 0.1.3:
+      * Mostrar vistos en skin embuary
+      [CR]- Versión 0.1.2:
+      * Reparado fix en multi-bitrate
+      [CR]- Versión 0.1.1:
+      * Reparado fix MPD en Atresplayer
+      * Uso de Duff You para resolver enlaces de youtube
+      * Mejoras en la actualización de canales
+      [CR]- Version 0.0.9:
+      * Nuevos canales
+      * Cambios en el orden de los canales
+      * Permitir descargas en la mayoria de los canales.
+      * Canal Mitele: Reparar Geolocalizacion de IPs en windows 10 y kodi 19
+      * Mejora en la actualización de canales
+      * Otras reparaciones menores
+      [CR]- Versión inicial 0.0.7
+    </news>
+  </extension>
+</addon>
+
 <addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.1" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
@@ -1509,6 +1549,54 @@ Add-on originally by doko.
     <license>GPL-2.0-or-later</license>
     <assets>
         <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+  <addon
+  id="repository.magellan"
+  name="[COLOR red]Mage[/COLOR] [COLOR black]llan[/COLOR] [COLORcyan]Repository[/COLOR]"
+  version="1.0.0"
+  provider-name="Magellan">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+
+  </requires>
+
+
+  <extension point="xbmc.addon.repository" name="[COLOR red]Magellan [COLOR red]Repositorio[/COLOR]">
+
+      <dir>
+      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main</datadir>
+      <hashes>false</hashes>
+    </dir>
+
+  <dir minversion="16.0.0" maxversion="18.9.0">
+      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/leia</datadir>
+      <hashes>false</hashes>
+    </dir>
+
+   <dir minversion="18.9.1">
+      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/matrix</datadir>
+      <hashes>false</hashes>
+    </dir>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>repositorio magellan</summary>
+    <description>repositorio oficial magellan - Proibido reproducao sem previa autorizacao</description>
+    <disclaimer></disclaimer>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>

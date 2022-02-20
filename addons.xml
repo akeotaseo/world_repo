@@ -129,7 +129,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029b" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1275,9 +1275,10 @@ AVISO LEGAL:
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone111" name="tvOne111" version="23+matrix.2" provider-name="RACC">
+<addon id="plugin.video.tvone111" name="tvOne111" version="24+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.pycryptodome"/>
     <import addon="script.module.pyamf"/>
     <import addon="script.module.kodi-six"/>
     <import addon="script.module.future"/>
@@ -1294,9 +1295,6 @@ AVISO LEGAL:
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
-    <assets>
-      <icon>icon.png</icon>
-    </assets>
   </extension>
 </addon>
 

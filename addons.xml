@@ -108,7 +108,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2c" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2d" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -129,7 +129,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029b" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029e" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1551,6 +1551,74 @@ Add-on originally by doko.
   </extension>
 </addon>
 
+<addon id="repository.7PlusREPO" name="[B][COLOR red]7Plus REPO[/COLOR][/B]" version="1.0" provider-name="7Plus">
+    <extension point="xbmc.addon.repository" name="7Plus Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>REPO 7Plus</summary>
+        <description>[B]Repositorio oficial 7Plus - Proibido reproducao sem previa autorizacao[/B]</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+  <addon
+  id="repository.magellan"
+  name="[COLOR red]Mage[/COLOR] [COLOR black]llan[/COLOR] [COLORcyan]Repository[/COLOR]"
+  version="1.0.0"
+  provider-name="Magellan">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+
+  </requires>
+
+
+  <extension point="xbmc.addon.repository" name="[COLOR red]Magellan [COLOR red]Repositorio[/COLOR]">
+
+      <dir>
+      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main</datadir>
+      <hashes>false</hashes>
+    </dir>
+
+  <dir minversion="16.0.0" maxversion="18.9.0">
+      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/leia/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/leia</datadir>
+      <hashes>false</hashes>
+    </dir>
+
+   <dir minversion="18.9.1">
+      <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/matrix</datadir>
+      <hashes>false</hashes>
+    </dir>
+
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>repositorio magellan</summary>
+    <description>repositorio oficial magellan - Proibido reproducao sem previa autorizacao</description>
+    <disclaimer></disclaimer>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="repository.World" name="World Repository" version="0.1.1" provider-name="World">
 	<extension point="xbmc.addon.repository" name="World Repository">
 		<info compressed="false">https://gknwizard.eu/repo/Builds/World/Matrix_repo/addons.xml</info>
@@ -1798,7 +1866,7 @@ Add-on originally by doko.
 
 <addon id="script.gkobu.pairwith"
   name="GKoBu Pair Hosts"
-  version="7.0w"
+  version="7.1a"
   provider-name="GKoBu">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -1806,11 +1874,9 @@ Add-on originally by doko.
     <import addon="inputstream.rtmp" />
     <import addon="vfs.libarchive" />
     <import addon="vfs.rar" />
-    <import addon="plugin.video.themoviedb.helper" version="1.0.0" />
     <import addon="service.subtitles.localsubtitle" />
     <import addon="resource.language.el_gr" version="9.0.31g" />
     <import addon="plugin.program.autocompletion" version="2.0.2.1" />
-    <import addon="script.skinshortcuts" version="1.0.0" />
   </requires>
   <extension point="xbmc.python.script" library="addon.py">
     <provides>executable</provides>
@@ -1822,6 +1888,67 @@ Add-on originally by doko.
     <disclaimer>GKoBu Pairing for hosts</disclaimer>
     <assets>
         <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.kelebek"
+       name="KELEBEK"
+       version="3.5"
+       provider-name="Iron Butterfly">
+  <requires>
+    <import addon="script.module.pyxbmct" version="1.1.4" />
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+	<provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>KELEBEK V3.5</summary>
+    <description>Scan Sources searching changes and addons</description>
+    <language></language>
+    <license></license>
+    <source></source>
+    <forum></forum>
+    <website></website>
+	<assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+	</assets>
+  </extension>
+</addon>
+
+<addon id="script.luar"
+  version="0.8.1"
+  name="Luar"
+  provider-name="The Dreamers">
+  <requires>
+    <import addon="script.module.six" version="1.11.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="resource.language.es_es"/>
+    <import addon="script.module.pycryptodome" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.repository" name="Luar Repo">
+    <info>https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="es">Script instalador de complementos para Kodi.</summary>
+    <description lang="es">Selecciona, instala y disfruta.</description>
+    <disclaimer lang="es"></disclaimer>
+    <assets>
+      <icon>icon.gif</icon>
+      <fanart>fanart.jpg</fanart>
+      <screenshot>resources/screenshot000.jpg</screenshot>
+      <screenshot>resources/screenshot001.jpg</screenshot>
+      <screenshot>resources/screenshot002.jpg</screenshot>
     </assets>
   </extension>
 </addon>

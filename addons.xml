@@ -129,7 +129,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029f" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.029k" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1037,6 +1037,23 @@ AVISO LEGAL:
 	</extension>
 </addon>
 
+<addon id="plugin.video.MetalOnMetal" name="[COLOR red]Metal on Metal[/COLOR]"	version="1.0.0"	provider-name="Sergi">
+  <requires>
+    <import addon="script.module.six" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="pulse.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Metal on Metal</summary>
+    <description lang="en">Metal Concerts and Videos from YouTube. You need YouTube Addon and setup your API KEY on the Youtube Addon or Duff-You addon (no need API KEY). You can change the addon to use in Settings (YouTube or Duff-You). Thanks to Iron Butterfly, TitanKodi and Bad-Max from "Aprendiendo Kodi" group Telegram. If you want collaborate, join to the "Metal on Metal Kodi Addon" Telegram Goup.</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.mlbtv" name="MLB.TV 1" version="2020.10.8+matrix.1" provider-name="eracknaphobia">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -1894,7 +1911,7 @@ Add-on originally by doko.
 
 <addon id="script.gkobu.pairwith"
   name="GKoBu Pair Hosts"
-  version="7.1a"
+  version="7.2w"
   provider-name="GKoBu">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

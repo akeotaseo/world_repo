@@ -691,7 +691,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.3" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.6" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.addon" version="17.0.000"/>
     <import addon="script.module.six" />
@@ -714,11 +714,7 @@ Use this to organize your Favourites.
     </disclaimer>
     <language>en el</language>
     <license>GNU GPL, version 2</license>
-    <website>https://bugatsinho.github.io/</website>
-    <twitter>https://twitter.com/bugatsinho</twitter>
-    <repo>https://bugatsinho.github.io/repo/</repo>
-    <email>bugatsinho@protonmail.com</email>
-    <news>[B]v19.0.3[/B] 17/02/2022
+    <news>[B]v19.0.6[/B] 26/02/2022
   - ΑΤΛΑΣ Kodi Matrix 19</news>
     <assets>
         <icon>icon.png</icon>
@@ -746,6 +742,40 @@ Use this to organize your Favourites.
         <icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>
     </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.crackle" name="Crackle" version="2021.5.24+matrix.1" provider-name="eracknaphobia">
+  <requires>
+      <import addon="xbmc.python" version="3.0.0"/>
+      <import addon="script.module.requests"/>
+      <import addon="script.module.inputstreamhelper"/>
+      <import addon="script.module.kodi-six" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="pseudotv_recommended.py"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+      <news>
+        - PseudoTV Live support (temporary build until eracknaphobia repository update).
+      </news>
+    <language>en</language>
+    <platform>all</platform>
+    <license>GPL-2.0-or-later</license>
+    <forum></forum>
+    <source>https://github.com/eracknaphobia/plugin.video.crackle</source>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    <summary lang="da_DK">Crackle leverer populære, prisvindende tv, film og originaler. Uden grænser for, hvor meget du kan se på tværs af alle dine enheder, kan du binge alt, hvad du vil, uanset hvor du vil.</summary>
+    <summary lang="en_GB">Crackle delivers popular, award-winning TV, movies and originals. With no limit to how much you can watch across all your devices, you can binge all you want, wherever you want.</summary>
+    <summary lang="ko_KR">Crackle은 수상 경력에 빛나는 인기 있는 TV, 영화 및 원본을 제공합니다. 모든 장치에서 볼 수 있는 양에 제한 없이 원하는 곳 어디서나 원하는 대로 즐길 수 있습니다.</summary>
+    <description lang="da_DK">Crackle er en distributør af videostreaming af originale webserier, Hollywoodfilm og tv-serier. Grundlagt i begyndelsen af 2000&apos;erne som Grouper og omdøbt i 2007, er Crackle ejet af Sony Pictures Entertainment.</description>
+    <description lang="en_GB">Crackle is a video streaming distributor of original web shows, Hollywood movies, and TV shows. Founded in the early 2000s as Grouper, and rebranded in 2007, Crackle is owned by Sony Pictures Entertainment.</description>
+    <description lang="ko_KR">Crackle은 오리지널 웹 쇼, 헐리우드 영화 및 TV 쇼의 비디오 스트리밍 유통업체입니다. 2000년대 초에 Grouper로 설립되어 2007년에 브랜드 이름을 변경한 Crackle은 Sony Pictures Entertainment의 소유입니다.</description>
   </extension>
 </addon>
 
@@ -1616,6 +1646,35 @@ Add-on originally by doko.
     </extension>
 </addon>
 
+<addon id="repository.lunatixz" name="Lunatixz Beta Repository (Matrix)" version="1.1.0" provider-name="Lunatixz">
+    <extension point="xbmc.addon.repository" name="Lunatixz Matrix Beta Repository">
+        <dir>
+          <info compressed="false">https://raw.githubusercontent.com/Lunatixz/KODI_Addons/master/addons.xml</info>
+          <checksum>https://raw.githubusercontent.com/Lunatixz/KODI_Addons/master/addons.xml.md5</checksum>
+          <datadir zip="true">https://raw.githubusercontent.com/Lunatixz/KODI_Addons/master/zips</datadir>
+        </dir>
+        <dir>
+          <info compressed="false">https://raw.githubusercontent.com/PseudoTV/PseudoTV_Live/master/addons.xml</info>
+          <checksum>https://raw.githubusercontent.com/PseudoTV/PseudoTV_Live/master/addons.xml.md5</checksum>
+          <datadir zip="true">https://raw.githubusercontent.com/PseudoTV/PseudoTV_Live/master/zips</datadir>
+        </dir>
+        <dir>
+          <info compressed="false">https://raw.githubusercontent.com/PseudoTV/PseudoTV_Resources/master/addons.xml</info>
+          <checksum>https://raw.githubusercontent.com/PseudoTV/PseudoTV_Resources/master/addons.xml.md5</checksum>
+          <datadir zip="true">https://raw.githubusercontent.com/PseudoTV/PseudoTV_Resources/master/zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Matrix Repository</summary>
+        <description lang="en_GB">Matrix Repository, for older Kodi builds install Leia or Jarvis Repository</description>
+        <platform>all</platform>
+        <source>https://github.com/Lunatixz/KODI_Addons</source>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
   <addon
   id="repository.magellan"
   name="[COLOR red]Mage[/COLOR] [COLOR black]llan[/COLOR] [COLORcyan]Repository[/COLOR]"
@@ -1662,6 +1721,21 @@ Add-on originally by doko.
       <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
+</addon>
+
+<addon id="repository.psyco" name="PsycoTV Repo" version="1.0.3" provider-name="Psyco">
+	<extension point="xbmc.addon.repository" name="Psyco">
+		<info compressed="false">http://psyco.tv/repo1/addons.xml</info>
+		<checksum>http://psyco.tv/repo1/addons.xml.md5</checksum>
+		<datadir zip="true">http://psyco.tv/repo1/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">PsycoTV Repository</summary>
+		<summary lang="de">Repository von Psyco</summary>
+		<description></description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.World" name="World Repository" version="0.1.1" provider-name="World">
@@ -2098,6 +2172,30 @@ Add-on originally by doko.
       <fanart>resources/art/fanart.jpg</fanart>
     </assets>
   </extension>
+</addon>
+
+<addon id="service.library.data.provider" name="Library Data Provider" provider-name="BigNoid, SiLVO" version="0.4.2">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.routing" version="0.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="plugin.py">
+		<provides>video</provides>
+	</extension>
+	<extension library="service.py" point="xbmc.service" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Browse movies and episodes in a variety of sorted playlists.</summary>
+		<description lang="en_GB">Plugin for skins to provide library data throughout the skin. It can also be used as standalone plugin to browse the playlists in the video library.</description>
+		<platform>all</platform>
+		<license>GPL-2.0-only</license>
+		<forum>https://forum.kodi.tv/showthread.php?tid=210063</forum>
+		<source>https://github.com/mikesilvo164/service.library.data.provider</source>
+		<news>Matrix fixes</news>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.4" provider-name="TechNEWSology">

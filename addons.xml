@@ -175,7 +175,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.031a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.031b" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1451,6 +1451,41 @@ AVISO LEGAL:
   </extension>
 </addon>
 
+<addon id="plugin.video.ustvgo"
+version="1.0.9"
+name="USTVGO"
+provider-name="Parrot Developers">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.requests" version="2.25.1"/>
+  <import addon="inputstream.adaptive" version="2.3.13"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="addon.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary>USTVGO Channels in KODI.</summary>
+  <description>USTVGO Channels in KODI.</description>
+  <disclaimer>Some channels need VPN.</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+    [1.0.0] Initial version!
+    [1.0.1] Added support for bypassing VPN.
+    [1.0.2] Fixed bypass.
+    [1.0.3] Removed bypass, added channels. I'll fix that bypass different day.
+    [1.0.4] Added best encryption.
+    [1.0.5] Added alternative links.
+    [1.0.6] Fixed addon.
+    [1.0.7] Fixed channels. THX to jaygrizzy#7191 for AE.
+    [1.0.8] Fixed channels.
+    [1.0.9] Fixed Links.
+  </news>
+</extension>
+</addon>
+
 <addon id="plugin.video.vavooto" name="VAVOO.TO" version="3.6" provider-name="michaz">
     <requires>
         <import addon="script.module.urlresolver"/>
@@ -1849,6 +1884,37 @@ Add-on originally by doko.
   </extension>
 </addon>
 
+<addon id="repository.Parrot" name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Repository[/COLOR]" provider-name="Parrot Developers" version="1.0.3w">
+	<extension point="xbmc.addon.repository" name="Parrot Repository" >
+			<dir minversion="19.0.0">
+			<info compressed="false">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/ParrotDevelopers/Repository/Matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Matrix/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Universal/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/ParrotDevelopers/Repository/Universal/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/ParrotDevelopers/Repository/Universal/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+			</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Repository[/COLOR]</summary>
+		<description lang="en">[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Repository[/COLOR]</description>
+		<platform>all</platform>
+		<license>MIT</license>
+		<disclaimer lang="en">Kodi Addon Repository.</disclaimer>
+		<assets>
+			<icon>icon.jpg</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="repository.psyco" name="PsycoTV Repo" version="1.0.3" provider-name="Psyco">
 	<extension point="xbmc.addon.repository" name="Psyco">
 		<info compressed="false">http://psyco.tv/repo1/addons.xml</info>
@@ -1862,6 +1928,60 @@ Add-on originally by doko.
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+    <addon id="repository.robinhood.wizard" name="[B][COLOR limegreen]RobinHood[B][COLOR white] Wizard Repository[/B][/COLOR]" version="1.0.0.6w" provider-name="RobinHood">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="RobinHood Wizard Repository">
+            <info compressed="false">https://networkcorner.net/robinhood/_repo/addons.xml</info>
+            <checksum>https://networkcorner.net/robinhood/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://networkcorner.net/robinhood/_repo/</datadir>
+            <hashes>false</hashes>
+
+			<dir>
+			<info compressed="false">https://networkcorner.net/pvr.client/addons.xml</info>
+			<checksum>https://networkcorner.net/pvr.client/addons.xml.md5.xml</checksum>
+			<datadir zip="true">https://networkcorner.net/pvr.client/</datadir>
+		</dir>
+
+		<dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+
+		<dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Install all the latest Builds</summary>
+            <description>Welcome to the New and Improved Narcacist WIZARD for all your Community Builds.</description>
+            <platform>all</platform>
+			<assets>
+			<icon>icon.png</icon>
+            <icon>icon.gif</icon>
+            <fanart>fanart.jpg</fanart>
+    </assets>
+    </extension>
 </addon>
 
 <addon id="repository.wltv" name="WorldLiveTV Addon Repository" version="1.0.0" provider-name="WLTV">

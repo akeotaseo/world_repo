@@ -452,6 +452,28 @@
     </extension>
 </addon>
 
+<addon id="plugin.program.browser.launcher" name="Browser Launcher" version="2.0.0-Mod Kodi-19" provider-name="AddonScriptorDE + Sandmann79">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_GB">Browser Launcher</summary>
+        <language></language>
+        <description lang="en_GB">Launch websites via selected Browser in Kiosk-mode[CR][CR]*Modificado para poder lanzar [COLOR red]Chrome[/COLOR] en [COLOR blue]Android[/COLOR].[CR]*Modificado para poder lanzar [COLOR red]MozillaTV, JioPages y Hisense-OdinBrowser[/COLOR] en [COLOR blue]AndroidTV[/COLOR]. (Bad-Max)</description>
+        <description lang="de_DE">Öffnet Websiten mit dem ausgewählten Browser im Vollbildmodus[CR][CR]*Modificado para poder lanzar [COLOR red]Chrome[/COLOR] en [COLOR blue]Android[/COLOR].[CR]*Modificado para poder lanzar [COLOR red]MozillaTV, JioPages y Hisense-OdinBrowser[/COLOR] en [COLOR blue]AndroidTV[/COLOR]. (Bad-Max)</description>
+        <email>AddonScriptorDE at yahoo dot de</email>
+        <website></website>
+        <license>GPL-2.0-only</license>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.03" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -737,7 +759,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.8" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.8a" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.addon" version="17.0.000"/>
     <import addon="script.module.six" />
@@ -1265,7 +1287,7 @@ AVISO LEGAL:
   </extension>
 </addon>
 
-<addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.1" provider-name="La Taberna">
+<addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.3" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
         <import addon="script.module.simplecache"/>

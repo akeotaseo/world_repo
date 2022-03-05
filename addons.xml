@@ -127,6 +127,44 @@
   </extension>
 </addon>
 
+<addon id="plugin.image.com.kindgirls"
+	name="Kodi addon for kindgirls.com"
+	version="0.2.2"
+	provider-name="fr33p0rt &lt;fr33p0rt@protonmail.com&gt;">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests" version="2.3.0"/>
+        <import addon="script.module.beautifulsoup4" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>image</provides>
+	</extension>
+	<extension point="xbmc.python.module" library="resources/lib"/>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">View photos and videos from https://www.kindgirls.com</summary>
+		<description lang="en">Kindgirls: Nude girls in erotic photos and videos</description>
+		<summary lang="cz">Prohlížejte si fotky z https://www.kindgirls.com</summary>
+		<description lang="cz">Kindgirls: Erotické fotky a videa nahých dívek</description>
+		<summary lang="pl">Zobacz zdjęcia i filmy na https://www.kindgirls.com</summary>
+		<description lang="pl">Kindgirls: Zdjęcia i filmy erotyczne z nagimi dziewczynami</description>
+		<summary lang="de">Sehen Sie sich Fotos und Videos von https://www.kindgirls.com an</summary>
+		<description lang="de">Kindgirls: Erotische Fotos und Videos mit nackten Mädchen</description>
+		<summary lang="es">Ver fotos y videos de https://www.kindgirls.com</summary>
+		<description lang="es">Kindgirls: Chicas desnudas en fotos y videos eróticos </description>
+		<license>GPL 2.0</license>
+		<language>en</language>
+		<forum>N/A</forum>
+		<website>N/A</website>
+		<source>N/A</source>
+		<email>fr33p0rt@protonmail.com</email>
+		<assets>
+    		<icon>icon.png</icon>
+    		<fanart>fanart.jpg</fanart>
+  		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.image.pdfreader" name="PDF Reader" version="2.0.2" provider-name="i96751414">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->

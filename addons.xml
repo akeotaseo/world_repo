@@ -213,7 +213,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.032" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.033" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -797,9 +797,32 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.9" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.arrowportal"name="[COLOR yellow][B]arrow[/B][/COLOR][COLOR lime][B]portal[/B][/COLOR]"version="1.0.2+matrix"provider-name="FLECHANEGRA">
   <requires>
-    <import addon="xbmc.addon" version="17.0.000"/>
+    <import addon="xbmc.python" version="3.0.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+   </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR red]arrowportal[/COLOR] [COLOR black]portal[/COLOR] [COLORorange]é um addon da familia  arrowportalTODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR]</summary>
+    <description lang="en">[COLOR red]arrowportal[/COLOR] [COLOR black]portal[/COLOR] [COLORorange]é um addon da familia  arrowportal.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR]</description>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+       <screenshot>resources/screenshots/1.jpg</screenshot>
+       <screenshot>resources/screenshots/2.jpg</screenshot>
+       <screenshot>resources/screenshots/3.jpg</screenshot>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.12" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
     <import addon="script.module.resolveurl" version="5.0.00"/>
     <import addon="script.module.pyxbmct" version="1.2.0"/>
@@ -820,7 +843,7 @@ Use this to organize your Favourites.
     </disclaimer>
     <language>en el</language>
     <license>GNU GPL, version 2</license>
-    <news>[B]v19.0.9[/B] 04/03/2022
+    <news>[B]v19.0.12[/B] 08/03/2022
   - ΑΤΛΑΣ Kodi Matrix 19</news>
     <assets>
         <icon>icon.png</icon>
@@ -1928,60 +1951,6 @@ Add-on originally by doko.
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-    <addon id="repository.robinhood.wizard" name="[B][COLOR limegreen]RobinHood[B][COLOR white] Wizard Repository[/B][/COLOR]" version="1.0.0.6w" provider-name="RobinHood">
-        <requires>
-            <import addon="xbmc.addon" version="12.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.repository" name="RobinHood Wizard Repository">
-            <info compressed="false">https://networkcorner.net/robinhood/_repo/addons.xml</info>
-            <checksum>https://networkcorner.net/robinhood/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://networkcorner.net/robinhood/_repo/</datadir>
-            <hashes>false</hashes>
-
-			<dir>
-			<info compressed="false">https://networkcorner.net/pvr.client/addons.xml</info>
-			<checksum>https://networkcorner.net/pvr.client/addons.xml.md5.xml</checksum>
-			<datadir zip="true">https://networkcorner.net/pvr.client/</datadir>
-		</dir>
-
-		<dir>
-        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-        </dir>
-
-		<dir>
-        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-        </dir>
-
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/</datadir>
-            <hashes>false</hashes>
-        </dir>
-
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
-		</dir>
-
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>Install all the latest Builds</summary>
-            <description>Welcome to the New and Improved Narcacist WIZARD for all your Community Builds.</description>
-            <platform>all</platform>
-			<assets>
-			<icon>icon.png</icon>
-            <icon>icon.gif</icon>
-            <fanart>fanart.jpg</fanart>
-    </assets>
-    </extension>
 </addon>
 
 <addon id="repository.wltv" name="WorldLiveTV Addon Repository" version="1.0.0" provider-name="WLTV">

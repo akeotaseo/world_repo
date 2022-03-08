@@ -213,7 +213,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.033" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.033a" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -793,29 +793,6 @@ Use this to organize your Favourites.
     <license>GPL-2.0-or-later</license>
     <assets>
         <icon>resources/icon.png</icon>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="plugin.video.arrowportal"name="[COLOR yellow][B]arrow[/B][/COLOR][COLOR lime][B]portal[/B][/COLOR]"version="1.0.2+matrix"provider-name="FLECHANEGRA">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-	<import addon="script.module.requests" />
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-   </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR red]arrowportal[/COLOR] [COLOR black]portal[/COLOR] [COLORorange]é um addon da familia  arrowportalTODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR]</summary>
-    <description lang="en">[COLOR red]arrowportal[/COLOR] [COLOR black]portal[/COLOR] [COLORorange]é um addon da familia  arrowportal.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR]</description>
-    <platform>all</platform>
-	<assets>
-       <icon>icon.png</icon>
-       <fanart>fanart.jpg</fanart>
-       <screenshot>resources/screenshots/1.jpg</screenshot>
-       <screenshot>resources/screenshots/2.jpg</screenshot>
-       <screenshot>resources/screenshots/3.jpg</screenshot>
     </assets>
   </extension>
 </addon>

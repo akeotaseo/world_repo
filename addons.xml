@@ -1701,7 +1701,7 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.1" provider-name="doko">
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.2" provider-name="doko">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>

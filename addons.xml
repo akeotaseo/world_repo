@@ -797,7 +797,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.12" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.13" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -820,7 +820,7 @@ Use this to organize your Favourites.
     </disclaimer>
     <language>en el</language>
     <license>GNU GPL, version 2</license>
-    <news>[B]v19.0.12[/B] 08/03/2022
+    <news>[B]v19.0.13[/B] 09/03/2022
   - ΑΤΛΑΣ Kodi Matrix 19</news>
     <assets>
         <icon>icon.png</icon>

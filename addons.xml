@@ -1023,6 +1023,34 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 
 </addon>
 
+<addon id="plugin.video.hunt-channel" name="Hunt Channel" version="2021.09.26" provider-name="MetalChris">
+  <requires>
+    <!-- <import addon="xbmc.python" version="2.20.0"/> /-->
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch Live Programming from Hunt Channel</summary>
+    <description lang="en">Hunt Channel’s Mission is to provide Quality Outdoor Programming during PrimeTime.  *Matrix Version*</description>
+    <disclaimer lang="en">Support at forum.kodi.tv or my github only. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GPL(v2) or Later</license>
+    <forum>http://forum.kodi.tv/showthread.php?tid=276043</forum>
+    <website>http://www.huntchannel.tv</website>
+    <email></email>
+    <source></source>
+    <news>v.2021.09.26: Updates for Matrix</news>
+    <assets>
+        <icon>resources/Media/icon.png</icon>
+        <fanart>resources/Media/fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.IPTV19"
        name="IPTV Player for Kodi 19"
        version="1.0.0"
@@ -1753,6 +1781,60 @@ Add-on originally by doko.
         <platform lang="en">all</platform>
         <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
     </extension>
+</addon>
+
+<addon id="plugin.video.watchyourtv" name="WatchYour.TV" version="2021.01.11" provider-name="MetalChris">
+  <requires>
+    <!-- <import addon="xbmc.python" version="2.20.0"/> -->
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch FREE USA TV Channels Live with Recorded 7 Days DVR (Catch-Up).</summary>
+    <description lang="en">Watch FREE USA TV Channels Live with Recorded 7 Days DVR (Catch-Up). Never Miss Any Program. watchyour.tv is an over-the-top television streaming service with the most comprehensive USA based content.</description>
+    <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GPL(v2) or Later</license>
+    <forum></forum>
+    <website>https://www.watchyour.tv/</website>
+    <email></email>
+    <source></source>
+    <news>v.2022.01.11[CR]- Fix for API change for live channels.</news>
+    <assets>
+        <icon>/resources/media/icon.png</icon>
+        <fanart>resources/media/fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.weathernation" name="WeatherNation TV" version="2021.09.26" provider-name="MetalChris">
+  <requires>
+    <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">WeatherNation</summary>
+    <description lang="en">Delivers the latest in-depth local, regional and national weather video, forecasts, maps, radar, news, satellite maps and alerts on WeatherNation.  *Matrix Version*</description>
+    <disclaimer lang="en"></disclaimer>
+    <language>English</language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+    <news>v.2021.09.26: Updates for Matrix</news>
+    <assets>
+        <icon>resources/media/icon.png</icon>
+        <fanart>resources/media/fanart.jpg</fanart>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.wltvhelper" name="World Live TV Helper" version="1.1.16" provider-name="WLTV Group">

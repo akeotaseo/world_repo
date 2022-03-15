@@ -192,7 +192,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2p" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.2r" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -213,7 +213,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.033a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.033b" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -797,7 +797,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.13" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.15" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -820,7 +820,7 @@ Use this to organize your Favourites.
     </disclaimer>
     <language>en el</language>
     <license>GNU GPL, version 2</license>
-    <news>[B]v19.0.13[/B] 09/03/2022
+    <news>[B]v19.0.15[/B] 14/03/2022
   - ΑΤΛΑΣ Kodi Matrix 19</news>
     <assets>
         <icon>icon.png</icon>
@@ -847,6 +847,42 @@ Use this to organize your Favourites.
       <assets>
         <icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.carbon-tv" name="CarbonTV" version="2021.11.19" provider-name="MetalChris">
+  <requires>
+    <!-- <import addon="xbmc.python" version="2.24.0"/> -->
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">CarbonTV</summary>
+    <description lang="en">Watch video clips and full episodes from CarbonTV, the premier online video destination for premium outdoor themed shows and engaging personalities.  *Matrix Version*</description>
+    <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <license>GPL(v2) or Later</license>
+    <forum>http://forum.kodi.tv/showthread.php?tid=267580</forum>
+    <website>http://www.carbontv.com</website>
+    <email></email>
+    <source>https://raw.githubusercontent.com/MetalChris/repository.metalchris/master/plugin.video.carbon-tv/addon.py</source>
+    <news>Version 2021.11.19 - Fix Log Level</news>
+    <assets>
+        <icon>resources/media/icon.png</icon>
+        <fanart>resources/media/fanart.jpg</fanart>
+        <screenshot>resources/media/screenshot011.png</screenshot>
+        <screenshot>resources/media/screenshot015.png</screenshot>
+        <screenshot>resources/media/screenshot016.png</screenshot>
+        <screenshot>resources/media/screenshot017.png</screenshot>
+        <screenshot>resources/media/screenshot019.png</screenshot>
+        <screenshot>resources/media/screenshot020.png</screenshot>
+        <screenshot>resources/media/screenshot021.png</screenshot>
     </assets>
   </extension>
 </addon>
@@ -882,6 +918,28 @@ Use this to organize your Favourites.
     <description lang="da_DK">Crackle er en distributør af videostreaming af originale webserier, Hollywoodfilm og tv-serier. Grundlagt i begyndelsen af 2000&apos;erne som Grouper og omdøbt i 2007, er Crackle ejet af Sony Pictures Entertainment.</description>
     <description lang="en_GB">Crackle is a video streaming distributor of original web shows, Hollywood movies, and TV shows. Founded in the early 2000s as Grouper, and rebranded in 2007, Crackle is owned by Sony Pictures Entertainment.</description>
     <description lang="ko_KR">Crackle은 오리지널 웹 쇼, 헐리우드 영화 및 TV 쇼의 비디오 스트리밍 유통업체입니다. 2000년대 초에 Grouper로 설립되어 2007년에 브랜드 이름을 변경한 Crackle은 Sony Pictures Entertainment의 소유입니다.</description>
+  </extension>
+</addon>
+
+<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.2w" provider-name="Wolfey B">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Pure unholy filth</summary>
+    <summary lang="de_DE"></summary>
+    <description lang="en_GB">This is a fork of Playlist Loader made for for Devilwolf. This IS an adult addon so 18+ only. Many thanks to the original developer and everyone involved in the continuance of this add-on.</description>
+    <description lang="de_DE"></description>
+    <language>en de</language>
+    <platform>all</platform>
+      <assets>
+        <icon>icon.gif</icon>
+		<fanart>fanart.gif</fanart>
+    </assets>
   </extension>
 </addon>
 
@@ -1353,6 +1411,27 @@ AVISO LEGAL:
   </extension>
 </addon>
 
+<addon id="plugin.video.musichall" name="[COLOR silver]Music Hall[/COLOR]"	version="1.0.14"	provider-name="Angelaaron">
+  <requires>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Music Hall</summary>
+    <description lang="en">Todo el contenido de este addon esta basado en Youtube, NO PAGUES, ESTE ADDON ES GRATUITO</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+	<assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.3" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
@@ -1423,6 +1502,36 @@ AVISO LEGAL:
             <screenshot>resources/screenshots/screenshot-4.jpg</screenshot>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
+<addon id="plugin.video.truecrime" name="True Crime Network" version="2022.01.16" provider-name="MetalChris">
+    <requires>
+        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+        <import addon="script.module.requests" version="2.9.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <license>GPL 2.0</license>
+        <summary lang="en">24/7 True Crime programming</summary>
+        <description lang="en">True Crime Network is a 24/7 broadcast television network that entertains and informs its viewers with gripping crime and investigation programming while making communities safer.  This add-on provides access to the True Crime Network video on demand library. *Matrix Version*</description>
+        <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
+        <language></language>
+        <platform>all</platform>
+        <license>GPL(v2) or Later</license>
+        <forum></forum>
+        <website>https://www.truecrimenetworktv.com/</website>
+        <email></email>
+        <source></source>
+        <news>v.2022.01.16[CR]- Fix for website changes.</news>
+        <assets>
+            <icon>resources/media/icon.png</icon>
+            <fanart>resources/media/fanart.jpg</fanart>
+        </assets>
     </extension>
 </addon>
 
@@ -1947,6 +2056,54 @@ Add-on originally by doko.
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon>
+
+  <addon
+  id="repository.arrownegra"
+  name="[COLOR red]Arrow[/COLOR] [COLOR black]Negra[/COLOR] [COLORcyan]Repository[/COLOR]"
+  version="2.01"
+  provider-name="Flecha Negra">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+
+  </requires>
+
+
+  <extension point="xbmc.addon.repository" name="[COLOR red]Arrow Negra [COLOR red]Repositorio[/COLOR]">
+
+      <dir>
+			<info compressed="false">https://raw.github.com/arrownegra/arrownegra.github.io/master/addons.xml</info>
+			<checksum>https://raw.github.com/arrownegra/arrownegra.github.io/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.github.com/arrownegra/arrownegra.github.io/master</datadir>
+			<hashes>false</hashes>
+    </dir>
+
+	<dir minversion="16.0.0" maxversion="18.9.0">
+			<info compressed="false">https://raw.github.com/arrownegra/arrownegra.github.io/master/leia/addons.xml</info>
+			<checksum>https://raw.github.com/arrownegra/arrownegra.github.io/master/leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.github.com/arrownegra/arrownegra.github.io/master/leia</datadir>
+			<hashes>false</hashes>
+    </dir>
+
+   <dir minversion="18.9.1">
+			<info compressed="false">https://raw.github.com/arrownegra/arrownegra.github.io/master/matrix/addons.xml</info>
+			<checksum>https://raw.github.com/arrownegra/arrownegra.github.io/master/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.github.com/arrownegra/arrownegra.github.io/master/matrix</datadir>
+			<hashes>false</hashes>
+    </dir>
+
+	</extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>repositorio Arrow Negra</summary>
+    <description>repositorio oficial Arrow Negra - Proibido reproducao sem previa autorizacao</description>
+    <disclaimer></disclaimer>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
 </addon>
 
   <addon

@@ -1476,6 +1476,33 @@ AVISO LEGAL:
   </extension>
 </addon>
 
+<addon id="plugin.video.S2W"
+version="1.0.1"
+name="Stream2Watch"
+provider-name="Parrot Developers">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.requests" version="2.25.1"/>
+  <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
+  <import addon="inputstream.adaptive" version="2.3.13"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="addon.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary>Watch TV from stream2watch.sx</summary>
+  <description>Watch TV from stream2watch.sx</description>
+  <disclaimer>Watch TV from stream2watch.sx</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+  </assets>
+  <news>
+    [1.0.0] Initial version!
+    [1.0.1] Fixes
+  </news>
+</extension>
+</addon>
+
 <addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.12">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
@@ -1738,6 +1765,37 @@ provider-name="Parrot Developers">
 - added: Diverse 'Musik-Ordner' lassen sich per 'Rechtsklick' als Playliste (shuffle) abspielen
 		</news>
 	</extension>
+</addon>
+
+<addon id="plugin.video.vidembed"
+version="1.0.4"
+name="Vidembed.io"
+provider-name="Parrot Developers">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.requests" version="2.25.1"/>
+  <import addon="script.module.beautifulsoup4" version="2.9.9"/>
+  <import addon="script.module.resolveurl" version="5.1.00"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="addon.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary>Watch movies and series from vidembed.io</summary>
+  <description>Watch movies and series from vidembed.io</description>
+  <disclaimer>I'm not affiliated with vidembed.io.</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+    [1.0.0] Initial version!
+    [1.0.1] TV shows now work!
+    [1.0.2] Some refactoring.
+    [1.0.3] Fixed support for android devices.
+    [1.0.4] Fixed grabber.
+  </news>
+</extension>
 </addon>
 
 <addon

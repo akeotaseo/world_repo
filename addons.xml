@@ -213,7 +213,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.033c" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.033d" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -508,6 +508,29 @@
         <license>GPL-2.0-only</license>
         <assets>
             <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.program.das" name="Diggz Advanced Settings" version="1" provider-name="Diggz">
+  <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">A simple tool to adjust advanced settings</summary>
+        <description lang="en">A simple tool to adjust advanced settings</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
 </addon>
@@ -1503,6 +1526,38 @@ provider-name="Parrot Developers">
 </extension>
 </addon>
 
+<addon id="plugin.video.stadium" name="Stadium" version="2021.10.09" provider-name="MetalChris">
+  <requires>
+    <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+    <import addon="script.module.mechanize" version="0.2.6"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch exclusive live games and events, extensive highlights, classic games, and original programming.</summary>
+    <description lang="en">Stadium was formed when Campus Insiders, 120 Sports and American Sports Network combined forces to create a multi-platform sports network that brings together exclusive live games and events, extensive highlights, classic games, original programming, and daily live studio programming. *Matrix Version*</description>
+    <disclaimer lang="en">No support at TVAddons.  For support go to forum.kodi.tv or my github site.  Please always provide a full, unedited debug log when requesting support.</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GPL(v2) or Later</license>
+    <forum>https://forum.kodi.tv/showthread.php?tid=299122</forum>
+    <website>http://watchstadium.com</website>
+    <email></email>
+    <source></source>
+    <news>Version 2021.10.09 - Update for Matrix</news>
+    <assets>
+        <icon>resources/media/icon.png</icon>
+        <fanart>resources/media/fanart.jpg</fanart>
+        <screenshot>resources/media/screenshot008.png</screenshot>
+        <screenshot>resources/media/screenshot010.png</screenshot>
+        <screenshot>resources/media/screenshot011.png</screenshot>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.12">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
@@ -2289,6 +2344,27 @@ Add-on originally by doko.
 		<platform>all</platform>
 		<news>[I]v1.0.2[/I][CR]- Include Xonfluence backgrounds addon in repo</news>
 	</extension>
+</addon>
+
+<addon id="script.diggzskins"
+	     name="Diggz Skin Switcher"
+	     version="420.21"
+	     provider-name="Diggz, Big thanks to FTV GURU!!">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">-</summary>
+    <description lang="en">Choose a flavor</description>
+    <disclaimer lang="en">.</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  </extension>
 </addon>
 
 <addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.48t" provider-name="fryhenryj">

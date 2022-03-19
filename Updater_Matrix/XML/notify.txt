@@ -7,4 +7,9 @@
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- Τελευταία ενημέρωση 17 Μαρτίου 2022
+- 19 Μαρτίου 2022
+  Αντικατάσταση του πρόσθετου [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
+  με το [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B]
+  στο Auto Play (MOVIES & TV)
+  
+  - Αλλαγές/Προσθήκες στις συντομεύσεις στην κατηγορία YOUTUBE & ΑΓΑΠΗΜΕΝΑ

@@ -992,6 +992,46 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
+<addon
+	id="plugin.video.choposex" version="6" name="[B][COLOR white]chopo[COLOR fuchsia]sex[/COLOR][/B]" provider-name="equipo tvchopo">
+<requires>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.resolveurl" />
+    <import addon="script.module.six" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	 <extension point="xbmc.addon.repository" name="tvchopo">
+        <info>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/</datadir>
+    </extension>
+
+
+	<extension point="xbmc.addon.metadata">
+                <platform>all</platform>
+		<summary lang="en"></summary>
+		<summary lang="da"></summary>
+		<description lang="en"></description>
+		<website></website>
+		<license>GPL 2.0</license>
+		<platform>all</platform>
+<assets>
+        <icon>icon.gif</icon>
+  <screenshot>resources/screenshots/screenshot1.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot2.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot3.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot4.jpg</screenshot>
+  <screenshot>resources/screenshots/screenshot5.jpg</screenshot>
+        <fanart>fanart.png</fanart>
+    </assets>
+		<language>es</language>
+	</extension>
+</addon>
+
 <addon id="plugin.video.colombiatv"
        name="ColombiaTV"
        version="1.7.2"
@@ -1360,6 +1400,24 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 		<forum></forum>
 		<website></website>
 	</extension>
+</addon>
+
+<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.0" provider-name="Kodi Karaoke">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="plugin.video.youtube" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Search and Play Karaoke Videos for FREE</summary>
+    <description lang="en">Search and Play Karaoke Videos for FREE</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.kodispaintv" name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]" version="3.0.0" provider-name="joheos11">

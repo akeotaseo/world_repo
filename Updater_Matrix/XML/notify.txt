@@ -2,20 +2,9 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 04 Απριλίου 2021[/COLOR]
 
-[COLOR blue]Έκδοση Build 1.9[/COLOR] 28 Φεβρουαρίου 2022
+[COLOR blue]Έκδοση Build 2.0[/COLOR] 25 Μαρτίου 2022
 
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
- - [B]24 Μαρτίου 2022:[/B]
- - Επιλογή εγκατάστασης πρόσθετου [COLOR orange]Scrubs v2[/COLOR] 
-   στο (MOVIES & TV)
- - Αλλαγές στο Pvr Stalker
-  
- - [B]19 Μαρτίου 2022:[/B]
- - Αντικατάσταση του πρόσθετου [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
-   με το [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B]
-   στο Auto Play (MOVIES & TV)
- - Αλλαγές/Προσθήκες/∆ιορθώσεις σε συντομεύσεις 
-   στις κατηγορίες YOUTUBE & ΑΓΑΠΗΜΕΝΑ
  

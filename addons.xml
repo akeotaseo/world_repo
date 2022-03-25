@@ -3329,6 +3329,23 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
+<addon id="script.module.pil"
+       name="Python Image Library"
+       version="5.1.0"
+       provider-name="PythonWare">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="script.sites"
   name="script sites"
   version="19.2m"

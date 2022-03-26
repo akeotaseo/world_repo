@@ -876,6 +876,32 @@ Use this to organize your Favourites.
 
 </addon>
 
+<addon id="plugin.video.123tv"
+version="1.0.0"
+name="123TV"
+provider-name="Parrot Developers">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.requests" version="2.25.1"/>
+  <import addon="inputstream.adaptive" version="2.3.13"/>
+  <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="addon.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary>123TV Channels in KODI.</summary>
+  <description>123TV Channels in KODI.</description>
+  <disclaimer>Do not make copies of this addon!</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+  </assets>
+  <news>
+    [1.0.0] Initial version!
+  </news>
+</extension>
+</addon>
+
 <addon id="plugin.video.arenavisionl" name="ArenaVision" version="0.1.11" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -1911,6 +1937,30 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
+<addon id="plugin.video.TeamSportsLive" version="1.0" name="[COLOR white][B]TEAM SPORTS LIVE[/B][/COLOR]" provider-name="[B][COLOR white]A.DANTAS[/COLOR][/B]">
+    <requires>
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+		<import addon="script.module.requests"/>
+		<import addon="script.module.beautifulsoup4"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+		<summary lang="pt">Jogos ao vivo Grátis aqui no Team Sports Live de forma gratuita 24 horas</summary>
+		<description lang="pt">As transmissões que você assiste são de responsabilidade de sites diversos espalhados pela web.</description>
+        <platform>all</platform>
+        <license></license>
+        <disclaimer></disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.theanonymous.matrix" name="[B][COLOR lime]TheAnonymous [/COLOR][COLOR red]Matrix [/B][/COLOR]" version="2.4" provider-name="[B][COLOR yellow]TheAnonymous [/COLOR][COLOR red]Matrix [/B][/COLOR]">
 <requires>
     <import addon="script.module.requests"/>
@@ -2919,6 +2969,40 @@ Add-on originally by doko.
         <disclaimer></disclaimer>
         <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="repository.Wherethemonsterslive" name="Where The Monsters Live Repository" version="1.9" provider-name="Wolfey B">
+	<extension point="xbmc.addon.repository" name="Where The Monsters Live Repository">
+		<info compressed="false">http://www.midian.appboxes.co/wolfyB/files/addons.xml</info>
+		<checksum>http://www.midian.appboxes.co/wolfyB/files/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.midian.appboxes.co/wolfyB/files/</datadir>
+
+		<dir>
+    <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+ <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+  </dir>
+
+ <dir>
+    <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+  </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+    <platform>all</platform>
+    <description lang="en_GB">Where The Monsters Live</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart></fanart>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="repository.wiiego" name="Wiiego's Kodi Addons" version="1.0.2" provider-name="wiiego">

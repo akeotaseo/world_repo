@@ -928,7 +928,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.18" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.19" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -951,7 +951,7 @@ provider-name="Parrot Developers">
     </disclaimer>
     <language>en el</language>
     <license>GNU GPL, version 2</license>
-    <news>[B]v19.0.18[/B] 20/03/2022
+    <news>[B]v19.0.19[/B] 28/03/2022
   - ΑΤΛΑΣ Kodi Matrix 19</news>
     <assets>
         <icon>icon.png</icon>

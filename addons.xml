@@ -277,7 +277,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.3a" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.3b" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -298,7 +298,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.036a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.037" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1243,6 +1243,27 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <license>[B]Este es un software gratuito[/B]</license>
         <news>- Añadida opción de reproducción externa de playlists[CR]- Correcciones menores
         </news>
+    </extension>
+</addon>
+
+<addon id="plugin.video.empflix" name="Empflix" version="2.1.1" provider-name="xbmc-adult">
+    <requires>
+        <!-- Commenting xbmc.python allows install on all versions of Kodi -->
+        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+        <import addon="script.module.six"/>
+        <import addon="script.module.kodi-six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Stream adult videos from empflix.com</summary>
+        <description>Empflix.com features a variety of adult videos. This addon contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.  All content is hosted by empflix.com.</description>
+        <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
     </extension>
 </addon>
 
@@ -2247,7 +2268,7 @@ provider-name="Parrot Developers">
 
 <addon
   id="plugin.video.videodevil"
-  version="1.8.23"
+  version="1.8.24"
   name="VideoDevil"
   provider-name="xbmc-adult">
   <requires>
@@ -3405,7 +3426,7 @@ http://zadarbuild.com.hr
 
 <addon id="script.sites"
   name="script sites"
-  version="19.2m"
+  version="19.2n"
   provider-name="ML Gb">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

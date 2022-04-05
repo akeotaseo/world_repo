@@ -277,7 +277,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.3d" provider-name="TechNEWSology">
+<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.3e" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -1186,6 +1186,36 @@ provider-name="Parrot Developers">
 
 </addon>
 
+<addon id="plugin.video.dartstreams" name="dartstreams" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.addon.metadata">
+        <description lang="pl">Whatch Live and VOD</description>
+        <disclaimer lang="pl">Whatch Live and VOD
+        </disclaimer>
+        <summary lang="en">Whatch Live and VOD</summary>
+        <description lang="en">Whatch Live and VOD</description>
+        <disclaimer lang="en">Whatch Live and VOD
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
 <addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.2w" provider-name="Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -2004,6 +2034,36 @@ provider-name="Parrot Developers">
         <screenshot>resources/media/screenshot011.png</screenshot>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.stream2watch" name="stream2watch" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.addon.metadata">
+        <description lang="pl">stream2watch</description>
+        <disclaimer lang="pl">stream2watch
+        </disclaimer>
+        <summary lang="en">stream2watch</summary>
+        <description lang="en">stream2watch</description>
+        <disclaimer lang="en">stream2watch
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
 </addon>
 
 <addon id="plugin.video.TeamSportsLive" version="1.0" name="[COLOR white][B]TEAM SPORTS LIVE[/B][/COLOR]" provider-name="[B][COLOR white]A.DANTAS[/COLOR][/B]">

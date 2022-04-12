@@ -298,7 +298,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.038c" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.038t" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -3185,6 +3185,20 @@ Add-on originally by doko.
             <summary>T4K Repository</summary>
             <description>Repo-ul lui silevasile !!</description>
             <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.theblackghost" name="The Black Ghost Repo" version="0.0.2" provider-name="BlackGhost">
+    <extension point="xbmc.addon.repository" name="theblackghost">
+        <info>https://raw.githubusercontent.com/blackghostaddon/repo/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/blackghostaddon/repo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/blackghostaddon/repo/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Black all Black Ghost</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
     </extension>
 </addon>
 

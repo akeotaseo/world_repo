@@ -298,7 +298,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.038v" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.038w" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1189,7 +1189,7 @@ provider-name="Parrot Developers">
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="1.0.0a" provider-name="lg">
+<addon id="plugin.video.daddylive" name="Daddylive" version="1.0.0b" provider-name="lg">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" />
@@ -2331,30 +2331,6 @@ provider-name="Parrot Developers">
       <icon>icon.png</icon>
     </assets>
   </extension>
-</addon>
-
-<addon id="plugin.video.tvseriesvideo" name="TVseries.video" version="0.1" provider-name="mbebe">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.resolveurl" version="5.0.00"/>
-        <import addon="script.module.six"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="en">TVseries.video</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="en">Watch tv shows</summary>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.ustvgo"

@@ -298,7 +298,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.038x" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.039" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -2074,7 +2074,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.stream2watch" name="stream2watch" version="1.0.0" provider-name="lg">
+<addon id="plugin.video.stream2watch" name="stream2watch" version="1.0.0c" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.inputstreamhelper" />
@@ -2084,7 +2084,8 @@ provider-name="Parrot Developers">
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
     </extension>
- 	<extension point="xbmc.addon.metadata">
+ 	<extension point="xbmc.service" library="serverHTTP.py" />
+	<extension point="xbmc.addon.metadata">
         <description lang="pl">stream2watch</description>
         <disclaimer lang="pl">stream2watch
         </disclaimer>
@@ -2097,8 +2098,7 @@ provider-name="Parrot Developers">
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website></website>
         <assets>
-            <icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
+            <icon></icon>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>

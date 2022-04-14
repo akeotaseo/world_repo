@@ -298,7 +298,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.038w" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.038x" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -928,7 +928,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.25" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.26" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -953,6 +953,9 @@ provider-name="Parrot Developers">
     <language>en el</language>
     <license>GNU GPL, version 2</license>
     <news>[B]ΑΤΛΑΣ Kodi Matrix 19[/B]
+    - [B]v19.0.26[/B] 014/04/2022
+       Προσθήκη κατηγοριών Ομάδες κ' Ψάρεμα
+       Διορθώσεις κώδικα - Coolmoviezone
     - [B]v19.0.25[/B] 10/04/2022
        Διορθώσεις κώδικα - (Trailer)Gamato
        Προσθήκη Ξένων Σειρών - Tainiomania

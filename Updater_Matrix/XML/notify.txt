@@ -2,7 +2,7 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 04 Απριλίου 2021[/COLOR]
 
-[COLOR blue]Έκδοση Build 2.0[/COLOR] 25 Μαρτίου 2022
+[COLOR blue]Έκδοση Build 2.0[/COLOR]  25 Μαρτίου 2022
 
 [B][COLOR gold]Σημείωση:[/COLOR][/B] Αν στο HOME [B]--->[/B] ΣΥΣΤΗΜΑ..
 δεν εμφανίζεται το εικονίδιο [B][COLOR grey]Fix build update[/COLOR][/B]..

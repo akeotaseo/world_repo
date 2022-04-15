@@ -4,9 +4,9 @@
 
 [COLOR blue]Έκδοση Build 2.0[/COLOR] 25 Μαρτίου 2022
 
-[B][COLOR gold]Σημείωση:[/COLOR][/B] Αν στο HOME--> ΣΥΣΤΗΜΑ..
+[B][COLOR gold]Σημείωση:[/COLOR][/B] Αν στο HOME [B]-->[/B] ΣΥΣΤΗΜΑ..
 δεν εμφανίζεται το εικονίδιο [B][COLOR grey]Fix build update[/COLOR][/B]..
-πηγαίνετε στο [B][COLOR red]Fix build update[/COLOR][/B]
+πηγαίνετε στο [B][COLOR red]Tools[/COLOR][/B]
 και απο εκεί επιλέξτε [COLOR grey]Fix build update[/COLOR]
 και προχωρήστε στην διαδικασία.
 

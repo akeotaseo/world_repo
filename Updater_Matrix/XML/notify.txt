@@ -8,7 +8,7 @@
 δεν εμφανίζεται το εικονίδιο "[B][COLOR grey]Fix build update[/COLOR][/B]"...
 πηγαίνετε στο "[B][COLOR red]Tools[/COLOR][/B]"...
 ...απο εκεί επιλέξτε "[COLOR grey]Fix build update[/COLOR]"
-και προχωρήστε στην διαδικασία.
+και προχωρήστε την διαδικασία.
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 

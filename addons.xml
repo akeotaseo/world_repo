@@ -597,7 +597,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.04c" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.05" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -1351,6 +1351,26 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <license>[B]Este es un software gratuito[/B]</license>
         <news>- Añadida opción de reproducción externa de playlists[CR]- Correcciones menores
         </news>
+    </extension>
+</addon>
+
+<addon id="plugin.video.einthusan3" name="Einthusan" version="3.0.11" provider-name="EinTamil">
+    <requires>
+        <import addon="repository.eintamil" version="1.0.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.22.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Einthusan Video Addon - Version 3.x</summary>
+        <description>Einthusan Video Addon for Kodi 19.x - Supports XBMC Python 3.x</description>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
     </extension>
 </addon>
 

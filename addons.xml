@@ -2416,7 +2416,7 @@ provider-name="Parrot Developers">
 </addon>
 
 <addon id="plugin.video.vidembed"
-version="1.0.4"
+version="1.0.7"
 name="Vidembed.io"
 provider-name="Parrot Developers">
 <requires>
@@ -2424,6 +2424,8 @@ provider-name="Parrot Developers">
   <import addon="script.module.requests" version="2.25.1"/>
   <import addon="script.module.beautifulsoup4" version="2.9.9"/>
   <import addon="script.module.resolveurl" version="5.1.00"/>
+  <import addon="script.module.parrot" version="1.0.0"/>
+  <import addon="script.module.routing"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="addon.py">
   <provides>video</provides>
@@ -2442,6 +2444,9 @@ provider-name="Parrot Developers">
     [1.0.2] Some refactoring.
     [1.0.3] Fixed support for android devices.
     [1.0.4] Fixed grabber.
+    [1.0.5] Added Parrot TV ID.
+    [1.0.6] Temporarlily disabled auto-update.
+    [1.0.7] Some refactoring.
   </news>
 </extension>
 </addon>
@@ -3658,6 +3663,25 @@ http://zadarbuild.com.hr
     <assets>
       <icon>resources/icon.png</icon>
     </assets>
+  </extension>
+</addon>
+
+<addon id="script.module.parrot" name="Parrot Utils" version="1.0.0" provider-name="Parrot Developers">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Utilities for Parrot TV addons.</summary>
+    <description>Utilities for Parrot TV addons.</description>
+    <platform>all</platform>
+    <license>GPL v.3</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <news>
+    [1.0.0] Initial release!
+    </news>
   </extension>
 </addon>
 

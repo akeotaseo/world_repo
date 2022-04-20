@@ -326,7 +326,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.040" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.040a" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -2554,31 +2554,6 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.uiiumovies" name="uiiumovies - XXX" version="0.1" provider-name="mbebe">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.resolveurl" version="5.0.00"/>
-        <import addon="script.module.six"/>
-
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="en">uiiumovies.net XXX</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="en">Watch XXX</summary>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.ustvgo"
 version="1.0.9"
 name="USTVGO"
@@ -3197,6 +3172,22 @@ Add-on originally by doko.
     </extension>
 </addon>
 
+<addon id="repository.eintamil" name="EinTamil Kodi Repository" version="1.0.0" provider-name="EinTamil">
+    <extension point="xbmc.addon.repository" name="EinTamil Kodi Repository">
+        <dir>
+            <info compressed="false">https://github.com/eintamil/repository.eintamil/raw/master/zips/addons.xml</info>
+            <checksum>https://github.com/eintamil/repository.eintamil/raw/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/eintamil/repository.eintamil/raw/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>EinTamil Kodi Repository</summary>
+        <description>https://eintamil.github.io/</description>
+        <website>https://eintamil.github.io/</website>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="repository.jizzplanet" name="Jizzplanet Repo" provider-name="Jizzplanet.com" version="3.0.1">
 	<extension point="xbmc.addon.repository" name="Jizzplanet.com" >
 			<dir minversion="16.0.0" maxversion="18.9.9">
@@ -3291,6 +3282,33 @@ Add-on originally by doko.
             <description>For installing Bulsat, Exodus, Covenant, Specto and subtitles addons</description>
             <platform>all</platform>
     </extension>
+</addon>
+
+	<addon id="repository.mbebe" name="mbebe" version="0.7" provider-name="mbebe">
+		<extension point="xbmc.addon.repository" name="mbebe">
+			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/mbebe/blomqvist/raw/master/zips</datadir>
+			<dir>
+				<info compressed="false">https://raw.githubusercontent.com/Proximus2000/mb-support/master/zips/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Proximus2000/mb-support/master/zips/addons.xml.md5</checksum>
+				<datadir zip="true">https://github.com/Proximus2000/mb-support/raw/master/zips</datadir>
+			</dir>
+			<dir>
+				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+			</dir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>...</summary>
+			<description>...</description>
+			<platform>all</platform>
+		</extension>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
 </addon>
 
 <addon id="repository.peno64" name="peno64 repository" version="1.3" provider-name="peno64">
@@ -4003,6 +4021,34 @@ http://zadarbuild.com.hr
       <icon>resources/art/icon.png</icon>
       <fanart>resources/art/fanart.jpg</fanart>
     </assets>
+  </extension>
+</addon>
+
+<addon id="service.cronxbmc"
+    name="Cron For Kodi" version="0.1.5" provider-name="robweber">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.dateutil" version="2.8.1+matrix.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="gui.py">
+     <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" />
+  <extension point="xbmc.python.module" library="resources/lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">A customizable Cron timer for Kodi. </summary>
+    <description lang="en_GB">Create cron timers for Kodi functions. This addon can schedule and run any built-in or JSON Kodi functions. No more reliance on add-on developers to allow for "timer" functionality, no more scripts running on other machines to send commands to your HTPC. All of your timers can now be handled directly within Kodi. It can also display notifications when your tasks run if configured to do so.</description>
+    <platform>all</platform>
+    <language></language>
+    <license>The MIT License</license>
+    <forum>https://forum.kodi.tv/showthread.php?tid=124888</forum>
+    <source>https://github.com/robweber/cronxbmc</source>
+    <assets>
+    	<icon>resources/images/icon.png</icon>
+    </assets>
+    <news>Version 0.1.5
+- added ability to run Built In Commands or JSON RPC commands
+    </news>
   </extension>
 </addon>
 

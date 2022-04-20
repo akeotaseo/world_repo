@@ -326,7 +326,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.040a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.040c" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -625,7 +625,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.05a" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.05" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -1514,32 +1514,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   <description lang="en"></description>
   <disclaimer lang="en"></disclaimer>
 </extension>
-</addon>
-
-<addon id="plugin.video.fifaplusbeta" name="FIFA plus (beta)" version="0.1" provider-name="mbebe">
-    <requires>
-		<import addon="script.module.routing" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.iso8601" version="0.1.11" />
-        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-	<extension point="xbmc.service" library="serverHTTP.py" />
-    <extension point="xbmc.addon.metadata">
-        <description>FIFA plus</description>
-        <disclaimer></disclaimer>
-        <summary>FIFA plus</summary>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.0.8" provider-name="AceTorr">

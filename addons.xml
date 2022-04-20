@@ -25,6 +25,34 @@
     </extension>
 </addon>
 
+<addon id="context.video.favourites"
+version="0.1.0"
+name="Video Favourites Context Menu"
+provider-name="primaeval">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  <import addon="script.module.requests" version="2.9.1" />
+  <import addon="plugin.video.favourites" version="0.0.1" />
+</requires>
+<extension point="kodi.context.item">
+<menu id="kodi.core.main">
+  <item library="context.py">
+    <label>Dodaj do[COLOR darkorange] Video Favourites[/COLOR]</label>
+    <visible>True</visible>
+  </item>
+</menu>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Video Favourites Context Menu</summary>
+  <description lang="en"></description>
+  <disclaimer lang="en">.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+</extension>
+</addon>
+
 	<addon id="hellyrepo.kodi" name="HellyRepo" version="0.2.6" provider-name="Helly">
         <extension point="xbmc.addon.repository" name="HellyRepo">
             <dir minversion="15.0.0">
@@ -975,6 +1003,39 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
+<addon id="plugin.video.betatv" name="betatv" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+		<import addon="script.module.six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.service" library="serverHTTP_.py" />
+	<extension point="xbmc.addon.metadata">
+        <description lang="pl">betatv</description>
+        <disclaimer lang="pl">betatv
+        </disclaimer>
+        <summary lang="en">betatv</summary>
+        <description lang="en">betatv</description>
+        <disclaimer lang="en">betatv
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon></icon>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+
+</addon>
+
 <addon id="plugin.video.cabal" name="[COLOR crimson]Cabal[/COLOR]" version="1.0" provider-name="Forked by Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -1439,6 +1500,48 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
+<addon id="plugin.video.favourites" version="0.0.5a" name="Video Favourites" provider-name="primaeval">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  <import addon="script.module.requests" version="2.9.1" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Video Favourites</summary>
+  <description lang="en"></description>
+  <disclaimer lang="en"></disclaimer>
+</extension>
+</addon>
+
+<addon id="plugin.video.fifaplusbeta" name="FIFA plus (beta)" version="0.1" provider-name="mbebe">
+    <requires>
+		<import addon="script.module.routing" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.iso8601" version="0.1.11" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+	<extension point="xbmc.service" library="serverHTTP.py" />
+    <extension point="xbmc.addon.metadata">
+        <description>FIFA plus</description>
+        <disclaimer></disclaimer>
+        <summary>FIFA plus</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.0.8" provider-name="AceTorr">
   <requires>
    <import addon="script.module.six" />
@@ -1772,43 +1875,6 @@ AVISO LEGAL:
   </extension>
 </addon>
 
-<addon id="plugin.video.mlbtv" name="MLB.TV 1" version="2020.10.8+matrix.1" provider-name="eracknaphobia">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.pytz" />
-        <import addon="script.module.beautifulsoup4" />
-        <import addon="script.module.requests" />
-        <import addon="inputstream.adaptive" optional="true"/>
-        <import addon="script.module.kodi-six" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en_GB">Watch live and archived games
-        </summary>
-        <description lang="en_GB">Watch every out-of-market regular season game in the office or on the go. The #1 LIVE
-            Streaming Sports Service
-        </description>
-        <disclaimer lang="en_GB">Requires an MLB.tv account</disclaimer>
-        <news>
-            - Matrix compatibility updates
-            - Code clean up
-        </news>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GPL-2.0-or-later</license>
-        <forum>https://forum.kodi.tv/showthread.php?tid=262745</forum>
-        <website>https://www.mlb.com/live-stream-games</website>
-        <source>https://github.com/eracknaphobia/plugin.video.mlbtv</source>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.mlbtv2" name="MLB.TV 2" version="2020.10.8+matrix.1" provider-name="eracknaphobia">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -1928,6 +1994,51 @@ AVISO LEGAL:
   </extension>
 </addon>
 
+<addon id="plugin.video.myiptvpro" name="  [B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.2" provider-name="A Great Person">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.six" />
+		<import addon="script.module.kodi-six" />
+		<import addon="script.module.requests" optional="true"/>
+		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.dateutil" optional="true" />
+		<import addon="script.module.resolveurl" optional="true"/>
+		<import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.cloudscraper" optional="true"/>
+		<import addon="script.module.inputstreamhelper" optional="true"/>
+		<import addon="script.module.slproxy" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary>MY IPTV PRO - forked from livestreamspro</summary>
+		<description>
+(MY IPTV PRO - forked from livestreamspro)
+In addition to what livestreams allowed you to do, you can now,
+1. call regex in regex,
+2. multiple regex in page, regex in session, also htmlunescape responses
+3. create session from one regex and pass onto next in line
+4. save sessions to a file and open again later
+5. write python code in .py file, put in the profile directory and then call from your regex.
+6. use epoctime, guid and unpack as functions already defined.
+7. Use it to post values to the pages to get the proper responses
+8. support many headers, like origin, X-Requested-With
+9. you can now append cookies in response and then read in regex using includeheaders
+10. You can now link to another web url via your xml using externallink
+11. support for google captcha, now you can show and then post the text
+		</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.onltvaddon" name="Free BG/World Online TV" version="2022.01.29.01" provider-name="MartinStZ">
   <requires>
     <import addon="script.module.requests" version="1.1.0"/>
@@ -1994,6 +2105,64 @@ AVISO LEGAL:
         <icon>icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.19" provider-name="mbebe">
+    <requires>
+        <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+        <import addon="script.module.six"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+        <import addon="script.module.resolveurl" version="5.1.30"/>
+        <import addon="script.module.pytz" version="2014.2"/>
+        <import addon="script.module.js2py" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="maintv.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="serverHTTP.py" />
+    <extension point="xbmc.addon.metadata">
+        <description>Wydarzenia sportowe</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>Relacje Live</summary>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.polstreamLive" name="polstreamLive" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.addon.metadata">
+        <description lang="pl">polstreamLive</description>
+        <disclaimer lang="pl">polstreamLive
+        </disclaimer>
+        <summary lang="en">polstreamLive</summary>
+        <description lang="en">polstreamLive</description>
+        <disclaimer lang="en">polstreamLive
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon></icon>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
 </addon>
 
 <addon id="plugin.video.RomyM3trix" name="[B][COLOR aqua]Romy[/COLOR] [COLOR red]M3trix[/COLOR][/B]" version="3.0.0+matrix" provider-name="RomyTVplace">
@@ -2383,6 +2552,31 @@ provider-name="Parrot Developers">
       <icon>icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.uiiumovies" name="uiiumovies - XXX" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl" version="5.0.00"/>
+        <import addon="script.module.six"/>
+
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">uiiumovies.net XXX</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">Watch XXX</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.ustvgo"

@@ -326,7 +326,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.041a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.041b" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -625,7 +625,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.05" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.05a" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -1313,28 +1313,6 @@ provider-name="Parrot Developers">
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
-</addon>
-
-<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.2w" provider-name="Wolfey B">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests" version="2.22.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Pure unholy filth</summary>
-    <summary lang="de_DE"></summary>
-    <description lang="en_GB">This is a fork of Playlist Loader made for for Devilwolf. This IS an adult addon so 18+ only. Many thanks to the original developer and everyone involved in the continuance of this add-on.</description>
-    <description lang="de_DE"></description>
-    <language>en de</language>
-    <platform>all</platform>
-      <assets>
-        <icon>icon.gif</icon>
-		<fanart>fanart.gif</fanart>
-    </assets>
-  </extension>
 </addon>
 
 <addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.6" provider-name="Jon Snow">

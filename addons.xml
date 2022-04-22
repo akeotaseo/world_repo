@@ -326,7 +326,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.041d" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.042" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -625,7 +625,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.07" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.08" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -1536,7 +1536,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 </extension>
 </addon>
 
-<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.0.8" provider-name="AceTorr">
+<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.0.9" provider-name="AceTorr">
   <requires>
    <import addon="script.module.six" />
   </requires>
@@ -1545,7 +1545,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="es">Los Mejores Eventos deportivos usando Acestream</summary>
-    <description>Todo el deporte con [COLOR red]Acestream[/COLOR].[CR][CR]Enlaces obtenidos de la página web:[CR][COLOR blue]····https://mecagoenlasoperadorasdetelefonia.webnode.es/····[/COLOR][CR]La cual se ayuda del Canal de Telegram [COLOR lime]@ACEstream_Spanish[/COLOR].[CR][CR]**Necesita el plugin [COLOR yellow]Horus[/COLOR] para lanzar los [COLOR red]Acestream[/COLOR].</description>
+    <description>Todo el deporte con [COLOR red]Acestream[/COLOR].[CR][CR]Enlaces obtenidos de la página web:[CR][COLOR blue]····https://····[/COLOR][CR]La cual se ayuda del Canal de Telegram [COLOR lime]@ACEstream_Spanish[/COLOR].[CR][CR]**Necesita el plugin [COLOR yellow]Horus[/COLOR] para lanzar los [COLOR red]Acestream[/COLOR].</description>
     <platform>all</platform>
     <assets>
         <icon>icon.png</icon>
@@ -2186,33 +2186,6 @@ In addition to what livestreams allowed you to do, you can now,
 </assets>
 	<news>news
 	</news>
-</extension>
-</addon>
-
-<addon id="plugin.video.S2W"
-version="1.0.1"
-name="Stream2Watch"
-provider-name="Parrot Developers">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.25.1"/>
-  <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
-  <import addon="inputstream.adaptive" version="2.3.13"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="addon.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary>Watch TV from stream2watch.sx</summary>
-  <description>Watch TV from stream2watch.sx</description>
-  <disclaimer>Watch TV from stream2watch.sx</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-  </assets>
-  <news>
-    [1.0.0] Initial version!
-    [1.0.1] Fixes
-  </news>
 </extension>
 </addon>
 

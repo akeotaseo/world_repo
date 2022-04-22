@@ -21,12 +21,13 @@
 - Εγκατάσταση [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B] (Auto Play),
   [B][COLOR white]Click Here[/COLOR][/B].
   & προσθήκη (με δυνατότητα εγκατάστασης)
-  [COLOR orange]Scrubs v2[/COLOR] [COLORblue]Nightwing[/COLOR] TVseries.video (Film)
+  [COLOR orange]Scrubs v2[/COLOR] [COLORblue]Nightwing[/COLOR]
+  TVseries.video (Film)
   στην κατηγορία [B]MOVIES & TV[/B] 
  
 - Εγκατάσταση klubsports,
-  Προσθήκη συντομεύσεων (με δυνατότητα εγκατάστασης)
-  [COLOR grey]BLACK GHOST[/COLOR] [B][COLOR orchid]THE CREW[/COLOR][COLOR white] Sports[/COLOR][/B], Daddylive, FIFA plus (beta) 
+  προσθήκη συντομεύσεων (με δυνατότητα εγκατάστασης)
+  [COLOR grey]BLACK GHOST[/COLOR], [B][COLOR orchid]THE CREW[/COLOR][COLOR white] Sports[/COLOR][/B], Daddylive, FIFA plus (beta) 
   & αλλαγές σε [COLOR green]Sports Chanells[/COLOR] [COLOR blue]LIVE NOW[/COLOR]
   στην κατηγορία [B]SPORTS[/B]
   

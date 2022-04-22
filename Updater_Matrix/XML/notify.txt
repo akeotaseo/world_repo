@@ -15,13 +15,18 @@
 
 - [B]Τελευταία ενημέρωση 22 Απριλίου 2022[/B]
 
+ - Έναρξη του build στην κατηγορία [Β]ΚΑΙΡΟΣ[/Β] (σε Graph)
+   ή στην κατηγορια [B]KODI[/B] (σε Txt)
+
 - Εγκατάσταση [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B] (Auto Play),
   [B][COLOR white]Click Here[/COLOR][/B].
-  & προσθήκη (με δυνατότητα εγκατάστασης) [COLORblue]Nightwing[/COLOR]
+  & προσθήκη (με δυνατότητα εγκατάστασης)
+  [COLOR orange]Scrubs v2[/COLOR] [COLORblue]Nightwing[/COLOR] TVseries.video 
   στην κατηγορία [B]MOVIES & TV[/B] 
  
-- Εγκατάσταση klubsports, 
-  δυνατότητα εγκατάστασης Daddylive, FIFA plus (beta) 
+- Εγκατάσταση klubsports,
+  Προσθήκη συντομεύσεων (με δυνατότητα εγκατάστασης)
+  [COLOR grey]BLACK GHOST[/COLOR] [B][COLOR orchid]THE CREW[/COLOR][COLOR white] Sports[/COLOR][/B], Daddylive, FIFA plus (beta) 
   & αλλαγές σε [COLOR green]Sports Chanells[/COLOR] [COLOR blue]LIVE NOW[/COLOR]
   στην κατηγορία [B]SPORTS[/B]
   
@@ -30,3 +35,5 @@
    
  - Δυνατότητα εγκατάστασης [COLOR grey]uiiumovies - XXX[/COLOR] κ.α
    στην κατηγορία [B]XXX[/B] ([COLOR green]My Groups)[/COLOR]
+   
+ - Διάφορες αλλαγές/διορθωήσεις/προσθκες

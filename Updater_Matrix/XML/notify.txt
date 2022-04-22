@@ -15,13 +15,13 @@
 
 - [B]Τελευταία ενημέρωση 22 Απριλίου 2022[/B]
 
- - Έναρξη του build στην κατηγορία [Β]ΚΑΙΡΟΣ[/Β] (σε Graph)
-   ή στην κατηγορια [B]KODI[/B] (σε Txt)
+ - Έναρξη του build στην κατηγορία [B]ΚΑΙΡΟΣ[/B] (σε Graph)
+   ή στην κατηγορία [B]KODI[/B] (σε Txt)
 
 - Εγκατάσταση [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B] (Auto Play),
   [B][COLOR white]Click Here[/COLOR][/B].
   & προσθήκη (με δυνατότητα εγκατάστασης)
-  [COLOR orange]Scrubs v2[/COLOR] [COLORblue]Nightwing[/COLOR] TVseries.video 
+  [COLOR orange]Scrubs v2[/COLOR] [COLORblue]Nightwing[/COLOR] TVseries.video (Film)
   στην κατηγορία [B]MOVIES & TV[/B] 
  
 - Εγκατάσταση klubsports,
@@ -36,4 +36,4 @@
  - Δυνατότητα εγκατάστασης [COLOR grey]uiiumovies - XXX[/COLOR] κ.α
    στην κατηγορία [B]XXX[/B] ([COLOR green]My Groups)[/COLOR]
    
- - Διάφορες αλλαγές/διορθώσσεις/προσθήκες
+ - Διάφορες αλλαγές/διορθώσεις/προσθήκες

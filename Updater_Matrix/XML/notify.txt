@@ -5,8 +5,7 @@
 [COLOR blue]Έκδοση Build 2.0[/COLOR]  25 Μαρτίου 2022
 
 [B][COLOR gold]Σημείωση:[/COLOR][/B] Αν στο HOME [B]--->[/B] ΣΥΣΤΗΜΑ...
-δεν εμφανίζεται το εικονίδιο "[B][COLOR grey]Fix build update[/COLOR][/B]"
-(ή δεν εγκαθίσταται το "AutoWidget")"...
+δεν εμφανίζεται το εικονίδιο "[B][COLOR grey]Fix build update[/COLOR][/B]"...
 πηγαίνετε στο "[B][COLOR red]Tools[/COLOR][/B]"...
 ...απο εκεί επιλέξτε "[COLOR grey]Fix build update[/COLOR]"
 και προχωρήστε την διαδικασία.
@@ -20,21 +19,21 @@
 
 - Εγκατάσταση [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B] (Auto Play),
   [B][COLOR white]Click Here[/COLOR][/B].
-  & προσθήκη (με δυνατότητα εγκατάστασης)
+  & προσθήκη (με δυνατότητα επιλογής εγκατάστασης)
   [COLOR orange]Scrubs v2[/COLOR] [COLORblue]Nightwing[/COLOR]
   TVseries.video (Film)
   στην κατηγορία [B]MOVIES & TV[/B] 
  
 - Εγκατάσταση klubsports,
-  προσθήκη συντομεύσεων (με δυνατότητα εγκατάστασης)
+  προσθήκη συντομεύσεων (με δυνατότητα επιλογής εγκατάστασης)
   [COLOR grey]BLACK GHOST[/COLOR], [B][COLOR orchid]THE CREW[/COLOR][COLOR white] Sports[/COLOR][/B], Daddylive, FIFA plus (beta) 
   & αλλαγές σε [COLOR green]Sports Chanells[/COLOR] [COLOR blue]LIVE NOW[/COLOR]
   στην κατηγορία [B]SPORTS[/B]
   
- - Δυνατότητα εγκατάστασης [B][COLOR red]7PLUS[/COLOR][/B]
+ - Δυνατότητα επιλογής εγκατάστασης [B][COLOR red]7PLUS[/COLOR][/B]
    στις κατηγορίες [B] ALL IN ONE & IPTV[/B]
    
- - Δυνατότητα εγκατάστασης [COLOR grey]uiiumovies - XXX[/COLOR] κ.α
+ - Δυνατότητα επιλογής εγκατάστασης [COLOR grey]uiiumovies - XXX[/COLOR] κ.α
    στην κατηγορία [B]XXX[/B] ([COLOR green]My Groups)[/COLOR]
    
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες

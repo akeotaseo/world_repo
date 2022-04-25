@@ -166,6 +166,29 @@ provider-name="primaeval">
     </extension>
 </addon>
 
+<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2021.0.7" provider-name="Jon Bovi, Diggz">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.future"/>
+        <import addon="script.module.mutagen"/>
+        <import addon="script.module.requests"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.service" library="playerMP3.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>A music streaming Collection.</summary>
+        <description>MP3 Streams Kodi 19</description>
+        <news>2021.0.6 - Fixed issue with hanging  when skipping tracks. 2021.0.4 - Fixed Settings, 2021.0.3 - Bugfixes. Enjoy!</news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.audio.rhapsody" name="Napster" version="3.2.0" provider-name="pogowurst">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -1355,6 +1378,28 @@ v1.0.0.matrix.1
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
+</addon>
+
+<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.2w" provider-name="Wolfey B">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Pure unholy filth</summary>
+    <summary lang="de_DE"></summary>
+    <description lang="en_GB">This is a fork of Playlist Loader made for for Devilwolf. This IS an adult addon so 18+ only. Many thanks to the original developer and everyone involved in the continuance of this add-on.</description>
+    <description lang="de_DE"></description>
+    <language>en de</language>
+    <platform>all</platform>
+      <assets>
+        <icon>icon.jpg</icon>
+		<fanart>fanart.gif</fanart>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.6" provider-name="Jon Snow">
@@ -3548,6 +3593,31 @@ Add-on originally by doko.
         <disclaimer></disclaimer>
         <platform>all</platform>
     </extension>
+</addon>
+
+<addon id="repository.thegroove" name="[COLOR khaki][B] Thegroove Repository[/COLOR][/B]" version="1.2" provider-name="Thegroove360">
+    <requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="Thegroove360 Repository">
+		<info compressed="false">https://thegroove360.tk/zip/addon.xml</info>
+		<checksum>https://thegroove360.tk/zip/addons.xml.md5</checksum>
+		<datadir zip="true">https://thegroove360.tk/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Thegroove 360 Official Repository</summary>
+		<description>Repository ufficiale di Thegroove 360</description>
+<news>
+1.2
+cambio host
+1.1
+--- Host Repository
+1.0
+-- Decentralinizzata repository
+
+</news>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.tvchopo" name="[COLOR lime]tvchopo[/COLOR] Repo" version="2.0.0" provider-name="torete">

@@ -12,8 +12,12 @@
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 22 Απριλίου 2022[/B]
-
+- [B]Τελευταία ενημέρωση 26 Απριλίου 2022[/B]
+- Αντικατάσταση του πρόσθετου [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B]
+  με το [B]No Lives Matter[/B] στο [B]Auto Play[/B]
+  στην κατηγορία [B]MOVIES & TV[/B] 
+  
+               [B]Ενημέρωση 22 Απριλίου[/B]
  - Έναρξη του build στην κατηγορία [B]ΚΑΙΡΟΣ[/B] (σε Graph)
    ή στην κατηγορία [B]KODI[/B] (σε Txt)
 

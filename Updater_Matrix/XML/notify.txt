@@ -12,7 +12,9 @@
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 26 Απριλίου 2022:[/B]
+  [B]Τελευταία ενημέρωση 29 Απριλίου 2022:[/B]
+  
+  [B]Ενημέρωση 26 Απριλίου 2022:[/B]
 - Αντικατάσταση του πρόσθετου [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B]
   με το [B]No Lives Matter[/B] στο [B]Auto Play[/B]
   στην κατηγορία [B]MOVIES & TV[/B] 

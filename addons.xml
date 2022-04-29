@@ -26,7 +26,7 @@
 </addon>
 
 <addon id="context.video.favourites"
-version="0.1.0"
+version="0.1.0.Tk"
 name="Video Favourites Context Menu"
 provider-name="primaeval">
 <requires>
@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.043a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.043b" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1565,7 +1565,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.favourites" version="0.0.5a" name="Video Favourites" provider-name="primaeval">
+<addon id="plugin.video.favourites" version="0.0.5.Tk" name="Video Favourites" provider-name="primaeval">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -1578,10 +1578,13 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   <summary lang="en">Video Favourites</summary>
   <description lang="en"></description>
   <disclaimer lang="en"></disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
 </extension>
 </addon>
 
-<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.0.9" provider-name="AceTorr">
+<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.1.0" provider-name="AceTorr">
   <requires>
    <import addon="script.module.six" />
   </requires>
@@ -1590,7 +1593,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="es">Los Mejores Eventos deportivos usando Acestream</summary>
-    <description>Todo el deporte con [COLOR red]Acestream[/COLOR].[CR][CR]Enlaces obtenidos de la página web:[CR][COLOR blue]····https://····[/COLOR][CR]La cual se ayuda del Canal de Telegram [COLOR lime]@ACEstream_Spanish[/COLOR].[CR][CR]**Necesita el plugin [COLOR yellow]Horus[/COLOR] para lanzar los [COLOR red]Acestream[/COLOR].</description>
+    <description>Todo el deporte con [COLOR red]Acestream[/COLOR].[CR][CR]Enlaces obtenidos de la página web:[CR][COLOR blue]····https://····[/COLOR][CR]La cual se ayuda del Canal de Telegram [COLOR lime]@ACEstream_Spanish[/COLOR].[CR][CR]**En Ajustes puede elegir entre usar solo [COLOR red]Motor Acestream[/COLOR] o el plugin [COLOR yellow]Horus+Acestream[/COLOR] para lanzar los enlaces p2p.</description>
     <platform>all</platform>
     <assets>
         <icon>icon.png</icon>
@@ -3180,6 +3183,26 @@ Add-on originally by doko.
         <icon>resources/icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="repo.garmedcen" name="Gargantua Repo" version="1.0a" provider-name="GMC">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/GargantuaMC/repo.garmedcen/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/GargantuaMC/repo.garmedcen/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/GargantuaMC/repo.garmedcen/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Gargantua Repo</summary>
+        <description>Repositorio de emergencia de Gargantua</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="repository.7PlusREPO" name="[B][COLOR red]7Plus REPO[/COLOR][/B]" version="1.0" provider-name="7Plus">

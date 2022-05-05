@@ -12,8 +12,15 @@
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 29 Απριλίου 2022:[/B]
+  [B]Τελευταία ενημέρωση 06 Μαΐου 2022:[/B]
+- Δουλειά δεν είχε ο διάλος...
   
+- Αντικατάσταση του πρόσθετου [B]No Lives Matter[/B] στο [B]Auto Play[/B]
+  με το [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
+  στην κατηγορία [B]MOVIES & TV[/B] 
+  
+ - κ.α
+ 
   [B]Ενημέρωση 26 Απριλίου 2022:[/B]
 - Αντικατάσταση του πρόσθετου [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B]
   με το [B]No Lives Matter[/B] στο [B]Auto Play[/B]

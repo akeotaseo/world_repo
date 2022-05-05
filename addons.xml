@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.043b" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.043f" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -995,6 +995,53 @@ v1.0.0.matrix.1
 </extension>
 </addon>
 
+<addon id="plugin.video.adulthideout" name="AdultHideout" version="0.9.8" provider-name="Vashiel">
+	<requires>
+	<!-- Commenting xbmc.python allows install on all versions of Kodi -->
+	<!-- <import addon="xbmc.python" version="2.14.0"/> -->
+	<import addon="script.module.six"/>
+	<import addon="script.module.kodi-six"/>
+	</requires>
+	<extension	point="xbmc.python.pluginsource"
+				library="default.py">
+				<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<news>
+v 0.9.8 2021-06-17
+- fix xhamster
+- fix youjizz
+- hopefully fix python 2/3 compatibiliy issues
+		</news>
+		<summary>[COLOR red]XXX[/COLOR] Porn videos</summary>
+		<description>
+Internet [COLOR red]XXX Porn Video[COLOR white] Streams.
+
+[COLOR red][B]WARNING:[/B][COLOR red]Only for adults[/COLOR]
+
+[COLOR white]Github:
+https://github.com/Vashiel/repository.adulthideout
+
+Email:
+adulthideout@yandex.com[/COLOR]
+
+		</description>
+		<disclaimer>
+		</disclaimer>
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<mainsource>https://github.com/Vashiel/repository.adulthideout</mainsource>
+		<source></source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.arenavisionl" name="ArenaVision" version="0.1.11" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -1119,42 +1166,6 @@ v1.0.0.matrix.1
       <assets>
         <icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="plugin.video.carbon-tv" name="CarbonTV" version="2021.11.19" provider-name="MetalChris">
-  <requires>
-    <!-- <import addon="xbmc.python" version="2.24.0"/> -->
-    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
-    <import addon="script.module.html5lib" version="0.999.0"/>
-    <import addon="script.module.requests" version="2.9.1"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">CarbonTV</summary>
-    <description lang="en">Watch video clips and full episodes from CarbonTV, the premier online video destination for premium outdoor themed shows and engaging personalities.  *Matrix Version*</description>
-    <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
-    <language>en</language>
-    <platform>all</platform>
-    <license>GPL(v2) or Later</license>
-    <forum>http://forum.kodi.tv/showthread.php?tid=267580</forum>
-    <website>http://www.carbontv.com</website>
-    <email></email>
-    <source>https://raw.githubusercontent.com/MetalChris/repository.metalchris/master/plugin.video.carbon-tv/addon.py</source>
-    <news>Version 2021.11.19 - Fix Log Level</news>
-    <assets>
-        <icon>resources/media/icon.png</icon>
-        <fanart>resources/media/fanart.jpg</fanart>
-        <screenshot>resources/media/screenshot011.png</screenshot>
-        <screenshot>resources/media/screenshot015.png</screenshot>
-        <screenshot>resources/media/screenshot016.png</screenshot>
-        <screenshot>resources/media/screenshot017.png</screenshot>
-        <screenshot>resources/media/screenshot019.png</screenshot>
-        <screenshot>resources/media/screenshot020.png</screenshot>
-        <screenshot>resources/media/screenshot021.png</screenshot>
     </assets>
   </extension>
 </addon>
@@ -1725,6 +1736,35 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	</extension>
 </addon>
 
+<addon id="plugin.video.kitp" name="KITP Videos" version="0.2" provider-name="garrison">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.six" version="1.11.0"/>
+    <import addon="script.module.requests" version="2.12.4"/>
+    <import addon="script.module.beautifulsoup4" version="4.5.3"/>
+    <import addon="script.module.html5lib" version="0.999.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="resources/lib/main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.python.module" library="resources/lib/"/>
+  <extension point="xbmc.addon.metadata">
+    <news>
+      0.1 Initial release, works on Kodi 18
+      0.2 Updated to work on Kodi 19
+    </news>
+    <summary lang="en">Videos from the Kavli Institute for Theoretical Physics</summary>
+    <description lang="en">The Kavli Institute for Theoretical Physics (KITP) is a research institute of the University of California, Santa Barbara. KITP is one of the most renowned institutes for theoretical physics in the world, and brings theorists in physics and related fields together to work on topics at the forefront of theoretical science.  This plugin provides access to KITP's library of online talks.</description>
+    <disclaimer lang="en">This plugin is not endorsed by KITP.</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+    <license>LGPL 2.1 or later</license>
+    <source>https://github.com/garrison/plugin.video.kitp</source>
+  </extension>
+</addon>
+
 <addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.0" provider-name="Kodi Karaoke">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -1794,6 +1834,47 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 		</assets>
 		<news>Primera versión también compatible con Kodi 19 Matrix</news>
 	</extension>
+</addon>
+
+<addon id="plugin.video.lazyman.nhl.tv" name="LazyMan" version="1.3.0" provider-name="actionbronson,skydrome">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+    <import addon="script.module.requests-cache" version="0.5.2"/>
+    <import addon="script.module.pytz" version="2019.3.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.6.3.1"/>
+    <import addon="inputstream.adaptive" version="2.5.4"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">LazyMan NHL.tv</summary>
+    <description lang="en">An application that helps you watch free NHL and MLB games</description>
+    <forum>https://www.reddit.com/r/LazyMan</forum>
+    <source>https://github.com/actionbronson/LazyMan</source>
+    <platform>all</platform>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <license>GPL-2.0</license>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
+    <news>
+v1.3.0 (2020-03-28)
+  - Added game preview summaries and thumbnails
+  - Added game recaps and all team videos in highlights menu
+  - Show projected pitchers and weather info
+  - Show league leaders on menu
+  - Added broadcast network icons
+  - Favorited teams get highlighted
+  - Show more detailed gamestates (Postponed Cancelled EarlyFinish Rain)
+v1.2.0 (2019-11-28)
+  - Python3 Support for kodi matrix
+  - Settings menu converted to new format
+  - Livestreams playable at pre-game
+    </news>
+  </extension>
 </addon>
 
 <addon id="plugin.video.live.alliance" name="Alliance" version="1.0.0" provider-name="alliance">
@@ -2274,38 +2355,6 @@ In addition to what livestreams allowed you to do, you can now,
 	</extension>
 </addon>
 
-<addon id="plugin.video.stadium" name="Stadium" version="2021.10.09" provider-name="MetalChris">
-  <requires>
-    <!-- <import addon="xbmc.python" version="2.1.0"/> -->
-    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
-    <import addon="script.module.html5lib" version="0.999.0"/>
-    <import addon="script.module.mechanize" version="0.2.6"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Watch exclusive live games and events, extensive highlights, classic games, and original programming.</summary>
-    <description lang="en">Stadium was formed when Campus Insiders, 120 Sports and American Sports Network combined forces to create a multi-platform sports network that brings together exclusive live games and events, extensive highlights, classic games, original programming, and daily live studio programming. *Matrix Version*</description>
-    <disclaimer lang="en">No support at TVAddons.  For support go to forum.kodi.tv or my github site.  Please always provide a full, unedited debug log when requesting support.</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license>GPL(v2) or Later</license>
-    <forum>https://forum.kodi.tv/showthread.php?tid=299122</forum>
-    <website>http://watchstadium.com</website>
-    <email></email>
-    <source></source>
-    <news>Version 2021.10.09 - Update for Matrix</news>
-    <assets>
-        <icon>resources/media/icon.png</icon>
-        <fanart>resources/media/fanart.jpg</fanart>
-        <screenshot>resources/media/screenshot008.png</screenshot>
-        <screenshot>resources/media/screenshot010.png</screenshot>
-        <screenshot>resources/media/screenshot011.png</screenshot>
-    </assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.stream2watch" name="stream2watch" version="1.0.e" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
@@ -2358,6 +2407,37 @@ In addition to what livestreams allowed you to do, you can now,
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon>
+
+<addon id="plugin.video.That_Banned_Channel"
+version="1.0.1"
+name="That Banned Channel"
+provider-name="FrankAaro">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="plugin.video.youtube" version="5.2.1"/>
+  <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Banned.video</summary>
+  <description lang="en_GB">Banned.video</description>
+  <disclaimer lang="en_GB">Banned.video</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources\screenshot-01.jpg</screenshot>
+    <screenshot>resources\screenshot-02.jpg</screenshot>
+    <screenshot>resources\screenshot-03.jpg</screenshot>
+  </assets>
+  <news>
+	  Updated 8-20-21
+	  -added working livestreams
+	  -added requirement packages to addon.xml
+  </news>
+</extension>
 </addon>
 
 <addon id="plugin.video.theanonymous.matrix" name="[B][COLOR lime]TheAnonymous [/COLOR][COLOR red]Matrix [/B][/COLOR]" version="2.4" provider-name="[B][COLOR yellow]TheAnonymous [/COLOR][COLOR red]Matrix [/B][/COLOR]">
@@ -2484,6 +2564,30 @@ provider-name="jurialmunkey">
 </extension>
 </addon>
 
+<addon id="plugin.video.toolazy" name="Too Lazy" version="0.0.7" provider-name="zkte">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.routing" version="0.2.3+matrix.1"/>
+    <import addon="script.module.requests" version="2.25.1+matrix.1"/>
+    <import addon="script.module.dateutil" version="2.8.1+matrix.1"/>
+    <import addon="script.module.zkte.m3u8" version="0.8.0+matrix.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="resources/service/toolazy_proxy.py" start="[login|startup]" />
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">Too Lazy</summary>
+    <description lang="en_gb">Too Lazy</description>
+    <platform>all</platform>
+    <license>GPL-3.0-only</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.12">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
@@ -2510,36 +2614,6 @@ provider-name="jurialmunkey">
             <screenshot>resources/screenshots/screenshot-4.jpg</screenshot>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
-</addon>
-
-<addon id="plugin.video.truecrime" name="True Crime Network" version="2022.01.16" provider-name="MetalChris">
-    <requires>
-        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
-        <import addon="script.module.requests" version="2.9.1"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource"
-               library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <license>GPL 2.0</license>
-        <summary lang="en">24/7 True Crime programming</summary>
-        <description lang="en">True Crime Network is a 24/7 broadcast television network that entertains and informs its viewers with gripping crime and investigation programming while making communities safer.  This add-on provides access to the True Crime Network video on demand library. *Matrix Version*</description>
-        <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
-        <language></language>
-        <platform>all</platform>
-        <license>GPL(v2) or Later</license>
-        <forum></forum>
-        <website>https://www.truecrimenetworktv.com/</website>
-        <email></email>
-        <source></source>
-        <news>v.2022.01.16[CR]- Fix for website changes.</news>
-        <assets>
-            <icon>resources/media/icon.png</icon>
-            <fanart>resources/media/fanart.jpg</fanart>
-        </assets>
     </extension>
 </addon>
 
@@ -2841,6 +2915,28 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
+<addon id="plugin.video.vogelspot" name="Vogelspot" provider-name="Arnold Vink" version="1.0.8">
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <website>https://arnoldvink.com</website>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <screenshot>resources/screenshot1.jpg</screenshot>
+    </assets>
+    <summary>Watch live bird streams</summary>
+    <description>Vogelspot is an addon that allows you to watch live bird streams from Beleefdelente, Nestkastlive and more.</description>
+    <summary lang="nl">Kijk live vogel streams</summary>
+    <description lang="nl">Vogelspot is een addon die je toegang geeft tot live vogel streams van Beleefdelente, Nestkastlive en meer.</description>
+    <news>
+v1.0.0 (19 March 2021)
+- First public released test version.
+    </news>
+  </extension>
+</addon>
+
 <addon id="plugin.video.vukovarusrcu" name="[B][I][COLOR red]VUKOVAR U SRCU[/COLOR][/I][/B]" version="0.1.0+matrix.1" provider-name="ZTBH">
 <requires>
   <import addon="script.module.routing" version="0.2.3"/>
@@ -2963,60 +3059,6 @@ Add-on originally by doko.
         <platform lang="en">all</platform>
         <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
     </extension>
-</addon>
-
-<addon id="plugin.video.watchyourtv" name="WatchYour.TV" version="2021.01.11" provider-name="MetalChris">
-  <requires>
-    <!-- <import addon="xbmc.python" version="2.20.0"/> -->
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Watch FREE USA TV Channels Live with Recorded 7 Days DVR (Catch-Up).</summary>
-    <description lang="en">Watch FREE USA TV Channels Live with Recorded 7 Days DVR (Catch-Up). Never Miss Any Program. watchyour.tv is an over-the-top television streaming service with the most comprehensive USA based content.</description>
-    <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license>GPL(v2) or Later</license>
-    <forum></forum>
-    <website>https://www.watchyour.tv/</website>
-    <email></email>
-    <source></source>
-    <news>v.2022.01.11[CR]- Fix for API change for live channels.</news>
-    <assets>
-        <icon>/resources/media/icon.png</icon>
-        <fanart>resources/media/fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="plugin.video.weathernation" name="WeatherNation TV" version="2021.09.26" provider-name="MetalChris">
-  <requires>
-    <!-- <import addon="xbmc.python" version="2.1.0"/> -->
-    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
-    <import addon="script.module.html5lib" version="0.999.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">WeatherNation</summary>
-    <description lang="en">Delivers the latest in-depth local, regional and national weather video, forecasts, maps, radar, news, satellite maps and alerts on WeatherNation.  *Matrix Version*</description>
-    <disclaimer lang="en"></disclaimer>
-    <language>English</language>
-    <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source></source>
-    <news>v.2021.09.26: Updates for Matrix</news>
-    <assets>
-        <icon>resources/media/icon.png</icon>
-        <fanart>resources/media/fanart.jpg</fanart>
-    </assets>
-  </extension>
 </addon>
 
 <addon id="plugin.video.wltvhelper" name="World Live TV Helper" version="1.2.3" provider-name="WLTV Group">
@@ -3225,6 +3267,20 @@ Add-on originally by doko.
     </extension>
 </addon>
 
+<addon id="repository.arnoldvink" name="Arnold Vink's Kodi Repository" provider-name="Arnold Vink" version="1.1.0">
+  <extension point="xbmc.addon.repository" name="Arnold Vink's Kodi Repository">
+    <info>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml.md5</checksum>
+    <datadir zip="True">https://raw.githubusercontent.com/dumbie/kodirepo/master/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Install Add-ons developed by Arnold Vink</summary>
+    <description>Arnold Vink's Kodi Repository</description>
+    <website>https://arnoldvink.com</website>
+  </extension>
+</addon>
+
   <addon
   id="repository.arrownegra"
   name="[COLOR red]Arrow[/COLOR] [COLOR black]Negra[/COLOR] [COLORcyan]Repository[/COLOR]"
@@ -3338,6 +3394,166 @@ Add-on originally by doko.
     </extension>
 </addon>
 
+<addon id="repository.encryptic" name="EnCryptic Repository" provider-name="Bones" version="1.1.4">
+  <extension point="xbmc.addon.repository" name="EnCryptic Repository">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+    <dir>
+      <info compressed="false">https://symbo.encrypticmh.appboxes.co/zips/addons.xml</info>
+      <checksum>https://symbo.encrypticmh.appboxes.co/zips/addons.xml.md5</checksum>
+      <datadir zip="true">https://symbo.encrypticmh.appboxes.co/zips/</datadir>
+	</dir>
+    <dir minversion="18.9.700">
+		<info compressed="false">https://repo.encrypticmh.appboxes.co/bones/matrix/zips/addons.xml</info>
+		<checksum>https://repo.encrypticmh.appboxes.co/bones/matrix/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://repo.encrypticmh.appboxes.co/bones/matrix/zips/</datadir>
+	</dir>
+	<dir>
+      <info compressed="false">https://repo.encrypticmh.appboxes.co/bones/leia/zips/addons.xml</info>
+      <checksum>https://repo.encrypticmh.appboxes.co/bones/leia/zips/addons.xml.md5</checksum>
+      <datadir zip="true">https://repo.encrypticmh.appboxes.co/bones/leia/zips/</datadir>
+	</dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en_GB">EnCryptic</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.2" provider-name="G-Man">
+<extension point="xbmc.addon.repository" name="G-Live Repository">
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml</info>       <checksum>https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.glive/master/</datadir>
+    </dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>A collection of Free-IPTV Add-ons</summary>
+    <description>These IPTV add-ons are free to use, but keep in mind Free IPTV services can be a bit unstable and break easily.</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+</extension>
+</addon>
+
+<addon id="repository.gscribe" name="[COLOR orange]G-Scribe Repository[/COLOR]" version="1.0.1" provider-name="G-Man">
+<extension point="xbmc.addon.repository" name="G-Scribe Repository">
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/mrgsi/repository.gscribe/master/addons.xml</info>       <checksum>https://raw.githubusercontent.com/mrgsi/repository.gscribe/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.gscribe/master/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages-py3/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages-py3/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages-py3/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
+        <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
+    </dir>
+    <dir>
+		<info>https://github.com/CastagnaIT/repository.castagnait/raw/matrix/addons.xml</info>
+		<checksum>https://github.com/CastagnaIT/repository.castagnait/raw/matrix/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/CastagnaIT/repository.castagnait/raw/matrix/zip</datadir>
+	</dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>A repository of Subscription Add-ons</summary>
+    <description>Access your paid Streaming subsriptions with these add-ons.</description>
+    <platform>all</platform>
+    <assets>
+    <icon>icon.png</icon>
+    </assets>
+</extension>
+</addon>
+
+<addon id="repository.gsource" name="[COLOR lime]G-Source Repository[/COLOR]" version="1.0.0" provider-name="G-Man">
+<extension point="xbmc.addon.repository" name="G-Source Repository">
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/mrgsi/repository.gsource/master/addons.xml</info>       <checksum>https://raw.githubusercontent.com/mrgsi/repository.gsource/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.gsource/master/</datadir>
+    </dir>
+    <dir>
+        <info compressed="true">https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml</info>
+        <checksum>https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/zach-morris/repository.zachmorris/master/</datadir>
+    </dir>
+    <dir minversion="18.9.0">
+        <info compressed="false">https://raw.github.com/jmooremcc/Repository.jmooremcc/master/addons.xml</info> <checksum>https://raw.github.com/jmooremcc/Repository.jmooremcc/master/addons.xml.md5</checksum>
+	    <datadir zip="true">https://raw.github.com/jmooremcc/Repository.jmooremcc/master</datadir>
+    </dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>For Kodi 19 and above</summary>
+    <description>Discover Huge Directory of Repos and Add-ons for Kodi 19 and above.</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+</extension>
+</addon>
+
+<addon id="repository.gsports" name="[COLOR yellow]G-Sports Repository[/COLOR]" version="1.0.0" provider-name="G-Man">
+<extension point="xbmc.addon.repository" name="G-Sport Repository">
+    <dir>
+        <info compressed="false">https://github.com/mrgsi/repository.gsports/raw/master/addons.xml</info>
+        <checksum>https://github.com/mrgsi/repository.gsports/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.gsports/master/</datadir>
+    </dir>
+    <dir>
+		<info compressed="false">https://raw.githubusercontent.com/arxtic-ape/repo.arxtic-ape/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/arxtic-ape/repo.arxtic-ape/master/addons.xml.md5</checksum>
+		<datadir zip="false">https://raw.github.com/arxtic-ape/repo.arxtic-ape/master/</datadir>
+	</dir>
+    <dir>
+		<info compressed="false">https://loopaddon.uk/zips19/addons.xml</info>
+	    <checksum>https://loopaddon.uk/zips19/addons.xml.md5</checksum>
+		<datadir zip="true">https://loopaddon.uk/zips19/</datadir>
+    </dir>
+    <dir>
+		<info compressed="false">https://mullafabz.xyz/Plugins/K19/Plugins/addons.xml</info>
+		<checksum>https://mullafabz.xyz/Plugins/K19/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://mullafabz.xyz/Plugins/K19/Plugins/</datadir>
+	</dir>
+    <dir minversion="19.0.0">
+        <info compressed="false">https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/</datadir>
+    </dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>Sports Add-ons</summary>
+    <description>A collection of Add-on Repos which focus on only Sports.</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+</extension>
+</addon>
+
 <addon id="repository.jizzplanet" name="Jizzplanet Repo" provider-name="Jizzplanet.com" version="3.0.1">
 	<extension point="xbmc.addon.repository" name="Jizzplanet.com" >
 			<dir minversion="16.0.0" maxversion="18.9.9">
@@ -3431,6 +3647,23 @@ Add-on originally by doko.
             <summary>Repo from MartinStz</summary>
             <description>For installing Bulsat, Exodus, Covenant, Specto and subtitles addons</description>
             <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.matrix" name="MetalChris' Matrix Repository" version="2022.04.09" provider-name="MetalChris">
+    <extension point="xbmc.addon.repository" name="Official MetalChris Matrix Repository">
+        <info compressed="false">https://raw.github.com/MetalChris/repository.matrix/master/addons.xml</info>
+        <checksum>https://raw.github.com/MetalChris/repository.matrix/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/MetalChris/repository.matrix/master/zips</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+		<summary>MetalChris' Kodi addons</summary>
+		<description>Support provided at forum.kodi.tv or via my github.  I will not provide support at TVaddons, or any other forum.  Please provide a full, unedited, debug log when requesting support.</description>
+        <platform>all</platform>
+        <news>Vuit add-on has been broken by website changes.</news>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
     </extension>
 </addon>
 
@@ -4118,6 +4351,29 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
+<addon id="script.module.requests-cache"
+       name="requests-cache"
+       version="0.5.2+matrix.2"
+       provider-name="Roman Haritonov">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0+matrix.1"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Persistent cache for requests library</summary>
+    <description lang="en_GB">Packed for KODI: requests-cache</description>
+    <platform>all</platform>
+    <license>BSD</license>
+    <website>https://pypi.org/project/requests-cache/</website>
+    <source>https://github.com/reclosedev/requests-cache</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="script.module.routing" name="Plugin routing" version="0.2.3.1" provider-name="takoi">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -4134,6 +4390,43 @@ http://zadarbuild.com.hr
             <icon>resources/icon.png</icon>
         </assets>
     </extension>
+</addon>
+
+<addon id="script.module.zkte.iso8601" name="iso8601" version="0.1.14+matrix.1" provider-name="Michael Twomey">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Simple module to parse ISO 8601 dates</summary>
+    <description lang="en_GB">This module parses the most common forms of ISO 8601 date strings (e.g. 2007-01-14T20:34:22+00:00) into datetime objects.</description>
+    <license>MIT</license>
+    <platform>all</platform>
+    <website>https://github.com/micktwomey/pyiso8601</website>
+    <source>https://github.com/micktwomey/pyiso8601</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.module.zkte.m3u8" name="m3u8" version="0.8.0+matrix.1" provider-name="Globo.com">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.zkte.iso8601" version="0.1.14+matrix.1"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Python m3u8 parser</summary>
+    <description lang="en_GB">Python m3u8 parser</description>
+    <license>MIT</license>
+    <platform>all</platform>
+    <website>https://github.com/globocom/m3u8</website>
+    <source>https://github.com/globocom/m3u8</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="script.sites"

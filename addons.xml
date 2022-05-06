@@ -26,7 +26,7 @@
 </addon>
 
 <addon id="context.video.favourites"
-version="0.1.0.Tk"
+version="0.1.0.tk"
 name="Video Favourites Context Menu"
 provider-name="primaeval">
 <requires>
@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.043g" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.044" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1576,7 +1576,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.favourites" version="0.0.5.tk" name="Video Favourites" provider-name="primaeval">
+<addon id="plugin.video.favourites" version="0.0.6.tk" name="Video Favourites" provider-name="primaeval">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -1593,24 +1593,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     <icon>icon.png</icon>
   </assets>
 </extension>
-</addon>
-
-<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.1.0" provider-name="AceTorr">
-  <requires>
-   <import addon="script.module.six" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="es">Los Mejores Eventos deportivos usando Acestream</summary>
-    <description>Todo el deporte con [COLOR red]Acestream[/COLOR].[CR][CR]Enlaces obtenidos de la página web:[CR][COLOR blue]····https://····[/COLOR][CR]La cual se ayuda del Canal de Telegram [COLOR lime]@ACEstream_Spanish[/COLOR].[CR][CR]**En Ajustes puede elegir entre usar solo [COLOR red]Motor Acestream[/COLOR] o el plugin [COLOR yellow]Horus+Acestream[/COLOR] para lanzar los enlaces p2p.</description>
-    <platform>all</platform>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
 </addon>
 
 <addon

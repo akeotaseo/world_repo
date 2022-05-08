@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.044b" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.044c" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -951,6 +951,42 @@ provider-name="Parrot Developers">
     [1.0.0] Initial version!
   </news>
 </extension>
+</addon>
+
+<addon id="plugin.video.2" version="1.1.5" name="2" provider-name="2">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+        <import addon="script.module.2" />
+        <import addon="script.2.artwork" />
+        <import addon="script.2.metadata" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension library="thecrew.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension library="service.py" point="xbmc.service" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/art/ss/1.png</screenshot>
+            <screenshot>resources/art/ss/2.png</screenshot>
+            <screenshot>resources/art/ss/3.png</screenshot>
+        </assets>
+    </extension>
 </addon>
 
 <addon 	id="plugin.video.7Plus.Matrix"
@@ -1576,7 +1612,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.favourites" version="0.0.7.tk" name="Video Favourites" provider-name="primaeval">
+<addon id="plugin.video.favourites" version="0.0.8.tk" name="Video Favourites" provider-name="primaeval">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -2973,49 +3009,6 @@ v0.1.0
 </extension>
 </addon>
 
-<addon id="plugin.video.w4free" name="W4free" version="0.0.6" provider-name="Lolage">
-	<requires>
-		<import addon="script.common.plugin.cache" version="2.6.1"/>
-		<import addon="script.module.six"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">W4free</summary>
-		<description lang="en_GB">
-      This addon allows you watch Movies and TV Series from W4free
-		</description>
-		<language>uk us</language>
-		<platform>all</platform>
-		<license>GPL-3.0-only</license>
-		<news>
-v0.0.6 (2022-02-11)
-Fix due to template changes
-
-v0.0.5 (2021-04-03)
-Fix due to new template changes
-
-v0.0.4 (2021-03-26)
-Start working on TV series
-Pass info to playing Video
-
-v0.0.3 (2021-03-22)
-Add Channel Art.
-
-v0.0.2 (2021-03-18)
-Add Art.
-
-v0.0.1 (2021-03-15)
-Initial version.
-		</news>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.2" provider-name="doko">
     <requires>
         <import addon="script.module.requests"/>
@@ -3068,6 +3061,31 @@ Add-on originally by doko.
         <platform lang="en">all</platform>
         <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
     </extension>
+</addon>
+
+<addon id="plugin.video.wedotv" name="WeDoTV" version="0.0.8" provider-name="azzy9">
+	<requires>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.six"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">WeDoTV</summary>
+		<description lang="en_GB">This addon allows you watch Movies and TV Series from WeDoTV</description>
+		<language>uk</language>
+		<platform>all</platform>
+		<license>GPL-3.0-only</license>
+		<news>
+v0.0.8 (2022-05-07)
+Add Wallpaper
+		</news>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="plugin.video.wltvhelper" name="World Live TV Helper" version="1.2.3" provider-name="WLTV Group">
@@ -4057,6 +4075,42 @@ http://zadarbuild.com.hr
 	</extension>
 </addon>
 
+<addon id="script.thecrew.2" version="1.0.0" name="2" provider-name="2">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.2.metadata" version="1.0.0" name="2" provider-name="2">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="script.diggzskins"
 	     name="Diggz Skin Switcher"
 	     version="420.21"
@@ -4341,6 +4395,25 @@ http://zadarbuild.com.hr
       <screenshot>resources/screenshot002.jpg</screenshot>
     </assets>
   </extension>
+</addon>
+
+<addon id="script.module.2" name="2" version="1.1.5i" provider-name="2">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+        <import addon="script.module.beautifulsoup4"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="script.module.bencodepy" name="bencode.py" version="4.0.0+matrix.1" provider-name="fuzeman">

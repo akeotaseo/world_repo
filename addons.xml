@@ -953,42 +953,6 @@ provider-name="Parrot Developers">
 </extension>
 </addon>
 
-<addon id="plugin.video.2" version="1.1.5" name="2" provider-name="2">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.25.0" />-->
-        <import addon="script.module.2" />
-        <import addon="script.2.artwork" />
-        <import addon="script.2.metadata" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.resolveurl" />
-        <import addon="script.module.simplejson" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.beautifulsoup4" />
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-        <import addon="plugin.video.youtube" optional="true" />
-        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
-    </requires>
-    <extension library="thecrew.py" point="xbmc.python.pluginsource">
-        <provides>video</provides>
-    </extension>
-    <extension library="service.py" point="xbmc.service" start="startup" />
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
-        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-            <screenshot>resources/art/ss/1.png</screenshot>
-            <screenshot>resources/art/ss/2.png</screenshot>
-            <screenshot>resources/art/ss/3.png</screenshot>
-        </assets>
-    </extension>
-</addon>
-
 <addon 	id="plugin.video.7Plus.Matrix"
 	name="[B][COLOR red]7PLUS[/COLOR][/B]"
 	version="1.0.0+matrix.1"
@@ -2427,6 +2391,42 @@ provider-name="Parrot Developers">
             <icon></icon>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
+<addon id="plugin.video.tc" version="1.1.5" name="tc" provider-name="tc">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+        <import addon="script.module.tc" />
+        <import addon="script.tc.artwork" />
+        <import addon="script.tc.metadata" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension library="thecrew.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension library="service.py" point="xbmc.service" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/art/ss/1.png</screenshot>
+            <screenshot>resources/art/ss/2.png</screenshot>
+            <screenshot>resources/art/ss/3.png</screenshot>
+        </assets>
     </extension>
 </addon>
 
@@ -4075,42 +4075,6 @@ http://zadarbuild.com.hr
 	</extension>
 </addon>
 
-<addon id="script.2.artwork" version="1.0.0" name="2" provider-name="2">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.25.0" />-->
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
-        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="script.2.metadata" version="1.0.0" name="2" provider-name="2">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.25.0" />-->
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
-        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="script.diggzskins"
 	     name="Diggz Skin Switcher"
 	     version="420.21"
@@ -4397,25 +4361,6 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
-<addon id="script.module.2" name="2" version="1.1.5i" provider-name="2">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.25.0" />-->
-        <import addon="script.module.beautifulsoup4"/>
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
-        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="script.module.bencodepy" name="bencode.py" version="4.0.0+matrix.1" provider-name="fuzeman">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -4494,6 +4439,25 @@ http://zadarbuild.com.hr
     </extension>
 </addon>
 
+<addon id="script.module.tc" name="tc" version="1.1.5i" provider-name="tc">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+        <import addon="script.module.beautifulsoup4"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="script.module.zkte.iso8601" name="iso8601" version="0.1.14+matrix.1" provider-name="Michael Twomey">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -4550,6 +4514,42 @@ http://zadarbuild.com.hr
 	<icon>icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="script.tc.artwork" version="1.0.0" name="tc" provider-name="tc">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.tc.metadata" version="1.0.0" name="tc" provider-name="tc">
+    <requires>
+        <!--<import addon="xbmc.python" version="2.25.0" />-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="script.video.F4mProxy"

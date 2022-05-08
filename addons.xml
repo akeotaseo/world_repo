@@ -1612,7 +1612,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.favourites" version="0.0.8.tk" name="Video Favourites" provider-name="primaeval">
+<addon id="plugin.video.favourites" version="0.0.9.tk" name="Video Favourites" provider-name="primaeval">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -4075,7 +4075,7 @@ http://zadarbuild.com.hr
 	</extension>
 </addon>
 
-<addon id="script.thecrew.2" version="1.0.0" name="2" provider-name="2">
+<addon id="script.2.artwork" version="1.0.0" name="2" provider-name="2">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
     </requires>

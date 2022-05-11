@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045a" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045b" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -2258,6 +2258,36 @@ In addition to what livestreams allowed you to do, you can now,
         <summary lang="en">polstreamLive</summary>
         <description lang="en">polstreamLive</description>
         <disclaimer lang="en">polstreamLive
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon></icon>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
+<addon id="plugin.video.replaymatches" name="replaymatches" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+		<import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.addon.metadata">
+        <description lang="pl">replaymatches</description>
+        <disclaimer lang="pl">replaymatches
+        </disclaimer>
+        <summary lang="en">replaymatches</summary>
+        <description lang="en">replaymatches</description>
+        <disclaimer lang="en">replaymatches
         </disclaimer>
         <language>pl</language>
         <platform>all</platform>

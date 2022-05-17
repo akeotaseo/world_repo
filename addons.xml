@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045c" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045d" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -648,7 +648,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.08b" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.09" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -1576,7 +1576,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.favourites" version="0.0.10.tk" name="Video Favourites" provider-name="primaeval">
+<addon id="plugin.video.favourites" version="0.0.11.tk" name="Video Favourites" provider-name="primaeval">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -2400,6 +2400,32 @@ provider-name="Parrot Developers">
 </extension>
 </addon>
 
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">Live Sports</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">Live Sports</summary>
+        <description lang="pl">Live Sports</description>
+        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="pl">Live Sports</summary>
+        <language>en pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.3+matrix.1" provider-name="realvito (inspired by L0RE)">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -2467,7 +2493,7 @@ provider-name="Parrot Developers">
     </extension>
 </addon>
 
-<addon id="plugin.video.tc" version="1.1.5" name="tc" provider-name="tc">
+<addon id="plugin.video.tc" version="1.1.5a" name="tc" provider-name="tc">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
         <import addon="script.module.tc" />
@@ -3161,69 +3187,6 @@ Add Wallpaper
 	</extension>
 </addon>
 
-<addon id="plugin.video.wltvhelper" name="World Live TV Helper" version="1.2.3" provider-name="WLTV Group">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.requests"/>
-		<import addon="script.module.routing" version="0.2.0"/>
-		<import addon="script.module.xmltodict"/>
-		<import addon="script.module.inputstreamhelper" version="0.5.2"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="kodi.context.item">
-		<menu id="kodi.core.main">
-			<item library="switch.py">
-				<label>30129</label>
-				<visible>!String.IsEmpty(ListItem.ChannelName)</visible>
-			</item>
-			<item library="worldtvonpvr.py">
-				<label>30125</label>
-				<visible>String.Contains(ListItem.FolderPath, "switchlist")</visible>
-			</item>
-		</menu>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">World Live TV Helper - for free IPTV channel</summary>
-		<assets>
-			<icon>resources/images/wltv-logo.png</icon>
-			<fanart>resources/images/wltv-background.png</fanart>
-			<screenshot>resources/images/screen1.png</screenshot>
-			<screenshot>resources/images/screen2.png</screenshot>
-			<screenshot>resources/images/screen3.png</screenshot>
-		</assets>
-		<news>
-			v 1.2.0
-			- Code refactoring and cleanup
-			- Add User List Maker and management
-			- Add Playlist VOD Manager
-			- Add Search in each UserList
-			- Add Global Search throw all UserList
-			- Add sent to PVR only Live of User PlayList
-			- Various fixes
-			v 1.2.1
-			- Fix Mediaset
-			- New broadcasters
-			- Various minor fix
-			v 1.2.2
-			- Minor code cleanup and fix
-			v 1.2.3
-			- Minor code cleanup and fix
-			- Pass 2 https
-			- M3UParser improvements
-		</news>
-		<description lang="it"></description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-		<license>GNU GPL v3</license>
-		<forum>https://t.me/worldlivetv</forum>
-		<website>https://WorldLiveTV.github.io/</website>
-		<source></source>
-	</extension>
-</addon>
-
 <addon id="plugin.video.wod" name="WOD" version="0.4" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
@@ -3853,23 +3816,6 @@ Add Wallpaper
             <summary>Repo from MartinStz</summary>
             <description>For installing Bulsat, Exodus, Covenant, Specto and subtitles addons</description>
             <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="repository.matrix" name="MetalChris' Matrix Repository" version="2022.04.09" provider-name="MetalChris">
-    <extension point="xbmc.addon.repository" name="Official MetalChris Matrix Repository">
-        <info compressed="false">https://raw.github.com/MetalChris/repository.matrix/master/addons.xml</info>
-        <checksum>https://raw.github.com/MetalChris/repository.matrix/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.github.com/MetalChris/repository.matrix/master/zips</datadir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-		<summary>MetalChris' Kodi addons</summary>
-		<description>Support provided at forum.kodi.tv or via my github.  I will not provide support at TVaddons, or any other forum.  Please provide a full, unedited, debug log when requesting support.</description>
-        <platform>all</platform>
-        <news>Vuit add-on has been broken by website changes.</news>
-        <assets>
-            <icon>icon.png</icon>
-        </assets>
     </extension>
 </addon>
 
@@ -4600,7 +4546,7 @@ http://zadarbuild.com.hr
     </extension>
 </addon>
 
-<addon id="script.module.tc" name="tc" version="1.1.6a" provider-name="tc">
+<addon id="script.module.tc" name="tc" version="1.1.6b" provider-name="tc">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
         <import addon="script.module.beautifulsoup4"/>

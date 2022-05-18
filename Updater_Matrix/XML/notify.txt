@@ -13,40 +13,40 @@
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
   [B]Τελευταία ενημέρωση 18 Μαΐου 2022:[/B]
- -Προσθήκη συντόμευσης (με δυνατότητα επιλογής εγκατάστασης)
+- Προσθήκη συντόμευσης (με δυνατότητα επιλογής εγκατάστασης)
   του πρόσθετου [B]Sport LIVE[/B]
   & αλλαγές στο [COLOR blue]LIVE NOW[/COLOR]
   στην κατηγορία [B]SPORTS[/B]
   
-  - Απεγκατάσταση του πρόσθετου [B][COLOR white]Click Here[/COLOR][/B] 
+- Απεγκατάσταση του πρόσθετου [B][COLOR white]Click Here[/COLOR][/B] 
   και αντικατάσταση τις συντόμευσης [B][COLOR white]Click Here[/COLOR][/B] σε [B][COLOR white] OneClick[/COLOR][/B]
   στην κατηγορία [B]MOVIES & TV[/B] 
   
-  - Εγκατάσταση του πρόσθετου [COLOR yellow]Big Bad Wolf[/COLOR] 
-    για ταινίες & σειρές
+- Εγκατάσταση του πρόσθετου [COLOR yellow]Big Bad Wolf[/COLOR] 
+  για ταινίες & σειρές
     
-  - Εγκατάσταση του πρόσθετου ([COLOR red]xxx[/COLOR]) Cumination
+- Εγκατάσταση του πρόσθετου ([COLOR red]xxx[/COLOR]) Cumination
   
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
     
     
   [B]Ενημέρωση 06 Μαΐου 2022:[/B]
 - Δουλειά δεν είχε ο διάλος...
-  
+
 - Αντικατάσταση του πρόσθετου [B]No Lives Matter[/B] στο [B]Auto Play[/B]
   με το [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
   στην κατηγορία [B]MOVIES & TV[/B] 
   
- - κ.α
+- κ.α
  
   [B]Ενημέρωση 26 Απριλίου 2022:[/B]
 - Αντικατάσταση του πρόσθετου [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B]
   με το [B]No Lives Matter[/B] στο [B]Auto Play[/B]
   στην κατηγορία [B]MOVIES & TV[/B] 
   
-   [B]Ενημέρωση 22 Απριλίου:[/B]
- - Έναρξη του build στην κατηγορία [B]ΚΑΙΡΟΣ[/B] (σε Graph)
-   ή στην κατηγορία [B]KODI[/B] (σε Txt)
+  [B]Ενημέρωση 22 Απριλίου:[/B]
+- Έναρξη του build στην κατηγορία [B]ΚΑΙΡΟΣ[/B] (σε Graph)
+  ή στην κατηγορία [B]KODI[/B] (σε Txt)
 
 - Εγκατάσταση [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B] (Auto Play),
   [B][COLOR white]Click Here[/COLOR][/B].

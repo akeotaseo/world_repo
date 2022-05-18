@@ -19,7 +19,7 @@
   στην κατηγορία [B]SPORTS[/B]
   
   - Απεγκατάσταση του πρόσθετου [B][COLOR white]Click Here[/COLOR][/B] 
-  και αντικατάσταση τις αυντόμευσης [B][COLOR white]Click Here[/COLOR][/B] με [B][COLOR white] OneClick[/COLOR][/B]
+  και αντικατάσταση τις συντόμευσης [B][COLOR white]Click Here[/COLOR][/B] σε [B][COLOR white] OneClick[/COLOR][/B]
   στην κατηγορία [B]MOVIES & TV[/B] 
   
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες

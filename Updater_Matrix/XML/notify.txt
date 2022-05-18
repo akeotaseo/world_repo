@@ -18,7 +18,7 @@
   & αλλαγές στο [COLOR blue]LIVE NOW[/COLOR]
   στην κατηγορία [B]SPORTS[/B]
   
-  - Ααπεγκατάσταση και αντικατάσταση του πρόσθετου [B][COLOR white]Click Here[/COLOR][/B] 
+  - Απεγκατάσταση του πρόσθετου [B][COLOR white]Click Here[/COLOR][/B] 
   και αντικατάσταση τις αυντόμευσης [B][COLOR white]Click Here[/COLOR][/B] με [B][COLOR white] OneClick[/COLOR][/B]
   στην κατηγορία [B]MOVIES & TV[/B] 
   

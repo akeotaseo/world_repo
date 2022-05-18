@@ -22,6 +22,11 @@
   και αντικατάσταση τις συντόμευσης [B][COLOR white]Click Here[/COLOR][/B] σε [B][COLOR white] OneClick[/COLOR][/B]
   στην κατηγορία [B]MOVIES & TV[/B] 
   
+  - Εγκατάσταση του πρόσθετου [COLOR yellow]Big Bad Wolf[/COLOR] 
+    για ταινίες & σειρές
+    
+  - Εγκατάσταση του πρόσθετου ([COLOR red]xxx[/COLOR]) Cumination
+  
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
     
     

@@ -12,11 +12,15 @@
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 17 Μαΐου 2022:[/B]
+  [B]Τελευταία ενημέρωση 18 Μαΐου 2022:[/B]
  -Προσθήκη συντόμευσης (με δυνατότητα επιλογής εγκατάστασης)
   του πρόσθετου [B]Sport LIVE[/B]
   & αλλαγές στο [COLOR blue]LIVE NOW[/COLOR]
   στην κατηγορία [B]SPORTS[/B]
+  
+  - Ααπεγκατάσταση και αντικατάσταση του πρόσθετου [B][COLOR white]Click Here[/COLOR][/B] 
+  και αντικατάσταση τις αυντόμευσης [B][COLOR white]Click Here[/COLOR][/B] με [B][COLOR white] OneClick[/COLOR][/B]
+  στην κατηγορία [B]MOVIES & TV[/B] 
   
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
     

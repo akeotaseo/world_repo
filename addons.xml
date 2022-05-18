@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045e" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045f" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -648,7 +648,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.09a" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.09b" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -2168,7 +2168,7 @@ In addition to what livestreams allowed you to do, you can now,
   </extension>
 </addon>
 
-<addon id="plugin.video.parrottv" version="1.1.6w" name="Parrot TV" provider-name="Parrot Developers">
+<addon id="plugin.video.parrottv" version="1.1.6wa" name="Parrot TV" provider-name="Parrot Developers">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>
@@ -2620,94 +2620,6 @@ provider-name="FrankAaro">
 </extension>
 </addon>
 
-<addon id="plugin.video.themoviedb.helper"
-version="4.7.20"
-name="TheMovieDb Helper"
-provider-name="jurialmunkey">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.9.1"/>
-  <import addon="script.module.pil" version="1.1.7"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="plugin.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.python.script" library="script.py" />
-<extension point="xbmc.service" library="service.py" />
-<extension point="kodi.context.item">
-  <menu id="kodi.core.main">
-    <item library="context.py" args="playusing">
-      <label>$ADDON[plugin.video.themoviedb.helper 32322]</label>
-      <visible>!String.IsEmpty(ListItem.Property(tmdbhelper.context.playusing))</visible>
-    </item>
-    <item library="context.py" args="related">
-      <label>$ADDON[plugin.video.themoviedb.helper 32235]</label>
-      <visible>!String.IsEmpty(ListItem.Property(tmdbhelper.context.related))</visible>
-    </item>
-    <item library="context.py" args="addlibrary">
-      <label>$LOCALIZE[20444]</label>
-      <visible>!String.IsEmpty(ListItem.Property(tmdbhelper.context.addlibrary))</visible>
-    </item>
-    <item library="context.py" args="trakt">
-      <label>$ADDON[plugin.video.themoviedb.helper 32295]</label>
-      <visible>!String.IsEmpty(ListItem.Property(tmdbhelper.context.trakt))</visible>
-    </item>
-    <item library="context.py" args="refresh">
-      <label>$ADDON[plugin.video.themoviedb.helper 32233]</label>
-      <visible>!String.IsEmpty(ListItem.Property(tmdbhelper.context.refresh))</visible>
-    </item>
-    <item library="context.py" args="artwork">
-      <label>$ADDON[plugin.video.themoviedb.helper 32222]</label>
-      <visible>!String.IsEmpty(ListItem.Property(tmdbhelper.context.artwork))</visible>
-    </item>
-    <item library="context.py" args="sorting">
-      <label>$ADDON[plugin.video.themoviedb.helper 32309]</label>
-      <visible>!String.IsEmpty(ListItem.Property(tmdbhelper.context.sorting))</visible>
-    </item>
-  </menu>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en_GB">TheMovieDb Helper - Now With Trakt Support!</summary>
-  <summary lang="es_ES">TheMovieDb Helper - ¡Ahora con soporte para Trakt!</summary>
-  <summary lang="fr_FR">TheMovieDb Helper - Maintenant avec support Trakt!</summary>
-  <description lang="en_GB">TheMovieDb Helper provides details about movies, tvshows and actors from TMDb. Users can access a variety of lists from TMDb and Trakt.</description>
-  <description lang="es_ES">TheMovieDb Helper proporciona detalles sobre películas, programas de televisión y actores de TMDb. Los usuarios pueden acceder a una variedad de listas desde TMDb y Trakt.</description>
-  <description lang="fr_FR">TheMovieDb Helper fournit des détails sur les films, les émissions de télévision et acteurs de TMDb. Les utilisateurs peuvent accéder à une variété de listes TMDb et Trakt.</description>
-  <disclaimer lang="en_GB">Provided by TheMovieDb and Trakt.</disclaimer>
-  <disclaimer lang="es_ES">Proporcionado por TheMovieDb y Trakt</disclaimer>
-  <disclaimer lang="fr_FR">Fourni par TheMovieDb et Trakt.</disclaimer>
-  <license>GPL-3.0-or-later</license>
-  <website>https://github.com/jurialmunkey/plugin.video.themoviedb.helper</website>
-  <forum>https://forum.kodi.tv/showthread.php?tid=345847</forum>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshot-01.jpg</screenshot>
-    <screenshot>resources/screenshot-02.jpg</screenshot>
-  </assets>
-<news>
-  - Improved PVR service matching
-  - Avoid unnecessary FanartTV re-requests
-  - Add In-Progress Episodes Trakt list
-  - Add Still to Watch Trakt list (In-Progress+Watchlist)
-  - Allow stacking of episodes from same show in calendar
-  - Fix collection matching and query encoding
-  - Better list filtering options
-  - Add cacheonly=true param for faster dialog widget loading
-  - Add script getter/setter functions for audio/subs in player
-  - Allow larger sync list items per page limits
-  - Fix plugincategory labels
-  - Fix randomised lists not refreshing
-  - Fix string formatter for update to Py3.7 in 19.3
-  - Fix fallback players when asserted value not available
-  - Allow both mark as watched/unwatched in Trakt options
-  - Update branding and icons
-  - Add temporary service pause for custom dialogs via Window.Property(TMDbHelper.ServicePause)
-  - Artwork monitor fixes
-</news>
-</extension>
-</addon>
-
 <addon id="plugin.video.toolazy" name="Too Lazy" version="0.0.7" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -2899,13 +2811,15 @@ provider-name="jurialmunkey">
 </addon>
 
 <addon id="plugin.video.ustvgo"
-version="1.0.9"
+version="1.1.1"
 name="USTVGO"
 provider-name="Parrot Developers">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>
   <import addon="inputstream.adaptive" version="2.3.13"/>
+  <import addon="script.module.parrot" version="1.0.0"/>
+  <import addon="script.module.routing"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="addon.py">
   <provides>video</provides>
@@ -2929,6 +2843,8 @@ provider-name="Parrot Developers">
     [1.0.7] Fixed channels. THX to jaygrizzy#7191 for AE.
     [1.0.8] Fixed channels.
     [1.0.9] Fixed Links.
+    [1.1.0] Re-Release!
+    [1.1.1] Some fixes.
   </news>
 </extension>
 </addon>
@@ -4089,7 +4005,7 @@ cambio host
 	</extension>
 </addon>
 
-<addon id="repository.wltv" name="WorldLiveTV Addon Repository" version="1.0.0" provider-name="WLTV">
+<addon id="repository.wltv" name="WLiveTV Repository" version="1.0.0" provider-name="WLTV">
 	<extension point="xbmc.addon.repository" name="WorldLiveTV Addon Repository">
 		<dir>
 			<info compressed="false">https://WorldLiveTV.github.io/repo/addons.xml</info>
@@ -4484,6 +4400,38 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
+<addon id="script.module.horus" name="Horus" version="1.1.7" provider-name="Caperucitaferoz">
+    <requires>
+        <import addon="script.module.six" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>Horus:
+"Señor de sus ojos"
+"Unificador de las dos tierras"
+"Señor de las estrellas circumpolares"
+"El de los dos ojos"
+        </description>
+        <disclaimer>En Horus no vais a encontrar ningún tipo de contenido: ni películas, ni series ni eventos deportivos.</disclaimer>
+        <platform>all</platform>
+        <assets>
+              <icon>icon.png</icon>
+              <fanart>fanart.jpg</fanart>
+              <screenshot>resources/media/Captura1.png</screenshot>
+              <screenshot>resources/media/Captura2.png</screenshot>
+              <screenshot>resources/media/Captura3.png</screenshot>
+              <screenshot>resources/media/Captura4.png</screenshot>
+        </assets>
+        <news>
+            - Añadido soporte para enlaces magnet-torrent
+        </news>
+        <forum>https://t.me/KodiManiac
+        https://t.me/acestream_spanish</forum>
+    </extension>
+</addon>
+
 <addon id="script.module.parrot" name="Parrot Utils" version="1.0.2" provider-name="Parrot Developers">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -4856,7 +4804,7 @@ v5.2.14 (2017-01-23)
   </extension>
 </addon>
 
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.5a" provider-name="TechNEWSology">
+<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.5b" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="vfs.sftp" />

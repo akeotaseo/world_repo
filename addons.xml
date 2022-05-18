@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045f" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045d" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1201,6 +1201,31 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
+<addon id="plugin.video.clickhere" name="  [B][COLOR white]Click Here[/COLOR][/B]" version="1.4" provider-name="Diamond Build">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing"/>
+    <import addon="script.module.unidecode" />
+    <import addon="script.module.inputstreamhelper" />
+    <import addon="script.module.resolveurl"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <description lang="en">Click Here, Debrid Free, One Click Play</description>
+    <summary lang="en_GB">Click Here, Debrid Free, One Click Play</summary>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GPL-2.0-or-later</license>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+  </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.colombiatv"
        name="ColombiaTV"
        version="1.7.2"
@@ -1576,7 +1601,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.favourites" version="0.0.11.tk" name="Video Favourites" provider-name="primaeval">
+<addon id="plugin.video.favourites" version="0.0.12.tk" name="Video Favourites" provider-name="primaeval">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -1745,6 +1770,36 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     <license>LGPL 2.1 or later</license>
     <source>https://github.com/garrison/plugin.video.kitp</source>
   </extension>
+</addon>
+
+<addon id="plugin.video.klubsports" name="klubsports" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.addon.metadata">
+        <description lang="pl">klubsports</description>
+        <disclaimer lang="pl">klubsports
+        </disclaimer>
+        <summary lang="en">klubsports</summary>
+        <description lang="en">klubsports</description>
+        <disclaimer lang="en">klubsports
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.jpg</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
 </addon>
 
 <addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.0" provider-name="Kodi Karaoke">
@@ -3411,7 +3466,7 @@ Add Wallpaper
     </extension>
 </addon>
 
-<addon id="repository.encryptic" name="EnCryptic Repository" provider-name="Bones" version="1.1.8">
+<addon id="repository.encryptic" name="EnCryptic Repository" provider-name="Bones" version="1.1.17">
   <extension point="xbmc.addon.repository" name="EnCryptic Repository">
     <dir>
       <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>

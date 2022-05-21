@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.045n" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.046" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -646,34 +646,6 @@ v2.4.0  (2019-01-01)
             <icon>icon.png</icon>
         </assets>
     </extension>
-</addon>
-
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.09c" provider-name="TechNEWSology">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">World Updater - Tools</summary>
-		<description lang="el_GR">[B][COLOR orange]-[/COLOR][/B] Αυτόματη ενημέρωση αρχείων και συντομεύσεων του Build
-[B][COLOR orange]-[/COLOR][/B] Καθαρή εγκατάσταση του Build με επιλογή διατήρησης στοιχείων στη νέα μετάβαση[CR]  χωρίς κωδικό από το site GrecoTM
-[B][COLOR orange]-[/COLOR][/B] Αυτοματοποιημένη καταχώριση νέων κλειδιών YouTube Api
-[B][COLOR orange]-[/COLOR][/B] Επιλογή αυτοματοποιημένης καταχώρισης τιμών Advanced Settings
-[B][COLOR orange]-[/COLOR][/B] Ομαδοποιημένες συντομεύσεις εργαλείων και ρυθμίσεων κελύφους
-[B][COLOR orange]-[/COLOR][/B] Επιλογή εγκατάστασης Binary Addons και Καθαρισμός (Packages-Thumbnails)
-[B][COLOR orange]-[/COLOR][/B] Δημιουργία αντιγράφου ασφαλείας αρχείου zip του Build
-[B][COLOR orange]-[/COLOR][/B] Υπηρεσίες Εξουσιοδότησης και Επαναφοράς Debrid</description>
-		<disclaimer lang="en_GB">[B][COLOR orange]World Updater - Tools[/COLOR][/B]</disclaimer>
-		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
-		<assets>
-			<icon>icon.gif</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.program.installelementum" name=" [B][COLOR orange]Install Elementum[/COLOR][/B]" version="1.1" provider-name="[B][COLOR red]Vikings Team[/COLOR][/B]">
@@ -4087,6 +4059,24 @@ cambio host
 	</extension>
 </addon>
 
+<addon id="repository.xstream" name="xStream Repository" version="1.1.9" provider-name="xStream-Team">
+    <extension point="xbmc.addon.repository" name="xStream Repository">
+        <info compressed="false">https://raw.github.com/streamxstream/xStreamRepo/master/addons.xml</info>
+        <checksum>https://raw.github.com/streamxstream/xStreamRepo/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/streamxstream/xStreamRepo/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="de">xStream Repository</summary>
+        <description lang="de">Dies ist das offizielle xStream Addon-Verzeichnis.[CR]Bei der Bereitstellung einer neuen Version von xStream wird diese auf Funktionalität geprüft. Sollten dennoch Probleme auftreten benachrichtige bitte das offizielle xStream-Team.</description>
+        <disclaimer lang="de">Die dargestellten Inhalte des in diesem Verzeichnis enthaltenen Addons werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Content-Anbietern.</disclaimer>
+        <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+     </assets>
+    </extension>
+</addon>
+
 <addon id="repository.ZadarHRrepo" name="[COLOR blue]ZadarHR[/COLOR] repo" version="1.3.9.6" provider-name="ZadarTeam">
 	<extension point="xbmc.addon.repository" name="ZadarHRrepo">
 		<dir>
@@ -4400,6 +4390,25 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
+<addon id="script.module.backports.zoneinfo" name="zoneinfo" version="0.2.1" provider-name="pganssle">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.tzdata" version="2021.5"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">A concrete time zone implementation to support the IANA time zone database</summary>
+    <description lang="en_GB">The zoneinfo module provides a concrete time zone implementation to support the IANA time zone database as originally specified in PEP 615.</description>
+    <platform>all</platform>
+    <license>Apache-2.0</license>
+    <website>https://pypi.org/project/backports.zoneinfo</website>
+    <source>https://github.com/pganssle/zoneinfo</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="script.module.bencodepy" name="bencode.py" version="4.0.0+matrix.1" provider-name="fuzeman">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -4450,6 +4459,26 @@ http://zadarbuild.com.hr
     </extension>
 </addon>
 
+<addon id="script.module.js2py" name="js2py" version="3.0.0" provider-name="Addons4Kodi">
+  <requires>
+    <import addon="script.module.six" version="1.15.0"/>
+    <import addon="script.module.pyjsparser" version="3.0.0"/>
+    <import addon="script.module.tzlocal" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Pure Python JavaScript Translator/Interpreter</summary>
+    <description>Packed for Kodi from https://github.com/PiotrDabkowski/Js2Py</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://github.com/PiotrDabkowski/Js2Py</website>
+    <source>https://github.com/PiotrDabkowski/Js2Py</source>
+    <email></email>
+  </extension>
+</addon>
+
 <addon id="script.module.parrot" name="Parrot Utils" version="1.0.2" provider-name="Parrot Developers">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -4469,6 +4498,42 @@ http://zadarbuild.com.hr
     [1.0.2] Added images generator.
     </news>
   </extension>
+</addon>
+
+<addon id="script.module.pyjsparser" name="pyjsparser" version="3.0.0" provider-name="Addons4Kodi">
+  <requires>
+    <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Pure Python JavaScript Translator/Interpreter</summary>
+    <description>Packed for Kodi from https://github.com/PiotrDabkowski/pyjsparser</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://github.com/PiotrDabkowski/pyjsparser</website>
+    <source>https://github.com/PiotrDabkowski/pyjsparser</source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon id="script.module.pytz" name="pytz" version="2021.3.0+matrix.1" provider-name="Stuart Bishop, Paul Backhouse">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib"/>
+	<extension point="xbmc.addon.metadata">
+	    <summary lang="en_GB">World Timezone Definitions for Python.</summary>
+	    <description lang="en_GB">pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher. It also solves the issue of ambiguous times at the end of daylight saving time, which you can read more about in the Python Library Reference (datetime.tzinfo).</description>
+	    <platform>all</platform>
+	    <license>MIT</license>
+	    <website>https://pythonhosted.org/pytz/</website>
+	    <source>https://github.com/stub42/pytz</source>
+	    <assets>
+            <icon>icon.png</icon>
+	    </assets>
+	</extension>
 </addon>
 
 <addon id="script.module.requests-cache"
@@ -4512,7 +4577,7 @@ http://zadarbuild.com.hr
     </extension>
 </addon>
 
-<addon id="script.module.tc" name="tc" version="1.1.6b" provider-name="tc">
+<addon id="script.module.tc" name="tc" version="1.1.6c" provider-name="tc">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
         <import addon="script.module.beautifulsoup4"/>
@@ -4529,6 +4594,48 @@ http://zadarbuild.com.hr
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon>
+
+<addon id="script.module.tzdata" name="tzdata" version="2021.5" provider-name="pganssle">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">zic-compiled binaries for the IANA time zone database</summary>
+    <description lang="en_GB">tzdata is intended to be a fallback for systems that do not have system time zone data installed.</description>
+    <platform>all</platform>
+    <license>Apache-2.0</license>
+    <website>https://pypi.org/project/tzdata/</website>
+    <source>https://github.com/python/tzdata</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="script.module.tzlocal"
+       name="tzlocal"
+       version="3.0.0+matrix.2"
+       provider-name="Lennart Regebro">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.pytz" version="2019.3.0+matrix.1"/>
+    <import addon="script.module.backports.zoneinfo" version="0.2.1"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Python Module to find out the current time zone</summary>
+    <description lang="en_GB">Packed for Kodi from https://github.com/regebro/tzlocal, forked from https://github.com/jdollarKodi/script.module.tzlocal</description>
+    <platform>all</platform>
+    <license>MIT</license>
+    <website>https://github.com/regebro/tzlocal</website>
+    <source>https://github.com/regebro/tzlocal</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="script.module.zkte.iso8601" name="iso8601" version="0.1.14+matrix.1" provider-name="Michael Twomey">

@@ -648,6 +648,34 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.10" provider-name="TechNEWSology">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">World Updater - Tools</summary>
+		<description lang="el_GR">[B][COLOR orange]-[/COLOR][/B] Αυτόματη ενημέρωση αρχείων και συντομεύσεων του Build
+[B][COLOR orange]-[/COLOR][/B] Καθαρή εγκατάσταση του Build με επιλογή διατήρησης στοιχείων στη νέα μετάβαση[CR]  χωρίς κωδικό από το site GrecoTM
+[B][COLOR orange]-[/COLOR][/B] Αυτοματοποιημένη καταχώριση νέων κλειδιών YouTube Api
+[B][COLOR orange]-[/COLOR][/B] Επιλογή αυτοματοποιημένης καταχώρισης τιμών Advanced Settings
+[B][COLOR orange]-[/COLOR][/B] Ομαδοποιημένες συντομεύσεις εργαλείων και ρυθμίσεων κελύφους
+[B][COLOR orange]-[/COLOR][/B] Επιλογή εγκατάστασης Binary Addons και Καθαρισμός (Packages-Thumbnails)
+[B][COLOR orange]-[/COLOR][/B] Δημιουργία αντιγράφου ασφαλείας αρχείου zip του Build
+[B][COLOR orange]-[/COLOR][/B] Υπηρεσίες Εξουσιοδότησης και Επαναφοράς Debrid</description>
+		<disclaimer lang="en_GB">[B][COLOR orange]World Updater - Tools[/COLOR][/B]</disclaimer>
+		<platform>all</platform>
+		<license>GPL-2.0-or-later</license>
+		<assets>
+			<icon>icon.gif</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.program.installelementum" name=" [B][COLOR orange]Install Elementum[/COLOR][/B]" version="1.1" provider-name="[B][COLOR red]Vikings Team[/COLOR][/B]">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -4059,7 +4087,7 @@ cambio host
 	</extension>
 </addon>
 
-<addon id="repository.xstream" name="xStream Repository" version="1.1.9" provider-name="xStream-Team">
+<addon id="repository.xstream" name="Repository xStream " version="1.1.9w" provider-name="xStream-Team">
     <extension point="xbmc.addon.repository" name="xStream Repository">
         <info compressed="false">https://raw.github.com/streamxstream/xStreamRepo/master/addons.xml</info>
         <checksum>https://raw.github.com/streamxstream/xStreamRepo/master/addons.xml.md5</checksum>

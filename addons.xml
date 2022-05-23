@@ -1620,6 +1620,24 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 </extension>
 </addon>
 
+<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.2.0" provider-name="AceTorr">
+  <requires>
+   <import addon="script.module.six" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Los Mejores Eventos deportivos usando Acestream</summary>
+    <description>Todo el deporte con [COLOR red]Acestream[/COLOR].[CR][CR]Enlaces obtenidos de la página web:[CR][COLOR blue]····https://····[/COLOR][CR]La cual se ayuda del Canal de Telegram [COLOR lime]@ACEstream_Spanish[/COLOR].[CR][CR]**En Ajustes puede elegir entre usar solo [COLOR red]Motor Acestream[/COLOR] o el plugin [COLOR yellow]Horus+Acestream[/COLOR] para lanzar los enlaces p2p.</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon
     id="plugin.video.hdtrailers_net.reloaded"
     version="1.0.1"
@@ -2455,14 +2473,16 @@ provider-name="Parrot Developers">
 </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.1" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.4" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
+        <import addon="script.module.inputstreamhelper" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
+    <extension point="xbmc.service" library="service_entry.py"/>
     <extension point="xbmc.addon.metadata">
         <description lang="en">Live Sports</description>
         <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>

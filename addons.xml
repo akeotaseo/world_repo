@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.046" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.046a" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -1146,6 +1146,36 @@ adulthideout@yandex.com[/COLOR]
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
 
+</addon>
+
+<addon id="plugin.video.bitchute" name="bitchute" version="2.2.0" provider-name="winsomehax">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.routing" version="0.2.0"/>
+        <import addon="script.module.requests" version="2.9.1"/>
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.common.plugin.cache" version="2.5.9"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Viewing videos from BitChute.com</summary>
+        <description lang="en_GB">Viewing videos from BitChute.com</description>
+        <language>English</language>
+        <platform>all</platform>
+        <license>GPL-2.0</license>
+        <forum>https://github.com/winsomehax/plugin.video.bitchute</forum>
+        <website>https://github.com/winsomehax/plugin.video.bitchute</website>
+        <email>winsomehax@gmail.com</email>
+        <source>https://github.com/winsomehax/plugin.video.bitchute</source>
+        <news>https://github.com/winsomehax/plugin.video.bitchute</news>
+        <disclaimer lang="en">It's yours. If you break it, you can keep the pieces!</disclaimer>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.cabal" name="[COLOR crimson]Cabal[/COLOR]" version="1.0" provider-name="Forked by Wolfey B">
@@ -2151,7 +2181,7 @@ AVISO LEGAL:
   </extension>
 </addon>
 
-<addon id="plugin.video.musichall" name="[COLOR silver]Music Hall[/COLOR]"	version="1.0.14"	provider-name="Angelaaron">
+<addon id="plugin.video.musichall" name="[COLOR silver]Music Hall[/COLOR]"	version="1.0.16"	provider-name="Angelaaron">
   <requires>
     <import addon="plugin.video.youtube" version="5.0.0"/>
   </requires>
@@ -2166,7 +2196,7 @@ AVISO LEGAL:
     <forum>n/a</forum>
     <website>n/a</website>
 	<assets>
-		<icon>icon.gif</icon>
+		<icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>
 	  </assets>
   </extension>
@@ -3734,6 +3764,25 @@ Add Wallpaper
 	</extension>
 </addon>
 
+<addon id="repository.kodifitzwell" version="0.0.1" name="kodifitzwell repository" provider-name="kodifitzwell">
+    <extension point="xbmc.addon.repository" name="kodifitzwell repository">
+        <dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/kodifitzwell/repo/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kodifitzwell/repo/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/kodifitzwell/repo/master/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <description>Fen maintenance release</description>
+        <disclaimer></disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
   <addon
   id="repository.magellan"
   name="[COLOR red]Mage[/COLOR] [COLOR black]llan[/COLOR] [COLORcyan]Repository[/COLOR]"
@@ -5003,7 +5052,7 @@ v5.2.14 (2017-01-23)
   </extension>
 </addon>
 
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.6" provider-name="TechNEWSology">
+<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.7" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="vfs.sftp" />

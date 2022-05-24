@@ -29,7 +29,7 @@
   του πρόσθετου [COLOR yellow]Big Bad Wolf[/COLOR] 
   στην κατηγορία [B]MOVIES & TV[/B]
     
-- Εγκατάστασς του πρόσθετου ([COLOR red]xxx[/COLOR]) Cumination
+- Εγκατάσταση του πρόσθετου ([COLOR red]xxx[/COLOR]) Cumination
   
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
     

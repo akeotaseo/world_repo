@@ -3,7 +3,7 @@
 
 [COLOR blue]Έκδοση Build 2.1[/COLOR]  25 Μαΐου 2022
 
-[COLOR gold]Σημείωση:[/COLOR] Παρακαλώ, για την εύρυθμη λειτουργία του build 
+[B][COLOR gold]Σημείωση:[/COLOR][/B] Παρακαλώ, για την εύρυθμη λειτουργία του build 
 προχωρήστε στην [COLOR blue]Έκδοση 2.1[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -

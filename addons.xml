@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.06" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.07" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -648,7 +648,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.20" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.21" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -1068,7 +1068,7 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.26" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.30" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -1092,22 +1092,32 @@ adulthideout@yandex.com[/COLOR]
     </disclaimer>
     <language>en el</language>
     <license>GNU GPL, version 2</license>
-    <news>[B]ΑΤΛΑΣ Kodi Matrix 19[/B]
-    - [B]v19.0.26[/B] 014/04/2022
+    <news>[B][COLOR white]ΑΤΛΑΣ Kodi Matrix 19[/COLOR][/B]
+    - [B][COLOR lime]v19.0.30[/COLOR][/B] 19/05/2022
+       Διορθώσεις κώδικα - Προσθήκη Gamatomovies(Ξένες Σειρές)
+    - [B][COLOR lime]v19.0.29[/COLOR][/B] 17/05/2022
+       Προσθήκη Gamatomovies - gamatomovies.gr
+    - [B][COLOR lime]v19.0.28[/COLOR][/B] 09/05/2022
+       Διορθώσεις κώδικα
+       Προσθήκη Ντοκιμαντέρ - ntokimanter.gr
+    - [B][COLOR lime]v19.0.27[/COLOR][/B] 19/04/2022
+       Διορθώσεις κώδικα
+    - [B][COLOR lime]v19.0.26[/COLOR][/B] 14/04/2022
        Προσθήκη κατηγοριών Ομάδες κ' Ψάρεμα
        Διορθώσεις κώδικα - Coolmoviezone
-    - [B]v19.0.25[/B] 10/04/2022
+    - [B][COLOR lime]v19.0.25[/COLOR][/B] 10/04/2022
        Διορθώσεις κώδικα - (Trailer)Gamato
        Προσθήκη Ξένων Σειρών - Tainiomania
-    - [B]v19.0.23[/B] 04/04/2022
+    - [B][COLOR lime]v19.0.23[/COLOR][/B] 04/04/2022
        Διορθώσεις κώδικα - Gamato
-    - [B]v19.0.22[/B] 02/04/2022
+    - [B][COLOR lime]v19.0.22[/COLOR][/B] 02/04/2022
        Διορθώσεις κώδικα - Coolmoviezone
-    - [B]v19.0.21[/B] 01/04/2022
+    - [B][COLOR lime]v19.0.21[/COLOR][/B] 01/04/2022
        Διορθώσεις κώδικα - Προσθήκη Coolmoviezone
-    - [B]v19.0.20[/B] 30/03/2022
+    - [B][COLOR lime]v19.0.20[/COLOR][/B] 30/03/2022
        Διορθώσεις κώδικα - (myvideolinks)
-    - [B]v19.0.19[/B] 28/03/2022</news>
+    - [B][COLOR lime]v19.0.19[/COLOR][/B] 28/03/2022
+    </news>
     <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
@@ -2271,7 +2281,7 @@ In addition to what livestreams allowed you to do, you can now,
   </extension>
 </addon>
 
-<addon id="plugin.video.parrottv" version="1.1.6wa" name="Parrot TV" provider-name="Parrot Developers">
+<addon id="plugin.video.parrottv" version="1.1.7" name="Parrot TV" provider-name="Parrot Developers">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>
@@ -2309,6 +2319,7 @@ In addition to what livestreams allowed you to do, you can now,
     [1.1.4] Fixed some bugs.
     [1.1.5] Fixed "categories" menu.
     [1.1.6] Many changes. Due to some errors EPG only works for iptv players.
+    [1.1.7] Some bugfixes.
   </news>
 </extension>
 <extension point="xbmc.service" library="service.py" />
@@ -4057,6 +4068,23 @@ cambio host
 	</extension>
 </addon>
 
+    <addon id="repository.turkvod" name="TURKvod repository" version="2.2.2" provider-name="TURKvod TeaM">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="TURKvod repository">
+            <info compressed="false">http://repo.turkvod.site/addons.xml</info>
+            <checksum>http://repo.turkvod.site/addons.xml.md5</checksum>
+            <datadir zip="true">http://repo.turkvod.site/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Based on enigma2 plugin TURKvod. Support: www.turk-dreamworld.com</summary>
+            <description>Based on enigma2 plugin TURKvod. Support: www.turk-dreamworld.com</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="repository.tvchopo" name="[COLOR lime]tvchopo[/COLOR] Repo" version="2.0.0" provider-name="torete">
     <extension point="xbmc.addon.repository" name="tvchoco Jose">
         <info>https://raw.githubusercontent.com/elchocolate/repotvchopo/master/Repositorio/addons.xml</info>
@@ -5052,7 +5080,7 @@ v5.2.14 (2017-01-23)
   </extension>
 </addon>
 
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.9" provider-name="TechNEWSology">
+<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.10" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="vfs.sftp" />

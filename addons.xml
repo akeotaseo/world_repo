@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.07" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.047" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -2514,7 +2514,7 @@ provider-name="Parrot Developers">
 </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.4" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.5" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>

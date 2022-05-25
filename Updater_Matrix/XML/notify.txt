@@ -2,73 +2,14 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 04 Απριλίου 2021[/COLOR]
 
-[COLOR blue]Έκδοση Build 2.0[/COLOR]  25 Μαρτίου 2022
+[COLOR blue]Έκδοση Build 2.1[/COLOR]  25 Μαρτίου 2022
 
-[B][COLOR gold]Σημείωση:[/COLOR][/B] Αν στο HOME [B]--->[/B] ΣΥΣΤΗΜΑ...
-δεν εμφανίζεται το εικονίδιο "[B][COLOR grey]Fix build update[/COLOR][/B]"...
-πηγαίνετε στο "[B][COLOR red]Tools[/COLOR][/B]"...
-...απο εκεί επιλέξτε "[COLOR grey]Fix build update[/COLOR]"
-και προχωρήστε την διαδικασία.
+[B][COLOR gold]Σημείωση:Παρακαλώ, για την εύρυθμη λειτουργία του build 
+προχωρήστε στην [COLOR blue]Έκδοση 2.1[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 24 Μαΐου 2022:[/B]
+  [B]Τελευταία ενημέρωση 25 Μαΐου 2022:[/B]
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
-  [B]Ενημέρωση 18 Μαΐου 2022:[/B]
-- Προσθήκη συντόμευσης (με δυνατότητα επιλογής εγκατάστασης)
-  του πρόσθετου [B]Sport LIVE Events[/B]
-  & αλλαγές στο [COLOR blue]LIVE NOW[/COLOR]
-  στην κατηγορία [B]SPORTS[/B]
   
-- Απεγκατάσταση του πρόσθετου [B][COLOR white]Click Here[/COLOR][/B] 
-  και αντικατάσταση τις συντόμευσης [B][COLOR white]Click Here[/COLOR][/B] σε [B][COLOR white] OneClick[/COLOR][/B]
-  στην κατηγορία [B]MOVIES & TV[/B] 
-  
-- Προσθήκη συντόμευσης (με δυνατότητα επιλογής εγκατάστασης) 
-  του πρόσθετου [COLOR yellow]Big Bad Wolf[/COLOR] 
-  στην κατηγορία [B]MOVIES & TV[/B]
-    
-- Εγκατάσταση του πρόσθετου ([COLOR red]xxx[/COLOR]) Cumination
-  
-- Διάφορες αλλαγές/διορθώσεις/προσθήκες
-    
-    
-  [B]Ενημέρωση 06 Μαΐου 2022:[/B]
-- Δουλειά δεν είχε ο διάλος...
-
-- Αντικατάσταση του πρόσθετου [B]No Lives Matter[/B] στο [B]Auto Play[/B]
-  με το [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
-  στην κατηγορία [B]MOVIES & TV[/B] 
-  
-- κ.α
- 
-  [B]Ενημέρωση 26 Απριλίου 2022:[/B]
-- Αντικατάσταση του πρόσθετου [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B]
-  με το [B]No Lives Matter[/B] στο [B]Auto Play[/B]
-  στην κατηγορία [B]MOVIES & TV[/B] 
-  
-  [B]Ενημέρωση 22 Απριλίου:[/B]
-- Έναρξη του build στην κατηγορία [B]ΚΑΙΡΟΣ[/B] (σε Graph)
-  ή στην κατηγορία [B]KODI[/B] (σε Txt)
-
-- Εγκατάσταση [B][COLOR white]Fork You[/COLOR][/B] - [COLOR orange][B]Debrid and Free[/COLOR][/B] (Auto Play),
-  [B][COLOR white]Click Here[/COLOR][/B].
-  & προσθήκη (με δυνατότητα επιλογής εγκατάστασης)
-  [COLOR orange]Scrubs v2[/COLOR] [COLORblue]Nightwing[/COLOR]
-  TVseries.video (Film)
-  στην κατηγορία [B]MOVIES & TV[/B] 
- 
-- Εγκατάσταση klubsports,
-  προσθήκη συντομεύσεων (με δυνατότητα επιλογής εγκατάστασης)
-  [COLOR grey]BLACK GHOST[/COLOR], [B][COLOR orchid]THE CREW[/COLOR][COLOR white] Sports[/COLOR][/B], Daddylive, FIFA plus (beta) 
-  & αλλαγές σε [COLOR green]Sports Chanells[/COLOR] [COLOR blue]LIVE NOW[/COLOR]
-  στην κατηγορία [B]SPORTS[/B]
-  
- - Δυνατότητα επιλογής εγκατάστασης [B][COLOR red]7PLUS[/COLOR][/B]
-   στις κατηγορίες [B] ALL IN ONE & IPTV[/B]
-   
- - Δυνατότητα επιλογής εγκατάστασης [COLOR grey]uiiumovies - XXX[/COLOR] κ.α
-   στην κατηγορία [B]XXX[/B] ([COLOR green]My Groups)[/COLOR]
-   
- - Διάφορες αλλαγές/διορθώσεις/προσθήκες

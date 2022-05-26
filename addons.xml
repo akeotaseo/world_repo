@@ -2902,6 +2902,35 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
+<addon id="plugin.video.tvpolan" name="tvpolan" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.addon.metadata">
+        <description lang="pl">tvpolan</description>
+        <disclaimer lang="pl">tvpolan
+        </disclaimer>
+        <summary lang="en">tvpolan</summary>
+        <description lang="en">tvpolan</description>
+        <disclaimer lang="en">tvpolan
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon></icon>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
 <addon id="plugin.video.uiiumovies" name="uiiumovies - XXX" version="0.3" provider-name="xxxxx">
     <requires>
         <import addon="script.module.requests" />

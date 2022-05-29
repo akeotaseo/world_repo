@@ -1660,7 +1660,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 </extension>
 </addon>
 
-<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.2.0" provider-name="AceTorr">
+<addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.2.1" provider-name="AceTorr">
   <requires>
    <import addon="script.module.six" />
   </requires>
@@ -2848,7 +2848,7 @@ provider-name="jurialmunkey">
   </extension>
 </addon>
 
-<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.12">
+<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.13">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
         <import addon="script.module.requests" version="2.22.0"/>
@@ -2865,6 +2865,11 @@ provider-name="jurialmunkey">
         <summary lang="en">Torrest on Kodi</summary>
         <description lang="en">Torrest is a service with a rest API which allows torrent streaming.</description>
         <news>
+- Fix arch detection for aarch with 32 bits
+- Add support for Kodi 20
+- Start using torrest-cpp (https://github.com/i96751414/torrest-cpp) binaries
+- Daemon related minor improvements
+- Fix stop/download context menu actions
         </news>
         <assets>
             <icon>icon.png</icon>
@@ -3336,12 +3341,12 @@ Add Wallpaper
 	</extension>
 </addon>
 
-<addon id="plugin.video.winner" name="[COLOR orange]WINNER 2[/COLOR]" version="2.1" provider-name="La Taberna and Camaradas">
+<addon id="plugin.video.winner" name="[COLOR orange]WINNER 2[/COLOR]" version="2.3" provider-name="La Taberna and Camaradas">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
         <import addon="plugin.video.duffyou" />
         <import addon="script.module.simplecache"/>
-        <import addon="script.module.horus" optional="true" />
+        <import addon="script.module.horus" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>

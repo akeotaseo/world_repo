@@ -349,7 +349,7 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.04c" provider-name="drinfernoo">
+<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.047" provider-name="drinfernoo">
     <requires>
         <import addon="script.module.kodi-six" />
         <import addon="script.module.pil" />
@@ -648,7 +648,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.22" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.23" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -5197,7 +5197,7 @@ v5.2.14 (2017-01-23)
   </extension>
 </addon>
 
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.11" provider-name="TechNEWSology">
+<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.12" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="vfs.sftp" />

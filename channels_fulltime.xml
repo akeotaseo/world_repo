@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 infohash="18cf2d3491233fa980add6db246847a5077be047",.black [RU]
+#EXTINF:-1 black [RU]="18cf2d3491233fa980add6db246847a5077be047",.black [RU]
 acestream://d67f201bfdc47d376b6195d50a3ac3ee231a92a5
 #EXTINF:-1 infohash="cd680104166a605ed27730dcaec73bf81221d540",.red [RU]
 acestream://e5546c985741ec758b39030c59ade2f3a311a06e

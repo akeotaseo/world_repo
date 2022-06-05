@@ -691,7 +691,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.23" provider-name="TechNEWSology">
+<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.23a" provider-name="TechNEWSology">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -2322,50 +2322,6 @@ In addition to what livestreams allowed you to do, you can now,
 	  <fanart>fanart.jpg</fanart>
    </assets>
   </extension>
-</addon>
-
-<addon id="plugin.video.parrottv" version="1.1.7" name="Parrot TV" provider-name="Parrot Developers">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.25.1"/>
-  <import addon="inputstream.adaptive" version="2.3.13"/>
-  <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
-  <import addon="script.module.parrot" version="1.0.0"/>
-  <import addon="script.module.routing"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="addon.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary>Watch Free TV inside KODI.</summary>
-  <description>Watch Free TV inside KODI.</description>
-  <disclaimer>All channels are freely avalible on WWW.</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-    [1.0.0] Initial version!
-    [1.0.1] General fixes.
-    [1.0.2] Fixed IPTV Simple intergraion.
-    [1.0.3] Some fixes.
-    [1.0.4] Fixed some bugs.
-    [1.0.5] Some UI changes.
-    [1.0.6] Added RBTV US.
-    [1.0.7] General fixes.
-    [1.0.8] New auth method.
-    [1.0.9] Kodi EZ.
-    [1.1.0] Better auth.
-    [1.1.1] Fixed auth.
-    [1.1.2] Speed improvements.
-    [1.1.3] Temporary disabled auto-update.
-    [1.1.4] Fixed some bugs.
-    [1.1.5] Fixed "categories" menu.
-    [1.1.6] Many changes. Due to some errors EPG only works for iptv players.
-    [1.1.7] Some bugfixes.
-  </news>
-</extension>
-<extension point="xbmc.service" library="service.py" />
 </addon>
 
 <addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.3" provider-name="La Taberna">
@@ -5316,5 +5272,36 @@ v5.2.14 (2017-01-23)
     </assets>
     <news>See changelog for latest changes</news>
   </extension>
+</addon>
+
+<addon id="skin.xenon19ss" version="4.7.5.192" name="Xenon Matrix SS" provider-name="Diggz, Jezz_X, Team Kodi, YLLOW_DRAGON, plood">
+	<requires>
+		<import addon="xbmc.gui" version="5.15.0"/>
+		<import addon="script.image.resource.select" version="1.1.0"/>
+		<import addon="script.skinshortcuts" version="1.0.10"/>
+		<import addon="script.skin.helper.colorpicker" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" defaultthemename="Textures.xbt" debugging="false" effectslowdown=".5">
+		<res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Diggz Xenon Matrix.</summary>
+		<summary lang="ru_RU">Diggz Xenon Matrix.</summary>
+		<summary lang="uk_UA">Diggz Xenon Matrix.</summary>
+		<description lang="en_GB">Diggz Xenon Matrix.</description>
+		<description lang="ru_RU">Diggz Xenon Matrix.</description>
+		<description lang="uk_UA">Diggz Xenon Matrix.</description>
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+		<news></news>
+	</extension>
 </addon>
 </addons>

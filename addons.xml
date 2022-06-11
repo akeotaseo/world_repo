@@ -1098,6 +1098,51 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
+<addon id="plugin.video.desporto.theanonymous" name="[B][COLOR yellow]Desporto[/COLOR] [COLOR cyan]TheAnonymous[/B][/COLOR]" version="1.4" provider-name="[B][COLOR cyan]Desporto[/COLOR] [COLOR yellow]TheAnonymous[/B][/COLOR]">
+<requires>
+		<import addon="script.module.six" />
+		<import addon="script.module.kodi-six" />
+		<import addon="script.module.requests" optional="true"/>
+		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.dateutil" optional="true" />
+		<import addon="script.module.resolveurl" optional="true"/>
+		<import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.cloudscraper" optional="true"/>
+		<import addon="script.module.inputstreamhelper" optional="true"/>
+		<import addon="script.module.slproxy" optional="true"/>
+		<import addon="script.module.horus" version="1.1.5" />
+	</requires>
+   <extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+ <extension point="xbmc.addon.repository" name="repository.alado.tv">
+		    <info compressed="false">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/</datadir>
+		<dir minversion="18.9.1">
+			<info compressed="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/</datadir>
+		</dir>
+	</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en"></summary>
+	<summary lang="pt">By TheAnonymous</summary>
+	<description lang="en"></description>
+	<description lang="pt">TheAnonymous "WE LEAD THE WAY"</description>
+    <disclaimer lang="en"></disclaimer>
+	<disclaimer lang="pt"></disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+    </assets>
+<news>Desporto TheAnonymous para Kodi Leia e Matrix</news>
+</extension>
+</addon>
+
 <addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.2w" provider-name="Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

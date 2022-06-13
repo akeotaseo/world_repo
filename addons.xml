@@ -981,8 +981,9 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.cristalazul" name="[B][/B][COLOR aqua]CRISTAL AZUL 3.0.2[/COLOR]" version="3.0.2" provider-name="PICAPAU, LOURDES, SUPERTOPO, LUISMA">
+<addon id="plugin.video.cristalazul" name="[B][/B][COLOR aqua]CRISTAL AZUL 3.0.3[/COLOR]" version="3.0.3" provider-name="PICAPAU, LOURDES, SUPERTOPO, LUISMA">
     <requires>
+        <import addon="script.module.simplecache"/>
         <import addon="script.module.six"/>
         <import addon="script.module.kodi-six"/>
         <import addon="script.module.requests"/>
@@ -2638,45 +2639,6 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.ustvgo"
-version="1.1.1"
-name="USTVGO"
-provider-name="Parrot Developers">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.25.1"/>
-  <import addon="inputstream.adaptive" version="2.3.13"/>
-  <import addon="script.module.parrot" version="1.0.0"/>
-  <import addon="script.module.routing"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="addon.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary>USTVGO Channels in KODI.</summary>
-  <description>USTVGO Channels in KODI.</description>
-  <disclaimer>Some channels need VPN.</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-    [1.0.0] Initial version!
-    [1.0.1] Added support for bypassing VPN.
-    [1.0.2] Fixed bypass.
-    [1.0.3] Removed bypass, added channels. I'll fix that bypass different day.
-    [1.0.4] Added best encryption.
-    [1.0.5] Added alternative links.
-    [1.0.6] Fixed addon.
-    [1.0.7] Fixed channels. THX to jaygrizzy#7191 for AE.
-    [1.0.8] Fixed channels.
-    [1.0.9] Fixed Links.
-    [1.1.0] Re-Release!
-    [1.1.1] Some fixes.
-  </news>
-</extension>
-</addon>
-
 <addon id="plugin.video.vavooto" name="VAVOO.TO" version="3.8" provider-name="michaz">
     <requires>
         <import addon="script.module.resolveurl"/>
@@ -3311,11 +3273,17 @@ Add Wallpaper
 
 </addon>
 
-<addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.2" provider-name="G-Man">
+<addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.3" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="G-Live Repository">
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml</info>       <checksum>https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.glive/master/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://WorldLiveTV.github.io/repo/addons.xml</info>
+        <checksum>https://WorldLiveTV.github.io/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://WorldLiveTV.github.io/repo/</datadir>
+        <hashes>true</hashes>
     </dir>
 </extension>
 <extension point="xbmc.addon.metadata">
@@ -4324,16 +4292,12 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
-<addon id="script.module.parrot" name="Parrot Utils" version="1.0.3" provider-name="Parrot Developers">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
+<addon id="script.module.parrot" name="Parrot Utils" version="1.0.6" provider-name="Parrot Developers">
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
     <summary>Utilities for Parrot TV addons.</summary>
     <description>Utilities for Parrot TV addons.</description>
     <platform>all</platform>
-    <license>GPL v.3</license>
     <assets>
       <icon>icon.png</icon>
     </assets>
@@ -4342,6 +4306,9 @@ http://zadarbuild.com.hr
     [1.0.1] Some bugfixes.
     [1.0.2] Added images generator.
     [1.0.3] New Auth Method.
+    [1.0.4] Fixed bug that caused crashing.
+    [1.0.5] Kodi 18.9 (python 2) compatibility.
+    [1.0.6] Removed auth.
     </news>
   </extension>
 </addon>

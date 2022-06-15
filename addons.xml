@@ -1069,6 +1069,35 @@ adulthideout@yandex.com[/COLOR]
 
 </addon>
 
+<addon id="plugin.video.darmowa-telewizja-com" name="darmowa-telewizja-com" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+ 	<extension point="xbmc.addon.metadata">
+        <description lang="pl">darmowa-telewizja-com</description>
+        <disclaimer lang="pl">darmowa-telewizja-com
+        </disclaimer>
+        <summary lang="en">darmowa-telewizja-com</summary>
+        <description lang="en">darmowa-telewizja-com</description>
+        <disclaimer lang="en">darmowa-telewizja-com
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon></icon>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
 <addon id="plugin.video.dartstreams" name="dartstreams" version="1.0.0" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
@@ -4388,6 +4417,52 @@ http://zadarbuild.com.hr
             <icon>resources/icon.png</icon>
         </assets>
     </extension>
+</addon>
+
+<addon id="script.module.streamlink" name="Streamlink Library" version="2.3.0+matrix.2" provider-name="jairoxyz">
+  <requires>
+	  <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.six"/>
+    <import addon="script.module.iso3166"/>
+    <import addon="script.module.iso639"/>
+    <import addon="script.module.websocket" version="0.58.0"/>
+    <import addon="script.module.pysocks"/>
+    <import addon="script.module.isodate"/>
+    <import addon="script.module.pycryptodome" version="3.4.3"/>
+  </requires>
+  <extension point="xbmc.python.module" library="resources/lib/"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>Streamlink Library</summary>
+    <description>Streamlink repacked for Kodi</description>
+    <language></language>
+    <platform>all</platform>
+    <license>BSD 2-Clause Simplified License</license>
+    <website>https://streamlink.github.io</website>
+    <source>https://github.com/streamlink</source>
+   <news>
+    2.3.0
+    - major release, please see changelog
+    2.1.1
+    - patch release
+    2.1.0
+    - please see changelog
+    2.0.0
+    - drop py2 support, see changelog
+    1.7.0
+    - please refer to changelog
+    1.3.1.12
+    - Python 3 Matrix Nighlty compatibility
+    1.3.1.11
+    - Streamlink 1.3.1.11
+    - Python3 issues on Kodi
+    1.3.0
+    - Streamlink 1.3.0 with CLI folder
+    </news>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="script.module.tzdata" name="tzdata" version="2021.5" provider-name="pganssle">

@@ -710,7 +710,7 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.30" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.31" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -735,6 +735,8 @@ adulthideout@yandex.com[/COLOR]
     <language>en el</language>
     <license>GNU GPL, version 2</license>
     <news>[B][COLOR white]ΑΤΛΑΣ Kodi Matrix 19[/COLOR][/B]
+    - [B][COLOR lime]v19.0.31[/COLOR][/B] 19/05/2022
+       Διορθώσεις κώδικα - Gamato
     - [B][COLOR lime]v19.0.30[/COLOR][/B] 19/05/2022
        Διορθώσεις κώδικα - Προσθήκη Gamatomovies(Ξένες Σειρές)
     - [B][COLOR lime]v19.0.29[/COLOR][/B] 17/05/2022
@@ -2111,6 +2113,38 @@ In addition to what livestreams allowed you to do, you can now,
     </extension>
 </addon>
 
+<addon id="plugin.video.robinhood"name="[COLOR lime][B]Robin Hood[COLOR white][B] Tv Pro[/B][/COLOR]"version="3.0.0"provider-name="RobinHood">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+  <extension point="xbmc.addon.metadata">
+  		<summary lang="hr_HR">Ovaj add-on ne sadrzi nikakav sadrzaj unutar add-ona vec samo linkove koji vode do strimova. Za vise informacija [COLOR=cyan]Facebook[/COLOR] group : [COLOR=limegreen]RobinHoodTvPro[/COLOR].</summary>
+		<summary lang="en">This add-on does not contain any content within the add-on, but only the links that lead to streams. More information on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=limegreen]RobinHoodTvPro[/COLOR]</summary>
+		<description lang="hr_HR">Addon je namijenjen za Balkan,World Tv,Filmer,Series and Kids Movies[COLOR=cyan]Facebook[/COLOR] group : [COLOR=limegreen]RobinHoodTvPro[/COLOR]</description>
+        <description lang="en">The addon is intended for Balkan,World Tv,Filmer,Series and Kids Movies.[COLOR=cyan]Facebook[/COLOR] group : [COLOR=limegreen]RobinHoodTvPro[/COLOR].</description>
+		<description lang="en">[B]Robin Hood Tv Pro[/B][CR] [B]***OpenScrapers Edition***[/B][CR][CR]This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR][CR]The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+		<news lang="hr_HR">Nova verzija addon-a [COLOR limegreen]RobinHood[/COLOR] [COLOR lime]T[/COLOR][COLOR lime]v[/COLOR][COLOR lime]P[/COLOR][COLOR limero[/COLOR] [COLOR white]Addon[/COLOR]. Verzija: 1.0.2. Dodani novi kanali, linkovi, ispravljeni nedostatci, izmijenjen izgled i funkcionalnost addona. Za vise informacija [COLOR=deepskyblue]Facebook[/COLOR] group :[COLOR=limegreen]RobinHood[COLOR=lime]TvPro[/COLOR].</news>
+        <news lang="en_GB">New version of the [COLOR limegreen]RobinHood[/COLOR] [COLOR lime]T[/COLOR][COLOR lime]v[/COLOR][COLOR lime]P[/COLOR][COLOR lime]pro[/COLOR] [COLOR white]Addon[/COLOR]. Version: 1.0.2. Added new channels, new links, new streams, fixed bugs, changed layout and functionality of addon. More information on [COLOR deepskyblue]Facebook[/COLOR] Group:[COLOR=limegreen]RobinHood[COLOR=lime]TvPro[/COLOR].</news>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+<screenshot>resources/screenshots/home.png</screenshot>
+<screenshot>resources/screenshots/movies.png</screenshot>
+<screenshot>resources/screenshots/series.png</screenshot>
+</assets>
+	<news>news
+	</news>
+</extension>
+</addon>
+
 <addon id="plugin.video.RomyM3trix" name="[B][COLOR aqua]Romy[/COLOR] [COLOR red]M3trix[/COLOR][/B]" version="3.0.0+matrix" provider-name="RomyTVplace">
 <requires>
       <!-- <import addon="xbmc.python" version="2.1.0"/> -->
@@ -2266,6 +2300,39 @@ provider-name="Parrot Developers">
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon>
+
+﻿<addon id="plugin.video.sportstreams" name="Sport Streams" provider-name="waladir" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0" />
+    <import addon="inputstream.adaptive" version="19.0.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.6.0" />
+  </requires>
+  <extension library="main.py" point="xbmc.python.pluginsource">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="cs_CZ">Sport Streams</summary>
+    <description lang="cs_CZ">
+České a slovenské sportovní přenosy z různých zdrojů:
+
+ČT4 Sport Plus (ČT4 Sport + extra přenosy)
+TVcom.cz (živé přenosy i archiv různých sportů a soutěží)
+Huste.tv (živé přenosy i archiv ze slovenských soutěží)
+Volej.tv (přenosy volejbalových soutěží)
+Ping-pong.tv (přenosy ze soutěží stolního tenisu
+    </description>
+    <platform>all</platform>
+    <source>https://github.com/waladir/plugin.video.sportstreams</source>
+    <news>
+v1.0.0 (26.6.2022)
+- první verze
+    </news>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.3+matrix.1" provider-name="realvito (inspired by L0RE)">
@@ -3346,7 +3413,7 @@ Add Wallpaper
     </extension>
 </addon>
 
-<addon id="repository.ezra" name="Ezra Repository" version="0.0.1" provider-name="Ezra-Hubbard">
+<addon id="repository.ezra" name="Ezra Repository" version="0.0.2" provider-name="Ezra-Hubbard">
     <extension point="xbmc.addon.repository" name="Ezra Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/Ezra-Hubbard/Ezra-Hubbard.github.io/master/repo/zips/addons.xml</info>

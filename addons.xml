@@ -65,6 +65,19 @@
     </extension>
 </addon>
 
+<addon id="OTV_MEDIA.repo" name="OTV_MEDIA Repository" version="1.0.2" provider-name="OTV_MEDIA">
+    <extension point="xbmc.addon.repository" name="OTV_MEDIA Addon Repository">
+        <info compressed="false">https://raw.githubusercontent.com/orhantv/otv_media/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/orhantv/otv_media/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/orhantv/otv_media/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>OTV_MEDIA Update for Kodi</summary>
+        <description>OTV_MEDIA Addon Repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
 <addon id="plugin.audio.dashradio" name="Dash Radio" version="420.3" provider-name="Diggz">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
@@ -1981,6 +1994,56 @@ In addition to what livestreams allowed you to do, you can now,
   </extension>
 </addon>
 
+<addon id="plugin.video.OTV_MEDIA" name="OTV_MEDIA" version="5.0.4" provider-name="Orhan t">
+        <requires>
+
+        <trycatch>
+            <try>
+                <import addon="xbmc.python" version="3.0.0"/>
+            </try>
+
+            <catch>
+                <import addon="xbmc.python" version="2.24.0"/>
+            </catch>
+        </trycatch>
+        <import addon="script.module.urlresolver" optional="true"/>
+        <import addon="script.module.beautifulsoup4" version="3.2.1"/>
+        <import addon="OTV_MEDIA.repo"/>
+        <import addon="script.module.pycryptodome"/>
+        <import addon="script.module.dateutil"/>
+        <import addon="script.module.pyamf"/>
+        <import addon="script.module.kodi-six"/>
+        <import addon="script.module.future"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.routing"/>
+        <import addon="script.module.tzlocal"/>
+        <import addon="script.module.pytz"/>
+        <import addon="script.module.resolveurl" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+   </extension>
+
+  <extension point="xbmc.addon.metadata">
+
+    <summary lang="en">OTV_MEDIA</summary>    <description lang="en">
+    [COLOR yellow]Bagis,Spenden,Donation[/COLOR]
+[COLOR yellow]https://www.paypal.me/orhantv [/COLOR]
+[COLOR red]Movies[/COLOR],
+[COLOR yellow]TV-Shovs[/COLOR],
+[COLOR turquoise]Documentaries[/COLOR],
+[COLOR limegreen]Toons[/COLOR],
+[COLOR red]Live TV[/COLOR],
++18 adult pin on this site->
+http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
+    <platform>all</platform>
+	<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.3" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
@@ -2618,13 +2681,13 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.toolazy" name="Too Lazy" version="0.0.7" provider-name="zkte">
+<addon id="plugin.video.toolazy" name="Too Lazy" version="0.0.8" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.routing" version="0.2.3+matrix.1"/>
-    <import addon="script.module.requests" version="2.25.1+matrix.1"/>
+    <import addon="script.module.requests" version="2.27.1+matrix.1"/>
     <import addon="script.module.dateutil" version="2.8.1+matrix.1"/>
-    <import addon="script.module.zkte.m3u8" version="0.8.0+matrix.1"/>
+    <import addon="script.module.zkte.m3u8" version="2.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
@@ -2637,7 +2700,7 @@ provider-name="jurialmunkey">
     <platform>all</platform>
     <license>GPL-3.0-only</license>
     <assets>
-      <icon>icon.png</icon>
+      <icon>resources/icon.png</icon>
     </assets>
   </extension>
 </addon>
@@ -2862,42 +2925,6 @@ provider-name="jurialmunkey">
             <icon>icon.png</icon>
         </assets>
     </extension>
-</addon>
-
-<addon id="plugin.video.vidembed"
-version="1.0.7"
-name="Vidembed.io"
-provider-name="Parrot Developers">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.25.1"/>
-  <import addon="script.module.beautifulsoup4" version="2.9.9"/>
-  <import addon="script.module.resolveurl" version="5.1.00"/>
-  <import addon="script.module.parrot" version="1.0.0"/>
-  <import addon="script.module.routing"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="addon.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary>Watch movies and series from vidembed.io</summary>
-  <description>Watch movies and series from vidembed.io</description>
-  <disclaimer>I'm not affiliated with vidembed.io.</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-    [1.0.0] Initial version!
-    [1.0.1] TV shows now work!
-    [1.0.2] Some refactoring.
-    [1.0.3] Fixed support for android devices.
-    [1.0.4] Fixed grabber.
-    [1.0.5] Added Parrot TV ID.
-    [1.0.6] Temporarlily disabled auto-update.
-    [1.0.7] Some refactoring.
-  </news>
-</extension>
 </addon>
 
 <addon
@@ -4200,6 +4227,24 @@ http://zadarbuild.com.hr
 	</extension>
 </addon>
 
+<addon id="repository.zkte" name="zkte Matrix Repository" provider-name="zkte" version="1.0.1">
+  <extension point="xbmc.addon.repository" name="zkte Matrix Repository">
+    <dir minversion="19.0.0">
+      <info compressed="false">https://raw.githubusercontent.com/zkte/repository.zkte/matrix/zips/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/zkte/repository.zkte/matrix/zips/addons.xml.md</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/zkte/repository.zkte/matrix/zips/</datadir>
+      <hashes>false</hashes>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en_GB">zkte</description>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="script.diggzskins"
 	     name="Diggz Skin Switcher"
 	     version="420.21"
@@ -4735,7 +4780,7 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
-<addon id="script.module.zkte.iso8601" name="iso8601" version="0.1.14+matrix.1" provider-name="Michael Twomey">
+<addon id="script.module.zkte.iso8601" name="iso8601" version="1.0.2" provider-name="Michael Twomey">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -4753,10 +4798,10 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
-<addon id="script.module.zkte.m3u8" name="m3u8" version="0.8.0+matrix.1" provider-name="Globo.com">
+<addon id="script.module.zkte.m3u8" name="m3u8" version="2.0.0" provider-name="Globo.com">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.zkte.iso8601" version="0.1.14+matrix.1"/>
+    <import addon="script.module.zkte.iso8601" version="1.0.2"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">

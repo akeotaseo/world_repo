@@ -3605,6 +3605,39 @@ Add Wallpaper
 </extension>
 </addon>
 
+<addon id="repository.gtube" name="[COLOR snow]G-Tube Repository[/COLOR]" version="1.0.1" provider-name="G-Man">
+<extension point="xbmc.addon.repository" name="G-Tube Repository">
+    <dir>
+        <info compressed="false">https://github.com/mrgsi/repository.gtube/raw/master/addons.xml</info>
+        <checksum>https://github.com/mrgsi/repository.gtube/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.gtube/master/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">http://j1wizard.net/butter-addons/_repo/addons.xml</info>
+        <checksum>http://j1wizard.net/butter-addons/_repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://j1wizard.net/butter-addons/_repo/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://Rockodi.com/Kodi-19/addons.xml</info>
+        <checksum>https://Rockodi.com/Kodi-19/addons.xml.md5</checksum>
+        <datadir zip="true">https://Rockodi.com/Kodi-19/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary>YouTube Category Add-ons</summary>
+    <description>A collection of Add-ons which focus on specific YouYube channels sorted by topic.[CR]You will need a personal YouTube api key from Google, entered into the Youtube add-on which will work on all the add-ons.[CR]Instruction video:[CR]https://youtu.be/N18czV5tj5o </description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+</extension>
+</addon>
+
 <addon id="repository.jizzplanet" name="Jizzplanet Repo" provider-name="Jizzplanet.com" version="3.0.1">
 	<extension point="xbmc.addon.repository" name="Jizzplanet.com" >
 			<dir minversion="16.0.0" maxversion="18.9.9">
@@ -3720,31 +3753,34 @@ Add Wallpaper
     </extension>
 </addon>
 
-	<addon id="repository.mbebe" name="mbebe" version="0.9" provider-name="mbebe">
-		<extension point="xbmc.addon.repository" name="mbebe">
-			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/mbebe/blomqvist/raw/master/zips</datadir>
-			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips</datadir>
-			</dir>
-			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-			</dir>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary>...</summary>
-			<description>...</description>
-			<platform>all</platform>
-		</extension>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
+    <addon id="repository.mbebe" name="mbebe" version="0.10" provider-name="mbebe">
+        <extension point="xbmc.addon.repository" name="mbebe">
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>...</summary>
+            <description>...</description>
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
+            </assets>
+        </extension>
+
 </addon>
 
 <addon id="repository.MBxxx" version="1.0.2" name="MBxxx repository" provider-name="xxxxx">

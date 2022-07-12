@@ -2044,6 +2044,81 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.parrottv" version="1.4.7.1" name="Falcon" provider-name="Parrot Developers">
+<requires>
+  <import addon="script.module.requests" version="2.18.4"/>
+  <import addon="inputstream.adaptive" version="2.3.13"/>
+  <import addon="script.module.beautifulsoup4" version="4.5.0"/>
+  <import addon="script.module.parrot" version="1.0.0"/>
+  <import addon="script.module.routing"/>
+  <import addon="script.module.inputstreamhelper"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="addon.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary>Watch Free TV inside KODI.</summary>
+  <description>Watch Free TV inside KODI.</description>
+  <disclaimer>All channels are freely avalible on WWW.</disclaimer>
+  <license>MPL 2.0</license>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+    [1.0.0] Initial version!
+    [1.0.1] General fixes.
+    [1.0.2] Fixed IPTV Simple intergraion.
+    [1.0.3] Some fixes.
+    [1.0.4] Fixed some bugs.
+    [1.0.5] Some UI changes.
+    [1.0.6] Added RBTV US.
+    [1.0.7] General fixes.
+    [1.0.8] New auth method.
+    [1.0.9] Kodi EZ.
+    [1.1.0] Better auth.
+    [1.1.1] Fixed auth.
+    [1.1.2] Speed improvements.
+    [1.1.3] Temporary disabled auto-update.
+    [1.1.4] Fixed some bugs.
+    [1.1.5] Fixed "categories" menu.
+    [1.1.6] Many changes. Due to some errors EPG only works for iptv players.
+    [1.1.7] Some bugfixes.
+    [1.1.8] Fixed some bugs.
+    [1.1.9] New CZ/SK Channels.
+    [1.2.0] Disabled EPG.
+    [1.2.1] Small bugfixes.
+    [1.2.2] More resolvers.
+    [1.2.3] More channels, go to settings > playlist > playlist manager to enable 'em.
+    [1.2.4] Simpler playlist manager.
+    [1.2.5] Bugfixes.
+    [1.2.6] More channels. Also Parrot TV --> Falcon
+    [1.2.7] Kodi 18 (python 2) support.
+    [1.2.8] Fixed some bugs.
+    [1.2.9] You can now report stream if doesnt work.
+    [1.3.0] Fixed some bugs.
+    [1.3.1] Fixed some bugs.
+    [1.3.2] Fixed Encoding.
+    [1.3.3] Bugfixes.
+    [1.3.4] CZSK is now disabled by default, go to settings to enable it.
+    [1.3.5] Fixed bug with nova/markiza/RBTV generators.
+    [1.3.6] Fixed SweetTV grabber.
+    [1.3.7] EPG is now enabled by default.
+    [1.3.8] Fixed bug with categories.
+    [1.3.9] Changed epg url.
+    [1.4.0] Guide in addon has been disabled.
+    [1.4.1] EPG Changes.
+    [1.4.2] Custom playlist.
+    [1.4.3] Fixed some bugs.
+    [1.4.4] Removed auth.
+    [1.4.5] Fixed some bugs.
+    [1.4.6] Forum auth, Bugfixes.
+    [1.4.7] Fixed error on startup.
+  </news>
+</extension>
+<extension point="xbmc.service" library="service.py" />
+</addon>
+
 <addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.3" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
@@ -3801,6 +3876,63 @@ Add Wallpaper
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+    </extension>
+</addon>
+
+<addon id="repository.offspring"
+       name="[COLORgold]offspring repo[/COLOR]"
+       version="22.5.26"
+       provider-name="[COLORgold]OffSpring[/COLOR]">
+    <extension point="xbmc.addon.repository" name="OffSpring Repo">
+        <dir minversion="18.0" maxversion="18.9.0"><!--OffSpringRepo LEIA-->
+            <info compressed="false">https://raw.githubusercontent.com/m3atp1zza/OffSpringRepo/main/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/m3atp1zza/OffSpringRepo/main/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/m3atp1zza/OffSpringRepo/main/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0"><!--OffSpringRepo Matrix-->
+            <info compressed="false">https://raw.githubusercontent.com/m3atp1zza/OffSpringRepo/main/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/m3atp1zza/OffSpringRepo/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/m3atp1zza/OffSpringRepo/main/matrix/zips/</datadir>
+        </dir>
+        <dir><!--OpenScrapers-->
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+        </dir>
+        <dir><!--ResolveUrl-->
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir><!--Gujal-->
+            <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+        <dir><!--Gujal-->
+            <info compressed="false">https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml</info>
+            <checksum>https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.github.com/Gujal00/GujalKodiWork/master/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.0"><!--jurialmunkey LEIA-->
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="18.9.0"><!--jurialmunkey MATRIX-->
+            <info compressed="false">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLORgold]OffSpring Repo[/COLOR]</summary>
+        <description>[COLORgold]OffSpring Repo[/COLOR]</description>
+        <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
     </extension>
 </addon>
 

@@ -65,6 +65,52 @@
     </extension>
 </addon>
 
+<addon	id="One.repo" name="[B][COLOR white]Repositorio[/COLOR]: [COLOR aquamarine]ONE[/COLOR][COLOR white]PLAY[/COLOR][/B]" version="1.07"	provider-name="TEAM [COLOR aquamarine]ONE[/COLOR][COLOR white]PLAY[/COLOR]">
+
+	<requires>
+    	<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+
+	<extension point="xbmc.addon.repository" name="OnePlay Repositorio">
+		<dir>
+    		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+    		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+    		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir>
+			<info compressed="false">http://raw.githubusercontent.com/OnePlayHD/OneRepo/master/addons.xml</info>
+			<checksum>http://raw.githubusercontent.com/OnePlayHD/OneRepo/master/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.githubusercontent.com/OnePlayHD/OneRepo/master</datadir>
+			<hashes>false</hashes>
+    	</dir>
+  		<dir minversion="17.0.0" maxversion="18.9.0">
+			<info compressed="false">http://raw.githubusercontent.com/OnePlayHD/OneRepo/master/leia/addons.xml</info>
+			<checksum>http://raw.githubusercontent.com/OnePlayHD/OneRepo/master/leia/addons.xml.md5</checksum>
+			<datadir zip="true">http://raw.githubusercontent.com/OnePlayHD/OneRepo/master/leia</datadir>
+			<hashes>false</hashes>
+    	</dir>
+  		<dir minversion="18.9.1">
+			<info compressed="false">https://raw.githubusercontent.com/OnePlayHD/OneRepo/master/matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/OnePlayHD/OneRepo/master/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/OnePlayHD/OneRepo/master/matrix</datadir>
+			<hashes>false</hashes>
+    	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="pt_br">Repositorio Oficial OnePlay</summary>
+        <description lang="pt_br">Repositorio OnePlay - AGREGADOR de ADDONS, assim como o Google.com, apenas agrega e organiza ADDON OnePlay e Complementos.</description>
+        <disclaimer	lang="pt_br"></disclaimer>
+		<platform>all</platform>
+		<source>http://raw.githubusercontent.com/OnePlayHD/OneRepo/master</source>
+		 <assets>
+            <icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+	    <news></news>
+	</extension>
+</addon>
+
 <addon id="OTV_MEDIA.repo" name="OTV_MEDIA Repository" version="1.0.2" provider-name="OTV_MEDIA">
     <extension point="xbmc.addon.repository" name="OTV_MEDIA Addon Repository">
         <info compressed="false">https://raw.githubusercontent.com/orhantv/otv_media/master/addons.xml</info>

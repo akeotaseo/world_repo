@@ -1612,7 +1612,8 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website></website>
         <assets>
-            <icon></icon>
+            <icon>icon.jpg</icon>
+            <fanart>fanart.jpg</fanart>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>

@@ -197,7 +197,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2021.0.7" provider-name="Jon Bovi, Diggz">
+<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2022.0.1" provider-name="Jon Bovi">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.future"/>
@@ -211,8 +211,8 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary>A music streaming Collection.</summary>
-        <description>MP3 Streams Kodi 19</description>
-        <news>2021.0.6 - Fixed issue with hanging  when skipping tracks. 2021.0.4 - Fixed Settings, 2021.0.3 - Bugfixes. Enjoy!</news>
+        <description>MP3 Streams Kodi 19+</description>
+        <news>2022.0.1 - Small fix, Kodi 20 ready. 2021.0.6 - Fixed issue with hanging  when skipping tracks. 2021.0.4 - Fixed Settings, 2021.0.3 - Bugfixes. Enjoy!</news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>

@@ -1419,6 +1419,32 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
+<addon id="plugin.video.fullmatchtv"
+       name="Full Match TV"
+       version="0.0.2"
+       provider-name="Demonstratorz">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon='script.module.beautifulsoup4'/>
+    <import addon="plugin.video.youtube"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en"></summary>
+    <language>en</language>
+    <description lang="en"></description>
+     <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.FutbolTream" name="[COLOR mediumslateblue]FutbolTream[/COLOR]" version="0.2.1" provider-name="AceTorr">
   <requires>
    <import addon="script.module.six" />
@@ -3018,6 +3044,40 @@ provider-name="jurialmunkey">
             <icon>icon.png</icon>
         </assets>
     </extension>
+</addon>
+
+<addon id="plugin.video.vidembed" version="111.0.8" name="Vidembed.io" provider-name="Parrot Developers">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.requests" version="2.25.1"/>
+  <import addon="script.module.beautifulsoup4" version="2.9.9"/>
+  <import addon="script.module.resolveurl" version="5.1.00"/>
+  <import addon="script.module.parrot" version="1.0.0"/>
+  <import addon="script.module.routing"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="addon.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary>Watch movies and series from vidembed.io</summary>
+  <description>Watch movies and series from vidembed.io</description>
+  <disclaimer>I'm not affiliated with vidembed.io.</disclaimer>
+  <assets>
+    <icon>icon.jpg</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+    [1.0.0] Initial version!
+    [1.0.1] TV shows now work!
+    [1.0.2] Some refactoring.
+    [1.0.3] Fixed support for android devices.
+    [1.0.4] Fixed grabber.
+    [1.0.5] Added Parrot TV ID.
+    [1.0.6] Temporarlily disabled auto-update.
+    [1.0.7] Some refactoring.
+    [1.0.8] Removed auth requirement.
+  </news>
+</extension>
 </addon>
 
 <addon
@@ -4826,6 +4886,21 @@ http://zadarbuild.com.hr
     </assets>
     <news></news>
     </extension>
+</addon>
+
+<addon id="script.module.parrot" name="Parrot Utils" version="111.0.8" provider-name="Parrot Developers">
+  <requires>
+    <import addon="script.module.requests" version="2.18.4"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Utilities for Parrot TV addons.</summary>
+    <description>Utilities for Parrot TV addons.</description>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="script.module.pyjsparser" name="pyjsparser" version="3.0.0" provider-name="Addons4Kodi">

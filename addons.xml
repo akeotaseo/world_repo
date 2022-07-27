@@ -2116,7 +2116,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.parrottv" version="1.4.7.1" name="Falcon" provider-name="Parrot Developers">
+<addon id="plugin.video.parrottv" version="111.4.7.1" name="Falcon" provider-name="Parrot Developers">
 <requires>
   <import addon="script.module.requests" version="2.18.4"/>
   <import addon="inputstream.adaptive" version="2.3.13"/>
@@ -3026,18 +3026,19 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.vavooto" name="VAVOO.TO" version="3.8" provider-name="michaz">
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="4.2" provider-name="michaz">
     <requires>
-        <import addon="script.module.resolveurl"/>
-        <import addon="script.module.simplecache"/>
+        <import addon="script.module.urlresolver" optional="true" />
+        <import addon="script.module.resolveurl" optional="true" />
         <import addon="script.module.requests"/>
+        <import addon="plugin.program.autocompletion.vavooto" optional="true"/>
+        <import addon="script.module.autocompletion.vavooto" optional="true"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.simplejson"/>
         <import addon="inputstream.ffmpegdirect" optional="true" />
     </requires>
-    <extension point="xbmc.python.pluginsource" library="lib/main.py">
+    <extension point="xbmc.python.pluginsource" library="lib/vjackson.py">
         <provides>video</provides>
-    </extension>
-    <extension point="xbmc.service" library="lib/service.py" start="login">
-        <provides>service</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <assets>
@@ -3987,6 +3988,27 @@ Add Wallpaper
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon>
+
+<addon id="repository.michaz" name="Michaz Repository" provider-name="Michaz" version="3.0">
+  <extension point="xbmc.addon.repository" name="Michaz Repository">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/michaz1988/repo/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/michaz1988/repo/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/michaz1988/repo/master/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en">Addons by Michaz</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="repository.offspring"

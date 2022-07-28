@@ -2452,7 +2452,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.9a" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.9b" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -3922,20 +3922,23 @@ Add Wallpaper
   </extension>
 </addon>
 
-    <addon id="repository.mar33" name="Mar33 Repository" version="0.0.33" provider-name="MartinStZ">
-        <requires>
-            <import addon="xbmc.addon" version="12.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.repository" name="Mar33 Repository">
+<addon id="repository.mar33" name="Mar33 Repository" version="0.3.33" provider-name="MartinStZ">
+    <extension point="xbmc.addon.repository" name="Mar33 Repository">
+        <dir>
             <info compressed="false">http://petrovy.com/_repo/addons.xml</info>
             <checksum>http://petrovy.com/_repo/addons.xml.md5</checksum>
             <datadir zip="true">http://petrovy.com/_repo/</datadir>
-            <hashes>false</hashes>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>Repo from MartinStz</summary>
-            <description>For installing Bulsat, Exodus, Covenant, Specto and subtitles addons</description>
-            <platform>all</platform>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repo from MartinStz</summary>
+        <description>For installing videos, musics and subtitles addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
     </extension>
 </addon>
 

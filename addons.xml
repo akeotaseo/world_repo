@@ -2452,7 +2452,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.9b" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -3026,15 +3026,9 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.vavooto" name="VAVOO.TO" version="4.2" provider-name="michaz">
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="4.3" provider-name="michaz">
     <requires>
-        <import addon="script.module.urlresolver" optional="true" />
-        <import addon="script.module.resolveurl" optional="true" />
         <import addon="script.module.requests"/>
-        <import addon="plugin.program.autocompletion.vavooto" optional="true"/>
-        <import addon="script.module.autocompletion.vavooto" optional="true"/>
-        <import addon="script.module.requests"/>
-        <import addon="script.module.simplejson"/>
         <import addon="inputstream.ffmpegdirect" optional="true" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="lib/vjackson.py">
@@ -3232,7 +3226,7 @@ Add-on originally by doko.
     </extension>
 </addon>
 
-<addon id="plugin.video.wedotv" name="WeDoTV" version="0.0.9" provider-name="azzy9">
+<addon id="plugin.video.wedotv" name="WeDoTV" version="0.0.10" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.requests"/>
 		<import addon="script.module.six"/>
@@ -3247,6 +3241,9 @@ Add-on originally by doko.
 		<platform>all</platform>
 		<license>GPL-3.0-only</license>
 		<news>
+v0.0.10 (2022-07-31)
+fixes not being able to get TV video
+
 v0.0.9 (2022-07-01)
 fixes not being able to get video
 

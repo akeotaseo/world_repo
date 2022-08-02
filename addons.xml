@@ -2432,7 +2432,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10a" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -3637,6 +3637,30 @@ Add Wallpaper
 	</extension>
 
 
+</addon>
+
+<addon id="repository.funstersplace19" name="funstersplace 19 Repository" version="0.2" provider-name="funstersplace">
+	<extension point="xbmc.addon.repository" name="funstersplace">
+		<dir>
+			<info compressed="false">http://funstersplace.net/19repo/addons.xml</info>
+			<checksum>http://funstersplace.net/19repo/addonsmd5.txt</checksum>
+			<datadir zip="true">http://funstersplace.net/19repo/</datadir>
+		</dir>
+		<dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"/>
+		<description lang="en">funstersplace 19 Repo</description>
+		<genre>fun</genre>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
 </addon>
 
 <addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.3" provider-name="G-Man">

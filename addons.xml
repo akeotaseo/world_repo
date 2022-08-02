@@ -445,26 +445,6 @@ v2.4.0  (2019-01-01)
 	</extension>
 </addon>
 
-<addon id="plugin.program.jewpair" name="Pair Em" version="1.6" provider-name="JewBMX">
-    <requires>
-        <import addon="script.module.kodi-six" />
-    </requires>
-    <extension point="xbmc.python.script" library="addon.py">
-        <provides>executable</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en">Pair Em is a Pairing Tool.</summary>
-        <description lang="en">Web Browser needed like FireFox, Dolphin, Chrome. /n Simple to use, click the one you need /n and if all else fails just open the website needed on another device connected to your internet /n and it will do the same as this app.</description>
-        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-        <license>Free the People!, Free the World!!</license>
-        <news>Updated for Kodi 19.</news>
-        <assets>
-            <icon>resources/icon.png</icon>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.program.orderfavourites" name="Order Favourites" version="1.2.1a" provider-name="doko">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -3026,12 +3006,12 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.vavooto" name="VAVOO.TO" version="4.3" provider-name="michaz">
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="4.6" provider-name="michaz">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="inputstream.ffmpegdirect" optional="true" />
     </requires>
-    <extension point="xbmc.python.pluginsource" library="lib/vjackson.py">
+    <extension point="xbmc.python.pluginsource" library="lib/main.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">

@@ -1595,7 +1595,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.klubsports" name="klubsports" version="1.0.02" provider-name="lg">
+<addon id="plugin.video.klubsports" name="klubsports" version="1.0.02a" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.inputstreamhelper" />

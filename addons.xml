@@ -3412,11 +3412,13 @@ Add Wallpaper
     </extension>
 </addon>
 
-<addon id="repository.arnoldvink" name="Arnold Vink's Kodi Repository" provider-name="Arnold Vink" version="1.1.0">
-  <extension point="xbmc.addon.repository" name="Arnold Vink's Kodi Repository">
-    <info>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml.md5</checksum>
-    <datadir zip="True">https://raw.githubusercontent.com/dumbie/kodirepo/master/</datadir>
+<addon id="repository.arnoldvink" name="Arnold Vink's Kodi Repository" provider-name="Arnold Vink" version="1.2.0">
+  <extension point="xbmc.addon.repository">
+    <dir>
+      <info>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/dumbie/kodirepo/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/dumbie/kodirepo/master/</datadir>
+    </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
@@ -3878,6 +3880,31 @@ Add Wallpaper
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+    </extension>
+</addon>
+
+<addon id="repository.Kpoodle19" name="[B][COLOR red]Poodle[/COLOR] [COLOR white]19[/COLOR] [COLOR yellow]Add-ons[/COLOR] [COLOR green]Repository[/COLOR][/B]" version="1.0.1" provider-name="Poodle">
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="[B][COLOR red]Poodle[/COLOR] [COLOR white]19[/COLOR] [COLOR yellow]Add-ons[/COLOR] [COLOR green]Repository[/COLOR][/B]">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Kpoodle/Repo19/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Kpoodle/Repo19/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Kpoodle/Repo19/master/zips</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Unofficial Addons for Kodi</summary>>
+        <description lang="en">Kodi is a registered trademark of the XBMC Foundation. We are not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation.</description>
+        <disclaimer lang="en">The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<forum></forum>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+        <news></news>
     </extension>
 </addon>
 

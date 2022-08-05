@@ -280,7 +280,9 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.close.kodi" name="[COLOR red] Force Close Kodi[/COLOR] " version="3.1.3" provider-name="Based_Skid">
+<addon id="plugin.close.kodi" name="[COLOR red] Force Close Kodi[/COLOR] " version="3.1.4" provider-name="Based_Skid">
+  <requires>
+  </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>executable</provides>
   </extension>
@@ -288,9 +290,6 @@ v2.4.0  (2019-01-01)
     <summary lang="en">Force Close Kodi</summary>
     <description lang="en"></description>
     <platform>all</platform>
-    <assets>
-      <icon>KODI.gif</icon>
-    </assets>
   </extension>
 </addon>
 
@@ -4402,12 +4401,17 @@ cambio host
     </extension>
 </addon>
 
-<addon id="repository.umbrella" name="Umbrella Repository" version="2.1.29" provider-name="Umbrella">
+<addon id="repository.umbrella" name="Umbrella Repository" version="2.1.42" provider-name="Umbrella">
     <extension point="xbmc.addon.repository" name="Umbrella Repository">
         <dir minversion="19.0.0">
             <info compressed="false">https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/CocoJoe2411/repository.cocoscrapers/master/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -5119,6 +5123,27 @@ http://zadarbuild.com.hr
 	<assets>
 	<icon>icon.png</icon>
     </assets>
+  </extension>
+</addon>
+
+<addon id="script.skinswitcher19"
+	     name="Skin Switcher"
+	     version="1.0.0"
+	     provider-name="Surfacingx, OpenELEQ, Fire TV Guru">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">-</summary>
+    <description lang="en">Choose a skin.</description>
+    <disclaimer lang="en">.</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
   </extension>
 </addon>
 

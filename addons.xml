@@ -1077,7 +1077,7 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="1.0.01" provider-name="lg">
+<addon id="plugin.video.daddylive" name="Daddylive" version="1.0.0f" provider-name="lg">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" />
@@ -2461,7 +2461,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10a" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10b" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>

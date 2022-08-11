@@ -3026,7 +3026,7 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.vidembed" version="111.0.8" name="Vidembed.io" provider-name="Parrot Developers">
+<addon id="plugin.video.vidembed" version="111.1.1" name="[COLOR cyan]Vidembed[/COLOR].[COLOR yellow]io[/COLOR]" provider-name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Developers[/COLOR]">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>
@@ -3040,23 +3040,11 @@ provider-name="jurialmunkey">
 </extension>
 <extension point="xbmc.addon.metadata">
   <summary>Watch movies and series from vidembed.io</summary>
-  <description>Watch movies and series from vidembed.io</description>
   <disclaimer>I'm not affiliated with vidembed.io.</disclaimer>
   <assets>
     <icon>icon.jpg</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>
-    [1.0.0] Initial version!
-    [1.0.1] TV shows now work!
-    [1.0.2] Some refactoring.
-    [1.0.3] Fixed support for android devices.
-    [1.0.4] Fixed grabber.
-    [1.0.5] Added Parrot TV ID.
-    [1.0.6] Temporarlily disabled auto-update.
-    [1.0.7] Some refactoring.
-    [1.0.8] Removed auth requirement.
-  </news>
 </extension>
 </addon>
 
@@ -5160,27 +5148,27 @@ http://zadarbuild.com.hr
 </addon>
 
 <addon id="script.video.F4mProxy"
-         name="F4mProxy"
-         version="4.0.7a"
-         provider-name="Joel e Tiago">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0" />
-        <import addon="script.module.requests" />
-        <!--<import addon="inputstream.ffmpegdirect" />-->
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
+	     name="F4mProxy"
+	     version="4.0.8"
+	     provider-name="Joel e Tiago">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.requests" />
+        <import addon="inputstream.ffmpegdirect" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
     <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>executable</provides>
-    </extension>
+		<provides>executable</provides>
+	</extension>
 
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en">Proxy for f4m</summary>
-        <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
-        <assets>
-            <icon>icon.png</icon>
-        </assets>
-    </extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Proxy for f4m</summary>
+		<description lang="en">Use this addon to play F4m v1 and v2 streams</description>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
 </addon>
 
   <addon id="script.video.nfl.gamepass"

@@ -444,6 +444,26 @@ v2.4.0  (2019-01-01)
 	</extension>
 </addon>
 
+<addon id="plugin.program.jewpair" name="Pair Em" version="1.6" provider-name="JewBMX">
+    <requires>
+        <import addon="script.module.kodi-six" />
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Pair Em is a Pairing Tool.</summary>
+        <description lang="en">Web Browser needed like FireFox, Dolphin, Chrome. /n Simple to use, click the one you need /n and if all else fails just open the website needed on another device connected to your internet /n and it will do the same as this app.</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <license>Free the People!, Free the World!!</license>
+        <news>Updated for Kodi 19.</news>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.program.orderfavourites" name="Order Favourites" version="1.2.1a" provider-name="doko">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -748,7 +768,7 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.31" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.32" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -773,6 +793,8 @@ adulthideout@yandex.com[/COLOR]
     <language>en el</language>
     <license>GNU GPL, version 2</license>
     <news>[B][COLOR white]ΑΤΛΑΣ Kodi Matrix 19[/COLOR][/B]
+    - [B][COLOR lime]v19.0.32[/COLOR][/B] 11/08/2022
+       Διορθώσεις κώδικα - Gamato
     - [B][COLOR lime]v19.0.31[/COLOR][/B] 19/05/2022
        Διορθώσεις κώδικα - Gamato
     - [B][COLOR lime]v19.0.30[/COLOR][/B] 19/05/2022
@@ -1288,7 +1310,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.duffyou" name="Duff You" version="0.1.3" provider-name="La Taberna">
+<addon id="plugin.video.duffyou" name="Duff You" version="0.1.3b" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
         <import addon="script.module.simplecache" />
@@ -1298,10 +1320,12 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     <extension point="xbmc.python.pluginsource" library="libs/plugin.py">
         <provides>video</provides>
     </extension>
-	<extension point="xbmc.python.module" library="libs" />
+    <extension point="xbmc.python.module" library="libs" />
     <extension point="xbmc.addon.metadata">
-        <description>Hasta las narices de las apikeys de YouTube? Y de ver como calidad máxima los videos de la plataforma solo hasta 720p?[CR]Pues se acabó! Desde nuestra taberna os presentamos un nuevo addon de YouTube, donde no hace falta APIKEY alguna, ni tampoco hay ningún tipo de restricción para ver los videos a la máxima calidad ofrecida, 720p, 1080p, 2K y 4K![CR]Todo esto y mucho mas...</description>
-        <disclaimer>Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR][COLOR red][B]Pero no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, por su uso o por recibir asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
+        <description lang="en">You are tired of Youtube apikeys? And watching the videos on the platform as maximum quality only up to 720p? [CR] Well, it's over! From our bar we present a new YouTube addon, where no APIKEY is needed, nor is there any kind of restriction to watch the videos at the highest quality offered, 720p, 1080p, 2K and 4K![CR]All this and much more plus...</description>
+        <description lang="es">Hasta las narices de las apikeys de YouTube? Y de ver como calidad máxima los videos de la plataforma solo hasta 720p?[CR]Pues se acabó! Desde nuestra taberna os presentamos un nuevo addon de YouTube, donde no hace falta APIKEY alguna, ni tampoco hay ningún tipo de restricción para ver los videos a la máxima calidad ofrecida, 720p, 1080p, 2K y 4K![CR]Todo esto y mucho mas...</description>
+        <disclaimer lang="en">This is free [COLOR red][B]software[/B][/COLOR][CR][COLOR red][B]But it is not allowed[/B][/COLOR] to be distributed pre-installed on any type of device nor its total or partial inclusion in any software and/or hardware package for which the end user must [COLOR red][B]pay or make a donation[/B][/COLOR], for its acquisition, for its use or for receiving assistance.[CR]If you believe that any of these rules is not being followed, please contact us.</disclaimer>
+        <disclaimer lang="es">Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR][COLOR red][B]Pero no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, por su uso o por recibir asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>icon.jpg</icon>
@@ -1396,6 +1420,25 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <summary lang="en">Fantasti.cc -  Browse videos from a site that aggregates the best porn videos online using the votes of users as the deciding factor</summary>
         <description lang="en">Browse collections (user designed categories) as well as the most popular videos today/week/month as decided by the users of the site</description>
     </extension>
+</addon>
+
+<addon id="plugin.video.favourites" version="0.0.14.tk" name="Video Favourites" provider-name="primaeval">
+<requires>
+  <import addon="xbmc.python" version="3.0.0"/>
+  <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  <import addon="script.module.requests" version="2.9.1" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Video Favourites</summary>
+  <description lang="en"></description>
+  <disclaimer lang="en"></disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+</extension>
 </addon>
 
 <addon id="plugin.video.fullmatchtv"
@@ -2845,6 +2888,36 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
+<addon id="plugin.video.truecrime" name="True Crime Network" version="2022.01.16" provider-name="MetalChris">
+    <requires>
+        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+        <import addon="script.module.requests" version="2.9.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource"
+               library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <license>GPL 2.0</license>
+        <summary lang="en">24/7 True Crime programming</summary>
+        <description lang="en">True Crime Network is a 24/7 broadcast television network that entertains and informs its viewers with gripping crime and investigation programming while making communities safer.  This add-on provides access to the True Crime Network video on demand library. *Matrix Version*</description>
+        <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
+        <language></language>
+        <platform>all</platform>
+        <license>GPL(v2) or Later</license>
+        <forum></forum>
+        <website>https://www.truecrimenetworktv.com/</website>
+        <email></email>
+        <source></source>
+        <news>v.2022.01.16[CR]- Fix for website changes.</news>
+        <assets>
+            <icon>resources/media/icon.png</icon>
+            <fanart>resources/media/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.tvone" name="tvOne" version="26+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -3011,7 +3084,7 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.vavooto" name="VAVOO.TO" version="4.8" provider-name="michaz">
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="5.1" provider-name="michaz">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="inputstream.ffmpegdirect" optional="true" />
@@ -3143,6 +3216,49 @@ v0.1.0
   </assets>
   <reuselanguageinvoker>true</reuselanguageinvoker>
 </extension>
+</addon>
+
+<addon id="plugin.video.w4free" name="W4free" version="0.0.6" provider-name="Lolage">
+	<requires>
+		<import addon="script.common.plugin.cache" version="2.6.1"/>
+		<import addon="script.module.six"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">W4free</summary>
+		<description lang="en_GB">
+      This addon allows you watch Movies and TV Series from W4free
+		</description>
+		<language>uk us</language>
+		<platform>all</platform>
+		<license>GPL-3.0-only</license>
+		<news>
+v0.0.6 (2022-02-11)
+Fix due to template changes
+
+v0.0.5 (2021-04-03)
+Fix due to new template changes
+
+v0.0.4 (2021-03-26)
+Start working on TV series
+Pass info to playing Video
+
+v0.0.3 (2021-03-22)
+Add Channel Art.
+
+v0.0.2 (2021-03-18)
+Add Art.
+
+v0.0.1 (2021-03-15)
+Initial version.
+		</news>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.2" provider-name="doko">
@@ -3512,6 +3628,89 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="repository.devalls" name="devalls' Repository" version="2.1.8" provider-name="devalls">
+    <extension point="xbmc.addon.repository" name="devalls' Repository">
+        <info compressed="false">https://raw.githubusercontent.com/devalls/repository/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/devalls/repository/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/devalls/repository/master</datadir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/lamalanovela/Repo/master/Repositorio/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/lamalanovela/Repo/master/Repositorio/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/lamalanovela/Repo/master/Repositorio/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/joheos11/repository.kodispain/master/addons.xml</info>
+	    <checksum>https://raw.githubusercontent.com/joheos11/repository.kodispain/master/addons.xml.md5</checksum>
+	    <datadir zip="true">https://raw.githubusercontent.com/joheos11/repository.kodispain/master/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/balandro-tk/balandro/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/balandro-tk/balandro/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/balandro-tk/balandro/main/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml</info>
+            <checksum>https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/alfa-addon/alfa-repo/raw/master</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Palantiraddon/repo/master/Palantir/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
+	</dir>
+        <dir>
+            <info compressed="false">https://hirayasoftware.github.io/addons.xml</info>
+            <checksum>https://hirayasoftware.github.io/addons.xml.md5</checksum>
+            <datadir zip="true">https://hirayasoftware.github.io/</datadir>
+	</dir>
+        <dir>
+            <info>https://raw.githubusercontent.com/camaradas/camaradas.repo/master/Repositorio/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/camaradas/camaradas.repo/master/Repositorio/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/camaradas/camaradas.repo/master/Repositorio/</datadir>
+	</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/</datadir>
+	</dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+    <summary lang="ca_ES">Repositori devalls</summary>
+	<summary lang="es_ES">Repositorio devalls</summary>
+	<summary lang="en_GB">devalls' repository</summary>
+        <description lang="ca_ES">Descarrega i instal·la complements des del repositori devalls</description>
+	<description lang="es_ES">Descarga e instala addons desde el repositorio devalls</description>
+	<description lang="en_GB">Download and install addons fron devalls' repository</description>
+        <disclaimer>[COLOR red]The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.[/COLOR]</disclaimer>
+        <platform>all</platform>
+	<assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<screenshot>resources/screenshot-01.jpg</screenshot>
+		<screenshot>resources/screenshot-02.jpg</screenshot>
+		<screenshot>resources/screenshot-03.jpg</screenshot>
+	</assets>
+	<news>[COLOR blue][B]Official devalls' repository[/B][/COLOR]
+[COLOR green][B]•2.1.8[/B] Update one dir.[/COLOR]
+[COLOR yellow][B]•2.1.7[/B] Add one dir.[/COLOR]
+[COLOR yellow][B]•2.1.5[/B] Add three dir.[/COLOR]
+[COLOR yellow][B]•2.1.3[/B] Add one dir.[/COLOR]
+[COLOR yellow][B]•2.1.2[/B] Del one dir.[/COLOR]
+[COLOR yellow][B]•2.1.1[/B] Change dir.[/COLOR]
+[COLOR yellow][B]•2.1.0[/B] Add dir.[/COLOR]
+[COLOR yellow][B]•2.0.2[/B] Cleaning code.[/COLOR]
+[COLOR yellow][B]•2.0.1[/B] Minor bug fix.[/COLOR]
+[COLOR yellow][B]•2.0.0[/B] First public release.[/COLOR]
+[COLOR yellow][B]•1.8.0[/B] Final Beta release.[/COLOR]
+[COLOR yellow][B]•1.0.0[/B] Initial release.[/COLOR]</news>
+    </extension>
+</addon>
+
 <addon id="repository.dirtyg" name="[COLOR hotpink]Dirty-G Repository[/COLOR]" version="1.0.1" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="Dirty-G Repository">
     <dir>
@@ -3563,26 +3762,6 @@ Add Wallpaper
         <description>https://eintamil.github.io/</description>
         <website>https://eintamil.github.io/</website>
         <platform>all</platform>
-    </extension>
-</addon>
-
-<addon id="repository.ezra" name="Ezra Repository" version="0.0.2" provider-name="Ezra-Hubbard">
-    <extension point="xbmc.addon.repository" name="Ezra Repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Ezra-Hubbard/Ezra-Hubbard.github.io/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Ezra-Hubbard/Ezra-Hubbard.github.io/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Ezra-Hubbard/Ezra-Hubbard.github.io/master/repo/zips/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Ezra</summary>
-        <description>From the pen of Ezra Hubbard</description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
     </extension>
 </addon>
 
@@ -3658,17 +3837,11 @@ Add Wallpaper
 	</extension>
 </addon>
 
-<addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.3" provider-name="G-Man">
+<addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.2" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="G-Live Repository">
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml</info>       <checksum>https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.glive/master/</datadir>
-    </dir>
-    <dir>
-        <info compressed="false">https://WorldLiveTV.github.io/repo/addons.xml</info>
-        <checksum>https://WorldLiveTV.github.io/repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://WorldLiveTV.github.io/repo/</datadir>
-        <hashes>true</hashes>
     </dir>
 </extension>
 <extension point="xbmc.addon.metadata">
@@ -3820,6 +3993,34 @@ Add Wallpaper
 </extension>
 </addon>
 
+<addon id="repository.hsk.crew.repo" name="[COLOR blue]HSK CREW Repository[/COLOR]" version="1.0.6" provider-name="Loki1979|HSK-DE">
+    <extension point="xbmc.addon.repository" name="HSK CREW Repository">
+	   <dir>
+		<info>https://hsk-crew.cf/downloads/hsk.crew.repo/addons.xml</info>
+		<checksum>https://hsk-crew.cf/downloads/hsk.crew.repo/addons.xml.md5</checksum>
+		<datadir>https://hsk-crew.cf/downloads/hsk.crew.repo</datadir>
+	   </dir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>HSK CREW REPO</summary>
+        <description></description>
+        <platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+    <assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+    </extension>
+</addon>
+
 <addon id="repository.jizzplanet" name="Jizzplanet Repo" provider-name="Jizzplanet.com" version="3.0.1">
 	<extension point="xbmc.addon.repository" name="Jizzplanet.com" >
 			<dir minversion="16.0.0" maxversion="18.9.9">
@@ -3849,25 +4050,6 @@ Add Wallpaper
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="repository.kodifitzwell" version="0.0.1" name="kodifitzwell repository" provider-name="kodifitzwell">
-    <extension point="xbmc.addon.repository" name="kodifitzwell repository">
-        <dir minversion="19.0.0">
-            <info compressed="false">https://raw.githubusercontent.com/kodifitzwell/repo/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/kodifitzwell/repo/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/kodifitzwell/repo/master/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <description>Fen maintenance release</description>
-        <disclaimer></disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="repository.Kpoodle19" name="[B][COLOR red]Poodle[/COLOR] [COLOR white]19[/COLOR] [COLOR yellow]Add-ons[/COLOR] [COLOR green]Repository[/COLOR][/B]" version="1.0.1" provider-name="Poodle">
@@ -4262,6 +4444,60 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="repository.tc" name="tc" provider-name="tc" version="0.3.4">
+	<extension point="xbmc.addon.repository" name="The Crew" >
+			<dir minversion="16.0.0" maxversion="18.9.9">
+			<info compressed="false">https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/thecrewwh/zips/master/_zip</datadir>
+			</dir>
+			<dir minversion="18.9.9">
+			<info compressed="false">https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/thecrewwh/zips/master//matrix/_zip/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/thecrewwh/zips/master//matrix/_zip</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+			</dir>
+			<dir>
+			<info compressed="false">https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/</datadir>
+			</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
+		<description lang="en">Many come, Many go. The true and dedicated are here. We here</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/art/ss/1.png</screenshot>
+			<screenshot>resources/art/ss/2.png</screenshot>
+			<screenshot>resources/art/ss/3.png</screenshot>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="repository.theblackghost" name="The Black Ghost Repo" version="0.0.2" provider-name="BlackGhost">
     <extension point="xbmc.addon.repository" name="theblackghost">
         <info>https://raw.githubusercontent.com/blackghostaddon/repo/master/addons.xml</info>
@@ -4411,6 +4647,29 @@ cambio host
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+    </extension>
+</addon>
+
+<addon id="repository.vlmaksime" name="vl.maksime Add-on repository" version="2.1.19" provider-name="vl.maksime">
+    <extension point="xbmc.addon.repository" name="vl.maksime Add-on repository">
+        <dir minversion="18.9.0">
+          <info>https://vlmaksime.github.io/repository.vlmaksime/repo/matrix/addons.xml</info>
+          <checksum>https://vlmaksime.github.io/repository.vlmaksime/repo/matrix/addons.xml.md5</checksum>
+          <datadir zip="true">https://vlmaksime.github.io/repository.vlmaksime/repo/matrix/</datadir>
+        </dir>
+        <dir minversion="18.9.0">
+          <info>https://vlmaksime.github.io/repository.vlmaksime/repo/matrix/repository.xml</info>
+          <checksum>https://vlmaksime.github.io/repository.vlmaksime/repo/matrix/repository.xml.md5</checksum>
+          <datadir zip="true">https://vlmaksime.github.io/repository.vlmaksime/repo/matrix/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Install Add-ons from vl.maksime</summary>
+        <summary lang="ru">Установить дополнения от vl.maksime</summary>
+        <description lang="en">Download and install add-ons from the vl.maksime add-on repository.</description>
+        <description lang="ru">Загружайте и устанавливайте обновления из репозитория vl.maksime.</description>
+        <platform>all</platform>
+        <news>v2.1.19 (2020-03-30)[CR]- Реализована отдельная ветка для Kodi 19</news>
     </extension>
 </addon>
 
@@ -4629,6 +4888,61 @@ http://zadarbuild.com.hr
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
   </extension>
+</addon>
+
+<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.48t" provider-name="fryhenryj">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="repository.jurialmunkey" version="2.2" optional="true" />
+		<import addon="plugin.video.youtube" version="6.8.11+matrix.1"/>
+		<import addon="script.module.requests" version="2.25.1+matrix.1"/>
+		<import addon="script.skin.helper.service" version="1.1.3"/>
+		<import addon="resource.images.studios.white" version="0.0.28"/>
+		<import addon="script.module.musicbrainz" version="0.6.0"/>
+		<import addon="script.module.arrow" version="1.0.3.1"/>
+		<import addon="script.module.dateutil" version="2.8.1"/>
+		<import addon="script.module.typing_extensions" version="3.7.4.3"/>
+		<import addon="script.module.simplecache" version="1.0.0"/>
+		<import addon="script.module.beautifulsoup4" version="4.6.3+matrix.1"/>
+		<import addon="plugin.video.themoviedb.helper" version="4.4.6"/>
+		<import addon="plugin.program.autocompletion" version="2.0.2" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="plugin.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.python.script" library="script.py"/>
+	<extension point="kodi.context.item">
+		<menu id="kodi.core.main">
+			<item library="context.py">
+				<label>Diamond Info</label>
+				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,actor) | String.IsEqual(ListItem.dbtype,director)</visible>
+			</item>
+			<item library="context2.py">
+				<label>TMDBHelper Trakt Menu</label>
+				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode)</visible>
+			</item>
+		</menu>
+	</extension>
+	<extension point="xbmc.service" library="service.py"  start="login"/>
+	<extension point="xbmc.python.library" library="service2.py"/>
+	<extension point="xbmc.addon.metadata">
+		<reuselanguageinvoker>true</reuselanguageinvoker>
+		<platform>all</platform>
+		<summary>Diamond Info (EIM)</summary>
+		<description>This script offers various possibilities to display online content inside skins as well as a complete MovieDB browser including info dialogs for various media types. Needs skin implementation for lot of functions and Diamond Player for library functions.</description>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshot1.jpg</screenshot>
+			<screenshot>resources/screenshot2.jpg</screenshot>
+			<screenshot>resources/screenshot3.jpg</screenshot>
+		</assets>
+		<news>6.2.3 - Fix TV Show trailers
+		6.2.2 - Added ability to search using the tvdb_id for "extendedepisodeinfo"
+		6.2.1 - Fix context menu now available for widgets pointing to Diamond Info's video addon items
+		6.2.0 - Added context menu force "player select" to the play button, available via "c" and long press "enter" button
+		</news>
+	</extension>
 </addon>
 
 <addon id="script.favourites" name="Favourites script" version="8.1.2" provider-name="ronie, `Black">
@@ -4878,6 +5192,47 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
+<addon id="script.module.hls.cache"
+		name="[COLOR blue]HLS-CACHE[/COLOR]"
+		version="1.1.2"
+		provider-name="Loki1979">
+	<requires>
+		<!--py2 compliant-->
+		<!--<import addon="xbmc.python" version="2.25.0"/>-->
+		<!--py3 compliant-->
+        <import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.python.module" library="resources/lib"/>
+	<extension point="xbmc.webinterface"/>
+	<extension point="xbmc.addon.metadata">
+	<summary>Created by loki1979</summary>
+	<description>
+1.) import addon="script.module.hls.cache"
+2.) import hls
+3.) hls.cache_loader(m3u8_url,m3u8_headers={},segment_headers={})
+	</description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+	<assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
+
 <addon id="script.module.horus" name="Horus" version="1.1.7" provider-name="Caperucitaferoz">
     <requires>
         <import addon="script.module.six" />
@@ -4972,6 +5327,18 @@ http://zadarbuild.com.hr
       <icon>icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="script.module.peewee" name="Peewee" version="3.14.8a" provider-name="groggyegg">
+    <extension point="xbmc.python.module" library="."/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Peewee is a simple and small ORM.</summary>
+        <description lang="en_GB">Peewee is a simple and small ORM. It has few (but expressive) concepts, making it easy to learn and intuitive to use.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>docs/peewee3-logo.png</icon>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="script.module.pyjsparser" name="pyjsparser" version="3.0.0" provider-name="Addons4Kodi">
@@ -5148,27 +5515,27 @@ http://zadarbuild.com.hr
 </addon>
 
 <addon id="script.video.F4mProxy"
-	     name="F4mProxy"
-	     version="4.0.8"
-	     provider-name="Joel e Tiago">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0" />
-		<import addon="script.module.requests" />
-        <import addon="inputstream.ffmpegdirect" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
+         name="F4mProxy"
+         version="4.0.8a"
+         provider-name="Joel e Tiago">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests" />
+        <!--<import addon="inputstream.ffmpegdirect" />-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
     <extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-	</extension>
+        <provides>executable</provides>
+    </extension>
 
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Proxy for f4m</summary>
-		<description lang="en">Use this addon to play F4m v1 and v2 streams</description>
-		<assets>
-			<icon>icon.png</icon>
-		</assets>
-	</extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Proxy for f4m</summary>
+        <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
 </addon>
 
   <addon id="script.video.nfl.gamepass"
@@ -5341,6 +5708,31 @@ v5.2.14 (2017-01-23)
 		<screenshot>resources/media/screenshot_3.jpg</screenshot>
 	</assets>
     <source>https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles</source>
+  </extension>
+</addon>
+
+<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.12" provider-name="TechNEWSology">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="vfs.sftp" />
+    <import addon="vfs.rar" />
+    <import addon="vfs.libarchive" />
+    <import addon="inputstream.rtmp" />
+    <import addon="inputstream.adaptive" />
+    <import addon="inputstream.ffmpegdirect" />
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">World Build Service</summary>
+    <description lang="en">World Build Service</description>
+    <disclaimer>TechNEWSology World Service</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
   </extension>
 </addon>
 

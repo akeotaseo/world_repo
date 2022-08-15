@@ -1554,6 +1554,30 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
+<addon id="plugin.video.iconctv" name="iConcerts TV" version="2021.03.03.01" provider-name="MartinStZ">
+  <requires>
+    <import addon="script.module.requests" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+   <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE</license>
+   <summary lang="en">Video plugin for iConcerts TV channel</summary>
+   <language>en</language>
+   <description lang="en">Video plugin for iConcerts TV channel</description>
+   <disclaimer lang="en"></disclaimer>
+   <website></website>
+   <platform>all</platform>
+   <source></source>
+   <assets>
+	  <icon>icon.png</icon>
+	  <fanart>fanart.jpg</fanart>
+   </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.IPTV19"
        name="IPTV Player for Kodi 19"
        version="1.0.0"
@@ -1911,6 +1935,38 @@ AVISO LEGAL:
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
+</addon>
+
+<addon id="plugin.video.maxsport" name="maxsport" version="1.0.0" provider-name="lg">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.future"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+	<extension point="xbmc.service" library="serverHTTP.py" />
+	<extension point="xbmc.addon.metadata">
+        <description lang="pl">test</description>
+        <disclaimer lang="pl">test
+        </disclaimer>
+        <summary lang="en">test</summary>
+        <description lang="en">test</description>
+        <disclaimer lang="en">test
+        </disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon></icon>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+
 </addon>
 
 <addon id="plugin.video.MetalOnMetal" name="[COLOR red]Metal on Metal[/COLOR]"	version="1.0.6"	provider-name="Sergi">
@@ -2405,33 +2461,6 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.S2W"
-version="1.0.1"
-name="Stream2Watch"
-provider-name="Parrot Developers">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.25.1"/>
-  <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
-  <import addon="inputstream.adaptive" version="2.3.13"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="addon.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary>Watch TV from stream2watch.sx</summary>
-  <description>Watch TV from stream2watch.sx</description>
-  <disclaimer>Watch TV from stream2watch.sx</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-  </assets>
-  <news>
-    [1.0.0] Initial version!
-    [1.0.1] Fixes
-  </news>
-</extension>
-</addon>
-
 <addon id="plugin.video.sc19" version="0.1.0" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -2504,7 +2533,7 @@ provider-name="Parrot Developers">
   </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.11" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.12" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -3084,7 +3113,7 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.vavooto" name="VAVOO.TO" version="5.1" provider-name="michaz">
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="5.2" provider-name="michaz">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="inputstream.ffmpegdirect" optional="true" />

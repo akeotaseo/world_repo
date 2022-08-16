@@ -401,6 +401,29 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
+<addon id="plugin.program.autoenabler" name="Auto Enabler" version="1.0.0" provider-name="slam">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+        <language/>
+        <summary lang="en_GB">Addon Enabler Script</summary>
+        <description lang="en_GB">This script enables all addons that are disabled.</description>
+        <platform>all</platform>
+        <license>GPL-2.0-only</license>
+        <forum></forum>
+        <source></source>
+        <email></email>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.program.browser.launcher" name="Browser Launcher" version="2.0.0-Mod Kodi-19" provider-name="AddonScriptorDE + Sandmann79">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -768,7 +791,7 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.32" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.33" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -793,6 +816,8 @@ adulthideout@yandex.com[/COLOR]
     <language>en el</language>
     <license>GNU GPL, version 2</license>
     <news>[B][COLOR white]ΑΤΛΑΣ Kodi Matrix 19[/COLOR][/B]
+    - [B][COLOR lime]v19.0.33[/COLOR][/B] 16/08/2022
+       Διορθώσεις κώδικα - Gamato
     - [B][COLOR lime]v19.0.32[/COLOR][/B] 11/08/2022
        Διορθώσεις κώδικα - Gamato
     - [B][COLOR lime]v19.0.31[/COLOR][/B] 19/05/2022
@@ -5507,6 +5532,31 @@ http://zadarbuild.com.hr
 	<assets>
 	<icon>icon.png</icon>
     </assets>
+  </extension>
+</addon>
+
+<addon id="script.skinswitcher"
+	     name="Skin Switcher"
+	     version="1.0.1"
+	     provider-name="Surfacingx, OpenELEQ, Fire TV Guru">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+	</assets>
+    <summary lang="en">-</summary>
+    <description lang="en">Choose a skin.</description>
+    <disclaimer lang="en">.</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
   </extension>
 </addon>
 

@@ -2533,7 +2533,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.12" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.12b" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>

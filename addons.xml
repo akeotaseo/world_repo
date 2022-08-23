@@ -791,69 +791,6 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.33" provider-name="NP-Bugatsinho-(Modified by TechNEWSology)">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.six" />
-    <import addon="script.module.resolveurl" version="5.0.00"/>
-    <import addon="script.module.pyxbmct" version="1.2.0"/>
-    <import addon="script.module.requests" version="2.19.1"/>
-    <import addon="plugin.video.youtube" version="6.8.10"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="el">ΑΤΛΑΣ ΕΛΛΗΝΙΚΟ ΠΡΟΣΘΕΤΟ</summary>
-    <description lang="el">ΤΑΙΝΕΣ ΚΑΙ ΣΕΙΡΕΣ ΜΕ ΥΠOΤΙΤΛΟΥΣ-ΕΛΛΗΝΙΚΕΣ-ΠΑΙΔΙΚΑ-ΜΟΥΣΙΚΗ.O Άτλας ήταν η μυθική μορφή που κρατούσε στους ώμους του το θόλο του Ουρανού πάνω από τη Γη.</description>
-    <disclaimer lang="el">Ο δημιουργός δεν φιλοξενεί ή διανέμει οποιαδήποτε από το περιεχόμενο που εμφανίζεται από αυτό το πρόσθετο και δεν έχει οποιαδήποτε σχέση με την ιστοσελίδα και τους ιδιοκτήτες αυτής.
-    </disclaimer>
-    <summary lang="en">ΑΤΛΑΣ ΕΛΛΗΝΙΚΟ ΠΡΟΣΘΕΤΟ</summary>
-    <description lang="en">ΤΑΙΝΕΣ ΚΑΙ ΣΕΙΡΕΣ ΜΕ ΥΠOΤΙΤΛΟΥΣ-ΕΛΛΗΝΙΚΕΣ-ΠΑΙΔΙΚΑ-ΜΟΥΣΙΚΗ.O Άτλας ήταν η μυθική μορφή που κρατούσε στους ώμους του το θόλο του Ουρανού πάνω από τη Γη.</description>
-    <disclaimer lang="en">Ο δημιουργός δεν φιλοξενεί ή διανέμει οποιαδήποτε από το περιεχόμενο που εμφανίζεται από αυτό το πρόσθετο και δεν έχει οποιαδήποτε σχέση με την ιστοσελίδα και τους ιδιοκτήτες αυτής.
-    </disclaimer>
-    <language>en el</language>
-    <license>GNU GPL, version 2</license>
-    <news>[B][COLOR white]ΑΤΛΑΣ Kodi Matrix 19[/COLOR][/B]
-    - [B][COLOR lime]v19.0.33[/COLOR][/B] 16/08/2022
-       Διορθώσεις κώδικα - Gamato
-    - [B][COLOR lime]v19.0.32[/COLOR][/B] 11/08/2022
-       Διορθώσεις κώδικα - Gamato
-    - [B][COLOR lime]v19.0.31[/COLOR][/B] 19/05/2022
-       Διορθώσεις κώδικα - Gamato
-    - [B][COLOR lime]v19.0.30[/COLOR][/B] 19/05/2022
-       Διορθώσεις κώδικα - Προσθήκη Gamatomovies(Ξένες Σειρές)
-    - [B][COLOR lime]v19.0.29[/COLOR][/B] 17/05/2022
-       Προσθήκη Gamatomovies - gamatomovies.gr
-    - [B][COLOR lime]v19.0.28[/COLOR][/B] 09/05/2022
-       Διορθώσεις κώδικα
-       Προσθήκη Ντοκιμαντέρ - ntokimanter.gr
-    - [B][COLOR lime]v19.0.27[/COLOR][/B] 19/04/2022
-       Διορθώσεις κώδικα
-    - [B][COLOR lime]v19.0.26[/COLOR][/B] 14/04/2022
-       Προσθήκη κατηγοριών Ομάδες κ' Ψάρεμα
-       Διορθώσεις κώδικα - Coolmoviezone
-    - [B][COLOR lime]v19.0.25[/COLOR][/B] 10/04/2022
-       Διορθώσεις κώδικα - (Trailer)Gamato
-       Προσθήκη Ξένων Σειρών - Tainiomania
-    - [B][COLOR lime]v19.0.23[/COLOR][/B] 04/04/2022
-       Διορθώσεις κώδικα - Gamato
-    - [B][COLOR lime]v19.0.22[/COLOR][/B] 02/04/2022
-       Διορθώσεις κώδικα - Coolmoviezone
-    - [B][COLOR lime]v19.0.21[/COLOR][/B] 01/04/2022
-       Διορθώσεις κώδικα - Προσθήκη Coolmoviezone
-    - [B][COLOR lime]v19.0.20[/COLOR][/B] 30/03/2022
-       Διορθώσεις κώδικα - (myvideolinks)
-    - [B][COLOR lime]v19.0.19[/COLOR][/B] 28/03/2022
-    </news>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.betatv" name="betatv" version="1.0.0" provider-name="lg">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -4400,21 +4337,21 @@ Add Wallpaper
 	</extension>
 </addon>
 
-    <addon id="repository.robinhood.wizard" name="[B][COLOR limegreen]RobinHood[B][COLOR white] Wizard Repository[/B][/COLOR]" version="1.2.2" provider-name="RobinHood">
+    <addon id="repository.robinhood.wizard" name="[B][COLOR limegreen]RobinHood[B][COLOR white] Wizard Repository[/B][/COLOR]" version="0.0.1.1" provider-name="RobinHood">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="RobinHood Wizard Repository">
-            <info compressed="false">https://networkcorner.net/robinhood/_repo/addons.xml</info>
-            <checksum>https://networkcorner.net/robinhood/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://networkcorner.net/robinhood/_repo/</datadir>
+            <info compressed="false">https://networkcorner.net/robinhood/repo/addons.xml</info>
+            <checksum>https://networkcorner.net/robinhood/repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://networkcorner.net/robinhood/repo/</datadir>
             <hashes>false</hashes>
 
 			<dir>
-			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
-		</dir>
+        <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
 
 		<dir>
         <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
@@ -4438,7 +4375,7 @@ Add Wallpaper
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>Install all the latest Builds</summary>
-            <description>Welcome to the New and Improved RobinHood WIZARD for all your Community Builds.</description>
+            <description>Welcome to the New and Improved Robin Hood Wizard for all your Community Builds.</description>
             <platform>all</platform>
 			<assets>
 			<icon>icon.png</icon>
@@ -5790,7 +5727,7 @@ v5.2.14 (2017-01-23)
   </extension>
 </addon>
 
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.12" provider-name="TechNEWSology">
+<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.12c" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="vfs.sftp" />
@@ -5812,54 +5749,6 @@ v5.2.14 (2017-01-23)
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-  </extension>
-</addon>
-
-<addon
-  id="skin.19MatrixWorld"
-  version="4.1.1b"
-  name="skin.19MatrixWorld"
-  provider-name="Helly,bsoriano">
-  <requires>
-    <import addon="xbmc.gui" version="5.15.0"/>
-    <import addon="script.favourites" version="8.1.2"/>
-  </requires>
-  <extension
-    point="xbmc.gui.skin"
-    debugging="false"
-    effectslowdown="1.0">
-    <res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
-    <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
-    <summary lang="nl">Uitgebreide MOD van Confluence skin origineel door Jezz_X en CCM door Mudislander.</summary>
-    <description lang="en">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
-    <description lang="en_US">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
-    <description lang="nl">Xonfluence is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
-    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
-    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
-    <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
-    <platform>all</platform>
-	  <license>GNU General Public License version 2</license>
-	  <forum>https://forum.kodi.tv/showthread.php?tid=346302</forum>
-	  <website></website>
-	  <email></email>
-	  <source>https://github.com/bartolomesoriano/skin.xonfluence</source>
-    <assets>
-      <icon>resources/icon.png</icon>
-      <fanart>resources/fanart.jpg</fanart>
-	    <screenshot>resources/screenshot-01.jpg</screenshot>
-	    <screenshot>resources/screenshot-02.jpg</screenshot>
-	    <screenshot>resources/screenshot-03.jpg</screenshot>
-	    <screenshot>resources/screenshot-04.jpg</screenshot>
-	    <screenshot>resources/screenshot-05.jpg</screenshot>
-	    <screenshot>resources/screenshot-06.jpg</screenshot>
-	    <screenshot>resources/screenshot-07.jpg</screenshot>
-	    <screenshot>resources/screenshot-08.jpg</screenshot>
-	    <screenshot>resources/screenshot-09.jpg</screenshot>
-    </assets>
-    <news>See changelog for latest changes</news>
   </extension>
 </addon>
 

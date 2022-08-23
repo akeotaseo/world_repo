@@ -467,26 +467,6 @@ v2.4.0  (2019-01-01)
 	</extension>
 </addon>
 
-<addon id="plugin.program.jewpair" name="Pair Em" version="1.6" provider-name="JewBMX">
-    <requires>
-        <import addon="script.module.kodi-six" />
-    </requires>
-    <extension point="xbmc.python.script" library="addon.py">
-        <provides>executable</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en">Pair Em is a Pairing Tool.</summary>
-        <description lang="en">Web Browser needed like FireFox, Dolphin, Chrome. /n Simple to use, click the one you need /n and if all else fails just open the website needed on another device connected to your internet /n and it will do the same as this app.</description>
-        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-        <license>Free the People!, Free the World!!</license>
-        <news>Updated for Kodi 19.</news>
-        <assets>
-            <icon>resources/icon.png</icon>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.program.orderfavourites" name="Order Favourites" version="1.2.1a" provider-name="doko">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -621,74 +601,6 @@ Use this to organize your Favourites.
     </menu>
   </extension>
 
-</addon>
-
-<addon id="plugin.video.123tv"
-version="3.0.0"
-name="123TV"
-provider-name="Parrot Developers">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.requests" version="2.25.1"/>
-  <import addon="inputstream.adaptive" version="2.3.13"/>
-  <import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="addon.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary>123TV Channels in KODI.</summary>
-  <description>123TV Channels in KODI.</description>
-  <disclaimer>Do not make copies of this addon!</disclaimer>
-  <assets>
-    <icon>icon.jpg</icon>
-  </assets>
-  <news>
-    [1.0.0] Initial version!
-  </news>
-</extension>
-</addon>
-
-<addon 	id="plugin.video.7Plus.Matrix"
-	name="[B][COLOR red]7PLUS[/COLOR][/B]"
-	version="1.0.0+matrix.1"
-	provider-name="[B][COLOR red]7PLUS[/B][/COLOR]">
-<requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.simplejson"/>
-	<import addon="script.module.kodi-six" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="7plus.py">
-	<provides>video</provides>
-</extension>
-
-<extension point="xbmc.addon.repository" name="7Plus REPO">
-	<info compressed="false"></info>
-	<checksum></checksum>
-    <datadir zip="true"></datadir>
-</extension>
-
-<extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR white]FILMES, SERIES, ANIMÇÃO EM  HD, Legendados. O MELHOR ADDON DE FILMES E SERIES PRO SEU KODI!.[/COLOR][/B]</summary>
-	<description lang="en">[B][COLOR red]ADDON oficial [COLOR red]7PLUS[/COLOR] - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
-[B][COLOR white]Addon [COLOR red]7PLUS[/COLOR] é de uso gratuito!![/COLOR][/B]
-[B][COLOR firebrick]Mais um excelente addon de língua portuguesa como filmes recentes e também antigos, séries, animação.[/COLOR][/B]</description>
-	<disclaimer lang="en">[COLOR yellow][B]O conteúdo exibido por este complemento. 7PLUS não tem nenhuma afiliação com o provedor de conteúdo, Somente é responsável por coletar os melhores filmes da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus usuários. tão fácil e descomplicada.[/B][/COLOR]</disclaimer>
-	 	<news>
-v1.0.0.matrix.1
-- Addon 7PLUS
-</news>
-	<platform>all</platform>
-    <assets>
-	<icon>icon.png</icon>
-    <fanart>fanart.png</fanart>
-    <screenshot>resources/screenshots/01.jpg</screenshot>
-    <screenshot>resources/screenshots/02.jpg</screenshot>
-    <screenshot>resources/screenshots/03.jpg</screenshot>
-
-    </assets>
-</extension>
 </addon>
 
 <addon id="plugin.video.acestreamsearch"
@@ -1197,7 +1109,7 @@ adulthideout@yandex.com[/COLOR]
 </extension>
 </addon>
 
-<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.2w" provider-name="Wolfey B">
+<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.3w" provider-name="Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0"/>
@@ -2879,36 +2791,6 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="plugin.video.truecrime" name="True Crime Network" version="2022.01.16" provider-name="MetalChris">
-    <requires>
-        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
-        <import addon="script.module.requests" version="2.9.1"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource"
-               library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <license>GPL 2.0</license>
-        <summary lang="en">24/7 True Crime programming</summary>
-        <description lang="en">True Crime Network is a 24/7 broadcast television network that entertains and informs its viewers with gripping crime and investigation programming while making communities safer.  This add-on provides access to the True Crime Network video on demand library. *Matrix Version*</description>
-        <disclaimer lang="en">For support go to my github. No support without a full, unedited debug log.  No support at TVAddons or any other forum.</disclaimer>
-        <language></language>
-        <platform>all</platform>
-        <license>GPL(v2) or Later</license>
-        <forum></forum>
-        <website>https://www.truecrimenetworktv.com/</website>
-        <email></email>
-        <source></source>
-        <news>v.2022.01.16[CR]- Fix for website changes.</news>
-        <assets>
-            <icon>resources/media/icon.png</icon>
-            <fanart>resources/media/fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.tvone" name="tvOne" version="26+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -3477,26 +3359,6 @@ Add Wallpaper
     <extension point="xbmc.addon.metadata">
         <summary>Gargantua Repo</summary>
         <description>Repositorio de emergencia de Gargantua</description>
-        <disclaimer></disclaimer>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="repository.7PlusREPO" name="[B][COLOR red]7Plus REPO[/COLOR][/B]" version="1.0" provider-name="7Plus">
-    <extension point="xbmc.addon.repository" name="7Plus Repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/lokimaximus/7PlusREPO/master/zips/</datadir>
-        </dir>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>REPO 7Plus</summary>
-        <description>[B]Repositorio oficial 7Plus - Proibido reproducao sem previa autorizacao[/B]</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
@@ -4322,21 +4184,6 @@ Add Wallpaper
     </extension>
 </addon>
 
-<addon id="repository.psyco" name="PsycoTV Repo" version="1.0.3" provider-name="Psyco">
-	<extension point="xbmc.addon.repository" name="Psyco">
-		<info compressed="false">http://psyco.tv/repo1/addons.xml</info>
-		<checksum>http://psyco.tv/repo1/addons.xml.md5</checksum>
-		<datadir zip="true">http://psyco.tv/repo1/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">PsycoTV Repository</summary>
-		<summary lang="de">Repository von Psyco</summary>
-		<description></description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
     <addon id="repository.robinhood.wizard" name="[B][COLOR limegreen]RobinHood[B][COLOR white] Wizard Repository[/B][/COLOR]" version="0.0.1.1" provider-name="RobinHood">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
@@ -4857,27 +4704,6 @@ http://zadarbuild.com.hr
     <assets>
       <icon>icon.png</icon>
     </assets>
-  </extension>
-</addon>
-
-<addon id="script.diggzskins"
-	     name="Diggz Skin Switcher"
-	     version="420.21"
-	     provider-name="Diggz, Big thanks to FTV GURU!!">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">-</summary>
-    <description lang="en">Choose a flavor</description>
-    <disclaimer lang="en">.</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
   </extension>
 </addon>
 
@@ -5488,27 +5314,6 @@ http://zadarbuild.com.hr
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 	</assets>
-    <summary lang="en">-</summary>
-    <description lang="en">Choose a skin.</description>
-    <disclaimer lang="en">.</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  </extension>
-</addon>
-
-<addon id="script.skinswitcher19"
-	     name="Skin Switcher"
-	     version="1.0.0"
-	     provider-name="Surfacingx, OpenELEQ, Fire TV Guru">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
     <summary lang="en">-</summary>
     <description lang="en">Choose a skin.</description>
     <disclaimer lang="en">.</disclaimer>

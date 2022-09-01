@@ -2904,6 +2904,29 @@ provider-name="jurialmunkey">
   </extension>
 </addon>
 
+<addon id="plugin.video.tvone112" name="tvOne112" version="1+matrix.1" provider-name="RACC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.pycryptodome"/>
+    <import addon="script.module.pyamf"/>
+    <import addon="script.module.kodi-six"/>
+    <import addon="script.module.future"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.routing"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">tvOne112</summary>
+    <description lang="en_gb">tvOne112</description>
+    <disclaimer lang="en_gb"/>
+    <platform>all</platform>
+    <license>GPL-3.0-only</license>
+  </extension>
+</addon>
+
 <addon id="plugin.video.tvpolan" name="tvpolan" version="1.0.0" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />

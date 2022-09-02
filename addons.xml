@@ -1476,6 +1476,23 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
+<addon id="plugin.video.iptvxc" name="[B][COLOR red]XCUI Streams[/B][/COLOR]" version="3.1.4" provider-name="[B][COLOR orange]Fire TV Guru[/B][/COLOR]">
+  <extension point="xbmc.python.pluginsource"
+			library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLOR red]An IPTV addon written to work with XC and XCUI for Kodi 19 only[/COLOR] </summary>
+	<language>en</language>
+	<description lang="en">[COLOR red]This addon does not supply nor provide any illegal content[/COLOR]</description>
+	<platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.itftennis" name="itftennis" version="1.0.0" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
@@ -2924,6 +2941,10 @@ provider-name="jurialmunkey">
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
 
@@ -3157,7 +3178,7 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.2" provider-name="doko">
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.3" provider-name="doko">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
@@ -3167,34 +3188,8 @@ Initial version.
     </extension>
     <extension point="xbmc.addon.metadata">
         <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
-[B]0.5.8:[/B]
-- Fixed Search by Genre
-- Changed more domain references to wcofun.com
-
-[B]0.5.7:[/B]
-- Changed domain to wcofun.com
-
-[B]0.5.6:[/B]
-- Fix Error from clean titles when viewing a show with martipart episodes
-- Fix Chapter select for episodes
-
-[B]0.5.5:[/B]
-- Fix Error from clean titles when there is no episode (specials)
-
-[B]0.5.4:[/B]
-- Fix times episode search point could not be found
-
-[B]0.5.3:[/B]
-- Fix Thumbnails in latest section (when enabled)
-
-[B]0.5.2:[/B]
-- Fix Error when clean titles is enabled
-
-[B]0.5.1:[/B]
-- Fix Latest Section
-
-[B]0.5.0:[/B]
-- Python 3 Compatible</news>
+[B]0.6.3:[/B]
+- Fixed Cloudflare TLS issue</news>
         <description lang="en">
 Watch cartoons and anime from [COLOR orange][B]www.wcofun.com[/B][/COLOR].
 
@@ -4730,8 +4725,8 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
-<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.48t" provider-name="fryhenryj">
-	<requires>
+<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.64t" provider-name="fryhenryj">
+"""""""""""""	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="repository.jurialmunkey" version="2.2" optional="true" />
 		<import addon="plugin.video.youtube" version="6.8.11+matrix.1"/>

@@ -1296,25 +1296,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.favourites" version="0.0.14.tk" name="Video Favourites" provider-name="primaeval">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.xbmcswift2" version="2.4.0"/>
-  <import addon="script.module.requests" version="2.9.1" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Video Favourites</summary>
-  <description lang="en"></description>
-  <disclaimer lang="en"></disclaimer>
-  <assets>
-    <icon>icon.png</icon>
-  </assets>
-</extension>
-</addon>
-
 <addon id="plugin.video.fullmatchtv"
        name="Full Match TV"
        version="0.0.2"
@@ -2453,39 +2434,6 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
         <news>1.9 14-07-2022
         - fixed vipleague</news>
     </extension>
-</addon>
-
-﻿<addon id="plugin.video.sportstreams" name="Sport Streams" provider-name="waladir" version="1.0.0">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests" version="2.22.0" />
-    <import addon="inputstream.adaptive" version="19.0.0"/>
-    <import addon="script.module.beautifulsoup4" version="4.6.0" />
-  </requires>
-  <extension library="main.py" point="xbmc.python.pluginsource">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="cs_CZ">Sport Streams</summary>
-    <description lang="cs_CZ">
-České a slovenské sportovní přenosy z různých zdrojů:
-
-ČT4 Sport Plus (ČT4 Sport + extra přenosy)
-TVcom.cz (živé přenosy i archiv různých sportů a soutěží)
-Huste.tv (živé přenosy i archiv ze slovenských soutěží)
-Volej.tv (přenosy volejbalových soutěží)
-Ping-pong.tv (přenosy ze soutěží stolního tenisu
-    </description>
-    <platform>all</platform>
-    <source>https://github.com/waladir/plugin.video.sportstreams</source>
-    <news>
-v1.0.0 (26.6.2022)
-- první verze
-    </news>
-    <assets>
-        <icon>icon.png</icon>
-    </assets>
-  </extension>
 </addon>
 
 <addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.3+matrix.1" provider-name="realvito (inspired by L0RE)">
@@ -4283,6 +4231,143 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="repository.superservidorbrazuca" name="[B][COLOR green]**** Super Servido[/COLOR][COLOR yellow]r Brasileiro ****[/COLOR][/B]" version="1.5.8" provider-name="CachorroCaramelo">
+	<extension point="xbmc.addon.repository" name="Super Servidor Brasileiro">
+	<dir>
+		<info compressed="false">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml</info>
+		<checksum>https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml</info>
+		<checksum>https://github.com/OnePlayHD/OneRepo/raw/master/matrix/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/OnePlayHD/OneRepo/raw/master/matrix</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">http://kodishteam.space/repositorio/addon.xml</info>
+		<checksum>http://kodishteam.space/repositorio/addons.xml.md5</checksum>
+		<datadir zip="true">http://kodishteam.space/repositorio/addons/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+	    <info compressed="false">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+        <info compressed="false">https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Kodi-vStream/venom-xbmc-addons/raw/master/repo</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Arias800/Fichier-divers/master/addon.xml</info>
+        <checksum>https://raw.githubusercontent.com/Arias800/Fichier-divers/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Arias800/script.module.dnspython/master</datadir>
+    </dir>
+	<dir>
+	    <info>https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Palantiraddon/Repo/master/Palantir/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Palantiraddon/repo/master/Palantir/</datadir>
+	</dir>
+	<dir>
+        <info compressed="false">https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/master/MATRIX/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/master/MATRIX/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/RAPOSO-PAUL/TeamViannaREPO/master/MATRIX/</datadir>
+    </dir>
+	<dir>
+	  <info compressed="false">https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml</info>
+      <checksum>https://github.com/euro2000/magellan.github.io/raw/main/matrix/addons.xml.md5</checksum>
+      <datadir zip="true">https://github.com/euro2000/magellan.github.io/raw/main/matrix</datadir>
+      <hashes>false</hashes>
+	</dir>
+	<dir>
+	  <info compressed="false">https://raw.githubusercontent.com/luminart506/repoluminartstudio/main/matrix/addons.xml</info>
+	  <checksum>https://raw.githubusercontent.com/luminart506/repoluminartstudio/main/matrix/addons.xml.md5</checksum>
+	  <datadir zip="true">https://raw.githubusercontent.com/luminart506/repoluminartstudio/main/matrix/</datadir>
+	  <hashes>false</hashes>
+    </dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/nemesis668/repository.streamarmy18-19/main/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/nemesis668/repository.streamarmy18-19/main/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/nemesis668/repository.streamarmy18-19/main/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+	</dir>
+	<dir maxversion="18.8.9">
+		<info compressed="false">https://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/andreguedes/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/andreguedes/controle.txt</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/andreguedes/install</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/freedocs/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/freedocs/controle.txt</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kodishmediacenter/kodishcomplementos/main/freedocs/install</datadir>
+		<hashes>false</hashes>
+	</dir>
+	<dir>
+		<info compressed="false">https://loopaddon.uk/zips19/addons.xml</info>
+		<checksum>https://loopaddon.uk/zips19/addons.xml.md5</checksum>
+		<datadir zip="true">https://loopaddon.uk/zips19/</datadir>
+	</dir>
+	<dir>
+      <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+	<dir>
+       <info compressed="false">https://raw.githubusercontent.com/Orion7plus/repository.7Plus/master/zips/addons.xml</info>
+       <checksum>https://raw.githubusercontent.com/Orion7plus/repository.7Plus/master/zips/addons.xml.md5</checksum>
+       <datadir zip="true">https://raw.githubusercontent.com/Orion7plus/repository.7Plus/master/zips/</datadir>
+    </dir>
+   <dir minversion="18.9.1">
+			<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/correcao-repo/main/vk-fix</info>
+			<checksum>https://raw.githubusercontent.com/kodishmediacenter/correcao-repo/main/vk-md5</checksum>
+			<datadir zip="true">https://github.com/vikingskoditeam/vikingskoditeam.github.io/raw/master/matrix</datadir>
+			<hashes>false</hashes>
+    </dir>
+	<dir>
+			<info compressed="false">https://raw.githubusercontent.com/kodishmediacenter/correcao-repo/main/kodiloucos.xml</info>
+			<checksum>https://raw.githubusercontent.com/kodishmediacenter/correcao-repo/main/kodiloucos.md5</checksum>
+			<datadir zip="true">https://github.com/arrownegra/arrownegra.github.io/raw/main/matrix</datadir>
+			<hashes>false</hashes>
+    </dir>
+	</extension>
+
+
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Super Servidor Brasileiro</summary>
+		<description lang="en">Reunimos os Melhores ou Não no super servidor Brasileiro</description>
+		<disclaimer>Só jack</disclaimer>
+		<platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
+
     <addon id="repository.t4krepo" name="[COLOR blue][B] T4K[/B][/COLOR] Repository" version="1.2.5" provider-name="silevasile">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
@@ -4723,61 +4808,6 @@ http://zadarbuild.com.hr
       <icon>icon.png</icon>
     </assets>
   </extension>
-</addon>
-
-<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.64t" provider-name="fryhenryj">
-"""""""""""""	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="repository.jurialmunkey" version="2.2" optional="true" />
-		<import addon="plugin.video.youtube" version="6.8.11+matrix.1"/>
-		<import addon="script.module.requests" version="2.25.1+matrix.1"/>
-		<import addon="script.skin.helper.service" version="1.1.3"/>
-		<import addon="resource.images.studios.white" version="0.0.28"/>
-		<import addon="script.module.musicbrainz" version="0.6.0"/>
-		<import addon="script.module.arrow" version="1.0.3.1"/>
-		<import addon="script.module.dateutil" version="2.8.1"/>
-		<import addon="script.module.typing_extensions" version="3.7.4.3"/>
-		<import addon="script.module.simplecache" version="1.0.0"/>
-		<import addon="script.module.beautifulsoup4" version="4.6.3+matrix.1"/>
-		<import addon="plugin.video.themoviedb.helper" version="4.4.6"/>
-		<import addon="plugin.program.autocompletion" version="2.0.2" optional="true" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="plugin.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.python.script" library="script.py"/>
-	<extension point="kodi.context.item">
-		<menu id="kodi.core.main">
-			<item library="context.py">
-				<label>Diamond Info</label>
-				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,actor) | String.IsEqual(ListItem.dbtype,director)</visible>
-			</item>
-			<item library="context2.py">
-				<label>TMDBHelper Trakt Menu</label>
-				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode)</visible>
-			</item>
-		</menu>
-	</extension>
-	<extension point="xbmc.service" library="service.py"  start="login"/>
-	<extension point="xbmc.python.library" library="service2.py"/>
-	<extension point="xbmc.addon.metadata">
-		<reuselanguageinvoker>true</reuselanguageinvoker>
-		<platform>all</platform>
-		<summary>Diamond Info (EIM)</summary>
-		<description>This script offers various possibilities to display online content inside skins as well as a complete MovieDB browser including info dialogs for various media types. Needs skin implementation for lot of functions and Diamond Player for library functions.</description>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/screenshot1.jpg</screenshot>
-			<screenshot>resources/screenshot2.jpg</screenshot>
-			<screenshot>resources/screenshot3.jpg</screenshot>
-		</assets>
-		<news>6.2.3 - Fix TV Show trailers
-		6.2.2 - Added ability to search using the tvdb_id for "extendedepisodeinfo"
-		6.2.1 - Fix context menu now available for widgets pointing to Diamond Info's video addon items
-		6.2.0 - Added context menu force "player select" to the play button, available via "c" and long press "enter" button
-		</news>
-	</extension>
 </addon>
 
 <addon id="script.favourites" name="Favourites script" version="8.1.2" provider-name="ronie, `Black">
@@ -5547,31 +5577,6 @@ v5.2.14 (2017-01-23)
 		<screenshot>resources/media/screenshot_3.jpg</screenshot>
 	</assets>
     <source>https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles</source>
-  </extension>
-</addon>
-
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.12c" provider-name="TechNEWSology">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="vfs.sftp" />
-    <import addon="vfs.rar" />
-    <import addon="vfs.libarchive" />
-    <import addon="inputstream.rtmp" />
-    <import addon="inputstream.adaptive" />
-    <import addon="inputstream.ffmpegdirect" />
-  </requires>
-  <extension point="xbmc.python.script" library="addon.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">World Build Service</summary>
-    <description lang="en">World Build Service</description>
-    <disclaimer>TechNEWSology World Service</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
   </extension>
 </addon>
 

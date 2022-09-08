@@ -2,20 +2,20 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
-[COLOR blue]Έκδοση Build 2.1[/COLOR]  25 Μαΐου 2022
+[COLOR blue]Έκδοση Build 2.1[/COLOR]  08 Σεπτεμβρίου 2022
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build 
-προχωρήστε στην [COLOR blue]Έκδοση 2.1[/COLOR]
+προχωρήστε στην [COLOR blue]Έκδοση 2.2[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 25 Αυγούστου 2022:[/B]
+  [B]Τελευταία ενημέρωση 08 Σεπτεμβρίου 2022:[/B]
+- Δυνατότητα επιλογής [B][COLOR red]μη[/COLOR][/B] αυτόματης ενημέρωσης του build
+  (μέσα απο το [B][COLOR orange]World Updater - Tools[/COLOR][/B])
+- Επιλογή αλλαγής skin ([B]Confluence Je4M mod Matrix[/B]
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 
-  [B]Ενημέρωση 01 Ιουνίου 2022:[/B]
-- Αλλαγές/διορθώσεις/προσθήκες
-  στο [COLOR green] My Groups[/COLOR]
-  στην κατηγορία ACE
+ 
   
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες

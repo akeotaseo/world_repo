@@ -12,7 +12,7 @@
   [B]Τελευταία ενημέρωση 08 Σεπτεμβρίου 2022:[/B]
 - Δυνατότητα επιλογής [B][COLOR red]μη[/COLOR][/B] αυτόματης ενημέρωσης του build
   (μέσα απο το [B][COLOR orange]World Updater - Tools[/COLOR][/B])
-- Επιλογή αλλαγής skin ([B]Confluence Je4M mod Matrix[/B]
+- Επιλογή αλλαγής skin ([B]Confluence Je4M mod Matrix[/B])
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 

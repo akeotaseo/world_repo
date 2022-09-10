@@ -9,7 +9,11 @@
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 08 Σεπτεμβρίου 2022:[/B]
+  [B]Τελευταία ενημέρωση 10 Σεπτεμβρίου 2022:[/B]
+  Δυνατότητα αλλαγής skin κατά την αναπαραγωγή βίντεο
+  (VideoOSD)
+  
+  [B]Ενημέρωση 08 Σεπτεμβρίου 2022:[/B]
 - Δυνατότητα επιλογής [B][COLOR red]μη[/COLOR][/B] αυτόματης ενημέρωσης του build
   (μέσα απο το [B][COLOR orange]World Updater - Tools[/COLOR][/B])
 - Επιλογή αλλαγής skin ([B]Confluence Je4M mod Matrix[/B])

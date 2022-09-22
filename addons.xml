@@ -677,6 +677,25 @@ adulthideout@yandex.com[/COLOR]
 	</extension>
 </addon>
 
+<addon id="plugin.video.adultseverywhere" name="[COLOR coral][B]Adults Everywhere[/B][/COLOR]" version="0.0.1" provider-name="AceTorr">
+  <requires>
+   <import addon="script.module.six" />
+   <import addon="script.module.requests"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Lo Mejor para Adultos</summary>
+    <description>[COLOR red]La mejor colección de Videos para Adultos organizado por temática y emisión de Canales en Streaming.[/COLOR].[CR][CR]*Este Addon lo encuentras y actualizas en [COLOR blue]Kelebek[/COLOR].</description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.arenavisionl" name="ArenaVision" version="0.1.11" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -4054,6 +4073,42 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="repository.plexkodiconnect" name="PlexKodiConnect Addons for Kodi 19 Matrix" version="3.0.0" provider-name="Croneter">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="PlexKodiConnect Repository Kodi 19 Matrix">
+		<info compressed="false">https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/croneter/binary_repo/master/stable_py3/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>PlexKodiConnect add-on repository for Kodi 19 and later only.</summary>
+		<description>Repository for stable PlexKodiConnect versions.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.plexkodiconnectbeta" name="PlexKodiConnect Beta Addons for Kodi 19 Matrix" version="3.0.0" provider-name="Croneter">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+        <import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="PlexKodiConnect Repository BETA Kodi 19 Matrix">
+		<info compressed="false">https://raw.githubusercontent.com/croneter/binary_repo/master/beta_py3/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/croneter/binary_repo/master/beta_py3/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/croneter/binary_repo/master/beta_py3/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>PlexKodiConnect add-on repository for potentially unstable beta versions. Kodi 19 and later only.</summary>
+		<description>Please use the stable PlexKodiConnect repository for a more stable experience with Plex on Kodi.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.pogowurst.addons" name="Pogowurst Add-on Repository" version="1.0.0" provider-name="pogowurst">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
@@ -4825,6 +4880,42 @@ http://zadarbuild.com.hr
       <icon>icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="repository.zombi"
+       name="Zombi Repository"
+        version="0.0.8"
+        provider-name="zombi">
+    <extension point="xbmc.addon.repository" name="Zombi Repository">
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/zombiB/zombi-addons/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/zombiB/zombi-addons/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/zombiB/zombi-addons/raw/master/repo</datadir>
+    </dir>
+    <dir>
+         <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+         <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+         <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Ovni-crea/seleniumzip/master</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Arias800/Fichier-divers/master/addon.xml</info>
+        <checksum>https://raw.githubusercontent.com/Arias800/Fichier-divers/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Arias800/script.module.dnspython/master</datadir>
+    </dir>
+   </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="fr">Matrix Repository</summary>
+        <description lang="fr">arabic vod addon</description>
+        <summary lang="en">Matrix Repository</summary>
+        <description lang="en">arabic vod addon</description>
+        <platform>all</platform>
+    </extension>
 </addon>
 
 <addon id="script.favourites" name="Favourites script" version="8.1.2" provider-name="ronie, `Black">

@@ -3518,6 +3518,40 @@ Add Wallpaper
 </extension>
 </addon>
 
+<addon id="repository.doomzday" name="[B][COLOR=gold]Doomzday Repo[/COLOR][/B]" version="1.0.9" provider-name="DD Team">
+    <extension point="xbmc.addon.repository" name="[B][COLOR=gold]Doomzday Repo[/COLOR][/B]">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/doomzdayteam/repo/master/_zipfiles/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/doomzdayteam/repo/master/_zipfiles/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/doomzdayteam/repo/master/_zipfiles/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://the-hermit.com/hermit/repo/addons.xml</info>
+			<checksum>http://the-hermit.com/hermit/repo/addonsmd5.txt</checksum>
+			<datadir zip="true">http://the-hermit.com/hermit/repo/</datadir>
+		</dir>
+		<dir>
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+        <dir>
+           <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+           <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+           <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Doomzday Repository</summary>
+        <description lang="en_GB">Repo from the Doomzday Team</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="repository.eintamil" name="EinTamil Kodi Repository" version="1.0.0" provider-name="EinTamil">
     <extension point="xbmc.addon.repository" name="EinTamil Kodi Repository">
         <dir>

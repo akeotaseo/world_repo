@@ -9,13 +9,10 @@
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 27 Σεπτεμβρίου 2022:[/B
+  [B]Τελευταία ενημέρωση 27 Σεπτεμβρίου 2022:[/B]
 - Κάποιες αλλαγές στο Skin
-- Αλλαγές/διορθώσεις/προσθήκες 
-  στην Κατηγορια SPORTS
-  [B][COLOR blue]LIVE NOW[/COLOR][/B]
-  &
-  [B][COLOR green]Sports Channels[/COLOR][/B]
+- Διορθώσεις στην Κατηγορια SPORTS
+  [B][COLOR blue]LIVE NOW[/COLOR][/B] & [B][COLOR green]Sports Channels[/COLOR][/B]
   
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
   στο Skin

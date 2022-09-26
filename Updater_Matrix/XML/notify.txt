@@ -15,7 +15,6 @@
   [B][COLOR blue]LIVE NOW[/COLOR][/B] & [B][COLOR green]Sports Channels[/COLOR][/B]
   
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
-  στο Skin
   
 
   [B]Ενημέρωση 10 Σεπτεμβρίου 2022:[/B]
@@ -26,6 +25,5 @@
 - Δυνατότητα επιλογής [B][COLOR red]μη[/COLOR][/B] αυτόματης ενημέρωσης του build
   (μέσα απο το [B][COLOR orange]World Updater - Tools[/COLOR][/B])
 - Επιλογή αλλαγής skin ([B]Confluence Je4M mod Matrix[/B])
-- Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 

@@ -3057,7 +3057,7 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.4" provider-name="doko">
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.5" provider-name="doko">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
@@ -3067,6 +3067,9 @@ Initial version.
     </extension>
     <extension point="xbmc.addon.metadata">
         <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
+[B]0.6.5:[/B]
+- Changed user agent
+
 [B]0.6.4:[/B]
 - Changed site to new domain
 
@@ -4952,6 +4955,39 @@ http://zadarbuild.com.hr
     </extension>
 </addon>
 
+<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.1" provider-name="gigarepo">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.service" library="addon.py"/>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">BlackBarsNever</summary>
+		<description lang="en">This addon eliminates the problem of black bars. If the black bars are hardcoded, the addon will automatically
+		detect this and remove them. If the video is a wide screen format, the addon will also detect this and remove the black bars too.
+
+		For Android, detection of hardcoded black bars is not working currently, we are working to resolve this. All other platforms like Linux, Windows and Apple OS family everything should work correctly
+		</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum></forum>
+		<source>https://github.com/osumoclement/script.black.bars.never</source>
+		<website>alkywave.com</website>
+		<email></email>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
+		<news>Updated the addon to use new addon.xml metadata</news>
+	</extension>
+</addon>
+
 <addon id="script.favourites" name="Favourites script" version="8.1.2" provider-name="ronie, `Black">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -5321,7 +5357,7 @@ http://zadarbuild.com.hr
     </extension>
 </addon>
 
-<addon id="script.module.parrot" name="Parrot Utils" version="111.0.8" provider-name="Parrot Developers">
+<addon id="script.module.parrot" name="Parrot Utils" version="111.1.0" provider-name="Parrot Developers">
   <requires>
     <import addon="script.module.requests" version="2.18.4"/>
   </requires>

@@ -1181,28 +1181,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	</extension>
 </addon>
 
-<addon id="plugin.video.dramacool" name="DramaCool" version="2.2.2" provider-name="groggyegg">
-    <requires>
-        <import addon="script.module.resolveurl" version="5.1.50"/>
-        <import addon="script.module.requests"/>
-        <import addon="script.module.peewee"/>
-        <import addon="xbmc.python" version="3.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="resources/lib/addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Video plugin for DramaCool</summary>
-        <description lang="en_GB">Watch Asian Drama and Korean Show with English subtitles.</description>
-        <platform>all</platform>
-        <license>MIT License</license>
-        <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.duffyou" name="Duff You" version="0.1.3b" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
@@ -5204,84 +5182,6 @@ http://zadarbuild.com.hr
   </extension>
 </addon>
 
-<addon id="script.module.backports.zoneinfo" name="zoneinfo" version="0.2.1" provider-name="pganssle">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.tzdata" version="2021.5"/>
-  </requires>
-  <extension point="xbmc.python.module" library="lib"/>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">A concrete time zone implementation to support the IANA time zone database</summary>
-    <description lang="en_GB">The zoneinfo module provides a concrete time zone implementation to support the IANA time zone database as originally specified in PEP 615.</description>
-    <platform>all</platform>
-    <license>Apache-2.0</license>
-    <website>https://pypi.org/project/backports.zoneinfo</website>
-    <source>https://github.com/pganssle/zoneinfo</source>
-    <assets>
-      <icon>resources/icon.png</icon>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="script.module.bencodepy" name="bencode.py" version="4.0.0+matrix.1" provider-name="fuzeman">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.module" library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Simple bencode parser</summary>
-    <description lang="en_GB">Simple bencode parser</description>
-    <license>BitTorrent Open Source License</license>
-    <platform>all</platform>
-    <website>https://github.com/fuzeman/bencode.py</website>
-    <source>https://github.com/fuzeman/bencode.py</source>
-    <assets>
-      <icon>resources/icon.png</icon>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="script.module.hls.cache"
-		name="[COLOR blue]HLS-CACHE[/COLOR]"
-		version="1.1.2"
-		provider-name="Loki1979">
-	<requires>
-		<!--py2 compliant-->
-		<!--<import addon="xbmc.python" version="2.25.0"/>-->
-		<!--py3 compliant-->
-        <import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.python.module" library="resources/lib"/>
-	<extension point="xbmc.webinterface"/>
-	<extension point="xbmc.addon.metadata">
-	<summary>Created by loki1979</summary>
-	<description>
-1.) import addon="script.module.hls.cache"
-2.) import hls
-3.) hls.cache_loader(m3u8_url,m3u8_headers={},segment_headers={})
-	</description>
-	<disclaimer></disclaimer>
-	<language></language>
-	<platform>all</platform>
-	<license></license>
-	<forum></forum>
-	<website></website>
-	<email></email>
-	<source></source>
-	<news></news>
-	<assets>
-		<icon>resources/icon.png</icon>
-		<fanart>resources/fanart.jpg</fanart>
-		<banner></banner>
-		<clearlogo></clearlogo>
-		<screenshot></screenshot>
-	</assets>
-	</extension>
-</addon>
-
 <addon id="script.module.horus" name="Horus" version="1.1.7" provider-name="Caperucitaferoz">
     <requires>
         <import addon="script.module.six" />
@@ -5312,26 +5212,6 @@ http://zadarbuild.com.hr
         <forum>https://t.me/KodiManiac
         https://t.me/acestream_spanish</forum>
     </extension>
-</addon>
-
-<addon id="script.module.js2py" name="js2py" version="3.0.0" provider-name="Addons4Kodi">
-  <requires>
-    <import addon="script.module.six" version="1.15.0"/>
-    <import addon="script.module.pyjsparser" version="3.0.0"/>
-    <import addon="script.module.tzlocal" version="2.0.0"/>
-  </requires>
-  <extension point="xbmc.python.module" library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <summary>Pure Python JavaScript Translator/Interpreter</summary>
-    <description>Packed for Kodi from https://github.com/PiotrDabkowski/Js2Py</description>
-    <platform>all</platform>
-    <language></language>
-    <license>MIT</license>
-    <forum></forum>
-    <website>https://github.com/PiotrDabkowski/Js2Py</website>
-    <source>https://github.com/PiotrDabkowski/Js2Py</source>
-    <email></email>
-  </extension>
 </addon>
 
 <addon id="script.module.oathscrapers" name="OathScrapers Module" version="1.03.05.01" provider-name="TheOath">
@@ -5376,54 +5256,6 @@ http://zadarbuild.com.hr
       <icon>icon.png</icon>
     </assets>
   </extension>
-</addon>
-
-<addon id="script.module.peewee" name="Peewee" version="3.14.8a" provider-name="groggyegg">
-    <extension point="xbmc.python.module" library="."/>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Peewee is a simple and small ORM.</summary>
-        <description lang="en_GB">Peewee is a simple and small ORM. It has few (but expressive) concepts, making it easy to learn and intuitive to use.</description>
-        <platform>all</platform>
-        <assets>
-            <icon>docs/peewee3-logo.png</icon>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="script.module.pyjsparser" name="pyjsparser" version="3.0.0" provider-name="Addons4Kodi">
-  <requires>
-    <!-- <import addon="xbmc.python" version="3.0.0" /> -->
-  </requires>
-  <extension point="xbmc.python.module" library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <summary>Pure Python JavaScript Translator/Interpreter</summary>
-    <description>Packed for Kodi from https://github.com/PiotrDabkowski/pyjsparser</description>
-    <platform>all</platform>
-    <language></language>
-    <license>MIT</license>
-    <forum></forum>
-    <website>https://github.com/PiotrDabkowski/pyjsparser</website>
-    <source>https://github.com/PiotrDabkowski/pyjsparser</source>
-    <email></email>
-  </extension>
-</addon>
-
-<addon id="script.module.routing" name="Plugin routing" version="0.2.3.1" provider-name="takoi">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-    </requires>
-    <extension point="xbmc.python.module" library="lib"/>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Routing module for plugins</summary>
-        <description lang="en_GB">Library for building and parsing plugin URLs.</description>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <platform>all</platform>
-        <language>en_GB</language>
-        <source>https://github.com/tamland/kodi-plugin-routing</source>
-        <assets>
-            <icon>resources/icon.png</icon>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="script.module.streamlink" name="Streamlink Library" version="2.3.0+matrix.4" provider-name="jairoxyz">

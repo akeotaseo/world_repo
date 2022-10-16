@@ -2019,6 +2019,42 @@ In addition to what livestreams allowed you to do, you can now,
 	</extension>
 </addon>
 
+<addon id="plugin.video.negan.tv" version="1.1.5+matrix" name="[B][COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR][/B]" provider-name="Negan.tv">
+<requires>
+		<import addon="script.module.six" />
+		<import addon="script.module.kodi-six" />
+		<import addon="script.module.requests" optional="true"/>
+		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.dateutil" optional="true" />
+		<import addon="script.module.resolveurl" optional="true"/>
+                <import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.cloudscraper" optional="true"/>
+		<import addon="script.module.inputstreamhelper" optional="true"/>
+		<import addon="script.module.slproxy" optional="true"/>
+	</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[B][COLOR white]ADDON [COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR]</summary>
+    <description lang="en">[B][COLOR lime]ADDON oficial [B][COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR][/B] - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
+[B][COLOR white]Addon [B][COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR][/B] é de uso gratuito!![/B][/COLOR]</description>
+    <news>
+
+</news>
+    <platform>all</platform>
+	<assets>
+	<icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshots/.jpg</screenshot>
+    <screenshot>resources/screenshots/.jpg</screenshot>
+    <screenshot>resources/screenshots/.jpg</screenshot>
+</assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.onltvaddon" name="Free BG/World Online TV" version="2022.01.29.01" provider-name="MartinStZ">
   <requires>
     <import addon="script.module.requests" version="1.1.0"/>

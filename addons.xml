@@ -2019,7 +2019,7 @@ In addition to what livestreams allowed you to do, you can now,
 	</extension>
 </addon>
 
-<addon id="plugin.video.negan.tv" version="1.1.5+matrix" name="[B][COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR][/B]" provider-name="Negan.tv">
+<addon id="plugin.video.neo.tv" version="1.1.5+matrix" name="[B][COLOR red]neo[/COLOR][COLOR orange]tv [/COLOR][/B]" provider-name="neo.tv">
 <requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />
@@ -2038,9 +2038,9 @@ In addition to what livestreams allowed you to do, you can now,
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR white]ADDON [COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR]</summary>
-    <description lang="en">[B][COLOR lime]ADDON oficial [B][COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR][/B] - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
-[B][COLOR white]Addon [B][COLOR red]Negan[/COLOR][COLOR orange]TV [/COLOR][/B] é de uso gratuito!![/B][/COLOR]</description>
+    <summary lang="en">[B][COLOR white]ADDON [COLOR red]neo[/COLOR][COLOR orange]tv [/COLOR]</summary>
+    <description lang="en">[B][COLOR lime]ADDON oficial [B][COLOR red]neo[/COLOR][COLOR orange]tv [/COLOR][/B] - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
+[B][COLOR white]Addon [B][COLOR red]neo[/COLOR][COLOR orange]tv [/COLOR][/B] é de uso gratuito!![/B][/COLOR]</description>
     <news>
 
 </news>

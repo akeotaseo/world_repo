@@ -2,7 +2,7 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
-[COLOR blue]Έκδοση Build 2.2[/COLOR]  08 Σεπτεμβρίου 2022
+[COLOR blue]Έκδοση Build 2.3[/COLOR]  25 Οκτωβρίου 2022
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build 
 προχωρήστε στην [COLOR blue]Έκδοση 2.3[/COLOR]

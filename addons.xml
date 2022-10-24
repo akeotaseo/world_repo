@@ -25,34 +25,6 @@
     </extension>
 </addon>
 
-<addon id="context.video.favourites"
-version="0.1.0.tk"
-name="Video Favourites Context Menu"
-provider-name="primaeval">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.xbmcswift2" version="2.4.0"/>
-  <import addon="script.module.requests" version="2.9.1" />
-  <import addon="plugin.video.favourites" version="0.0.1" />
-</requires>
-<extension point="kodi.context.item">
-<menu id="kodi.core.main">
-  <item library="context.py">
-    <label>Dodaj do[COLOR darkorange] Video Favourites[/COLOR]</label>
-    <visible>True</visible>
-  </item>
-</menu>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Video Favourites Context Menu</summary>
-  <description lang="en"></description>
-  <disclaimer lang="en">.</disclaimer>
-  <assets>
-    <icon>icon.png</icon>
-  </assets>
-</extension>
-</addon>
-
 	<addon id="hellyrepo.kodi" name="HellyRepo" version="0.2.6" provider-name="Helly">
         <extension point="xbmc.addon.repository" name="HellyRepo">
             <dir minversion="15.0.0">
@@ -386,27 +358,6 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.image.World" name="[B][COLORorange]World Build Icons[/COLOR][/B]" version="19.0.4" provider-name="TechNEWSology">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>image</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Εικονίδια World Build</summary>
-    <description lang="en">World Build Icons</description>
-    <disclaimer lang="en">.</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
 <addon
     id="plugin.program.advanced.emulator.launcher"
     name="Advanced Emulator Launcher"
@@ -473,283 +424,6 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.autowidget" name="AutoWidget" version="19.0.060f" provider-name="drinfernoo">
-    <requires>
-        <import addon="script.module.kodi-six" />
-        <import addon="script.module.pil" />
-        <import addon="script.module.six" />
-    </requires>
-
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>executable video</provides>
-    </extension>
-
-    <extension point="xbmc.service" library="service.py" />
-
-    <extension point="kodi.context.item">
-        <menu id="kodi.core.main">
-            <item library="context_add.py">
-                <label>$ADDON[plugin.program.autowidget 32003]</label>
-                <visible>String.IsEqual(Window(10000).Property(contextt.autowidget),true)</visible>
-            </item>
-            <item library="context_refresh.py">
-                <label>$ADDON[plugin.program.autowidget 32006]</label>
-                <visible>String.Contains(ListItem.FolderPath, plugin://plugin.program.autowidget)</visible>
-            </item>
-        </menu>
-    </extension>
-
-    <extension point="xbmc.addon.metadata">
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-        <summary lang="en_GB">Automatically changes out widgets</summary>
-        <description lang="en_GB">Automatically changes out widgets on the homescreen for a more interesting browsing experience.</description>
-    <summary lang="es_ES">Cambia los widgets automáticamente</summary>
-    <description lang="es_ES">Cambia los widgets en la pantalla de inicio automáticamente para una experiencia de navegación más interesante.</description>
-    <platform>all</platform>
-        <license>LGPL-3.0</license>
-        <website>https://www.github.com/drinfernoo/</website>
-        <source>https://www.github.com/drinfernoo/plugin.program.autowidget/</source>
-        <news>
-3.1.8
- - Fix resume progress on items
-3.1.7
- - Fix widget cleaning
- - Fix Active Widgets menu
-3.1.6
- - Fix detection of JSON-RPC version
-3.1.5
- - Fix editor dialog
-3.1.4
- - Fix settings shortcuts
- - Fix some Unicode errors
- - Fix some dialog labels in editor
-3.1.3
- - Fix hashing in Matrix
-3.1.2
- - Fix "Clear Cache"
-3.1.1
- - Fixes for cache mechanism
- - Add "Force Refresh Widgets" to context menu for AutoWidget items
-3.1.0
- - Improved background caching for paths that change frequently
- - Fix unneeded refreshes
- - Fix caching on merged widgets
- - Fix more Unicode errors
-3.0.2
- - Fix bug in background caching
-3.0.1
- - Fix bug when adding paths
-3.0.0
- - Huge speed improvements thanks to @djay's background caching implementation
- - Fix merged widget duplicate removal
-2.3.7
- - Unicode fixes
- - Fix method calls
- - Fix separator in menus
- - Fix logging in Kodi 19
- - Update Spanish translation
-2.3.6
- - Fix separator in shortcut groups
-2.3.5
- - Fix various shortcut- and refresh-related bugs
- - Fix error when path contained no items
- - Add more debug logging
- - Add widget ID as ListItem property (autoID)
- - Reduce library updates (again)
-2.3.4
- - Fix logging error
-2.3.3
- - Fix shortcuts to Android apps
-2.3.2
- - Fix error in debug logging logic
-2.3.1
- - Fix editing and adding new groups
- - Overall cleanup
- - Trim as many library updates as possible
-2.3.0
- - Huge simplification of plugin paths
- - Speed improvements
- - Better detection for "Next Page" items in various add-ons
- - Add dedicated debug log
- - Allow 'path' to be editing for static widgets
-2.2.0
- - Reduce library updates to improve overall speed
- - Sort "Active Widgets" by most recently refreshed
- - Fix any straggling widget errors, I hope :D
-2.1.6
- - Fix "Next Page" error
-2.1.5
- - Fix non-merged paths :D
-2.1.4
- - Support more add-ons' "Next Page" items
- - Fix merged paths
-2.1.3
-- Fixes for Unicode characters in path labels
-- Fix for viewing groups in Kodi 17.x
-- Change "Icon Color" to a per-path basis
-2.1.2
- - Add per-widget icon color
-2.1.1
- - Fix "Icon Color"
-2.1.0
- - New artwork for add-on
- - Add icon coloring
- - Improved "Active Widgets" menu
- - Added "Clean Old Widget Files" shortcut in Tools
- - Fix shortcut paths
- - Fix missing InfoLabels
-2.0.2
- - Make artwork for groups and paths more consistent
-2.0.1
- - Add "Toggle Skin Debugging" shortcut
-2.0.0
- - Rewrite most of add-on functions
- - Add "Static Path" option
- - Add "Merged Path" option
- - Add "Paged Widgets"
- - Revamp editor dialog
- - More complete skin compatibility
- - More miscellaneous fixes
-1.6.8
- - Add setting for notification sound
-1.6.7
- - Fix crash when window cannot be detected. Notably fixes Disney+ support.
-1.6.6
- - Fix extract location
-1.6.5
- - Add backup/restore features
-1.6.4
- - Fix more rogue refreshes
- - Fix wording in Spanish translation (again, thanks to @roliverosc)
-1.6.3
- - Update settings localizations
-1.6.2
- - Fix bug that caused Skin Shortcuts to not be able to rebuild the skin
-1.6.1
- - Fix bug with shortcut widgets being "converted"
-1.6.0
- - Android App shortcut support (thanks to @Sandmann79)
- - Add Spanish translation (thanks to @roliverosc)
- - Fix bug with empty action nodes
- - Reduce refreshes
- - Prettify .props file output
-1.5.5
- - Fix regex for labels in some skins
-1.5.4
- - Fix recursion crash during refresh
-1.5.3
- - Fix indent error
-1.5.2
- - Fix shortcut calls for YouTube
-1.5.1
- - Fix error in editor dialog
- - Fix changelog
-1.5.0
- - Add "Active Widgets" menu
- - Consistency fixes during initialization and refresh
- - Allow adding playable items as shortcuts
- - Fix crashes in Krypton
- - Fix crashes from invalid group/widget files
- - Fix Unicode compatibility
-1.4.5
- - Refresh Shortcut widgets Automatically
- - Add "Next Path" widget action
- - Add "Clone" and "Explode" widget modes
- - Allow refreshing between 15m-2h, at 15m intervals
-1.4.3
- - Add context menu on more items
- - Fix some log spam
- - Catch more errors from invalid files
- - Fix "Settings" shortcuts
- - Gracefully handle remote artwork
- - Use special paths for artwork
-1.4.2
- - Fix bug in conversion
-1.4.1
- - Fix bug in migration
-1.4.0
- - Add "Clean Old References" shortcuts
- - Change main menu layout
-1.3.9
- - Fix label bug in Embuary (and maybe elsewhere)
-1.3.8
- - Add "Wipe Add-on Data" shortcuts
- - Allow Unicode characters in labels
-1.3.7
- - Fix typo in path handling
-1.3.6
- - Fix error handling
-1.3.5
- - Add extra error checking for file operations
-1.3.4
- - Add proper migration from old JSON to current
-1.3.3
- - Rewrite editor dialog
- - Fix path conversion for skin string paths
-1.3.2
- - Fixes and cleanup in editor dialog
-1.3.1
- - Cleanup skin string conversion
-1.3.0
- - Add group editing dialog
- - Non-Skin Shortcuts skin support
- - Fix issues with groups and paths with the same name
- - Fix settings shortcuts
- - Add rudimentary JSON migration
-1.2.5
- - Update some skin localizations
- - Add more widget artwork
- - Update documentation
-1.2.3
- - Fix paths made from add-on browser
- - Add ability to set plot
-1.2.2
- - Fix group dialog calls
-1.2.1
- - Fix imports
-1.2.0
- - Better handling of art
- - Better add-on art added
- - Redesigned path addition dialog
- - Settings shortcuts added
-1.1.2
- - Add art editing for paths
- - Add group renaming
-1.1.1
- - Add setting to disable notification
-1.1.0
- - Remove Skin Shortcuts dependency
- - Expand context menu options
- - Add support for skins with "basic" Skin Shortcuts integration
- - Add setting to pause AutoWidget's service
-1.0.7
- - Fix context menu option not showing
-1.0.6
- - Fix paths not saving
-1.0.5
- - Raise required Skin Shortcuts version to  1.0.19
-1.0.4
- - Allow custom labels
- - Add removal notifications
-1.0.3
- - Fix shortcuts and widgets added from context menu
-1.0.2
- - Fix crash from non-XML files
-1.0.1
- - Fix crash from non-existent context menu setting
-1.0.0
- - First stable release
-        </news>
-        <assets>
-            <icon>resources/media/icon.png</icon>
-            <fanart>resources/media/fanart.png</fanart>
-            <poster>resources/media/poster.png</poster>
-            <banner>resources/media/banner.png</banner>
-            <clearlogo>resources/media/clearlogo.png</clearlogo>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.program.browser.launcher" name="Browser Launcher" version="2.0.0-Mod Kodi-19" provider-name="AddonScriptorDE + Sandmann79">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -772,34 +446,6 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.downloader19" name="[B][COLOR orange]World Updater - Tools[/COLOR][/B]" version="19.0.40temp7" provider-name="TechNEWSology">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">World Updater - Tools</summary>
-		<description lang="el_GR">[B][COLOR orange]-[/COLOR][/B] Αυτόματη ενημέρωση αρχείων και συντομεύσεων του Build
-[B][COLOR orange]-[/COLOR][/B] Καθαρή εγκατάσταση του Build με επιλογή διατήρησης στοιχείων στη νέα μετάβαση.
-[B][COLOR orange]-[/COLOR][/B] Αυτοματοποιημένη καταχώριση νέων κλειδιών YouTube Api
-[B][COLOR orange]-[/COLOR][/B] Επιλογή αυτοματοποιημένης καταχώρισης τιμών Advanced Settings
-[B][COLOR orange]-[/COLOR][/B] Ομαδοποιημένες συντομεύσεις εργαλείων και ρυθμίσεων κελύφους
-[B][COLOR orange]-[/COLOR][/B] Επιλογή εγκατάστασης Binary Addons και Καθαρισμός (Packages-Thumbnails)
-[B][COLOR orange]-[/COLOR][/B] Δημιουργία αντιγράφου ασφαλείας αρχείου zip του Build
-[B][COLOR orange]-[/COLOR][/B] Υπηρεσίες Εξουσιοδότησης και Επαναφοράς Debrid</description>
-		<disclaimer lang="en_GB">[B][COLOR orange]World Updater - Tools[/COLOR][/B]</disclaimer>
-		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
-		<assets>
-			<icon>icon.gif</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.program.installelementum" name=" [B][COLOR orange]Install Elementum[/COLOR][/B]" version="1.1" provider-name="[B][COLOR red]Vikings Team[/COLOR][/B]">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -819,80 +465,6 @@ v2.4.0  (2019-01-01)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.program.mypreferences" name="[B][COLORorange]Προτιμήσεις[/COLOR][/B]" version="19.0.1" provider-name="jmooremcc, spoyser">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0" />
-  </requires>
-
-
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video audio image executable</provides>
-  </extension>
-
-
-  <extension point="xbmc.service" library="service.py" start="startup" />
-
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Put all your favourites bits of all your favourites addons into one easy to use addon.</summary>
-    <description lang="en_GB">Super Favourites is a better way of managing your Kodi Favourites.[CR][CR]Virtually any menu item within Kodi can be added to Super Favourites, even from addons that don't normally provide this feature.[CR][CR]Super Favourites allows you to better manage your Kodi favourites, including the creation of sub-folders, into which your Kodi favourites can then be copied or moved into.[CR][CR]This allows you to create you own custom addon with just the best bits of your favourite addons. Search your favourite addons, play your favourite music, read your favourite comic strips, select your favourite playlists, browse your favourite movies, listen to your favourite radio stations, watch your favourite cartoons, the possibilities are endless, all from within one easy to use addon.</description>
-    <platform>all</platform>
-    <language>en</language>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum>http://forum.xbmc.org/showthread.php?tid=192662</forum>
-    <website />
-    <source>https://github.com/spoyser/spoyser-repo/tree/master/plugin.program.super.favourites</source>
-    <source>https://github.com/jmooremcc/plugin.program.super.favourites</source>
-    <email>seanpoyser at gmail.com</email>
-    <email>jmooremcc at hotmail.com</email>
-    <assets>
-      <icon>icon.png</icon>
-      <fanart>fanart.jpg</fanart>
-    </assets>
-
-    <news>
-2.0.6: 11 January 2021
-      - Fixed access to local folders and smb folders
-
-2.0.5: 12 December 2020
-      - More Fixes for Network Folder Failure to Launch
-
-2.0.0: 29 November 2020
-      - Matrix Version
-
-1.0.60: 1 November 2020
-    - Fixed launch issues in Kodi Leia
-
-1.0.59: 29th May 2017
-    - 'Now playing' text now defined by SF due to skin variations
-    </news>
-
-  </extension>
-
-
-  <extension point="kodi.context.item">
-    <menu id="kodi.core.main">
-
-      <!--item library="capture.py">
-        <label>$ADDON[plugin.program.mypreferences 30002]</label>
-        <visible>!IsEmpty(Window(Home).Property(SF_STD_CONTEXTMENU_ENABLED)) + !StringCompare(Container.PluginName,plugin.program.mypreferences)</visible>
-      </item-->
-
-      <item library="menu_addtofaves.py">
-        <label>$ADDON[plugin.program.mypreferences 30047]</label>
-        <visible>!IsEmpty(Window(Home).Property(SF_STD_ADDTOFAVES_ENABLED)) + !StringCompare(Container.PluginName,plugin.program.mypreferences)</visible>
-      </item>
-
-      <item library="menu_download.py">
-        <label>$ADDON[plugin.program.mypreferences 30259]</label>
-        <visible>!IsEmpty(Window(Home).Property(SF_STD_DOWNLOAD_ENABLED)) + Player.IsInternetStream</visible>
-      </item>
-
-    </menu>
-  </extension>
-
 </addon>
 
 <addon id="plugin.program.orderfavourites" name="Order Favourites" version="1.2.1a" provider-name="doko">
@@ -1719,25 +1291,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <summary lang="en">Fantasti.cc -  Browse videos from a site that aggregates the best porn videos online using the votes of users as the deciding factor</summary>
         <description lang="en">Browse collections (user designed categories) as well as the most popular videos today/week/month as decided by the users of the site</description>
     </extension>
-</addon>
-
-<addon id="plugin.video.favourites" version="0.0.23.tk" name="Video Favourites" provider-name="primaeval">
-<requires>
-  <import addon="xbmc.python" version="3.0.0"/>
-  <import addon="script.module.xbmcswift2" version="2.4.0"/>
-  <import addon="script.module.requests" version="2.9.1" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Video Favourites</summary>
-  <description lang="en"></description>
-  <disclaimer lang="en"></disclaimer>
-  <assets>
-    <icon>icon.png</icon>
-  </assets>
-</extension>
 </addon>
 
 <addon id="plugin.video.fullmatchtv"
@@ -2885,7 +2438,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.12b" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.101" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -2982,6 +2535,30 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
+</addon>
+
+<addon id="plugin.video.telemedia19"
+	   name="Telemedia19 2.0"
+	   version="2.0.9"
+	   provider-name="Pavel Durov">
+  <requires>
+
+	<import addon="script.module.requests"/>
+
+	<import addon="script.module.pyxbmct" version="1.1.4" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="he">Telegram media for kodi,\n Thanks to "Aliaksei Levin" without him none of this would have been possiable</summary>
+    <description lang="he">Telegram media for kodi</description>
+    <platform>all</platform>
+ <language>en</language>
+ <disclaimer> report any issues with</disclaimer>
+  </extension>
 </addon>
 
 <addon id="plugin.video.That_Banned_Channel"
@@ -3802,33 +3379,6 @@ Add Wallpaper
   </extension>
 </addon>
 
-<addon id="repository.atlas" name="Atlas Repository" version="0.0.2" provider-name="NP-Bugatsinho -(Modified by TechNEWSology)">
-	<extension point="xbmc.addon.repository" name="Atlas Repository">
-		<info compressed="false">https://raw.githubusercontent.com/TechNEWSologyBuilder/atlas/main/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/TechNEWSologyBuilder/atlas/main/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/TechNEWSologyBuilder/atlas/main/</datadir>
-		<dir>
-			<info compressed="false">https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/addons.xml</info>
-			<checksum>https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/addons.xml.md5</checksum>
-			<datadir zip="true">https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-		</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Atlas Repository</summary>
-		<description>Atlas Repo</description>
-		<platform>all</platform>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="repository.centry" name="centry" version="0.0.1" provider-name="centry">
     <extension point="xbmc.addon.repository" name="centry">
         <dir minversion="19.0.0">
@@ -4350,6 +3900,25 @@ Add Wallpaper
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
+</addon>
+
+<addon id="repository.kodifitzwell" version="0.0.1" name="kodifitzwell repository" provider-name="kodifitzwell">
+    <extension point="xbmc.addon.repository" name="kodifitzwell repository">
+        <dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/kodifitzwell/repo/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kodifitzwell/repo/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/kodifitzwell/repo/master/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <description>kodifitzwell repository</description>
+        <disclaimer></disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="repository.Kpoodle19" name="[B][COLOR red]Poodle[/COLOR] [COLOR white]19[/COLOR] [COLOR yellow]Add-ons[/COLOR] [COLOR green]Repository[/COLOR][/B]" version="1.0.1" provider-name="Poodle">
@@ -5482,61 +5051,6 @@ http://zadarbuild.com.hr
 	</extension>
 </addon>
 
-<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.64t" provider-name="fryhenryj">
-"""""""""""""	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="repository.jurialmunkey" version="2.2" optional="true" />
-		<import addon="plugin.video.youtube" version="6.8.11+matrix.1"/>
-		<import addon="script.module.requests" version="2.25.1+matrix.1"/>
-		<import addon="script.skin.helper.service" version="1.1.3"/>
-		<import addon="resource.images.studios.white" version="0.0.28"/>
-		<import addon="script.module.musicbrainz" version="0.6.0"/>
-		<import addon="script.module.arrow" version="1.0.3.1"/>
-		<import addon="script.module.dateutil" version="2.8.1"/>
-		<import addon="script.module.typing_extensions" version="3.7.4.3"/>
-		<import addon="script.module.simplecache" version="1.0.0"/>
-		<import addon="script.module.beautifulsoup4" version="4.6.3+matrix.1"/>
-		<import addon="plugin.video.themoviedb.helper" version="4.4.6"/>
-		<import addon="plugin.program.autocompletion" version="2.0.2" optional="true" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="plugin.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.python.script" library="script.py"/>
-	<extension point="kodi.context.item">
-		<menu id="kodi.core.main">
-			<item library="context.py">
-				<label>Diamond Info</label>
-				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,actor) | String.IsEqual(ListItem.dbtype,director)</visible>
-			</item>
-			<item library="context2.py">
-				<label>TMDBHelper Trakt Menu</label>
-				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode)</visible>
-			</item>
-		</menu>
-	</extension>
-	<extension point="xbmc.service" library="service.py"  start="login"/>
-	<extension point="xbmc.python.library" library="service2.py"/>
-	<extension point="xbmc.addon.metadata">
-		<reuselanguageinvoker>true</reuselanguageinvoker>
-		<platform>all</platform>
-		<summary>Diamond Info (EIM)</summary>
-		<description>This script offers various possibilities to display online content inside skins as well as a complete MovieDB browser including info dialogs for various media types. Needs skin implementation for lot of functions and Diamond Player for library functions.</description>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/screenshot1.jpg</screenshot>
-			<screenshot>resources/screenshot2.jpg</screenshot>
-			<screenshot>resources/screenshot3.jpg</screenshot>
-		</assets>
-		<news>6.2.3 - Fix TV Show trailers
-		6.2.2 - Added ability to search using the tvdb_id for "extendedepisodeinfo"
-		6.2.1 - Fix context menu now available for widgets pointing to Diamond Info's video addon items
-		6.2.0 - Added context menu force "player select" to the play button, available via "c" and long press "enter" button
-		</news>
-	</extension>
-</addon>
-
 <addon id="script.favourites" name="Favourites script" version="8.1.2" provider-name="ronie, `Black">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -6159,113 +5673,6 @@ v5.2.14 (2017-01-23)
 	</assets>
     <source>https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles</source>
   </extension>
-</addon>
-
-<addon id="service.World.Build" name="[B][COLOR orange]World Build Service[/COLOR][/B]" version="19.0.10" provider-name="TechNEWSology">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="vfs.sftp" />
-    <import addon="vfs.rar" />
-    <import addon="vfs.libarchive" />
-    <import addon="inputstream.rtmp" />
-    <import addon="inputstream.adaptive" />
-    <import addon="inputstream.ffmpegdirect" />
-  </requires>
-  <extension point="xbmc.python.script" library="addon.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">World Build Service</summary>
-    <description lang="en">World Build Service</description>
-    <disclaimer>TechNEWSology World Service</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-  </extension>
-</addon>
-
-<addon
-  id="skin.19MatrixWorld"
-  version="4.1.7a"
-  name="skin.19MatrixWorld-beta"
-  provider-name="Helly,bsoriano">
-  <requires>
-    <import addon="xbmc.gui" version="5.15.0"/>
-    <import addon="script.favourites" version="8.1.2"/>
-  </requires>
-  <extension
-    point="xbmc.gui.skin"
-    debugging="false"
-    effectslowdown="1.0">
-    <res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
-    <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
-    <summary lang="nl">Uitgebreide MOD van Confluence skin origineel door Jezz_X en CCM door Mudislander.</summary>
-    <description lang="en">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
-    <description lang="en_US">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
-    <description lang="nl">Xonfluence is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
-    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
-    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
-    <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
-    <platform>all</platform>
-	  <license>GNU General Public License version 2</license>
-	  <forum>https://forum.kodi.tv/showthread.php?tid=346302</forum>
-	  <website></website>
-	  <email></email>
-	  <source>https://github.com/bartolomesoriano/skin.xonfluence</source>
-    <assets>
-      <icon>resources/icon.png</icon>
-      <fanart>resources/fanart.jpg</fanart>
-	    <screenshot>resources/screenshot-01.jpg</screenshot>
-	    <screenshot>resources/screenshot-02.jpg</screenshot>
-	    <screenshot>resources/screenshot-03.jpg</screenshot>
-	    <screenshot>resources/screenshot-04.jpg</screenshot>
-	    <screenshot>resources/screenshot-05.jpg</screenshot>
-	    <screenshot>resources/screenshot-06.jpg</screenshot>
-	    <screenshot>resources/screenshot-07.jpg</screenshot>
-	    <screenshot>resources/screenshot-08.jpg</screenshot>
-	    <screenshot>resources/screenshot-09.jpg</screenshot>
-    </assets>
-    <news>See changelog for latest changes</news>
-  </extension>
-</addon>
-
-<addon id="skin.confluence.je4mK" version="44.7.13w1" name="Confluence Je4M mod Matrix" provider-name="Jezz_X, Team Kodi, GKoBu">
-    <requires>
-        <import addon="xbmc.gui" version="5.15.0"/>
-        <import addon="plugin.program.autocompletion" version="2.0.2" />
-    </requires>
-    <extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
-        <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <license>GNU General Public License version 2</license>
-        <forum>https://forum.kodi.tv/forumdisplay.php?fid=125</forum>
-        <source>https://github.com/xbmc/skin.confluence</source>
-        <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/fanart.jpg</fanart>
-            <screenshot>resources/screenshot-01.jpg</screenshot>
-            <screenshot>resources/screenshot-02.jpg</screenshot>
-            <screenshot>resources/screenshot-03.jpg</screenshot>
-            <screenshot>resources/screenshot-04.jpg</screenshot>
-            <screenshot>resources/screenshot-05.jpg</screenshot>
-            <screenshot>resources/screenshot-06.jpg</screenshot>
-            <screenshot>resources/screenshot-07.jpg</screenshot>
-            <screenshot>resources/screenshot-08.jpg</screenshot>
-            <screenshot>resources/screenshot-09.jpg</screenshot>
-        </assets>
-        <news>- Update language files from Transifex.</news>
-        <summary lang="el_GR">Το κέλυφος Confluence από τον Jezz_X (προεπιλεγμένο κέλυφος του Kodi).</summary>
-        <summary lang="en_GB">Confluence skin by Jezz_X.</summary>
-        <description lang="el_GR">Το Confluence είναι η προεπιλεγμένη αμφίεση για τις εκδόσεις Kodi 14.0 και άνω. Είναι ένας συνδυασμός από πολλές δημοφιλής αμφιέσεις, και επιχειρεί να παρέχει τις καλύτερες ιδέες τους σε μία αμφίεση, το οποίο είναι εύκολο για τους αρχάριους χρήστες του Kodi να κατανοήσουν και να χρησιμοποιήσουν.</description>
-        <description lang="en_GB">Confluence is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use.</description>
-    </extension>
 </addon>
 
 <addon id="skin.xenon19ss" version="4.7.5.192" name="Xenon Matrix SS" provider-name="Diggz, Jezz_X, Team Kodi, YLLOW_DRAGON, plood">

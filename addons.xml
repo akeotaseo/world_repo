@@ -2936,7 +2936,7 @@ provider-name="FrankAaro">
 
 <addon
   id="plugin.video.videodevil"
-  version="1.8.24"
+  version="1.8.25"
   name="VideoDevil"
   provider-name="xbmc-adult">
   <requires>
@@ -3074,7 +3074,7 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.6.7" provider-name="doko">
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.7.0" provider-name="doko">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
@@ -3083,21 +3083,7 @@ Initial version.
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
-[B]0.6.7:[/B]
-- Small fix for thumbnail replace
-
-[B]0.6.6:[/B]
-- Fix thumbnails
-
-[B]0.6.5:[/B]
-- Changed user agent
-
-[B]0.6.4:[/B]
-- Changed site to new domain
-
-[B]0.6.3:[/B]
-- Fixed Cloudflare TLS issue</news>
+        <summary lang="en">WatchNixtoons2</summary>
         <description lang="en">
 Watch cartoons and anime from [COLOR orange][B]www.wcofun.net[/B][/COLOR].
 
@@ -3106,11 +3092,19 @@ Support the WatchCartoonOnline website with a PayPal donation to:
 
 Add-on originally by doko.
         </description>
+        <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
+		<language>en</language>
+        <platform lang="en">all</platform>
+        <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
+[B]0.7.0:[/B]
+- Update User Agent
+- Small code clean-up
+- Change some default settings
+- Now has the ability to show show thumbnails in dubbed, subbed &amp; cartoons
+  - This needs to be enabled in the options</news>
 		<assets>
             <icon>icon.png</icon>
         </assets>
-        <platform lang="en">all</platform>
-        <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
     </extension>
 </addon>
 
@@ -3292,6 +3286,34 @@ Add Wallpaper
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon>
+
+<addon id="repository.allanime" name="[COLOR aqua]All Anime Repository[/COLOR]" version="1.0.0" provider-name="G-Man">
+<extension point="xbmc.addon.repository" name="All Anime Repository">
+    <dir>
+        <info compressed="false">https://github.com/mrgsi/repository.allanime/raw/master/addons.xml</info>
+        <checksum>https://github.com/mrgsi/repository.allanime/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.allanime/master/</datadir>
+    </dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+    <dir>
+        <info compressed="false">https://raw.githubusercontent.com/pikdum/repository.pikdum/master/repo/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/pikdum/repository.pikdum/master/repo/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/pikdum/repository.pikdum/master/repo/zips/</datadir>
+    </dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Nothing but Anime Add-ons here</summary>
+    <description>If you like Anime, these are the best for Kodi Matrix</description>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+</extension>
 </addon>
 
 <addon id="repository.arnoldvink" name="Arnold Vink's Kodi Repository" provider-name="Arnold Vink" version="1.2.0">
@@ -3666,10 +3688,10 @@ Add Wallpaper
 	</extension>
 </addon>
 
-<addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.2" provider-name="G-Man">
+<addon id="repository.glive" name="[COLOR orangered]G-Live Repository[/COLOR]" version="1.0.6" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="G-Live Repository">
     <dir>
-        <info compressed="false">https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml</info>       <checksum>https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml.md5</checksum>
+        <info compressed="false">https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml</info>   <checksum>https://raw.githubusercontent.com/mrgsi/repository.glive/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.glive/master/</datadir>
     </dir>
 </extension>
@@ -3746,18 +3768,13 @@ Add Wallpaper
 </extension>
 </addon>
 
-<addon id="repository.gsports" name="[COLOR yellow]G-Sports Repository[/COLOR]" version="1.0.0" provider-name="G-Man">
+<addon id="repository.gsports" name="[COLOR yellow]G-Sports Repository[/COLOR]" version="1.0.2" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="G-Sport Repository">
     <dir>
         <info compressed="false">https://github.com/mrgsi/repository.gsports/raw/master/addons.xml</info>
         <checksum>https://github.com/mrgsi/repository.gsports/raw/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/mrgsi/repository.gsports/master/</datadir>
     </dir>
-    <dir>
-		<info compressed="false">https://raw.githubusercontent.com/arxtic-ape/repo.arxtic-ape/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/arxtic-ape/repo.arxtic-ape/master/addons.xml.md5</checksum>
-		<datadir zip="false">https://raw.github.com/arxtic-ape/repo.arxtic-ape/master/</datadir>
-	</dir>
     <dir>
 		<info compressed="false">https://loopaddon.uk/zips19/addons.xml</info>
 	    <checksum>https://loopaddon.uk/zips19/addons.xml.md5</checksum>
@@ -3768,11 +3785,6 @@ Add Wallpaper
 		<checksum>https://mullafabz.xyz/Plugins/K19/Plugins/addons.xml.md5</checksum>
 		<datadir zip="true">https://mullafabz.xyz/Plugins/K19/Plugins/</datadir>
 	</dir>
-    <dir minversion="19.0.0">
-        <info compressed="false">https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/centry7/centry7.github.io/main/matrix/zips/</datadir>
-    </dir>
 	<dir>
 		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
@@ -3780,8 +3792,8 @@ Add Wallpaper
     </dir>
 </extension>
 <extension point="xbmc.addon.metadata">
-	<summary>Sports Add-ons</summary>
-    <description>A collection of Add-on Repos which focus on only Sports.</description>
+	<summary>Kodi Matrix Sports Add-ons</summary>
+    <description>A collection of Add-ons and Repos which focus on Sports.[CR]Nothing within this repo was created by me, it's simply a collection of some stuff I've found elsewhere.</description>
     <platform>all</platform>
     <assets>
         <icon>icon.png</icon>
@@ -3822,12 +3834,12 @@ Add Wallpaper
 </extension>
 </addon>
 
-<addon id="repository.hsk.crew.repo" name="[COLOR blue]HSK CREW Repository[/COLOR]" version="1.0.6" provider-name="Loki1979|HSK-DE">
+<addon id="repository.hsk.crew.repo" name="[COLOR blue]HSK CREW Repository[/COLOR]" version="1.0.7" provider-name="Loki1979|HSK-DE">
     <extension point="xbmc.addon.repository" name="HSK CREW Repository">
 	   <dir>
-		<info>https://hsk-crew.cf/downloads/hsk.crew.repo/addons.xml</info>
-		<checksum>https://hsk-crew.cf/downloads/hsk.crew.repo/addons.xml.md5</checksum>
-		<datadir>https://hsk-crew.cf/downloads/hsk.crew.repo</datadir>
+		<info>https://hsk.kodiman.net/hsk/hsk_privat/hsk.crew.repo/addons.xml</info>
+		<checksum>https://hsk.kodiman.net/hsk/hsk_privat/hsk.crew.repo/addons.xml.md5</checksum>
+		<datadir>https://hsk.kodiman.net/hsk/hsk_privat/hsk.crew.repo</datadir>
 	   </dir>
 	</extension>
     <extension point="xbmc.addon.metadata">

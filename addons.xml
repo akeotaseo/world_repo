@@ -3323,6 +3323,41 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="repository.al8ina" name="Bee Queen" version="1.0.2" provider-name="ASistem">
+    <extension point="xbmc.addon.repository" name="Bee Queen Repository">
+	    <dir>
+            <info compressed="false">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/repo/zips/</datadir>
+        </dir>
+        <dir minversion="17.0.0" maxversion="17.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/krypton/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/krypton/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/krypton/zips/</datadir>
+        </dir>
+		<dir minversion="18.0.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/matrix/zips/</datadir>
+        </dir>
+		<dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/audiosistem/Bee-Queen/main/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Bee Queen Repository</summary>
+        <description>4install build Al8inA</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="repository.allanime" name="[COLOR aqua]All Anime Repository[/COLOR]" version="1.0.0" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="All Anime Repository">
     <dir>

@@ -1228,6 +1228,58 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
+<addon id="plugin.video.euronews_com" name="euronews.com" version="2.2.6+matrix.1" provider-name="realvito">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests" version="2.22.0+matrix.1"/>
+		<import addon="plugin.video.youtube" version="6.8.1+matrix.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">Videoportal von EURONEWS</summary>
+		<description lang="de_DE">euronews bietet eine einzigartige Perspektive auf das Weltgeschehen. euronews gibt Menschen die Möglichkeit, sich eine eigene Meinung zu bilden, indem sachliche Analysen und eine Vielzahl von Standpunkten dargestellt werden.[CR]euronews Weltnachrichten täglich 24 Stunden gibt es in 12 versch. Ausgaben auf Arabisch, Englisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Persisch, Portugiesisch, Russisch, Spanisch und Türkisch.</description>
+		<disclaimer lang="de_DE">Die von diesem Addon dargestellten Inhalte werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Anbietern des Inhalts.</disclaimer>
+		<summary lang="en_GB">Videoportal of EURONEWS</summary>
+		<description lang="en_GB">euronews offers a unique perspective on world affairs. euronews gives people the opportunity to form their own opinion, by presenting factual analysis and a variety of viewpoints.[CR]euronews World news daily 24 hours are available in 12 different editions in Arabic, English, French, German, Greek, Hungarian, Italian, Persian, Portuguese, Russian, Spanish and Turkish.</description>
+		<disclaimer lang="en_GB">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
+		<summary lang="el_GR">Τηλεοπτική πύλη EURONEWS</summary>
+		<description lang="el_GR">Το euronews προσφέρει μια μοναδική προοπτική στις παγκόσμιες υποθέσεις. Το euronews δίνει στους ανθρώπους την ευκαιρία να διαμορφώσουν τη δική τους γνώμη, παρουσιάζοντας πραγματικές αναλύσεις και ποικίλες απόψεις.[CR]euronews World news καθημερινά 24 ώρες είναι διαθέσιμα σε 12 διαφορετικές εκδόσεις το Αραβικά, Αγγλικά, Γαλλικά, Γερμανικά, Ελληνικά, Ουγγρικά, Ιταλικά, Περσικά, Πορτογαλικά, Ρωσικά, Ισπανικά και Τουρκικά.</description>
+		<summary lang="es_ES">Videoportal de EURONEWS</summary>
+		<description lang="es_ES">euronews ofrece una perspectiva única de los asuntos mundiales. euronews brinda a las personas la oportunidad de formarse su propia opinión, presentando un análisis de hechos y una variedad de puntos de vista.[CR]euronews Las noticias mundiales de 24 horas están disponibles en 12 ediciones diferentes en Árabe, Inglés, Francés, Alemán, Griego, Húngaro, Italiano, Persa, Portugués, Ruso, Español y Turco.</description>
+		<summary lang="fr_FR">Vidéoportail d'EURONEWS</summary>
+		<description lang="fr_FR">euronews offre une perspective unique sur les affaires mondiales. euronews donne aux gens la possibilité de se forger leur propre opinion, en présentant une analyse factuelle et une variété de points de vue.[CR]euronews World news 24 heures sur 24 est disponible en 12 éditions différentes en Arabe, Anglais, Français, Allemand, Grecque, Hongrois, Italien, Persan, Portugais, Russe, Espagnol et Turc.</description>
+		<summary lang="hu_HU">Az EURONEWS videoportálja</summary>
+		<description lang="hu_HU">Az euronews egyedülálló perspektívát kínál a világügyekkel kapcsolatban. Az euronews lehetőséget ad az embereknek arra, hogy véleményüket formálják, bemutatva tényszerű elemzéseket és különféle szempontokat.[CR]Az euronews napi 24 órás világhírek 12 különféle kiadásban érhetők el Arab, Angol, Francia, Német, Görög, Magyar, Olasz, Perzsa, Portugál, Orosz, Spanyol és Török.</description>
+		<summary lang="it_IT">Videoportale di EURONEWS</summary>
+		<description lang="it_IT">euronews offre una prospettiva unica sugli affari del mondo. euronews offre alle persone l'opportunità di esprimere la propria opinione, presentando analisi fattuali e una varietà di punti di vista.[CR]euronews Notizie dal mondo ogni giorno 24 ore sono disponibili in 12 diverse edizioni in Arabo, Inglese, Francese, Tedesco, Greco, Ungherese, Italiano, Persiano, Portoghese, Russo, Spagnolo e Turco.</description>
+		<summary lang="pt_PT">Videoportal da EURONEWS</summary>
+		<description lang="pt_PT">A euronews oferece uma perspectiva única dos assuntos mundiais. A euronews oferece às pessoas a oportunidade de formar sua própria opinião, apresentando análises factuais e vários pontos de vista.[CR]euronews As notícias mundiais diariamente 24 horas estão disponíveis em 12 edições diferentes em Árabe, Inglês, Francês, Alemão, Grego, Húngaro, Italiano, Persa, Português, Russo, Espanhol e Turco.</description>
+		<summary lang="ru_RU">Видеопортал EURONEWS</summary>
+		<description lang="ru_RU">Евроньюс предлагает уникальный взгляд на мировые дела. euronews дает людям возможность сформировать собственное мнение, представив фактологический анализ и различные точки зрения.[CR]euronews Мировые новости ежедневно 24 часа доступны в 12 различных выпусках в Арабский, Английский, Французский, Немецкий, Греческий, Венгерский, Итальянский, Персидский, Португальский, Русский, Испанский и Турецкий.</description>
+		<summary lang="tr_TR">EURONEWS video portalı</summary>
+		<description lang="tr_TR">euronews, dünya meselelerine benzersiz bir bakış açısı sunuyor. euronews, gerçeklere yönelik analizler ve çeşitli bakış açıları sunarak insanlara kendi fikirlerini oluşturma fırsatı verir.[CR]euronews Dünya haberleri her gün 24 saat içinde 12 farklı sayıda Arapça, İngilizce, Fransızca, Almanca, Yunanca, Macarca, İtalyanca, Farsça, Portekizce, Rusça, İspanyolca ve Türkçe.</description>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+		<forum>https://www.kodinerds.net/index.php/Thread/55451-L0REs-Blog/</forum>
+		<website>https://de.euronews.com/</website>
+		<email></email>
+		<mainsource>https://github.com/Collabsvito/REpo-AiO/</mainsource>
+		<source>https://github.com/Collabsvito/REpo-AiO/tree/master/MATRIX/plugin.video.euronews_com</source>
+		<assets>
+			<icon>resources/media/icon.png</icon>
+			<fanart>resources/media/fanart.jpg</fanart>
+		</assets>
+		<news>[B][COLOR orangered]Version 2.2.6+matrix.1  (20.03.2022)[/COLOR][/B][CR]
+- fixed: Einige euronews - LIVESTREAMS funktionieren nicht mehr (neue URL zur Abfrage der Streams)
+- optimized: Die Rubrik = 'NEWS – TICKER' wird jetzt schneller geöffnet durch *asynchrone* Abfragemethode
+- added: Ausführlichen/Erweiterten Plot im 'NEWS – TICKER' laden (settings)
+		</news>
+	</extension>
+</addon>
+
 <addon id="plugin.video.f4mTester" version="4.0.7a" name="f4mTester" provider-name="Joel e Tiago">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -1752,6 +1804,36 @@ AVISO LEGAL:
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
+</addon>
+
+<addon
+	id="plugin.video.macvod" version="1.96" name="[COLOR white]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo">
+<requires>
+    	<import addon="script.module.resolveurl"/>
+	    <import addon="script.module.requests"/>
+		<import addon="script.module.six"/>
+
+		<import addon="script.module.web-pdb" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+		<summary lang="es">Personal addon for IPTV</summary>
+		<description lang="es">This addon provides IPTV for personal and private use only</description>
+		<website>https://github.com/</website>
+		<license>GPL 3.0</license>
+		<platform>all</platform>
+		<disclaimer lang="es">The author of this addon makes not responsible for the use of it</disclaimer>
+	<assets>
+        <icon>icon.gif</icon>
+        <fanart>fanart.png</fanart>
+    </assets>
+		<language>en</language>
+	</extension>
+
 </addon>
 
 <addon id="plugin.video.Magellan_Matrix" name="[COLOR lime]Magellan[/COLOR]" version="3.0.0" provider-name="[COLOR lime][B]Magellan[/B][/COLOR]">
@@ -2873,6 +2955,30 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
+<addon id="plugin.video.tvseriesvideo" name="[B][COLOR orange]TVSeries[/COLOR][COLOR snow].video[/COLOR][/B]" version="0.3.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl" version="5.0.00"/>
+        <import addon="script.module.six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">TV Shows and Movies from the source: www.tvseries.video</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">TV Shows and Movies</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.twoaddons" version="1.1.2+matrix" name="[COLOR blue]two [COLOR yellow] addons[/COLOR]" provider-name="nando">
 <requires>
 		<import addon="script.module.six" />
@@ -3320,6 +3426,38 @@ Add Wallpaper
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+    </extension>
+</addon>
+
+<addon id="repository.a4kstreaming"
+       name="a4kStreaming Repository"
+       version="1.0.0"
+       provider-name="Unknown">
+    <extension point="xbmc.addon.repository">
+        <info>https://raw.githubusercontent.com/newt-sc/a4kStreaming/master/packages/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/newt-sc/a4kStreaming/master/packages/addons.xml.crc</checksum>
+        <datadir>https://github.com/newt-sc/a4kStreaming/archive</datadir>
+        <artdir>https://github.com/newt-sc/a4kStreaming/releases/download/v0.1.0</artdir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>a4kStreaming</summary>
+        <description>a4kStreaming Repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.aenemapy" name="Aenemapy Addons Repository" version="2021.04.23" provider-name="aenemapy">
+    <extension point="xbmc.addon.repository" name="Aenemapy Addons Repository">
+	<dir minversion="16.0">
+		<info compressed="false">https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/aenemapy/aenemapyrepo/master/zips/</datadir>
+	</dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Aenemapy repo</summary>
+        <description>This is just a repo...</description>
+        <platform>all</platform>
     </extension>
 </addon>
 

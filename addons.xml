@@ -3446,6 +3446,49 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="repository.addons4kodi" name="Addons4Kodi Repository" version="2.0" provider-name="A4K">
+	<extension point="xbmc.addon.repository" name="Addons4Kodi Repository">
+        <dir minversion="18.0" maxversion="19.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.addons4kodi/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.addons4kodi/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.addons4kodi/master/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="19.0" maxversion="19.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/</datadir>
+        </dir>
+        <dir minversion="18.0" maxversion="19.9.9">
+            <info>https://raw.githubusercontent.com/newt-sc/a4kStreaming/master/packages/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/newt-sc/a4kStreaming/master/packages/addons.xml.crc</checksum>
+            <datadir>https://github.com/newt-sc/a4kStreaming/archive</datadir>
+            <artdir>https://github.com/newt-sc/a4kStreaming/releases/download/v0.1.0</artdir>
+        </dir>
+        <dir minversion="18.0" maxversion="19.9.9">
+            <info>https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml.crc</checksum>
+            <datadir>https://github.com/newt-sc/a4kSubtitles/archive</datadir>
+            <artdir>https://github.com/a4k-openproject/a4kSubtitles/releases/download/v0.0.13</artdir>
+        </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Addons4Kodi Repository</summary>
+		<description>The official repo of /r/Addons4Kodi!.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.aenemapy" name="Aenemapy Addons Repository" version="2021.04.23" provider-name="aenemapy">
     <extension point="xbmc.addon.repository" name="Aenemapy Addons Repository">
 	<dir minversion="16.0">
@@ -3912,6 +3955,29 @@ Add Wallpaper
     </assets>
 </extension>
 </addon>
+
+    <addon id="repository.GreenRevolution" name="[COLOR lime]Green Revolution Repository[/COLOR]" version="3.1.1" provider-name="Green Addon">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="[COLOR lime]Green Revolution Repository[/COLOR]">
+            <info compressed="false">https://repo.drycloth.org/greenR/addons.xml</info>
+            <checksum>https://repo.drycloth.org/greenR/addons.xml.md5 </checksum>
+            <datadir zip="true">https://repo.drycloth.org/greenR/</datadir>
+            <hashes>false</hashes>
+
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Please do NOT post this Repository on Youtube, Facebook, Blogs or anywhere on the internet, thank you.</summary>
+            <description>This repository nor the addons within does not form part of the Kodi Media Centre. Please do not seek assistance with this repository or the addons from any of the Official Kodi Support Channels.The authors do not host any of the content in these addons and takes no responsibility for content found</description>
+            <platform>all</platform>
+            <genre>movies</genre>
+			<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            </assets>
+        </extension>
+    </addon>
 
 <addon id="repository.gscribe" name="[COLOR orange]G-Scribe Repository[/COLOR]" version="1.0.1" provider-name="G-Man">
 <extension point="xbmc.addon.repository" name="G-Scribe Repository">

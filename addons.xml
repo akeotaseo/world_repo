@@ -4186,6 +4186,23 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="repository.KODIvertiDO_TEAM" name="[COLOR gold]REpOsiTOriO[/COLOR][COLOR lime] KODIvertiDO[COLOR gold] TEAM[/COLOR]" version="1.0.0" provider-name="KODIvertiDO">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="KODIvertiDO_TEAM Addon official Repo">
+		<info compressed="false">https://raw.githubusercontent.com/mendelux/KODIvertiDO_TEAM/master/_repo/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/mendelux/KODIvertiDO_TEAM/master/_repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/mendelux/KODIvertiDO_TEAM/master/_repo/</datadir>
+		<hashes>false</hashes>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>KODIvertiDO_TEAM Addon official Repo</summary>
+   		<description lang="en">Instala los Addons de KODIvertiDO_TEAM.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.Kpoodle19" name="[B][COLOR red]Poodle[/COLOR] [COLOR white]19[/COLOR] [COLOR yellow]Add-ons[/COLOR] [COLOR green]Repository[/COLOR][/B]" version="1.0.1" provider-name="Poodle">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>

@@ -677,7 +677,7 @@ adulthideout@yandex.com[/COLOR]
 	</extension>
 </addon>
 
-<addon id="plugin.video.adultseverywhere" name="[COLOR coral][B]Adults Everywhere[/B][/COLOR]" version="0.0.1" provider-name="AceTorr">
+<addon id="plugin.video.adultseverywhere" name="[COLOR coral][B]Adults Everywhere[/B][/COLOR]" version="0.0.2" provider-name="AceTorr">
   <requires>
    <import addon="script.module.six" />
    <import addon="script.module.requests"/>

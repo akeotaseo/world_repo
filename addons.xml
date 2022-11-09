@@ -5270,7 +5270,7 @@ http://zadarbuild.com.hr
     </extension>
 </addon>
 
-<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.1" provider-name="gigarepo">
+<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.2" provider-name="Clement Osumo">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>

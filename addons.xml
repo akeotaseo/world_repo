@@ -3647,6 +3647,43 @@ Add Wallpaper
     </extension>
 </addon>
 
+<addon id="script.module.myaccts" version="99.1.2" name="Debrid Manager" provider-name="Zaxxon709, Ezra Hubbard">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.requests" version="2.19.1" />
+            <import addon="script.module.myauth" />
+	</requires>
+	<extension point="xbmc.python.script" library="lib/default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="lib/startup.py" start="startup" />
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<reuselanguageinvoker>false</reuselanguageinvoker>
+		<summary lang="en">Accounts Module</summary>
+		<description>Single placeholder for your debrid accounts</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<disclaimer lang="en">The author is not responsible for the use of this addon. [CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.png</fanart>
+		</assets>
+	</extension>
+</addon>
+
+<addon id="script.module.myauth" name="myauthact" version="99.0.2" provider-name="Zaxxon709">
+    <extension point="xbmc.python.pluginsource" library="default.py">
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Authorize Debrid Accounts</summary>
+        <description lang="en">Debrid Accounts Manager</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source>https://</source>
+    </extension>
+</addon>
+
 <addon id="script.module.oathscrapers" name="OathScrapers Module" version="1.03.05.01" provider-name="TheOath">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->

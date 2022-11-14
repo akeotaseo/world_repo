@@ -928,7 +928,7 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
-<addon id="plugin.video.dartstreams" name="dartstreams" version="1.0.0" provider-name="lg">
+<addon id="plugin.video.dartstreams" name="dartstreams" version="1.0.0a" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.inputstreamhelper" />
@@ -939,20 +939,19 @@ adulthideout@yandex.com[/COLOR]
         <provides>video</provides>
     </extension>
  	<extension point="xbmc.addon.metadata">
-        <description lang="pl">Whatch Live and VOD</description>
-        <disclaimer lang="pl">Whatch Live and VOD
+        <description lang="pl">dartstreams</description>
+        <disclaimer lang="pl">dartstreams
         </disclaimer>
-        <summary lang="en">Whatch Live and VOD</summary>
-        <description lang="en">Whatch Live and VOD</description>
-        <disclaimer lang="en">Whatch Live and VOD
+        <summary lang="en">dartstreams</summary>
+        <description lang="en">dartstreams</description>
+        <disclaimer lang="en">dartstreams
         </disclaimer>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website></website>
         <assets>
-            <icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
+            <icon>ds_logo.png</icon>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>

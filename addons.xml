@@ -3091,7 +3091,7 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.7.0" provider-name="doko">
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.7.1" provider-name="doko">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
@@ -3113,6 +3113,9 @@ Add-on originally by doko.
 		<language>en</language>
         <platform lang="en">all</platform>
         <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
+[B]0.7.1:[/B]
+- Change Cloudflare detection
+
 [B]0.7.0:[/B]
 - Update User Agent
 - Small code clean-up

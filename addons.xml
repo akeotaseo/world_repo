@@ -1991,6 +1991,32 @@ In addition to what livestreams allowed you to do, you can now,
   </extension>
 </addon>
 
+<addon id="plugin.video.now_music" name="Now Thats What I Call Music" version="5.6.8" provider-name="Catoal">
+  <requires>
+    <import addon="plugin.video.youtube" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Now Thats What I Call Music Collection</summary>
+    <description lang="en">En ajustes del addon puedes seleccionar visionado con youtube [apis], o con duffyou [sin apis].</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+	<news>Versión 5.6.8
+- Añadido Now 60s
+- Añadido Now 70s
+- Añadido Now 80s
+- Añadido Now 90s</news>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	  </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.onltvaddon" name="Free BG/World Online TV" version="2022.01.29.01" provider-name="MartinStZ">
   <requires>
     <import addon="script.module.requests" version="1.1.0"/>

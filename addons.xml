@@ -3068,7 +3068,7 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.7.1" provider-name="doko">
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.8.1" provider-name="WNT2">
     <requires>
         <import addon="script.module.requests"/>
         <import addon="script.module.six"/>
@@ -3085,20 +3085,22 @@ Support the WatchCartoonOnline website with a PayPal donation to:
 [COLOR khaki][B]wcohelp@yandex.com[/B][/COLOR]
 
 Add-on originally by doko.
+Random updates by lolage.
         </description>
         <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
 		<language>en</language>
         <platform lang="en">all</platform>
         <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
-[B]0.7.1:[/B]
-- Change Cloudflare detection
+[B]0.8.1:[/B]
+- Fix Source decode site changes
 
-[B]0.7.0:[/B]
-- Update User Agent
-- Small code clean-up
-- Change some default settings
-- Now has the ability to show show thumbnails in dubbed, subbed &amp; cartoons
-  - This needs to be enabled in the options</news>
+[B]0.8.0:[/B]
+- Update Thumbnail Hashes
+- Menus and Settings can now be translated
+- Fix PY3 issues for the old WNT2 scripts in settings
+- Changed default setting for the series thumbnails
+- Ongoing and Popular can now have thumbnails
+  - Requires to be enabled in settings</news>
 		<assets>
             <icon>icon.png</icon>
         </assets>

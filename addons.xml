@@ -3445,6 +3445,61 @@ Add Wallpaper
 	</extension>
 </addon>
 
+<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.64t" provider-name="fryhenryj">
+"""""""""""""	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="repository.jurialmunkey" version="2.2" optional="true" />
+		<import addon="plugin.video.youtube" version="6.8.11+matrix.1"/>
+		<import addon="script.module.requests" version="2.25.1+matrix.1"/>
+		<import addon="script.skin.helper.service" version="1.1.3"/>
+		<import addon="resource.images.studios.white" version="0.0.28"/>
+		<import addon="script.module.musicbrainz" version="0.6.0"/>
+		<import addon="script.module.arrow" version="1.0.3.1"/>
+		<import addon="script.module.dateutil" version="2.8.1"/>
+		<import addon="script.module.typing_extensions" version="3.7.4.3"/>
+		<import addon="script.module.simplecache" version="1.0.0"/>
+		<import addon="script.module.beautifulsoup4" version="4.6.3+matrix.1"/>
+		<import addon="plugin.video.themoviedb.helper" version="4.4.6"/>
+		<import addon="plugin.program.autocompletion" version="2.0.2" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="plugin.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.python.script" library="script.py"/>
+	<extension point="kodi.context.item">
+		<menu id="kodi.core.main">
+			<item library="context.py">
+				<label>Diamond Info</label>
+				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode) | String.IsEqual(ListItem.dbtype,actor) | String.IsEqual(ListItem.dbtype,director)</visible>
+			</item>
+			<item library="context2.py">
+				<label>TMDBHelper Trakt Menu</label>
+				<visible>String.IsEqual(ListItem.dbtype,movie) | String.IsEqual(ListItem.dbtype,tvshow) | String.IsEqual(ListItem.dbtype,season) | String.IsEqual(ListItem.dbtype,episode)</visible>
+			</item>
+		</menu>
+	</extension>
+	<extension point="xbmc.service" library="service.py"  start="login"/>
+	<extension point="xbmc.python.library" library="service2.py"/>
+	<extension point="xbmc.addon.metadata">
+		<reuselanguageinvoker>true</reuselanguageinvoker>
+		<platform>all</platform>
+		<summary>Diamond Info (EIM)</summary>
+		<description>This script offers various possibilities to display online content inside skins as well as a complete MovieDB browser including info dialogs for various media types. Needs skin implementation for lot of functions and Diamond Player for library functions.</description>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshot1.jpg</screenshot>
+			<screenshot>resources/screenshot2.jpg</screenshot>
+			<screenshot>resources/screenshot3.jpg</screenshot>
+		</assets>
+		<news>6.2.3 - Fix TV Show trailers
+		6.2.2 - Added ability to search using the tvdb_id for "extendedepisodeinfo"
+		6.2.1 - Fix context menu now available for widgets pointing to Diamond Info's video addon items
+		6.2.0 - Added context menu force "player select" to the play button, available via "c" and long press "enter" button
+		</news>
+	</extension>
+</addon>
+
 <addon id="script.favourites" name="Favourites script" version="8.1.2" provider-name="ronie, `Black">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>

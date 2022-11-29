@@ -867,19 +867,17 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="1.0.01f" provider-name="lg">
+<addon id="plugin.video.daddylive" name="Daddylive" version="1.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.requests" />
+        <import addon="script.module.requests" />
         <import addon="script.module.inputstreamhelper" />
-        <import addon="service.cronxbmc" optional="true"/>
-        <import addon="script.module.future"/>
-		<import addon="script.module.six"/>
+        <import addon="script.module.six"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
     </extension>
-	<extension point="xbmc.addon.metadata">
+    <extension point="xbmc.addon.metadata">
         <description lang="pl">test</description>
         <disclaimer lang="pl">test
         </disclaimer>
@@ -893,7 +891,7 @@ adulthideout@yandex.com[/COLOR]
         <website></website>
         <assets>
             <icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
+            <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
 
@@ -2014,32 +2012,6 @@ In addition to what livestreams allowed you to do, you can now,
   </extension>
 </addon>
 
-<addon id="plugin.video.nhlstreams" name="NHL Streams" version="0.3" provider-name="mbebe">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.six"/>
-        <import addon="script.module.iso8601" version="0.1.11" />
-        <import addon="script.module.inputstreamhelper" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.service" library="service_entry.py"/>
-    <extension point="xbmc.addon.metadata">
-        <description lang="en"></description>
-        <disclaimer lang="en"></disclaimer>
-        <summary lang="en"></summary>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.now_music" name="Now Thats What I Call Music" version="5.6.8" provider-name="Catoal">
   <requires>
     <import addon="plugin.video.youtube" />
@@ -2884,41 +2856,6 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.twoaddons" version="1.1.2+matrix" name="[COLOR blue]two [COLOR yellow] addons[/COLOR]" provider-name="nando">
-<requires>
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests" optional="true"/>
-		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-		<import addon="script.module.youtube.dl" optional="true"/>
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.dateutil" optional="true" />
-		<import addon="script.module.resolveurl" optional="true"/>
-		<import addon="script.module.urlresolver" optional="true"/>
-		<import addon="script.module.cloudscraper" optional="true"/>
-		<import addon="script.module.inputstreamhelper" optional="true"/>
-		<import addon="script.module.slproxy" optional="true"/>
-	</requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR yellow]OBRIGADO POR USAR NOSSO ADD-ON[/COLOR]</summary>
-    <description lang="en">[COLOR yellow]twoaddons Brasil é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR]</description>
-    <news>
-[COLOR maroon]PROIBIDO USO DO ADD-ON EM OUTRA REPO SEM AUTORIZAÇÃO[/COLOR]
-</news>
-    <platform>all</platform>
-	<assets>
-	<icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshots/1.jpg</screenshot>
-    <screenshot>resources/screenshots/2.jpg</screenshot>
-    <screenshot>resources/screenshots/3.jpg</screenshot>
-</assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.uiiumovies" name="uiiumovies - XXX" version="0.3" provider-name="xxxxx">
     <requires>
         <import addon="script.module.requests" />
@@ -3105,45 +3042,6 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.8.1" provider-name="WNT2">
-    <requires>
-        <import addon="script.module.requests"/>
-        <import addon="script.module.six"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">WatchNixtoons2</summary>
-        <description lang="en">
-Watch cartoons and anime from [COLOR orange][B]www.wcofun.net[/B][/COLOR].
-
-Support the WatchCartoonOnline website with a PayPal donation to:
-[COLOR khaki][B]wcohelp@yandex.com[/B][/COLOR]
-
-Add-on originally by doko.
-Random updates by lolage.
-        </description>
-        <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
-		<language>en</language>
-        <platform lang="en">all</platform>
-        <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
-[B]0.8.1:[/B]
-- Fix Source decode site changes
-
-[B]0.8.0:[/B]
-- Update Thumbnail Hashes
-- Menus and Settings can now be translated
-- Fix PY3 issues for the old WNT2 scripts in settings
-- Changed default setting for the series thumbnails
-- Ongoing and Popular can now have thumbnails
-  - Requires to be enabled in settings</news>
-		<assets>
-            <icon>icon.png</icon>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.wedotv" name="WeDoTV" version="0.0.10" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.requests"/>
@@ -3304,19 +3202,6 @@ Add Wallpaper
   </extension>
 </addon>
 
-<addon id="repository.jsergio" name="jsergio repo" version="1.0.4" provider-name="jsergio">
-	<extension point="xbmc.addon.repository" name="jsergio repo">
-        <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Repo for jsergio Add-ons</summary>
-		<description>Repo for jsergio Add-ons</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
 <addon id="repository.World" name="World Repository" version="0.1.3" provider-name="World">
 	<extension point="xbmc.addon.repository" name="World Repository">
 			<dir>
@@ -3384,22 +3269,6 @@ Add Wallpaper
 	</extension>
 </addon>
 
-<addon id="resource.images.studios.white" name="Studio Icons - White" version="0.0.30" provider-name="Team Kodi">
-	<extension point="kodi.resource.images" compile="true" type="studios" />
-	<requires>
-		<import addon="kodi.resource" version="1.0.0"/>
-	</requires>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">White Studio Icons</summary>
-		<description lang="en">White Studio Icons</description>
-		<platform>all</platform>
-		<license>CC-BY-SA-3.0</license>
-		<assets>
-			<icon>icon.png</icon>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.2" provider-name="Clement Osumo">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
@@ -3433,7 +3302,7 @@ Add Wallpaper
 	</extension>
 </addon>
 
-<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.64t" provider-name="fryhenryj">
+<addon id="script.extendedinfo" name="  [B][COLOR white]Extended Info-Diamond_MOD[/COLOR][/B]" version="3.64tw" provider-name="fryhenryj">
 """""""""""""	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="repository.jurialmunkey" version="2.2" optional="true" />
@@ -3830,105 +3699,6 @@ Add Wallpaper
   </extension>
 </addon>
 
-<addon id="script.module.metadatautils"
-       name="Metadata and Artwork module"
-       version="1.0.46"
-       provider-name="marcelveldt and others">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.requests" version="2.9.1"/>
-        <import addon="script.module.beautifulsoup4" version="4.9.3" />
-        <import addon="script.module.thetvdb" version="1.0.29" />
-        <import addon="script.module.musicbrainz" version="0.7.0"/>
-        <import addon="script.module.simplecache" version="2.0.2"/>
-        <import addon="script.module.arrow" version="0.15.5"/>
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">Metadata and artwork from common sources like TMDB, IMDB, TADB, OMDB and fanart.tv </summary>
-        <summary lang="es">Metadatos e ilustraciones de fuentes comunes como TMDB, IMDB, TADB, OMDB y fanart.tv </summary>
-        <description lang="en">The metadata and artwork module for Kodi provides rich metadata, including artwork for various metatypes by scraping (and caching) this information from sites like TMDB, musicbrainz and fanart.tv. This product uses the TMDb API but is not endorsed or certified by TMDb.</description>
-        <description lang="es">El módulo de metadatos e ilustraciones para Kodi proporciona metadatos enriquecidos, que incluyen ilustraciones paravarios metatipos al raspar (y almacenar en caché) esta información se extrae de sitios como TMDB, musicbrainz and fanart.tv.[CR][CR]Este producto utiliza la API de TMDb pero no está avalado ni certificado por TMDb</description>
-        <news>
-v1.0.46
-- Add Trakt
-v1.0.45
-- Add button in settings "Delete simplecache.db"
-- Fix for movieset posters
-v1.0.43, v1.0.44
-- Fixed SUPPORTS_POOL for Android
-v1.0.42
-- Fixed stripchars PVR Title
-- Fixed ExtraPosters
-- Fix for "Resume" in dialog
-v1.0.41
-- Fixed ExtraPosters
-- Fix for "Resume" in dialog
-v1.0.40
-- Fix for missing TADB key
-v1.0.39
-- Remove unicode
-- Fix for break site Kyradb
-- Add support for TADB encoding Ascii key
-- Add new info for TMDB (number_of_seasons, number_of_episodes and Seasons)
-v1.0.38
-- fix for error 'sys' is not defined for extrafanart
-- fix for google
-- fix for colecting imdb.250 (movie and tv)
-- add new rotentomatoes info from omdb
-v1.0.37
-- Smal fix for theaudiodb scraper
-v1.0.36
-- Fix for theaudiodb scraper,Add some new Art thumb and label
-
-v1.0.35 (wuff)
-- Remove BeautifulSoup3 dependency and use BeautifulSoup4 on Kodi 18 and 19 instead
-
-v1.0.34 (wuff)
-- Set BeautifulSoup3 and MusicBrainz dependency as optional to allow install on Matrix
-
-v1.0.33 (wuff)
-- replace xbmc.LOGNOTICE with xbmc.LOGINFO as LOGNOTICE was removed
-
-v1.0.32 (wuff)
-- Remove python requirement for Kodi 18/19 compat
-- Change imdb Top250 parsing from lxml to html.parser
-- replace xbmc.translatePath with xmbcvfs.translatePath
-v1.0.31 (berkhornet)
-- Further fixes for PVR artwork
-v1.0.30 (berkhornet)
-- Kodi 19/Python 3
-- Fixes for PVR artwork
-- Fix display of artwork when manually selecting from TVDB
-- Fixes for animated art and google
-v1.0.29 (wuff)
-- Remove python requirement for Kodi 18/19 compat
-v1.0.28 (wuff)
-- Kodi 19/Python 3 fixes
-v1.0.27 (finkleandeinhorn)
-- update omdb api key
-v1.0.26 (finkleandeinhorn, cartmandos)
-- enable caching of omdb/tmdb data
-- remove duplicate "Title" parameter
-v1.0.25 (marcelveldt)
-- Last version 30 Mar 2018
-        </news>
-        <license>Apache 2.0</license>
-        <forum>https://forum.kodi.tv/showthread.php?tid=350315</forum>
-        <source>https://github.com/kodi-community-addons/script.module.metadatautils</source>
-        <platform>all</platform>
-        <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/fanart.jpg</fanart>
-            <screenshot>resources/screenshot-01.jpg</screenshot>
-            <screenshot>resources/screenshot-02.jpg</screenshot>
-            <screenshot>resources/screenshot-03.jpg</screenshot>
-            <screenshot>resources/screenshot-04.jpg</screenshot>
-            <screenshot>resources/screenshot-05.jpg</screenshot>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="script.module.metahandler"
      name="metahandler"
      version="3.0.2"
@@ -3951,24 +3721,6 @@ v1.0.25 (marcelveldt)
     <website></website>
     <email></email>
     <source></source>
-  </extension>
-</addon>
-
-<addon id="script.module.musicbrainz"
-       name="Musicbrainz NGS webservice python bindings"
-       version="0.7.0"
-       provider-name="marcelveldt and others">
-  <requires>
-	<import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.module"
-             library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <summary>Python bindings for Musicbrainz' NGS webservice</summary>
-    <description>Kodi module library for the Python bindings for Musicbrainz' NGS webservice developed by alastair.</description>
-    <license>GNU GENERAL PUBLIC LICENSE V3</license>
-    <source>https://github.com/kodi-community-addons/script.module.musicbrainz</source>
-    <platform>all</platform>
   </extension>
 </addon>
 
@@ -4170,27 +3922,6 @@ v1.0.25 (marcelveldt)
   </extension>
 </addon>
 
-<addon id="script.module.thetvdb"
-       name="The TVDB API v2"
-       version="1.0.29"
-       provider-name="marcelveldt and others">
-    <requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.requests" version="2.9.1"/>
-        <import addon="script.module.simplejson" version="3.17.0"/>
-        <import addon="script.module.simplecache" version="2.0.2"/>
-        <import addon="script.module.arrow" version="0.15.5"/>
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.addon.metadata">
-        <summary>TheTVDB API v2 python module for Kodi</summary>
-        <description>TheTVDB API v3 python module for Kodi</description>
-        <license>Apache 2.0</license>
-        <source>https://github.com/kodi-community-addons/script.module.thetvdb</source>
-        <platform>all</platform>
-    </extension>
-</addon>
-
 <addon id="script.module.websocket" name="websocket library" version="0.58.0+matrix.2" provider-name="liris">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
@@ -4265,115 +3996,6 @@ v1.0.25 (marcelveldt)
 	<icon>icon.png</icon>
     </assets>
   </extension>
-</addon>
-
-    <addon id="script.skin.helper.service" name="Skin Helper Service" version="1.1.41" provider-name="marcelveldt and others">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="xbmc.addon" version="12.0.0"/>
-        <import addon="script.module.simplejson" version="3.3.0"/>
-        <import addon="script.module.simplecache" version="1.0.0"/>
-        <import addon="script.module.metadatautils" version="1.0.31"/>
-    </requires>
-
-    <extension point="kodi.context.item">
-        <menu id="kodi.core.main">
-            <item library="resources\lib\context_animatedart.py">
-              <label>32024</label>
-              <visible>!String.IsEmpty(Window(Home).Property(SkinHelper.EnableAnimatedPosters)) + Container.Content(movies)</visible>
-            </item>
-            <item library="resources\lib\context_pvr.py">
-                <label>32023</label>
-                <description>PVR artwork Configuration</description>
-                <visible>
-                    !String.IsEmpty(Window(Home).Property(SkinHelper.EnablePvrThumbs)) +
-                    [Window.IsActive(MyPVRChannels.xml) |
-                    Window.IsActive(MyPVRGuide.xml) | Window.IsActive(MyPVRRecordings.xml) |
-                    Window.IsActive(MyPVRTimers.xml) | Window.IsActive(MyPVRSearch.xml)]
-                </visible>
-            </item>
-            <item library="resources\lib\context_music.py">
-                <label>32023</label>
-                <description>Music artwork Configuration</description>
-                <visible>
-                    !String.IsEmpty(Window(Home).Property(SkinHelper.EnableMusicArt)) +
-                    [Container.Content(albums) | Container.Content(artists) | Container.Content(songs)]
-                </visible>
-            </item>
-        </menu>
-    </extension>
-
-    <extension point="xbmc.python.library" library="default.py" />
-    <extension point="xbmc.python.pluginsource" library="plugin.py" />
-    <extension library="service.py" point="xbmc.service" start="login" />
-
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">Helper service for Kodi skins</summary>
-        <description>Helper service for Kodi skins</description>
-        <news>
-v1.1.41
-- Add Trakt
-v1.1.40
-- bump version
-v1.1.39
-- clean trace of webservice
-v1.1.38
-- removed webservice(removed dependency of module "script.module.cherrypy")
-v1.1.37
-- fix for saveskinimage
-- Update listitem_monitor.py
-v1.1.36
-- Hungarian lang created
-- remove get_repo_addoninfo
-- Fix for "Resume" in dialog
-v1.1.35
-- fix setskinconstant
-
-v1.1.34
-- fix correct skin settings
-- Fix for skinstring, selectimage, and overlayertexture
-- Fix for resourceaddons
-- Matrix Py3 changes
-v1.1.32
-- fix for search dialog
-- add TMDB for TVShow
-- fix for webservice (now use just TMDB Art-Poster and fanart)
-
-v1.1.31
-- fix urllib.parse vs urlparse in utils for Kodi 18
-- add commits from Angelinas1
-
-v1.1.30
-- fix module import of context menu items
-
-v1.1.29
-- compatibility change for CherryPy 17.4.2 and bump version requirement
-
-v1.1.28
-- replace xbmc.LOGNOTICE with xbmc.LOGINFO as LOGNOTICE was removed
-
-v1.1.27
-- Replace xbmc.translatePath with xbmcvfs.translatePath for Kodi 19 compat
-
-v1.1.26
-- Remove python dependency for Kodi18/19 compatibility
-- minor fix
-
-v1.1.25
-- Kodi 19/Python 3 compatibility
-- minor fixes
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-        <language></language>
-        <platform>all</platform>
-        <license>GPL v2.0</license>
-        <forum>http://forum.kodi.tv/showthread.php?tid=235676</forum>
-        <website></website>
-        <source>https://github.com/kodi-community-addons/script.skin.helper.service</source>
-    </extension>
 </addon>
 
 <addon id="script.skinswitcher"

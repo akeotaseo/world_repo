@@ -2138,6 +2138,26 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
   </extension>
 </addon>
 
+<addon id="plugin.video.pantydropper" name="pantydropper" version="1.0.2" provider-name="me">
+	<requires>
+		<import addon="script.module.audrey" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description></description>
+		<platform>all</platform>
+		<language>en</language>
+		<email></email>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.parrottv" version="111.9.3.1" name="[COLOR cyan]Falcon[/COLOR]" provider-name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Developers[/COLOR]">
   <requires>
     <import addon="script.module.requests" version="2.18.4"/>
@@ -2802,7 +2822,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone112" name="tvOne112" version="1+matrix.1w" provider-name="RACC">
+<addon id="plugin.video.tvone112" name="tvOne112" version="2+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -2822,10 +2842,6 @@ provider-name="FrankAaro">
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
   </extension>
 </addon>
 
@@ -3614,6 +3630,31 @@ Fixes not being able to get video
     <email></email>
     <source></source>
   </extension>
+</addon>
+
+<addon id="script.module.audrey" name="Audrey" version="1.0.0" provider-name="ptom, Jon Bovi bones mod">
+	<requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.requests" />
+        <import addon="plugin.video.youtube" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Audrey - JSON file to Addon</summary>
+        <description lang="en">Audrey takes a JSON feed (stored locally or online) and from this builds a Kodi addon</description>
+        <disclaimer lang="en"></disclaimer>
+        <language>en</language>
+        <license>GNU GPL v.3</license>
+        <forum>https://www.tvaddons.co/forums</forum>
+		<website>https://www.tvaddons.co</website>
+		<source>https://github.com/tvaddonsco/script.module.audrey</source>
+		<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+		</assets>
+    </extension>
 </addon>
 
 <addon id="script.module.beautifulsoup"

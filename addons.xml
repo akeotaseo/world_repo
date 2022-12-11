@@ -2350,6 +2350,36 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
+<addon id="plugin.video.rumble.matrix" name="[B]Rumble[/B]" version="1.0.1+matrix.1" provider-name="Oneplay team">
+<requires>
+	<import addon="xbmc.python" version="3.0.0"/>
+	<import addon="script.module.simplejson"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch rumble videos.</summary>
+    <summary lang="pt_br">Assista videos do rumble.</summary>
+	<description lang="en">Watch uncensored videos with rumble.</description>
+    <description lang="pt_br">Asssista videos sem censura com o rumble.</description>
+	<disclaimer lang="en">We are not associated with rumble.com or the Kodi Team</disclaimer>
+    <disclaimer lang="pt_br">Não somos associados à rumble.com nem com o Kodi Team</disclaimer>
+	<website>http://www.oneplayhd.com/</website>
+    <platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+		<screenshot>resources/media/screenshot01.jpg</screenshot>
+		<screenshot>resources/media/screenshot02.jpg</screenshot>
+		<screenshot>resources/media/screenshot03.jpg</screenshot>
+    </assets>
+	<news>
+Rumble - v1.0.0.matrix
+	</news>
+</extension>
+</addon>
+
 <addon id="plugin.video.sc19" version="0.1.0" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -2842,6 +2872,9 @@ provider-name="FrankAaro">
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 

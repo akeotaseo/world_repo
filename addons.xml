@@ -234,49 +234,6 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon
-    id="plugin.program.advanced.emulator.launcher"
-    name="Advanced Emulator Launcher"
-    version="0.10.1"
-    provider-name="Wintermute0110">
-    <requires>
-        <!--
-            Check main addon versions in https://github.com/xbmc/xbmc/tree/master/addons
-            Change the branch according to the Kodi version.
-            Kodi 17 Krypton | xbmc.python 2.25.0 | script.module.pil 1.1.7
-            Kodi 18 Leia    | xbmc.python 2.26.0 | script.module.pil 1.1.7
-            Kodi 19 Matrix  | xbmc.python 3.0.0  | script.module.pil 5.1.0
-        -->
-        <import addon="xbmc.python" version="3.0.0" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>executable game</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <!--
-            This must be commented when releasing the addon. Kodi must be restarted if this setting is changed.
-            See https://github.com/xbmc/xbmc/pull/13814
-        -->
-        <!-- <reuselanguageinvoker>false</reuselanguageinvoker> -->
-        <summary lang="en_GB">Start any emulators/apps from Kodi.</summary>
-        <description lang="en_GB">Multi-emulator front-end and general application launcher for Kodi. Includes offline scrapers for MAME and No-Intro ROM sets and also supports scrapping ROM metadata and artwork online. ROM auditing for No-Intro ROMs using No-Intro or Redump XML DAT files. Launching of games and standalone applications is also available.</description>
-        <platform>android freebsd ios linux osx windows</platform>
-        <license>GPL-2.0-only</license>
-        <email>wintermute0110@gmail.com</email>
-        <forum>https://forum.kodi.tv/showthread.php?tid=287826</forum>
-        <website>https://github.com/Wintermute0110/plugin.program.AEL/wiki</website>
-        <source>https://github.com/Wintermute0110/plugin.program.AEL/</source>
-        <assets>
-            <icon>media/icon.png</icon>
-            <fanart>media/fanart.jpg</fanart>
-            <screenshot>media/Estuary_ROM_Launcher.jpg</screenshot>
-            <screenshot>media/Estuary_ROM_Console.jpg</screenshot>
-            <screenshot>media/Estuary_ROM_MAME.jpg</screenshot>
-        </assets>
-        <news>See changelog.txt file in https://github.com/Wintermute0110/plugin.program.AEL for information about the latest release.</news>
-    </extension>
-</addon>
-
 <addon id="plugin.program.autoenabler" name="Auto Enabler" version="1.0.0" provider-name="slam">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -1153,11 +1110,11 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	</extension>
 </addon>
 
-<addon id="plugin.video.f4mTester" version="4.0.7a" name="f4mTester" provider-name="Joel e Tiago">
+<addon id="plugin.video.f4mTester" version="4.0.8a" name="f4mTester" provider-name="Joel e Tiago">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.video.F4mProxy" version="4.0.5"/>
-        <!--<import addon="inputstream.ffmpegdirect"/>-->
+        <import addon="script.video.F4mProxy" version="4.0.9a"/>
+        <import addon="inputstream.ffmpegdirect"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -2551,30 +2508,6 @@ Rumble - v1.0.0.matrix
     </extension>
 </addon>
 
-<addon id="plugin.video.telemedia19"
-	   name="Telemedia19 2.0"
-	   version="2.0.9"
-	   provider-name="Pavel Durov">
-  <requires>
-
-	<import addon="script.module.requests"/>
-
-	<import addon="script.module.pyxbmct" version="1.1.4" />
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.service" library="service.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="he">Telegram media for kodi,\n Thanks to "Aliaksei Levin" without him none of this would have been possiable</summary>
-    <description lang="he">Telegram media for kodi</description>
-    <platform>all</platform>
- <language>en</language>
- <disclaimer> report any issues with</disclaimer>
-  </extension>
-</addon>
-
 <addon id="plugin.video.That_Banned_Channel"
 version="1.0.1"
 name="That Banned Channel"
@@ -3925,7 +3858,7 @@ Fixes not being able to get video
    </extension>
 </addon>
 
-<addon id="script.module.resolveurl.xxx" version="2.1.31" name="Adult Resolver SMR Extension" provider-name="gujal">
+<addon id="script.module.resolveurl.xxx" version="2.1.33" name="Adult Resolver SMR Extension" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="2.1.0"/> -->
         <import addon="script.module.resolveurl" version="5.1.0" />
@@ -4137,7 +4070,7 @@ Fixes not being able to get video
 
 <addon id="script.video.F4mProxy"
          name="F4mProxy"
-         version="4.0.8a"
+         version="4.0.9a"
          provider-name="Joel e Tiago">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />

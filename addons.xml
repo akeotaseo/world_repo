@@ -957,7 +957,7 @@ adulthideout@yandex.com[/COLOR]
 </extension>
 </addon>
 
-<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.3w" provider-name="Wolfey B">
+<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.4w" provider-name="Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0"/>
@@ -2438,6 +2438,54 @@ Rumble - v1.0.0.matrix
         <news>1.9 14-07-2022
         - fixed vipleague</news>
     </extension>
+</addon>
+
+﻿<addon id="plugin.video.sportstreams" name="Sport Streams" provider-name="waladir" version="1.0.6">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0" />
+    <import addon="inputstream.adaptive" version="19.0.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.6.0" />
+  </requires>
+  <extension library="main.py" point="xbmc.python.pluginsource">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="cs_CZ">Sport Streams</summary>
+    <description lang="cs_CZ">
+Sportovní přenosy z různých zdrojů:
+
+ČT4 Sport Plus (ČT4 Sport + extra přenosy)
+TVcom.cz (živé přenosy i archiv různých sportů a soutěží)
+Huste.tv (živé přenosy i archiv ze slovenských soutěží)
+Volej.tv (přenosy volejbalových soutěží)
+Ping-pong.tv (přenosy ze soutěží stolního tenisu)
+Ettu.tv (přenosy mezinárodní federace stolního tenisu)
+Niké.sk (živé přenosy i archiv ze slovenských soutěží)
+    </description>
+    <platform>all</platform>
+    <source>https://github.com/waladir/plugin.video.sportstreams</source>
+    <news>
+v1.0.6 (14.12.2022)
+- úprava huste.tv
+- přídání nike.sk
+
+v1.0.5 (14.11.2022)
+- oprava chyby po přidání Ettu.tv
+
+v1.0.4 (12.11.2022)
+- přidání Ettu.tv
+
+v1.0.3 (3.8.2022)
+- úprava dat pro huste.tv + formátování datumu
+
+v1.0.2 (30.7.2022)
+- úprava submenu v huste.tv
+    </news>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.3+matrix.1" provider-name="realvito (inspired by L0RE)">

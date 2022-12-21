@@ -2247,6 +2247,30 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
     </extension>
 </addon>
 
+<addon id="plugin.video.prowrestling" name="Watch Pro Wrestling" version="1.0.0" provider-name="G-Man">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.six"/>
+        <import addon="script.module.resolveurl" version="5.0.00"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">Includes Wrestling, MMA and Boxing via the website: watchprowrestling.org[CR]Original coding by mbebe. This fork only has a very minor edit in coding from the original, which had a broken link, as well as a new icon. I take no credit for how it works.[CR]Any issues with this add-on will be due to maintenance on the source website.</description>
+        <disclaimer lang="en"></disclaimer>
+        <summary lang="en">Watchprowrestling.org</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.replaymatches" name="replaymatches" version="1.0.0" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
@@ -2888,7 +2912,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.tvseriesvideo" name="[B][COLOR orange]TVSeries[/COLOR][COLOR snow].video[/COLOR][/B]" version="0.3.1" provider-name="mbebe">
+<addon id="plugin.video.tvseriesvideo" name="[B][COLOR orange]TVSeries[/COLOR][COLOR snow].video[/COLOR][/B]" version="0.3.5" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -2898,7 +2922,8 @@ provider-name="FrankAaro">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="en">TV Shows and Movies from the source: www.tvseries.video</description>
+        <description lang="en">TV Shows and Movies from the source: www.tvseries.video[CR]If you have any problems with this add-on, it is caused by maintenance to the source website.
+        </description>
         <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
         <summary lang="en">TV Shows and Movies</summary>
         <language>en</language>
@@ -2909,6 +2934,9 @@ provider-name="FrankAaro">
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+        <news>
+        Version 0.3 - original version by mbebe
+        </news>
     </extension>
 </addon>
 
@@ -4263,6 +4291,54 @@ v5.2.14 (2017-01-23)
 		<screenshot>resources/media/screenshot_3.jpg</screenshot>
 	</assets>
     <source>https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles</source>
+  </extension>
+</addon>
+
+<addon
+  id="skin.19MatrixWorld"
+  version="4.1.9"
+  name="skin.19MatrixWorld-beta"
+  provider-name="Helly,bsoriano">
+  <requires>
+    <import addon="xbmc.gui" version="5.15.0"/>
+    <import addon="script.favourites" version="8.1.2"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="flase"
+    effectslowdown="1.0">
+    <res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="nl">Uitgebreide MOD van Confluence skin origineel door Jezz_X en CCM door Mudislander.</summary>
+    <description lang="en">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="nl">Xonfluence is een MOD van Confluence om een grotere aanpassingsmogelijkheid te geven ten opzichten van de standaard skin (gebaseerd op Mudislander's CCM).</description>
+    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="nl">Wie zijn billen brandt - moet op de blaren zitten</disclaimer>
+    <platform>all</platform>
+	  <license>GNU General Public License version 2</license>
+	  <forum>https://forum.kodi.tv/showthread.php?tid=346302</forum>
+	  <website></website>
+	  <email></email>
+	  <source>https://github.com/bartolomesoriano/skin.xonfluence</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+	    <screenshot>resources/screenshot-01.jpg</screenshot>
+	    <screenshot>resources/screenshot-02.jpg</screenshot>
+	    <screenshot>resources/screenshot-03.jpg</screenshot>
+	    <screenshot>resources/screenshot-04.jpg</screenshot>
+	    <screenshot>resources/screenshot-05.jpg</screenshot>
+	    <screenshot>resources/screenshot-06.jpg</screenshot>
+	    <screenshot>resources/screenshot-07.jpg</screenshot>
+	    <screenshot>resources/screenshot-08.jpg</screenshot>
+	    <screenshot>resources/screenshot-09.jpg</screenshot>
+    </assets>
+    <news>See changelog for latest changes</news>
   </extension>
 </addon>
 

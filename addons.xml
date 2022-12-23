@@ -3126,7 +3126,7 @@ Initial version.
 	</extension>
 </addon>
 
-<addon id="plugin.video.wedotv" name="WeDoTV" version="0.1.0" provider-name="azzy9">
+<addon id="plugin.video.wedotv" name="WeDoTV" version="0.1.1" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.requests"/>
 		<import addon="script.module.six"/>
@@ -3140,7 +3140,10 @@ Initial version.
 		<language>uk</language>
 		<platform>all</platform>
 		<license>GPL-3.0-only</license>
-		<news>v0.1.0 (2022-12-20)
+		<news>v0.1.1 (2022-12-22)
+Add Search
+
+v0.1.0 (2022-12-20)
 Change to use API</news>
 		<assets>
 			<icon>icon.png</icon>

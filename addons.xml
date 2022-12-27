@@ -957,7 +957,7 @@ adulthideout@yandex.com[/COLOR]
 </extension>
 </addon>
 
-<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.4w" provider-name="Wolfey B">
+<addon id="plugin.video.devilwolf19" name="[COLOR lime]Devilwolf 19[/COLOR]" version="1.5w" provider-name="Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0"/>
@@ -973,7 +973,7 @@ adulthideout@yandex.com[/COLOR]
     <language>en de</language>
     <platform>all</platform>
       <assets>
-        <icon>icon.jpg</icon>
+        <icon>icon.gif</icon>
 		<fanart>fanart.gif</fanart>
     </assets>
   </extension>

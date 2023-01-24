@@ -2,7 +2,7 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
-World-[COLOR green]Matrix[/COLOR] 19 [COLOR blue]Έκδοση Build 2.5[/COLOR] 05 Ιανουαρίου 2023
+World-[COLOR green]Matrix[/COLOR] 19 [COLOR blue]Έκδοση Build 2.5[/COLOR] 16 Ιανουαρίου 2023
 World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.0[/COLOR] 16 Ιανουαρίου 2023
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build 
@@ -13,5 +13,5 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.0[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
- [B]Τελευταία ενημέρωση 23 Ιανουαρίου 2023:[/B] (για World-[COLOR purple]Nexus[/COLOR] 20)
+ [B]Τελευταία ενημέρωση 24 Ιανουαρίου 2023:[/B] (για World-[COLOR purple]Nexus[/COLOR] 20)
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες

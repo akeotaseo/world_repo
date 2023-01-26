@@ -666,6 +666,28 @@ adulthideout@yandex.com[/COLOR]
     </extension>
 </addon>
 
+<addon id="plugin.video.bnwmovie19" name="Black and White Movies" version="420.1.0" provider-name="Anonymous">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.unidecode" />
+    <import addon="script.module.inputstreamhelper" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Black and White Movies</summary>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GPL-2.0-or-later</license>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+  </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.video.cabal" name="[COLOR crimson]Cabal[/COLOR]" version="1.0" provider-name="Forked by Wolfey B">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -742,6 +764,35 @@ adulthideout@yandex.com[/COLOR]
 		<fanart>fanart.jpg</fanart>
   </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.co.bellesa.free"
+       version="0.0.7"
+       name="bellesa.co (free)"
+       provider-name="fr33p0rt">
+<requires>
+  <import addon="script.module.requests" />
+  <import addon="script.module.beautifulsoup4" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="video.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.python.library" library="resources/lib/buy.py"/>
+<extension point="xbmc.addon.metadata">
+  <license>Freeware (free to use and redistribute)</license>
+  <platform>all</platform>
+  <summary lang="en">porndig.com</summary>
+  <description lang="en_GB">bellesa.co video plugin for Kodi.</description>
+  <disclaimer lang="en_GB">NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON- INFRINGEMENT OF THIRD PARTY RIGHTS OR FREEDOM FROM VIRUSES OR OTHER CODE DEFECTS, IS MADE BY ANY AGENT PARTY IN CONNECTION WITH THE BORROWER MATERIALS OR THE PLATFORM.</disclaimer>
+  <description lang="cs_CZ">bellesa.co video plugin pro Kodi.</description>
+  <disclaimer lang="cs_CZ">NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON- INFRINGEMENT OF THIRD PARTY RIGHTS OR FREEDOM FROM VIRUSES OR OTHER CODE DEFECTS, IS MADE BY ANY AGENT PARTY IN CONNECTION WITH THE BORROWER MATERIALS OR THE PLATFORM.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <email>fr33p0rt@protonmail.com</email>
+  <news>Initial version</news>
+</extension>
 </addon>
 
 <addon id="plugin.video.colombiatv"
@@ -3061,7 +3112,7 @@ provider-name="FrankAaro">
 
 <addon
   id="plugin.video.videodevil"
-  version="1.8.26"
+  version="1.8.27"
   name="VideoDevil"
   provider-name="xbmc-adult">
   <requires>

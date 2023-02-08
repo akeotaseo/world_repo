@@ -2466,37 +2466,6 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.2.2" provider-name="azzy9">
-	<requires>
-		<import addon="script.module.simplejson"/>
-        <import addon="script.module.requests"/>
-		<import addon="script.module.six"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Watch rumble videos.</summary>
-		<summary lang="pt_br">Assista videos do rumble.</summary>
-		<description lang="en">Watch uncensored videos with rumble.</description>
-		<description lang="pt_br">Asssista videos sem censura com o rumble.</description>
-		<disclaimer lang="en">We are not associated with rumble.com or the Kodi Team</disclaimer>
-		<disclaimer lang="pt_br">Não somos associados à rumble.com nem com o Kodi Team</disclaimer>
-		<website>https://github.com/azzy9/plugin.video.rumble</website>
-		<platform>all</platform>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-		<news>Rumble - v1.2.2 - add ability to subscribe and unsubscribe
-Rumble - v1.2.1 - add following section, fix leaderboard
-Rumble - v1.2.0 - add ability to login and view subscriptions
-Rumble - v1.1.2 - add import favorites setting
-Rumble - v1.1.1 - Fix python 2 compatibility errors - rework favorites
-Rumble - v1.1.0 - make python 2 compatible</news>
-	</extension>
-</addon>
-
 <addon id="plugin.video.rumble.matrix" name="[B]Rumble[/B]" version="1.0.1+matrix.1" provider-name="Oneplay team">
 <requires>
 	<import addon="xbmc.python" version="3.0.0"/>

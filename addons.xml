@@ -885,13 +885,12 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.cristalazul" name="[B][/B][COLOR aqua]CRISTAL AZUL 3.0.5[/COLOR]" version="3.0.5" provider-name="PICAPAU, LOURDES, SUPERTOPO, LUISMA, GEORGE">
+<addon id="plugin.video.cristalazul" name="[B][/B][COLOR aqua]CRISTAL AZUL 3.0.6[/COLOR]" version="3.0.6" provider-name="PICAPAU, LOURDES, SUPERTOPO, LUISMA, GEORGE">
     <requires>
         <import addon="script.module.simplecache"/>
         <import addon="script.module.six"/>
         <import addon="script.module.kodi-six"/>
         <import addon="script.module.requests"/>
-        <import addon="script.module.websocket" optional="true" />
         <import addon="script.module.youtube.dl" optional="true" />
         <import addon="plugin.video.youtube" />
 		<import addon="plugin.video.duffyou" optional="true" />
@@ -1126,7 +1125,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	</extension>
 </addon>
 
-<addon id="plugin.video.duffyou" name="Duff You" version="0.1.3b" provider-name="La Taberna">
+<addon id="plugin.video.duffyou" name="Duff You" version="0.2.1a" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
         <import addon="script.module.simplecache" />
@@ -3733,7 +3732,7 @@ Change to use API</news>
 
 <addon id="script.kelebek"
        name="KELEBEK"
-       version="3.5"
+       version="3.6"
        provider-name="Iron Butterfly">
   <requires>
     <import addon="script.module.pyxbmct" version="1.1.4" />
@@ -3745,7 +3744,7 @@ Change to use API</news>
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary>KELEBEK V3.5</summary>
+    <summary>KELEBEK V3.6</summary>
     <description>Scan Sources searching changes and addons</description>
     <language></language>
     <license></license>
@@ -3760,7 +3759,7 @@ Change to use API</news>
 </addon>
 
 <addon id="script.luar"
-  version="0.8.1"
+  version="0.9.5"
   name="Luar"
   provider-name="The Dreamers">
   <requires>
@@ -3772,16 +3771,11 @@ Change to use API</news>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
-  <extension point="xbmc.addon.repository" name="Luar Repo">
-    <info>https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml</info>
-    <checksum>https://raw.githubusercontent.com/Masterwine/Luar/master/repor/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/Masterwine/Luar/master/repor/</datadir>
-  </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="es">Script instalador de complementos para Kodi.</summary>
     <description lang="es">Selecciona, instala y disfruta.</description>
-    <disclaimer lang="es"></disclaimer>
+    <disclaimer>Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR]No obstante, [COLOR red][B]no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, uso o asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
     <assets>
       <icon>icon.gif</icon>
       <fanart>fanart.jpg</fanart>

@@ -2466,36 +2466,6 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble.matrix" name="[B]Rumble[/B]" version="1.0.1+matrix.1" provider-name="Oneplay team">
-<requires>
-	<import addon="xbmc.python" version="3.0.0"/>
-	<import addon="script.module.simplejson"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-	<provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-    <summary lang="en">Watch rumble videos.</summary>
-    <summary lang="pt_br">Assista videos do rumble.</summary>
-	<description lang="en">Watch uncensored videos with rumble.</description>
-    <description lang="pt_br">Asssista videos sem censura com o rumble.</description>
-	<disclaimer lang="en">We are not associated with rumble.com or the Kodi Team</disclaimer>
-    <disclaimer lang="pt_br">Não somos associados à rumble.com nem com o Kodi Team</disclaimer>
-	<website>http://www.oneplayhd.com/</website>
-    <platform>all</platform>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.jpg</fanart>
-		<screenshot>resources/media/screenshot01.jpg</screenshot>
-		<screenshot>resources/media/screenshot02.jpg</screenshot>
-		<screenshot>resources/media/screenshot03.jpg</screenshot>
-    </assets>
-	<news>
-Rumble - v1.0.0.matrix
-	</news>
-</extension>
-</addon>
-
 <addon id="plugin.video.sc19" version="0.1.0" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -3216,49 +3186,6 @@ v0.1.0
   </assets>
   <reuselanguageinvoker>true</reuselanguageinvoker>
 </extension>
-</addon>
-
-<addon id="plugin.video.w4free" name="W4free" version="0.0.6" provider-name="Lolage">
-	<requires>
-		<import addon="script.common.plugin.cache" version="2.6.1"/>
-		<import addon="script.module.six"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">W4free</summary>
-		<description lang="en_GB">
-      This addon allows you watch Movies and TV Series from W4free
-		</description>
-		<language>uk us</language>
-		<platform>all</platform>
-		<license>GPL-3.0-only</license>
-		<news>
-v0.0.6 (2022-02-11)
-Fix due to template changes
-
-v0.0.5 (2021-04-03)
-Fix due to new template changes
-
-v0.0.4 (2021-03-26)
-Start working on TV series
-Pass info to playing Video
-
-v0.0.3 (2021-03-22)
-Add Channel Art.
-
-v0.0.2 (2021-03-18)
-Add Art.
-
-v0.0.1 (2021-03-15)
-Initial version.
-		</news>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.video.wedotv" name="WeDoTV" version="0.1.1" provider-name="azzy9">

@@ -3101,7 +3101,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.vidembed" version="111.1.1" name="[COLOR cyan]Vidembed[/COLOR].[COLOR yellow]io[/COLOR]" provider-name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Developers[/COLOR]">
+<addon id="plugin.video.vidembed" version="111.1.1.com" name="[COLOR cyan]Vidembed[/COLOR].[COLOR yellow]io[/COLOR]" provider-name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Developers[/COLOR]">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>

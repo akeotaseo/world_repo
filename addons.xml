@@ -1059,7 +1059,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
-<addon id="plugin.video.desporto.theanonymous" name="[B][COLOR yellow]Desporto[/COLOR] [COLOR cyan]TheAnonymous[/B][/COLOR]" version="1.4a" provider-name="[B][COLOR cyan]Desporto[/COLOR] [COLOR yellow]TheAnonymous[/B][/COLOR]">
+<addon id="plugin.video.desporto.theanonymous" name="[B][COLOR yellow]Desporto[/COLOR] [COLOR cyan]TheAnonymous[/B][/COLOR]" version="1.5" provider-name="[B][COLOR cyan]Desporto[/COLOR] [COLOR yellow]TheAnonymous[/B][/COLOR]">
 <requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />
@@ -1073,7 +1073,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
 		<import addon="script.module.cloudscraper" optional="true"/>
 		<import addon="script.module.inputstreamhelper" optional="true"/>
 		<import addon="script.module.slproxy" optional="true"/>
-		<import addon="script.module.horus" version="1.1.7" />
+		<import addon="script.module.horus" version="1.1.5" />
 	</requires>
    <extension point="xbmc.python.pluginsource" library="default.py">
 	<provides>video</provides>
@@ -1100,7 +1100,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
        <icon>icon.png</icon>
        <fanart>fanart.jpg</fanart>
     </assets>
-<news>Desporto TheAnonymous para Kodi Leia e Matrix</news>
+<news>Desporto TheAnonymous para Kodi Matrix Kodi Nexus</news>
 </extension>
 </addon>
 
@@ -2784,6 +2784,42 @@ provider-name="FrankAaro">
 </extension>
 </addon>
 
+<addon id="plugin.video.theanonymous.nexus" name="[B][COLOR dodgerblue]TheAnonymous [/COLOR][COLOR red]Nexus [/B][/COLOR]" version="2.7" provider-name="[B][COLOR dodgerblue]TheAnonymous [/COLOR][COLOR red]Nexus [/B][/COLOR]">
+<requires>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.six"/>
+    <import addon="script.module.kodi-six"/>
+  </requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+ <extension point="xbmc.addon.repository" name="repository.alado.tv">
+		    <info compressed="false">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/</datadir>
+		<dir minversion="18.9.1">
+			<info compressed="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/</datadir>
+		</dir>
+	</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en"></summary>
+	<summary lang="pt">By TheAnonymous</summary>
+	<description lang="en"></description>
+	<description lang="pt">TheAnonymous "WE LEAD THE WAY"</description>
+    <disclaimer lang="en"></disclaimer>
+	<disclaimer lang="pt"></disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+    </assets>
+<news>TheAnonymous no Kodi Matrix Nexus plataforma Python3</news>
+</extension>
+</addon>
+
 <addon id="plugin.video.theoath" name="TheOath" provider-name="host505" version="4.11.09">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
@@ -3373,6 +3409,32 @@ Change to use API</news>
         <icon>resources/icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="repository.alado.tv" name="[COLOR lime][B]Alado[/COLOR][COLOR gold] Repository[/B][/COLOR]" version="0.0.2" provider-name="[COLOR lime][B]ALADO[/B][/COLOR]">
+	<extension point="xbmc.addon.repository" name="repository.alado.tv">
+		    <info compressed="false">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/leia/</datadir>
+		<dir minversion="18.9.1">
+			<info compressed="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Alado2020/repository.alado.tv/master/matrix/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR gold]By Team Milhano[/COLOR]</summary>
+		<description>[COLOR gold]By Team Milhano[/COLOR]</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	<assets>
+        <icon>icon.gif</icon>
+        <fanart>fanart.gif</fanart>
+        <screenshot>resources/screenshot000.jpg</screenshot>
+        <screenshot>resources/screenshot001.jpg</screenshot>
+        <screenshot>resources/screenshot002.jpg</screenshot>
+    </assets>
+	</extension>
 </addon>
 
 <addon id="repository.World" name="World Repository" version="0.1.3" provider-name="World">

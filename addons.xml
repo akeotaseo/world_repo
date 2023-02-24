@@ -4234,7 +4234,7 @@ Change to use API</news>
 
 <addon id="script.sites"
   name="script sites"
-  version="19.3"
+  version="19.4"
   provider-name="ML Gb">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

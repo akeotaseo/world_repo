@@ -1826,49 +1826,6 @@ AVISO LEGAL:
 	</extension>
 </addon>
 
-<addon id="plugin.video.live.streamspro" name="LiveStreamsPro" version="3.0.0~alpha4.7w" provider-name="gujal">
-    <requires>
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-        <import addon="script.module.requests" optional="true"/>
-        <import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-        <import addon="script.module.youtube.dl" optional="true"/>
-        <import addon="plugin.video.youtube" optional="true" />
-        <import addon="script.module.dateutil" optional="true" />
-        <import addon="script.module.resolveurl" optional="true"/>
-        <import addon="script.module.urlresolver" optional="true"/>
-        <import addon="script.module.cloudscraper" optional="true"/>
-        <import addon="script.module.inputstreamhelper" optional="true"/>
-        <import addon="script.module.slproxy" optional="true"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-
-    <extension point="xbmc.addon.metadata">
-        <summary>livestreamspro- shamelessly forked from livestreams but added many things</summary>
-        <description>
-In addition to what livestreams allowed you to do, you can now,
-1. call regex in regex,
-2. multiple regex in page, regex in session, also htmlunescape responses
-3. create session from one regex and pass onto next in line
-4. save sessions to a file and open again later
-5. write python code in .py file, put in the profile directory and then call from your regex.
-6. use epoctime, guid and unpack as functions already defined.
-7. Use it to post values to the pages to get the proper responses
-8. support many headers, like origin, X-Requested-With
-9. you can now append cookies in response and then read in regex using includeheaders
-10. You can now link to another web url via your xml using externallink
-11. support for google captcha, now you can show and then post the text
-        </description>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon
 	id="plugin.video.macvod" version="1.96" name="[COLOR white]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo">
 <requires>
@@ -3946,7 +3903,7 @@ Change to use API</news>
   </extension>
 </addon>
 
-<addon id="script.module.horus" name="Horus" version="1.1.7" provider-name="Caperucitaferoz">
+<addon id="script.module.horus" name="Horus" version="1.1.8" provider-name="Caperucitaferoz">
     <requires>
         <import addon="script.module.six" />
     </requires>

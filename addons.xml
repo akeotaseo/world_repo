@@ -191,6 +191,30 @@ v2.4.0  (2019-01-01)
   </extension>
 </addon>
 
+<addon id="plugin.git.browser" version="2.0.0~alpha" name="Git Browser" author="azzy9">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.beautifulsoup4" />
+        <import addon="script.module.myconnpy" option="true" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Install Kodi Addons directly from GitHub</summary>
+        <description lang="en">Git Browser for Kodi. Using this tool, you'll be able to install any Kodi addon that is developed or distributed through GitHub.</description>
+        <disclaimer lang="en">Kodi is a registered trademark of the XBMC Foundation. We are not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation. Furthermore, any software, addons, or products offered by us will receive no support in official Kodi channels, including the Kodi forums and various social networks.</disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+        <assets>
+            <icon>logo.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.image.com.kindgirls"
 	name="Kodi addon for kindgirls.com"
 	version="0.2.2"
@@ -1618,7 +1642,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.0" provider-name="Kodi Karaoke">
+<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.1" provider-name="Kodi Karaoke">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="plugin.video.youtube" version="0.0.1"/>

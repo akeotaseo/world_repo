@@ -1,0 +1,100 @@
+﻿LISTA 29/12/2022
+
+M.Liga 1080 Multiaudio
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+M.Liga 1080 Multiaudio
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+M.Liga 720
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+M.Liga 2 1080 MultiAudio
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+M.Liga 2 720
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+Dazn liga 1080 MultiAudio
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+Dazn liga 1080 MultiAudio
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+Dazn liga 720
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+Liga bar 1080
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+M.L. Campeones 1080 MultiAudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+M.L. Campeones 720
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+M.L. Campeones 2 1080
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+M.L. Campeones 2 720
+acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
+M.L. Campeones 3 1080
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+M.L. Campeones 3 720
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+M.L. Campeones 4 SD
+acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+M.L. Campeones 5 SD
+acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+M.L. Campeones 6 SD
+acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+tdp 1080 (TeleDeporte)
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
+Smartbank 3 1080
+acestream://1104426e14b649eb23fee16698768544285de478
+DAZN 1 1080
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+DAZN 1 720
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+DAZN 2 1080
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+DAZN 2 720
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+DAZN 3 1080
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+DAZN 4 1080
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+canal M.0
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+M. Deportes 1080
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+M. Deportes 2 1080
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+M. Deportes 3 1080
+acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+M. Deportes 4 1080
+acestream://08db089084ddbaceba7c239817407bf99708b9ad
+M. Deportes 5 1080
+acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+M. Deportes 6 1080
+acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+Vamos 1080
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+Vamos 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+Ellas
+acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
+GOL TV 1080
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+Golf
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+EuroSport 1 1080
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+EuroSport 2 1080
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+tdp 1080 (TeleDeporte)
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
+LA 1 1080
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+La1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+Smartbank 1080 MultiAudio
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+SmartBanck 720
+acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+Smartbank 2 1080
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+Smartbank 2 720
+acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+Smartbank 3 1080
+acestream://1104426e14b649eb23fee16698768544285de478

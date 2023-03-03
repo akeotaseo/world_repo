@@ -995,7 +995,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.daddylive" name="Daddylive" version="2.1a" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />
@@ -1006,7 +1006,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="pl">test</description>
+        <description lang="pl">1.2</description>
         <disclaimer lang="pl">test
         </disclaimer>
         <summary lang="en">Live TV and Sports</summary>
@@ -1022,7 +1022,6 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-
 </addon>
 
 <addon id="plugin.video.darmowa-telewizja-com" name="darmowa-telewizja-com" version="1.0.0" provider-name="lg">

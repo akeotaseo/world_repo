@@ -756,7 +756,7 @@ adulthideout@yandex.com[/COLOR]
   </extension>
 </addon>
 
-<addon id="plugin.video.cb19" version="1.0.0" name="CB19" provider-name="aitschti">
+<addon id="plugin.video.cb19" version="1.0.1" name="CB19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -778,10 +778,10 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
         <forum></forum>
         <website></website>
         <email>last5mins@yandex.com</email>
-        <summary lang="en_GB">Chaturbate for Kodi 19/20</summary>
-        <summary lang="de_DE">Chaturbate für Kodi 19/20</summary>
-        <description lang="en_GB">Chaturbate streaming for Kodi 19/20</description>
-        <description lang="de_DE">Chaturbate streaming für Kodi 19/20</description>
+        <summary lang="en_GB">Chaturbate for Kodi 20</summary>
+        <summary lang="de_DE">Chaturbate für Kodi 20</summary>
+        <description lang="en_GB">Chaturbate streaming for Kodi 20</description>
+        <description lang="de_DE">Chaturbate streaming für Kodi 20</description>
         <disclaimer lang="en_GB">(c) 2023 aitschti</disclaimer>
         <disclaimer lang="de_DE">(c) 2023 aitschti</disclaimer>
         <reuselanguageinvoker>false</reuselanguageinvoker>
@@ -2554,43 +2554,6 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.sc19
         <disclaimer lang="de_DE">(c) 2023 aitschti</disclaimer>
         <reuselanguageinvoker>false</reuselanguageinvoker>
     </extension>
-</addon>
-
-<addon id="plugin.video.seirsanduk.r1" name="SEIRSANDUK R1" version="4.4.0" provider-name="VodenoFF [at] gmail.com">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0" />
-    <import addon="script.module.xbmcswift2" version="1.1.1" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB"></summary>
-    <description lang="en_GB">www.SEIRSANDUK.eu</description>
-    <disclaimer lang="en_GB"></disclaimer>
-    <language>en</language> <!-- the language of the videos or other content the plugin provides, may be omitted in case the addon does not provide any content -->
-    <platform>all</platform>
-    <license>GPL-3.0</license>
-    <forum></forum> <!-- may be omitted  -->
-    <website>https://www.SEIRSANDUK.eu</website> <!-- the url of the website that contains the videos (or the official website of your plugin). May be omitted.  -->
-    <email>freshboybg@gmail.com</email> <!-- may be left omitted  -->
-    <source>http://github.com/vodenoff/plugin.video.seirsanduk-r1</source>
-    <news>v4.1.1 (02/03/2020)
-			- Using another way of playing channels with xbmcswift2 plugin.
-			- TV channels open with one click
-		  v4.1.3 (03/04/2020)
-			- Added a new domain for channel listing
-		  v4.1.4 (05/04/2020)
-			- Added a new domain for channel listing
-    </news>
-    <assets>
-        <icon>resources/icon.png</icon>
-        <fanart>resources/fanart.jpg</fanart>
-        <banner></banner>
-        <clearlogo></clearlogo>
-        <screenshot></screenshot>
-    </assets>
-  </extension>
 </addon>
 
 <addon id="plugin.video.seirsanduk.r1" name="SEIRSANDUK R1" version="4.2.0" provider-name="zynobg [at] gmail.com">

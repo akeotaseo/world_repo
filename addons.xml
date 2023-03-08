@@ -4140,13 +4140,12 @@ Change to use API</news>
   </extension>
 </addon>
 
-<addon id="script.module.streamlink" name="Streamlink Library" version="2.3.0+matrix.4" provider-name="jairoxyz">
+<addon id="script.module.streamlink" name="Streamlink Library" version="2.3.0+matrix.5" provider-name="jairoxyz">
   <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
+	  <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
     <import addon="script.module.six"/>
-    <import addon="script.module.iso3166"/>
-    <import addon="script.module.iso639"/>
+    <import addon="script.module.pycountry" />
     <import addon="script.module.websocket" version="0.58.0"/>
     <import addon="script.module.pysocks"/>
     <import addon="script.module.isodate"/>

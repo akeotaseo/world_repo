@@ -788,6 +788,38 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
+<addon id="plugin.video.cb20" version="1.1.0" name="CB20" provider-name="aitschti">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.python.library" library="resources/lib/helperscript.py"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <news>
+All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
+        </news>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.png</fanart>
+        </assets>
+        <source></source>
+        <license>GPL-3.0</license>
+        <forum></forum>
+        <website></website>
+        <email>last5mins@yandex.com</email>
+        <summary lang="en_GB">Chaturbate for Kodi 20</summary>
+        <summary lang="de_DE">Chaturbate für Kodi 20</summary>
+        <description lang="en_GB">Chaturbate streaming for Kodi 20</description>
+        <description lang="de_DE">Chaturbate streaming für Kodi 20</description>
+        <disclaimer lang="en_GB">(c) 2023 aitschti</disclaimer>
+        <disclaimer lang="de_DE">(c) 2023 aitschti</disclaimer>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+    </extension>
+</addon>
+
 <addon id="plugin.video.chaturbate" name="Chaturbate" version="2.4.3" provider-name="LivingOn,HSK Fix">
   <requires>
     <import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>

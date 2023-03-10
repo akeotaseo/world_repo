@@ -368,7 +368,7 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.installelementum" name=" [B][COLOR orange]Install Elementum[/COLOR][/B]" version="1.1" provider-name="[B][COLOR red]Vikings Team[/COLOR][/B]">
+<addon id="plugin.program.installelementum" name=" [B][COLOR orange]Install Elementum[/COLOR][/B]" version="1.1w" provider-name="[B][COLOR red]Vikings Team[/COLOR][/B]">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.kodi-six" />

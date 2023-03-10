@@ -1311,11 +1311,12 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	</extension>
 </addon>
 
-<addon id="plugin.video.f4mTester" version="4.0.8a" name="f4mTester" provider-name="Joel e Tiago">
+<addon id="plugin.video.f4mTester" version="4.1.0w" name="f4mTester" provider-name="desconhecido">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.video.F4mProxy" version="4.0.9a"/>
-        <import addon="inputstream.ffmpegdirect"/>
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+		<import addon="script.module.requests"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -1325,8 +1326,8 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <description></description>
         <platform>all</platform>
         <assets>
-            <icon>icon.png</icon>
-        </assets>
+			<icon>icon.png</icon>
+		</assets>
     </extension>
 </addon>
 

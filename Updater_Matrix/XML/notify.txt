@@ -6,7 +6,8 @@ World-[COLOR green]Matrix[/COLOR] 19 [COLOR blue]Έκδοση Build 2.5[/COLOR] 
 World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.0[/COLOR] 16 Ιανουαρίου 2023
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build να έχετε πάντα την τελευταία έκδοση
-(Στην πρώτη εγκατάσταση περιμένετε [COLOR red]5 λεπτά[/COLOR] ωσότου ολοκληρωθούνε οι όποιες ενημερώσεις του build και των πρόσθετων)
+(Στην πρώτη εγκατάσταση περιμένετε [COLOR red]5 λεπτά[/COLOR] ωσότου ολοκληρωθούνε οι όποιες ενημερώσεις 
+του build και των πρόσθετων)
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 

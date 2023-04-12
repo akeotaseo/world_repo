@@ -35,4 +35,4 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.0[/COLOR]
 
 
 
-                                                                                                                         [B][COLOR white] Για να συνεχίσετε πατήστε[/B][/COLOR]
+                                                                                                            [B][COLOR white] Για να συνεχίσετε πατήστε[/B][/COLOR]

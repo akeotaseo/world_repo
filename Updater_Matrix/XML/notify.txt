@@ -9,7 +9,7 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.0[/COLOR]
 (Στην πρώτη εγκατάσταση περιμένετε [COLOR red]5 λεπτά[/COLOR] ωσότου ολοκληρωθούνε οι όποιες ενημερώσεις 
 του build και των πρόσθετων)
 
-[B][COLOR white] Για να συνεχίσετε πατήστε[/B][/COLOR] [B][COLOR orange] CLOSE[/B][/COLOR]
+[B][COLOR white] Για να συνεχίσετε πατήστε[/B][/COLOR] [B][COLOR maroon] CLOSE[/B][/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 

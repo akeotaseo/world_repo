@@ -1,5 +1,5 @@
 41
-skinshortcuts_menu
+Skinshortcuts_Startup
 
 
 

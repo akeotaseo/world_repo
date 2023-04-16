@@ -1,4 +1,4 @@
-41
+42
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
@@ -11,7 +11,7 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.0[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 14 Απριλίου 2023:[/B]
+  [B]Τελευταία ενημέρωση 17 Απριλίου 2023:[/B]
 - Αλλαγές στον τρόπο ενημέρωσης του Build
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

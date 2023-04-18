@@ -557,7 +557,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.adulthideout" name="AdultHideout" version="0.9.8" provider-name="Vashiel">
+<addon id="plugin.video.adulthideout" name="AdultHideout" version="0.9.81-beta3" provider-name="Vashiel">
 	<requires>
 	<!-- Commenting xbmc.python allows install on all versions of Kodi -->
 	<!-- <import addon="xbmc.python" version="2.14.0"/> -->
@@ -570,10 +570,10 @@ Use this to organize your Favourites.
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<news>
-v 0.9.8 2021-06-17
-- fix xhamster
-- fix youjizz
-- hopefully fix python 2/3 compatibiliy issues
+v 0.9.81-beta3 16.04.2023
+- removed few dead sites
+- fixed all sites
+- still experimenting with new code
 		</news>
 		<summary>[COLOR red]XXX[/COLOR] Porn videos</summary>
 		<description>
@@ -598,8 +598,8 @@ adulthideout@yandex.com[/COLOR]
 		<mainsource>https://github.com/Vashiel/repository.adulthideout</mainsource>
 		<source></source>
 		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
+			<icon>resources/logos/icon.png</icon>
+			<fanart>resources/logos/fanart.jpg</fanart>
 		</assets>
 	</extension>
 </addon>

@@ -3004,7 +3004,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.14">
+<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.15">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
         <import addon="script.module.requests" version="2.22.0"/>
@@ -3021,13 +3021,10 @@ provider-name="FrankAaro">
         <summary lang="en">Torrest on Kodi</summary>
         <description lang="en">Torrest is a service with a rest API which allows torrent streaming.</description>
         <news>
-- Fix arch detection for aarch with 32 bits
-- Add support for Kodi 20
-- Start using torrest-cpp (https://github.com/i96751414/torrest-cpp) binaries
-- Daemon related minor improvements
-- Fix stop/download context menu actions
-- Fix linux-armX devices
-- Update daemon logger to support new torrest-cpp logging format
+- Update for torrest 0.0.3 (https://github.com/i96751414/torrest-cpp/releases/tag/v0.0.3)
+- Add support to Android (shared library)
+- Remove daemon root support
+- Other small improvements
         </news>
         <assets>
             <icon>icon.png</icon>

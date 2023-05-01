@@ -13,7 +13,6 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.1[/COLOR]
 
   [B]Τελευταία ενημέρωση 1 Μαΐου 2023:[/B]
 - Προσθήκη των [COLORsilver]Quicksilver[/COLOR] $ [COLOR red]Homelander[/COLOR]
-
 - Αντικατάστασταση του [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
   με το [COLORsilver]Quicksilver[/COLOR]
   για επιλογή [B][COLORsilver]Auto Play[/COLOR][/B] στην κατηγορια [B]MOVIES & TV[/B] 

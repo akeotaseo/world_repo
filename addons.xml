@@ -1984,7 +1984,7 @@ AVISO LEGAL:
 
 </addon>
 
-<addon id="plugin.video.MetalOnMetal" name="[COLOR red]Metal on Metal[/COLOR]"	version="1.0.6"	provider-name="Sergi">
+<addon id="plugin.video.MetalOnMetal" name="[COLOR red]Metal on Metal[/COLOR]"	version="1.0.14"	provider-name="Sergi">
   <requires>
     <import addon="script.module.six" />
   </requires>
@@ -2099,7 +2099,7 @@ AVISO LEGAL:
   </extension>
 </addon>
 
-<addon id="plugin.video.musichall" name="[COLOR silver]Music Hall[/COLOR]"	version="1.0.14"	provider-name="Angelaaron">
+<addon id="plugin.video.MusicHall" name="[COLOR silver]Music Hall[/COLOR]"	version="1.0.20"	provider-name="Hall">
   <requires>
     <import addon="plugin.video.youtube" version="5.0.0"/>
   </requires>
@@ -2108,7 +2108,7 @@ AVISO LEGAL:
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Music Hall</summary>
-    <description lang="en">Todo el contenido de este addon esta basado en Youtube, NO PAGUES, ESTE ADDON ES GRATUITO</description>
+    <description lang="en">Ahora puedes entrar en ajustes del addon y seleccionar si lo abres con youtube (apis), o con duffyou (sin apis),todo el contenido esta basado en youtube</description>
     <disclaimer lang="en"></disclaimer>
     <platform>all</platform>
     <forum>n/a</forum>

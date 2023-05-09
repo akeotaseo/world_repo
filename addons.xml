@@ -2277,7 +2277,7 @@ In addition to what livestreams allowed you to do, you can now,
   </extension>
 </addon>
 
-<addon id="plugin.video.OTV_MEDIA" name="OTV_MEDIA" version="5.0.4" provider-name="Orhan t">
+<addon id="plugin.video.OTV_MEDIA" name="OTV_MEDIA" version="5.0.4.a" provider-name="Orhan t">
         <requires>
 
         <trycatch>
@@ -2289,9 +2289,6 @@ In addition to what livestreams allowed you to do, you can now,
                 <import addon="xbmc.python" version="2.24.0"/>
             </catch>
         </trycatch>
-        <import addon="script.module.urlresolver" optional="true"/>
-        <import addon="script.module.beautifulsoup4" version="3.2.1"/>
-        <import addon="OTV_MEDIA.repo"/>
         <import addon="script.module.pycryptodome"/>
         <import addon="script.module.dateutil"/>
         <import addon="script.module.pyamf"/>
@@ -2621,6 +2618,36 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 	<news>news
 	</news>
 </extension>
+</addon>
+
+<addon id="plugin.video.rumble" name="Rumble" version="1.3.3" provider-name="azzy9">
+	<requires>
+		<import addon="script.module.simplejson"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.six"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Watch rumble videos.</summary>
+		<summary lang="pt_br">Assista videos do rumble.</summary>
+		<description lang="en">Watch uncensored videos with rumble.</description>
+		<description lang="pt_br">Asssista videos sem censura com o rumble.</description>
+		<disclaimer lang="en">We are not associated with rumble.com or the Kodi Team</disclaimer>
+		<disclaimer lang="pt_br">Não somos associados à rumble.com nem com o Kodi Team</disclaimer>
+		<website>https://github.com/azzy9/plugin.video.rumble</website>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>- v1.3.3 - validate return data for subscribe method
+  - Move strings to language files
+  - Add en_US language
+  - Correct en_GB spellings
+  - </news>
+	</extension>
 </addon>
 
 <addon id="plugin.video.sc19" version="1.3.1" name="SC19" provider-name="aitschti">

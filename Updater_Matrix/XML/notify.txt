@@ -13,11 +13,11 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.1[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Ενημέρωση 9 Μαΐου 2023:[/B]
+  [B]Τελευταία ενημέρωση 9 Μαΐου 2023:[/B]
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
  
   
-  [B]Τελευταία ενημέρωση 1 Μαΐου 2023:[/B]
+  [B]Ενημέρωση 1 Μαΐου 2023:[/B]
 - Προσθήκη των [COLORsilver]Quicksilver[/COLOR] & [COLOR red]Homelander[/COLOR]
 - Αντικατάσταση του [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
   με το [COLORsilver]Quicksilver[/COLOR]

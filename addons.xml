@@ -2872,6 +2872,26 @@ v1.0.3 (3.8.2022)
 	</extension>
 </addon>
 
+<addon id="plugin.video.stalker" name="IPTV Stalker" version="2.2.0a" provider-name="michaz">
+	<requires>
+		<import addon="script.module.six"/>
+		<import addon="script.module.simplejson"/>
+		<import addon="script.module.requests"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de">Stalker Kodi Video Plugin</summary>
+		<summary lang="en">Stalker Kodi Video Plugin</summary>
+		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.stream2watch" name="stream2watch" version="1.0.03" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />

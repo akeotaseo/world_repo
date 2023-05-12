@@ -1,7 +1,7 @@
   <builds>
     
         <build name = "World Build...">
-            <url>https://gknwizard.eu/repo/Builds/World/Builds/20.1.zip</url>
+            <url>https://drive.google.com/file/d/138QoiW__eQx44VB9WdbW8Gi4fx9H70J2/view?usp=share_link</url>
             <icon>https://gknwizard.eu/repo/Builds/World/icon.png</icon>
             <fanart>https://gknwizard.eu/repo/Builds/World/fanart.jpg</fanart>
             <description>Greek Kodi Build</description>

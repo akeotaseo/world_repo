@@ -16,8 +16,7 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.1[/COLOR]
   [B]Τελευταία ενημέρωση 18 Μαΐου 2023:[/B]
  - Αλλαγές/διορθώσεις/προσθήκες στο Skin
  - Προσθήκη [COLOR=white]Scraper Section[/COLOR] απο το πρόσθετο [COLOR yellow](Τorque Lite)[/COLOR]
-   στην κατηγορια [B]SPORTS[/B]
-   [COLOR blue]Live_Now[/COLOR]
+   στην κατηγορια [B]SPORTS[/B]  --->  [COLOR blue]Live_Now[/COLOR]
    (Στο NBA έχει αγώνες και απο άλλα πρωταθλήματα Basket)
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
  

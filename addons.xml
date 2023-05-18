@@ -788,7 +788,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
-<addon id="plugin.video.cb20" version="1.1.1" name="CB20" provider-name="aitschti">
+<addon id="plugin.video.cb20" version="1.2.0" name="CB20" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -2872,7 +2872,7 @@ v1.0.3 (3.8.2022)
 	</extension>
 </addon>
 
-<addon id="plugin.video.stalker" name="IPTV Stalker" version="2.2.0a" provider-name="michaz">
+<addon id="plugin.video.stalker" name="IPTV Stalker" version="2.2.0b" provider-name="michaz">
 	<requires>
 		<import addon="script.module.six"/>
 		<import addon="script.module.simplejson"/>
@@ -3530,6 +3530,30 @@ v0.1.0
 		<fanart>fanart.jpg</fanart>
   </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.xtasy19" name="[COLOR green]XTASY D[/COLOR]" version="1.0.7" provider-name="Xtasy Dreamer">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests"/>
+		<import addon="plugin.video.youtube"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Channels and playlists organised by categories using YouTube only.</summary>
+        <description lang="en">Xtasy D is a mix bag of one click playlists for all!</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+		<platform>all</platform>
+		<license>GPL-3.0-or-later</license>
+		<website></website>
+		<source></source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="plugin.video.ZadarTeamAddon19"

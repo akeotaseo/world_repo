@@ -2873,7 +2873,7 @@ v1.0.3 (3.8.2022)
 	</extension>
 </addon>
 
-<addon id="plugin.video.stalker" name="IPTV Stalker" version="2.2.0ba" provider-name="michaz">
+<addon id="plugin.video.stalker" name="IPTV Stalker" version="2.2.0c" provider-name="michaz">
 	<requires>
 		<import addon="script.module.six"/>
 		<import addon="script.module.simplejson"/>

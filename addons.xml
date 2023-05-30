@@ -820,7 +820,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
     </extension>
 </addon>
 
-<addon id="plugin.video.chaturbate" name="Chaturbate" version="2.4.4" provider-name="LivingOn,HSK Fix">
+<addon id="plugin.video.chaturbate" name="Chaturbate" version="2.4.5" provider-name="LivingOn,HSK Fix">
   <requires>
     <import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>
   </requires>

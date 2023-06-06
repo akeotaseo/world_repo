@@ -2371,7 +2371,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.pelotube" name="Pelo Tube" version="0.0.3" provider-name="La Taberna">
+<addon id="plugin.video.pelotube" name="Pelo Tube" version="0.1.3" provider-name="La Taberna">
     <requires>
         <import addon="script.module.six" version="1.11.0" />
         <import addon="script.module.simplecache"/>
@@ -4346,7 +4346,7 @@ v0.1.0
 
 <addon id="script.sites"
   name="script sites"
-  version="19.4"
+  version="19.4a"
   provider-name="ML Gb">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

@@ -95,6 +95,43 @@
     </extension>
 </addon>
 
+<addon id="plugin.audio.mixcloud"
+       name="Mixcloud"
+       version="420.3.0.2"
+       provider-name="jackyNIX">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+     <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">KODI plugin for Mixcloud</summary>
+    <summary lang="nl_NL">KODI plugin voor Mixcloud</summary>
+    <summary lang="fr_FR">KODI plugin pour Mixcloud</summary>
+    <summary lang="de_DE">KODI plugin für Mixcloud</summary>
+    <description lang="en_GB">Mixcloud is re-thinking radio. Listen to great radio shows, Podcasts and DJ mix sets on-demand.</description>
+    <description lang="nl_NL">Mixcloud herdefinieerd radio. Luister naar uitstekende radioshows, podcasts en dj sets on demand.</description>
+    <description lang="fr_FR">Mixcloud redéfinit la radio. Écoutez les émissions radio, podcasts et mixes DJ sur demande.</description>
+    <description lang="de_DE">Mixcloud erfindet Radio neu. Höre Radioshows, Podcasts und DJ Mixe wann immer Du willst.</description>
+    <news>
+      v3.0.2 (2020-10-07)
+      [fix] fixed local mixcloud resolver
+    </news>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GPL-3.0-or-later</license>
+    <forum>https://forum.kodi.tv/showthread.php?tid=116386</forum>
+    <website>https://www.mixcloud.com</website>
+    <source>https://github.com/jackyNIX/xbmc-mixcloud-plugin</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+  </extension>
+</addon>
+
 <addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2023.2.30" provider-name="Slam, Diggz|HSK-FIX">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -1327,6 +1364,39 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
         <summary lang="en">Fantasti.cc -  Browse videos from a site that aggregates the best porn videos online using the votes of users as the deciding factor</summary>
         <description lang="en">Browse collections (user designed categories) as well as the most popular videos today/week/month as decided by the users of the site</description>
     </extension>
+</addon>
+
+<addon id="plugin.video.fidoK19" name="Fido.K19" version="0.0.8f" provider-name="Fido">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing"/>
+    <import addon="script.module.unidecode" />
+    <import addon="script.module.inputstreamhelper" />
+    <import addon="script.module.resolveurl"/>
+    <import addon="script.module.microjenscrapers" />
+    <!--<import addon="name" />-->
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>audio video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">All In One. Thanks to help of GKoBu, slamious for the awesome scrapper and coding addon along with PeeJay, JetJet for opendirectories and also ELLIE for amazing new logo</summary>
+    <description lang="en">Dedicated to Fido</description>
+     <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+    <website>http://fantazyrepo.uk/repo/</website>
+    <video_guide>https://youtu.be/0kFhoWahtFw</video_guide>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GPL-2.0-or-later</license>
+	<assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+		<screenshot>resources/screenshots/screenshot001.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot002.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot003.jpg</screenshot>
+  </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="420.0.7.1">
@@ -3501,28 +3571,30 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="plugin.video.xtasy19" name="[COLOR green]XTASY D[/COLOR]" version="1.0.7" provider-name="Xtasy Dreamer">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.requests"/>
-		<import addon="plugin.video.youtube"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Channels and playlists organised by categories using YouTube only.</summary>
-        <description lang="en">Xtasy D is a mix bag of one click playlists for all!</description>
-        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-		<platform>all</platform>
-		<license>GPL-3.0-or-later</license>
-		<website></website>
-		<source></source>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
+<addon id="plugin.video.xtasy19" name="[COLOR orange]Xtasy.D[/COLOR]" version="1.1.0" provider-name="Xtasy Dreamer">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing"/>
+    <import addon="script.module.unidecode" />
+    <import addon="script.module.inputstreamhelper" />
+    <import addon="script.module.resolveurl"/>
+    <import addon="plugin.video.youtube" />
+    <!--<import addon="name" />-->
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Xtasy D is a mix bag of one click playlists for all!</summary>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GPL-2.0-or-later</license>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+  </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.ZadarTeamAddon19"

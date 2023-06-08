@@ -426,7 +426,7 @@ v2.4.0  (2019-01-01)
 	</extension>
 </addon>
 
-<addon id="plugin.program.orderfavourites" name="Order Favourites" version="1.2.2a" provider-name="doko">
+<addon id="plugin.program.orderfavourites" name="Order Favourites" version="1.2.3a" provider-name="doko">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -436,6 +436,9 @@ v2.4.0  (2019-01-01)
   <extension point="xbmc.addon.metadata">
     <news>
 [COLOR lavender][B]Order Favourites[/B][/COLOR]
+[B]1.2.3:[/B]
+- Add-on metadata update with an icon fix.
+
 [B]1.2.2:[/B]
 - Ported the improvements from the Leia version to the Matrix version.
 
@@ -473,9 +476,9 @@ Lets you reorder the entries in your Favourites.
 Use this to organize your Favourites.
     </description>
     <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-        </assets>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 
@@ -3378,7 +3381,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.vidembed" version="111.1.1.com" name="[COLOR cyan]Vidembed[/COLOR].[COLOR yellow]io[/COLOR]" provider-name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Developers[/COLOR]">
+<addon id="plugin.video.vidembed" version="111.1.4" name="[COLOR cyan]Vidembed[/COLOR].[COLOR yellow]io[/COLOR]" provider-name="[COLOR cyan]Parrot[/COLOR] [COLOR yellow]Developers[/COLOR]">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.25.1"/>
@@ -3391,8 +3394,8 @@ provider-name="FrankAaro">
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary>Watch movies and series from vidembed.io</summary>
-  <disclaimer>I'm not affiliated with vidembed.io.</disclaimer>
+  <summary>Watch movies and series from membed1.com</summary>
+  <disclaimer>I'm not affiliated with membed1.com</disclaimer>
   <assets>
     <icon>icon.jpg</icon>
     <fanart>fanart.jpg</fanart>
@@ -4247,14 +4250,14 @@ v0.1.0
     </extension>
 </addon>
 
-<addon id="script.module.parrot" name="Parrot Utils" version="111.1.0" provider-name="Parrot Developers">
+<addon id="script.module.parrot" name="Parrot Utils" version="111.2.6" provider-name="Parrot Developers">
   <requires>
-    <import addon="script.module.requests" version="2.18.4"/>
+    <import addon="script.module.requests"/>
   </requires>
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
-    <summary>Utilities for Parrot TV addons.</summary>
-    <description>Utilities for Parrot TV addons.</description>
+    <summary>Utilities for Parrot addons.</summary>
+    <description>Utilities for Parrot addons.</description>
     <platform>all</platform>
     <assets>
       <icon>icon.png</icon>

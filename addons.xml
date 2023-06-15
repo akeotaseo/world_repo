@@ -4395,7 +4395,7 @@ v0.1.0
     </extension>
 </addon>
 
-<addon id="script.module.parrot" name="Parrot Utils" version="111.2.6" provider-name="Parrot Developers">
+<addon id="script.module.parrot" name="Parrot Utils" version="111.2.7" provider-name="Parrot Developers">
   <requires>
     <import addon="script.module.requests"/>
   </requires>

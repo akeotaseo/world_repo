@@ -1484,6 +1484,69 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
+<addon
+	id="plugin.video.flix-mac" version="1.0" name="FlixTvON MAC" provider-name="FlixTvON MAC">
+<requires>
+    	<import addon="script.module.kodi-six"/>
+	    <import addon="script.module.requests"/>
+		<import addon="script.module.six"/>
+
+		<import addon="script.module.web-pdb" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+		<summary lang="pt">FlixTvON</summary>
+		<description lang="pt">Este addon fornece IPTV apenas para uso pessoal e privado (Addon sem fins lucrativos)... FICA AQUI MEU OBRIGADO AO @TRAIN_AGAIN PELA AJUDA,VALEU MEU AMIGO.</description>
+		<website>https://github.com/</website>
+		<license>GPL 3.0</license>
+		<platform>all</platform>
+		<disclaimer lang="pt">[COLORyellow]FlixTvON[/COLOR]</disclaimer>
+	<assets>
+        <icon>icon.jpg</icon>
+        <fanart>fanart.jpg</fanart>
+        <fondo>fondo.jpg</fondo>
+    </assets>
+		<language>pt</language>
+	</extension>
+
+</addon>
+
+<addon id="plugin.video.flixon" name="FLIXTVON" version="1.2.7+matrix" provider-name="FLIXTVON">
+	<requires>
+		<import addon="script.module.six" />
+		<import addon="script.module.kodi-six" />
+		<import addon="script.module.requests-cache"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.dateutil" optional="true" />
+		<import addon="script.module.resolveurl" optional="true"/>
+		<import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.cloudscraper" optional="true"/>
+		<import addon="script.module.inputstreamhelper" optional="true"/>
+		<import addon="script.module.slproxy" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.addon.metadata">
+		<summary>FLIXTVON SEMPRE ONLINE</summary>
+		<description>
+O desenvolvedor desse Addon nÃo e afiliado com KodiXMBC Fundation e não se responsabiliza pelo conteudo encontrado aqui nem o mau uso do mesmo.</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="420.0.7.1">
     <requires>
         <import addon="script.module.m7lib" version="0.1.0" />
@@ -1909,7 +1972,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
   </extension>
 </addon>
 
-<addon id="plugin.video.latinohd" name="Latin TV" version="0.0.1" provider-name="x">
+<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.5" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1918,13 +1981,13 @@ No se acepta ninguna responsabilidad por el uso de este addon.
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="en"></description>
-        <disclaimer lang="en"></disclaimer>
-        <summary lang="en"></summary>
+        <description lang="en">https://www.telelatinohd.com</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">https://www.telelatinohd.com</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
+        <website>https://github.com/mbebe/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>

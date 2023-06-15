@@ -2837,7 +2837,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 	</extension>
 </addon>
 
-<addon id="plugin.video.sc19" version="1.3.2" name="SC19" provider-name="aitschti">
+<addon id="plugin.video.sc19" version="1.3.3" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>

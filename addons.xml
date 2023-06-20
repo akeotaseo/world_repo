@@ -2806,7 +2806,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.3.4" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.4.0" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2828,7 +2828,8 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.3.4 - Clean videos title text
+		<news>- v1.4.0 - Add functionality to see comments if logged in
+- v1.3.4 - Clean videos title text
 - v1.3.3 - validate return data for subscribe method
   - Move strings to language files
   - Add en_US language
@@ -3891,7 +3892,7 @@ v0.1.0
 	</extension>
 </addon>
 
-<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.2" provider-name="Clement Osumo">
+<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.4" provider-name="Clement Osumo">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -3904,8 +3905,6 @@ v0.1.0
 		<summary lang="en">BlackBarsNever</summary>
 		<description lang="en">This addon eliminates the problem of black bars. If the black bars are hardcoded, the addon will automatically
 		detect this and remove them. If the video is a wide screen format, the addon will also detect this and remove the black bars too.
-
-		For Android, detection of hardcoded black bars is not working currently, we are working to resolve this. All other platforms like Linux, Windows and Apple OS family everything should work correctly
 		</description>
 		<license>GNU General Public License, v2</license>
 		<language></language>
@@ -4644,6 +4643,20 @@ v0.1.0
             <icon>icon.png</icon>
         </assets>
     </extension>
+</addon>
+
+<addon id="service.autohideosd" name="Autohide OSD Service" version="1.0.0" provider-name="Clement Osumo">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.service" library="autoexec.py">
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Hide Kodi OSD</summary>
+		<description lang="en_GB">The service will automatically hide Kodi OSD after a few seconds</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+	</extension>
 </addon>
 
 <addon id="service.cronxbmc"

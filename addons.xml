@@ -3892,11 +3892,12 @@ v0.1.0
 	</extension>
 </addon>
 
-<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.6" provider-name="Clement Osumo">
+<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.8" provider-name="Clement Osumo">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.20.0"/>
 		<import addon="script.module.beautifulsoup4" version="4.9.3"/>
+		<import addon="script.module.soupsieve" version="2.1.0"/>
 	</requires>
 	<extension point="xbmc.service" library="addon.py"/>
 	<extension point="xbmc.python.script" library="addon.py">

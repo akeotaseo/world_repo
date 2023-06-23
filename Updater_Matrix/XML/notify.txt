@@ -21,6 +21,9 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.2[/COLOR]
 
 
 
+
+
+
   [B]Ενημέρωση 31 Μαΐου 2023:[/B]
  - Επαναφορά του [COLOR dodgerblue]Sealteam[/COLOR][COLOR red]6[/COLOR]
    αντί του [COLORsilver]Quicksilver[/COLOR]

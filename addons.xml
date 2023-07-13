@@ -1067,7 +1067,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="2.1a" provider-name="mbebe">
+<addon id="plugin.video.daddylive" name="Daddylive" version="2.2" provider-name="THE CREW">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />

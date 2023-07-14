@@ -1154,7 +1154,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
     </extension>
 </addon>
 
-<addon id="plugin.video.dazn" version="111.3.21" name="DAZN" provider-name="Jin, Maven">
+<addon id="plugin.video.dazn" version="1.3.25+matrix.1" name="DAZN" provider-name="Jin, Maven">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.inputstreamhelper" version="0.5.0"/>
@@ -1169,12 +1169,20 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
     <extension point="xbmc.addon.metadata">
         <reuselanguageinvoker>true</reuselanguageinvoker>
         <news>
-V1.3.19
-- fixed deprecated warning when setting video info tags for Kodi 20+
-- improved behavior when there are too many registered devices
-- set the DAZN user agent to set the client name in the registered devices
-V1.3.20
-- fixed building user agent on android
+V1.3.25
+- colored display of unplayable streams (package permission)
+V1.3.24
+- fixed wrong function calls
+- fixed login
+V1.3.23
+- fixed lowercase error for "Start from beginning" feature
+V1.3.22
+- generation of a UUID for Android version 11 and higher, since "Network.MacAddress" returns an empty string
+- reset device id on logout
+- fix ListItem properties deprecations
+- show additional error message
+- dynamically determine the maximum number of devices that can be registered
+- fixed "Start from beginning" for live events
 V1.3.21
 - fixed missing PIN prompt when starting a stream via "Start from Beginning" context menu
 - fixed error when adding stream infos on kodi 18 and 19
@@ -2778,7 +2786,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.romyTVnexus" name="[B][COLOR aqua]romyTV[/COLOR] [COLOR red]nexus[/COLOR][/B]" version="3.0.0" provider-name="RomyTVplace">
+<addon id="plugin.video.romyTVnexus" name="[B][COLOR aqua]romyTV[/COLOR] [COLOR red]nexus[/COLOR][/B]" version="3.0.0a" provider-name="RomyTVplace">
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>

@@ -16,7 +16,7 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.2[/COLOR]
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 
-  [B]Τελευταία ενημέρωση 10 Ιουλίου 2023:[/B]
+  [B]Τελευταία ενημέρωση 17 Ιουλίου 2023:[/B]
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 

@@ -1980,7 +1980,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
   </extension>
 </addon>
 
-<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.6" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>

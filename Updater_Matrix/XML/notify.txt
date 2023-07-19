@@ -4,6 +4,9 @@
 
 World-[COLOR green]Matrix[/COLOR] 19 [COLOR blue]Έκδοση Build 2.5[/COLOR] 16 Ιανουαρίου 2023
 World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.2[/COLOR] 23 Ιουνίου 2023
+Το World-Nexus 20 [COLOR blue]Έκδοση Build 20.2[/COLOR]
+μπορεί να εγκατασταθεί κα στο [COLOR deepskyblue] Kodi v21 (Omega) Alpha 2[/COLOR]
+
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build
 να έχετε πάντα την τελευταία έκδοση

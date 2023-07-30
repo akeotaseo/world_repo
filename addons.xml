@@ -3513,7 +3513,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.uiiumovies" name="uiiumovies - XXX" version="0.3" provider-name="xxxxx">
+<addon id="plugin.video.uiiumovies" name="uiiumovies - XXX" version="0.3.1" provider-name="xxxxx">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>

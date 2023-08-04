@@ -3756,6 +3756,28 @@ v0.1.0
   </extension>
 </addon>
 
+<addon id="plugin.video.yourdaddy" name="Who's Your Daddy?" version="1.0.0" provider-name="G-Man">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" />
+        <import addon="script.module.six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Live Streaming Porn</summary>
+        <description lang="en">Adult Entertainment</description>
+        <disclaimer lang="en">For Adults Only</disclaimer>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.ZadarTeamAddon19"
        name="[COLOR blue][B]ZADAR TEAM ADDON[/B][/COLOR]"
        version="3.0.0+matrix"

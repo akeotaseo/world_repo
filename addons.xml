@@ -1067,31 +1067,33 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="2.5" provider-name="THE CREW">
+<addon id="plugin.video.daddylive" name="DaddyLive" version="3.0.1" provider-name="dEXE, THE CREW, mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
+        <import addon="script.module.requests"/>
+        <import addon="script.module.inputstreamhelper"/>
         <import addon="script.module.six"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="pl">1.2</description>
-        <disclaimer lang="pl">test
-        </disclaimer>
-        <summary lang="en">Live TV and Sports</summary>
-        <description lang="en">Live TV and Sports</description>
-        <disclaimer lang="en">test
-        </disclaimer>
-        <language>pl</language>
+        <summary lang="en">DaddyLiveHD - Live TV and Sports</summary>
+        <description lang="en">Live Streamed Channels and Scheduled Sporting Events.[CR][CR]Multiple sources/streams works.</description>
+        <disclaimer lang="en">daddylivehd.com</disclaimer>
+        <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website></website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
+            <screenshot>resources/media/screenshot-01.jpg</screenshot>
+            <screenshot>resources/media/screenshot-02.jpg</screenshot>
+            <screenshot>resources/media/screenshot-03.jpg</screenshot>
+            <screenshot>resources/media/screenshot-04.jpg</screenshot>
+            <screenshot>resources/media/screenshot-05.jpg</screenshot>
+            <screenshot>resources/media/screenshot-06.jpg</screenshot>
         </assets>
     </extension>
 </addon>
@@ -3754,6 +3756,27 @@ v0.1.0
 		<fanart>fanart.jpg</fanart>
   </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.xxx" name="XVideos" version="2023.07.05" provider-name="Me">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary> </summary>
+        <description> </description>
+		<disclaimer lang="en">The author is not responsible for the media you find in this add-on.</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>resources/media/fanart.png</fanart>
+            <poster>fanart.jpg</poster>
+        </assets>
+    </extension>
+
 </addon>
 
 <addon id="plugin.video.yourdaddy" name="Who's Your Daddy?" version="1.0.0" provider-name="G-Man">

@@ -3487,7 +3487,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.tvseriesvideo" name="[B][COLOR orange]TVSeries[/COLOR][COLOR snow].video[/COLOR][/B]" version="0.3.5" provider-name="mbebe">
+<addon id="plugin.video.tvseriesvideo" name="[B][COLOR orange]TVSeries[/COLOR][COLOR snow].video[/COLOR][/B]" version="0.3.5t2" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>

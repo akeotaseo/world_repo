@@ -4395,6 +4395,37 @@ v0.1.0
     </extension>
 </addon>
 
+<addon id="script.module.jetextractors" name="JetExtractors" version="2.0.81tl" provider-name="THE TEAM">
+	<requires>
+		<import addon="script.module.requests" />
+		<import addon="script.module.beautifulsoup4" />
+		<import addon="script.module.dateutil" />
+		<import addon="script.module.soupsieve" />
+		<import addon="script.module.pyairtable" />
+		<import addon="script.module.pyamf" />
+		<import addon="script.module.pycryptodome" optional="true" />
+		<import addon="script.module.pyjsparser" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Jet Extractors</summary>
+		<description lang="en">Jet Extractors</description>
+		<disclaimer lang="en"></disclaimer>
+		<license>MIT</license>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
+<!-- ########################################### -->
+<!-- #     GIVE CREDIT WHERE CREDIT IS DUE     # -->
+<!-- #                                         # -->
+<!-- #      THE TEAM JETEXTRACTOR              # -->
+<!-- ########################################### -->
+
 <addon id="script.module.liveresolver"
      name="LiveResolver"
      version="0.1.50"

@@ -3365,7 +3365,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone11" name="tvOne11" version="27+matrix.1w" provider-name="RACC">
+<addon id="plugin.video.tvone11" name="tvOne11" version="28+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>

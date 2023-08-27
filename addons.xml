@@ -4395,7 +4395,7 @@ v0.1.0
     </extension>
 </addon>
 
-<addon id="script.module.jetextractors" name="JetExtractors" version="2.0.81tl" provider-name="THE TEAM">
+<addon id="script.module.jetextractors" name="JetExtractors" version="2.0.82atl" provider-name="THE TEAM">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.beautifulsoup4" />

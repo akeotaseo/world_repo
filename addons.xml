@@ -3677,40 +3677,6 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.vnmedia" name="VN Media" version="3.2.1" provider-name="mkendo">
-<requires>
-  <import addon="xbmc.python" version="3.0.1"/>
-  <import addon="script.module.codequick" version="1.1.8"/>
-  <import addon="script.module.beautifulsoup4" version="1.12.0"/>
-  <import addon="script.module.cloudscraperkd" version="1.2.68"/>
-  <import addon="script.module.inputstreamhelper" version="0.2.0"/>
-  <import addon="script.module.resolveurl" version="5.1.0"/>
-  <import addon="inputstream.adaptive" version="20.0.0"/>
-  <import addon="plugin.video.youtube" version="0.0.1"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="mkendo.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.service" library="service.py"/>
-<extension point="xbmc.addon.metadata">
-  <reuselanguageinvoker>true</reuselanguageinvoker>
-  <summary lang="vi_VN">VN Media Omega</summary>
-  <description lang="vi_VN">VN Media là tiện ích được phát triển bởi cộng đồng KODI Việt Nam, chỉ hoạt động trên Kodi 20+. Để cài đặt tiện ích này cần bật chế độ "Cập nhật các tiện ích từ Bất kỳ kho lưu trữ nào" trong Cài đặt/Hệ thống/Tiện ích/Không rõ nguồn gốc</description>
-  <disclaimer lang="vi_VN">Nội dung được chia sẻ và lưu trữ bởi một ứng dụng bên thứ ba. VNM hoạt động giống như một công cụ thu thập tìm kiếm từ Internet. Chúng tôi không sở hữu, không lưu trữ nội dung này và sẽ không chịu trách nhiệm cho các vấn đề liên quan. Đề nghị khán giả cân nhắc nội dung khi sử dụng tài nguyên.</disclaimer>
-  <platform>all</platform>
-  <language>vi</language>
-  <license>GPL-2.0-or-later</license>
-  <assets>
-    <icon>resources/lib/skeletons/logovnm.png</icon>
-    <fanart>resources/lib/skeletons/logovnm.png</fanart>
-  </assets>
-  <news>Addon VN Media chỉ hoạt động trên Kodi 20+
-Nội dung được chia sẻ bởi người dùng internet.
-VNM không kiểm soát cũng như không chịu trách nhiệm về nội dung được chia sẻ.
-</news>
-</extension>
-</addon>
-
 <addon id="plugin.video.vukovarusrcu" name="[B][I][COLOR red]VUKOVAR U SRCU[/COLOR][/I][/B]" version="0.1.0+matrix.1" provider-name="ZTBH">
 <requires>
   <import addon="script.module.routing" version="0.2.3"/>

@@ -597,7 +597,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.adulthideout" name="AdultHideout" version="0.9.81-beta4" provider-name="Vashiel">
+<addon id="plugin.video.adulthideout" name="AdultHideout" version="0.9.81-beta5" provider-name="Vashiel">
 	<requires>
 	<!-- Commenting xbmc.python allows install on all versions of Kodi -->
 	<!-- <import addon="xbmc.python" version="2.14.0"/> -->
@@ -610,10 +610,11 @@ Use this to organize your Favourites.
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<news>
-v 0.9.81-beta4 12.05.2023
-- added categories for few sites
-- added settings option "view mode"
-- still experimenting with new code
+v 0.9.81-beta5 02.09.2023
+- Changing Search
+- Adding clear cache
+- fixed Vikiporn
+- Motherless add Groups, Galleries, Categories.
 		</news>
 		<summary>[COLOR red]XXX[/COLOR] Porn videos</summary>
 		<description>
@@ -623,9 +624,7 @@ Internet [COLOR red]XXX Porn Video[COLOR white] Streams.
 
 [COLOR white]Github:
 https://github.com/Vashiel/repository.adulthideout
-
-Email:
-adulthideout@yandex.com[/COLOR]
+[/COLOR]
 
 		</description>
 		<disclaimer>
@@ -1394,7 +1393,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.euronews_com" name="euronews.com" version="2.2.8+matrix.1" provider-name="realvito">
+<addon id="plugin.video.euronews_com" name="euronews.com" version="2.2.9+matrix.1" provider-name="realvito">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.22.0+matrix.1"/>
@@ -1429,7 +1428,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 		<language></language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
-		<forum>https://www.kodinerds.net/index.php/Thread/55451-L0REs-Blog/</forum>
+		<forum>https://www.kodinerds.net/thread/55451-l0res-blog-realvitos-fixing-thread/</forum>
 		<website>https://de.euronews.com/</website>
 		<email></email>
 		<mainsource>https://github.com/Collabsvito/REpo-AiO/</mainsource>
@@ -1439,8 +1438,8 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR orangered]Version 2.2.8+matrix.1  (22.01.2023)[/COLOR][/B]
-- fixed: Fast keine Ordner in der Startübersicht vorhanden (Quelltext verändert)
+[B][COLOR orangered]Version 2.2.9+matrix.1  (03.09.2023)[/COLOR][/B]
+- fixed: Einige euronews - LIVESTREAMS funktionieren nicht mehr
 		</news>
 	</extension>
 </addon>
@@ -2993,7 +2992,7 @@ v1.0.3 (3.8.2022)
   </extension>
 </addon>
 
-<addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.4+matrix.1" provider-name="realvito (inspired by L0RE)">
+<addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.5+matrix.1" provider-name="realvito (inspired by L0RE)">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.22.0+matrix.1"/>
@@ -3013,7 +3012,7 @@ v1.0.3 (3.8.2022)
 		<language></language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
-		<forum>https://www.kodinerds.net/index.php/Thread/47087-Release-YoutubeMusic-patched/</forum>
+		<forum>https://www.kodinerds.net/thread/55451-l0res-blog-realvitos-fixing-thread/</forum>
 		<website></website>
 		<email></email>
 		<mainsource>https://github.com/Collabsvito/REpo-AiO/</mainsource>
@@ -3023,13 +3022,12 @@ v1.0.3 (3.8.2022)
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR orangered]Version 3.0.4+matrix.1  (18.02.2023)[/COLOR][/B]
-- fixed: German-DJ-Playlist generates Error on open (new url and complete changed source text)
-- added: Provider Shazam
-- added: Revival of orig. public Spotify-Charts and public Spotify-Playlists with public token (if want more please purchase an account at Spotify)
-- added: Adaptations to changes of KODI-Nexus
-- removed: Old entries and webpage of "https://spotifycharts.com" (dont exist anymore)
-- optimized: Removed cache of webpages in "addon_data" folder - now use "script.common.plugin.cache"
+[B][COLOR orangered]Version 3.0.5+matrix.1  (03.09.2023)[/COLOR][/B]
+- fixed: all Folder under "Beatport" are empty (new Website)
+- fixed: all "Billboard" Charts by Country and added some new Countries
+- fixed: all Folder under "Official Charts" generate Errors (Website-Structure changes)
+- added: Hide additional information (blue font) in the title (settings)
+- optimized: Code cleanup
 		</news>
 	</extension>
 </addon>

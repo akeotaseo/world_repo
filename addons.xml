@@ -2264,7 +2264,7 @@ AVISO LEGAL:
     </extension>
 </addon>
 
-<addon id="plugin.video.moestv" name="Moe's TV" version="0.1.3" provider-name="La Taberna">
+<addon id="plugin.video.moestv" name="Moe's TV" version="0.2.1" provider-name="La Taberna">
   <requires>
     <import addon="script.module.six" version="1.11.0"/>
     <import addon="script.module.simplecache"/>
@@ -2276,7 +2276,7 @@ AVISO LEGAL:
   </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary>Televisión a la carta</summary>
+    <summary>Televisión a la carta y en directo.[CR]Algunos de los enlaces de la sección 'En Directo' provienen de las listas publicadas en https://www.tdtchannels.com/ </summary>
     <disclaimer>Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR][COLOR red][B]Pero no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, por su uso o por recibir asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
     <platform>all</platform>
     <assets>

@@ -2814,7 +2814,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.4.6" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.4.8" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2836,10 +2836,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.4.6 - Make subscriptions use pagination
-- v1.4.5 - Fix category videos regex
-- v1.4.4 - Fix following videos, remove quotes in category video pages
-- v1.4.3 - Fix following regex</news>
+		<news>- v1.4.8 - Fix channel link to unsubscribe in following, fix channel icons
+- v1.4.7 - Fix following Regex, Remove Pagination from following, Fixed pagination for category videos
+- v1.4.6 - Make subscriptions use pagination
+- v1.4.5 - Fix category videos regex</news>
 	</extension>
 </addon>
 

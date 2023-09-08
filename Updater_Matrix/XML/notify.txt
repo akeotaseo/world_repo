@@ -1,4 +1,4 @@
-56
+71
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
@@ -18,7 +18,7 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.3[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 07 Σεπτεμβρίου 2023:[/B]
+  [B]Τελευταία ενημέρωση 08 Σεπτεμβρίου 2023:[/B]
  - Αλλαγές/διορθώσεις/προσθήκες στο Skin
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

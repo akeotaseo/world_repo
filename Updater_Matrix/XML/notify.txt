@@ -30,14 +30,6 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.3[/COLOR]
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 
-  [B]Ενημέρωση 18 Μαΐου 2023:[/B]
- - Αλλαγές/διορθώσεις/προσθήκες στο Skin
- - Προσθήκη [COLOR grey]Scraper Section[/COLOR] απο το πρόσθετο [COLOR yellow](Τorque Lite)[/COLOR]
-   στην κατηγορια [B]SPORTS[/B]  --->  [COLOR blue]Live_Now[/COLOR]
-   (Στο NBA έχει αγώνες και απο άλλα πρωταθλήματα Basket)
- - Διάφορες αλλαγές/διορθώσεις/προσθήκες
-
-
   [B]Ενημέρωση 1 Μαΐου 2023:[/B]
 - Προσθήκη συντόμευσης (με επιλογή εγκατάστασης) του [COLOR red]Homelander[/COLOR]
   στην κατηγορία [B]MOVIES & TV[/B] 

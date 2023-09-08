@@ -1,4 +1,4 @@
-0
+56
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
@@ -16,15 +16,11 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.3[/COLOR]
 
 Για να συνεχίσετε πατήστε [COLOR orange]CLOSE[/COLOR]
 
-
-
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
-
 
   [B]Τελευταία ενημέρωση 07 Σεπτεμβρίου 2023:[/B]
  - Αλλαγές/διορθώσεις/προσθήκες στο Skin
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
-
 
 
   [B]Ενημέρωση 31 Μαΐου 2023:[/B]
@@ -32,16 +28,16 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.3[/COLOR]
    αντί του [COLORsilver]Quicksilver[/COLOR]
    για επιλογή [B][COLORsilver]Auto Play[/COLOR][/B] στην κατηγορια [B]MOVIES & TV[/B]
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
- 
- 
+
+
   [B]Ενημέρωση 18 Μαΐου 2023:[/B]
  - Αλλαγές/διορθώσεις/προσθήκες στο Skin
  - Προσθήκη [COLOR grey]Scraper Section[/COLOR] απο το πρόσθετο [COLOR yellow](Τorque Lite)[/COLOR]
    στην κατηγορια [B]SPORTS[/B]  --->  [COLOR blue]Live_Now[/COLOR]
    (Στο NBA έχει αγώνες και απο άλλα πρωταθλήματα Basket)
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
- 
-  
+
+
   [B]Ενημέρωση 1 Μαΐου 2023:[/B]
 - Προσθήκη συντόμευσης (με επιλογή εγκατάστασης) του [COLOR red]Homelander[/COLOR]
   στην κατηγορία [B]MOVIES & TV[/B] 

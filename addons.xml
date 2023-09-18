@@ -1095,7 +1095,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="DaddyLive" version="3.0.1" provider-name="dEXE, THE CREW, mbebe">
+<addon id="plugin.video.daddylive" name="DaddyLive" version="3.0.2" provider-name="dEXE, THE CREW, mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests"/>
@@ -1107,7 +1107,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">DaddyLiveHD - Live TV and Sports</summary>
-        <description lang="en">Live Streamed Channels and Scheduled Sporting Events.[CR][CR]Multiple sources/streams works.</description>
+        <description lang="en">Live Streamed Channels and Scheduled Sporting Events.[CR][CR]Multiple sources/streams works in Matrix, Nexus and Omega.</description>
         <disclaimer lang="en">daddylivehd.com</disclaimer>
         <language>en</language>
         <platform>all</platform>
@@ -1116,12 +1116,6 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
-            <screenshot>resources/media/screenshot-01.jpg</screenshot>
-            <screenshot>resources/media/screenshot-02.jpg</screenshot>
-            <screenshot>resources/media/screenshot-03.jpg</screenshot>
-            <screenshot>resources/media/screenshot-04.jpg</screenshot>
-            <screenshot>resources/media/screenshot-05.jpg</screenshot>
-            <screenshot>resources/media/screenshot-06.jpg</screenshot>
         </assets>
     </extension>
 </addon>

@@ -1867,7 +1867,7 @@ O desenvolvedor desse Addon nÃo e afiliado com KodiXMBC Fundation e não se res
     </extension>
 </addon>
 
-<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.1" provider-name="Kodi Karaoke">
+<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.2" provider-name="Kodi Karaoke">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="plugin.video.youtube" version="0.0.1"/>
@@ -2989,7 +2989,7 @@ v1.0.3 (3.8.2022)
   </extension>
 </addon>
 
-<addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.5+matrix.1" provider-name="realvito (inspired by L0RE)">
+<addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.6+matrix.1" provider-name="realvito (inspired by L0RE)">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.22.0+matrix.1"/>
@@ -3019,6 +3019,11 @@ v1.0.3 (3.8.2022)
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
+[B][COLOR orangered]Version 3.0.6+matrix.1  (16.09.2023)[/COLOR][/B]
+- fixed: 'ONCE AGAIN' all Folder under "Beatport" generate Errors (TypeError: object of type 'NoneType' has no len())
+- fixed: 'ONCE AGAIN' all Folder under "Official Charts" generate Errors (IndexError: list index out of range)
+- fixed: Sometimes 'Search on Deezer' generate Error if special character or german Umlaut in keyword
+
 [B][COLOR orangered]Version 3.0.5+matrix.1  (03.09.2023)[/COLOR][/B]
 - fixed: all Folder under "Beatport" are empty (new Website)
 - fixed: all "Billboard" Charts by Country and added some new Countries

@@ -3,7 +3,7 @@
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
 World-[COLOR green]Matrix[/COLOR] 19 [COLOR blue]Έκδοση Build 2.5[/COLOR] 16 Ιανουαρίου 2023
-World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.4[/COLOR] 23 Ιουνίου 2023
+World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.4[/COLOR] 21 Σεπτεμβρίου 2023
 Το World-Nexus 20 [COLOR blue]Έκδοση Build 20.4[/COLOR]
 μπορεί να εγκατασταθεί και στο [COLOR deepskyblue] Kodi v21 (Omega) Alpha 3[/COLOR]
 
@@ -18,7 +18,7 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.4[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 21 Σεπτεμβρίου 2023:[/B]
+  [B]Τελευταία ενημέρωση 22 Σεπτεμβρίου 2023:[/B]
  - Αλλαγές στον τρόπο ενημέρωσης του Build
  - Αλλαγές/διορθώσεις/προσθήκες στο Skin
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες

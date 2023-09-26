@@ -7,7 +7,6 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.4[/COLOR]
 Το World-Nexus 20 [COLOR blue]Έκδοση Build 20.4[/COLOR]
 μπορεί να εγκατασταθεί και στο [COLOR deepskyblue] Kodi v21 (Omega) Alpha 3[/COLOR]
 
-
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build
 να έχετε πάντα την τελευταία έκδοση
 (Στην πρώτη εγκατάσταση περιμένετε [COLOR red]5 - 10[/COLOR] λεπτά
@@ -18,9 +17,9 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.4[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-  [B]Τελευταία ενημέρωση 22 Σεπτεμβρίου 2023:[/B]
- - Αλλαγές στον τρόπο ενημέρωσης του Build
+  [B]Τελευταία ενημέρωση 26 Σεπτεμβρίου 2023:[/B]
  - Αλλαγές/διορθώσεις/προσθήκες στο Skin
+ - Αλλαγές στον τρόπο ενημέρωσης του Build
  - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 

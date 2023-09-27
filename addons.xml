@@ -2808,7 +2808,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.4.9" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.4.10" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2830,10 +2830,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.4.9 - Fix category video REGEX, Fix channel & user search
+		<news>- v1.4.10 - Fix play defaulting to wrong type, Change incorrect string id
+- v1.4.9 - Fix category video REGEX, Fix channel and user search
 - v1.4.8 - Fix channel link to unsubscribe in following, fix channel icons
-- v1.4.7 - Fix following Regex, Remove Pagination from following, Fixed pagination for category videos
-- v1.4.6 - Make subscriptions use pagination</news>
+- v1.4.7 - Fix following Regex, Remove Pagination from following, Fixed pagination for category videos</news>
 	</extension>
 </addon>
 
@@ -3112,43 +3112,6 @@ v1.0.3 (3.8.2022)
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
-</addon>
-
-<addon id="plugin.video.TakeOne" name="[B][COLOR blue] TakeOne[/COLOR][/B]" version="3.0.0" provider-name="[B][COLOR yellow]TEAM[/COLOR] [COLOR blue] TakeOne[/COLOR][/B]">
-<requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.simplejson"/>
-	<import addon="script.module.kodi-six" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
-	<provides>video</provides>
-</extension>
-
-<extension point="xbmc.addon.repository" name="TakeOne REPO">
-	<info compressed="false"></info>
-	<checksum></checksum>
-    <datadir zip="true"></datadir>
-</extension>
-
-<extension point="xbmc.addon.metadata">
-    <summary>[COLOR white][B]FILMES, SERIES EM FHD, HD, SD, DOCUMENTARIOS, DESENHOS, ETC, DUBLADOS e Legendados. O MELHOR ADDON DE FILMES E SERIES PRO SEU KODI!, AQUI VOCÊ ENCONTRA TUDO, GARANTIDO!. Se Não ACHA FALA COM NOSSO TEAM.[/B][/COLOR]</summary>
-    <description lang="en">[COLOR red][B]TakeOne É Addon Do Kodi, Onde Organizamos Os Conteudos e Upamos Para Nosso Servidor Privado, Então Se Quiser Copiar Deixa Os Creditos, Fela Da Puta... Ateciosamente Team TakeOne[/B][/COLOR]</description>
-    <disclaimer lang="en">[COLOR yellow][B]O autor hospedar o conteúdo exibido por este complemento. TakeOne tem nenhuma afiliação com o provedor de conteúdo, somente é responsável por coletar os melhores filmes da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus clientes. tão fácil e descomplicada.[/B][/COLOR]</disclaimer>
-	<platform>all</platform>
-    <assets>
-	<icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshots/01.jpg</screenshot>
-    <screenshot>resources/screenshots/02.jpg</screenshot>
-    <screenshot>resources/screenshots/03.jpg</screenshot>
-
-    </assets>
-	<news>
-v3.0.0.matrix.1
-- TakeOne
-	</news>
-</extension>
 </addon>
 
 <addon id="plugin.video.That_Banned_Channel"

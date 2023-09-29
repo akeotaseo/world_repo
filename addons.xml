@@ -3739,7 +3739,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="plugin.video.xxx" name="XVideos" version="2023.07.05" provider-name="Me">
+<addon id="plugin.video.xxx" name="XVideos" version="2023.09.29" provider-name="Me">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>
@@ -3751,11 +3751,6 @@ v0.1.0
         <summary> </summary>
         <description> </description>
 		<disclaimer lang="en">The author is not responsible for the media you find in this add-on.</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>resources/media/fanart.png</fanart>
-            <poster>fanart.jpg</poster>
-        </assets>
     </extension>
 
 </addon>

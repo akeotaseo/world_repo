@@ -2781,7 +2781,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.4.10" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.4.12" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2803,10 +2803,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.4.10 - Fix play defaulting to wrong type, Change incorrect string id
-- v1.4.9 - Fix category video REGEX, Fix channel and user search
-- v1.4.8 - Fix channel link to unsubscribe in following, fix channel icons
-- v1.4.7 - Fix following Regex, Remove Pagination from following, Fixed pagination for category videos</news>
+		<news>- v1.4.12 - Fix followed REGEX if channel is live
+- v1.4.11 - Fix following REGEX, Fix Search REGEX
+- v1.4.10 - Fix play defaulting to wrong type, Change incorrect string id
+- v1.4.9 - Fix category video REGEX, Fix channel and user search</news>
 	</extension>
 </addon>
 
@@ -3085,6 +3085,33 @@ v1.0.3 (3.8.2022)
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
+</addon>
+
+<addon id="plugin.video.takeroom" name="Take Room" version="1.0" provider-name="Take Room">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+	<import addon="inputstream.adaptive"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="mixtx.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+    <summary lang="en">Take Room</summary>
+    <description></description>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+       <screenshot>resources/screenshots/01.jpg</screenshot>
+       <screenshot>resources/screenshots/02.jpg</screenshot>
+       <screenshot>resources/screenshots/03.jpg</screenshot>
+    </assets>
+	<news>
+	</news>
+</extension>
 </addon>
 
 <addon id="plugin.video.That_Banned_Channel"

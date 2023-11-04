@@ -78,6 +78,12 @@
             <fanart>https://github.com/akeotaseo/world_repo/blob/main/Updater_Matrix/image/iptv.jpg?raw=true</fanart>
             <description>-</description>
         </build>
-        
+
+        <build name = "Portal 12">
+            <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/W/Portal_12.zip</url>
+            <icon>https://github.com/akeotaseo/world_repo/blob/main/Updater_Matrix/image/iptv.jpg?raw=true</icon>
+            <fanart>https://github.com/akeotaseo/world_repo/blob/main/Updater_Matrix/image/iptv.jpg?raw=true</fanart>
+            <description>-</description>
+        </build>
    
     </apis>

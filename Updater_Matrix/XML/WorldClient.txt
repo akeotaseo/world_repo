@@ -1,4 +1,4 @@
-  <apis>
+  <client>
     
         <build name = "Portal 1">
             <url>https://github.com/akeotaseo/world_repo/raw/main/Updater_Matrix/W/Portal_1.zip</url>
@@ -86,4 +86,4 @@
             <description>-</description>
         </build>
    
-    </apis>
+    </client>

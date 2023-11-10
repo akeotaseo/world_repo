@@ -17,11 +17,11 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.5[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-΅ [B]Τελευταία ενημέρωση 10 Νοεμβρίου 2023:[/B]
+- [B]Τελευταία ενημέρωση 10 Νοεμβρίου 2023:[/B]
 - Αντικατάσταση του πρόσθετου [COLOR blue]Nightwing[/COLOR]
   με το [COLOR teal]Absolution[/COLOR]
-  στη κατηγορια [COLOR whitel]MOVIES & TV[/COLOR]
-- Συντόμευση [COLOR orangel]Προτιμήσεις[/COLOR] στα Αγαπημένα
+  στη κατηγορια [COLOR white]MOVIES & TV[/COLOR]
+- Συντόμευση [COLOR orange]Προτιμήσεις[/COLOR] στα Αγαπημένα
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

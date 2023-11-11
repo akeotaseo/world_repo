@@ -2017,7 +2017,7 @@ v1.2.0 (2019-11-28)
   </extension>
 </addon>
 
-<addon id="plugin.video.live.alliance" name="Alliance" version="1.0.2a" provider-name="alliance">
+<addon id="plugin.video.live.alliance" name="Alliance" version="1.0.2b" provider-name="alliance">
 	<requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />

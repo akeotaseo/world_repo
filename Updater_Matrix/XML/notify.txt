@@ -17,7 +17,14 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.5[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 10 Νοεμβρίου 2023:[/B]
+- [B]Τελευταία ενημέρωση 14 Νοεμβρίου 2023:[/B]
+- Προσθήκη συντομεύσεων [B]Live Sports[/B]
+  [COLOR white] (Daddylive & Live tv.sx)[/COLOR]
+  στο  [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]SPORTS[/COLOR]
+- Αλλαγές/διορθώσεις/προσθήκες στο Skin
+- Διάφορες αλλαγές/διορθώσεις/προσθήκες
+ 
+- [B]Ενημέρωση 10 Νοεμβρίου 2023:[/B]
 - Αντικατάσταση του πρόσθετου [COLOR blue]Nightwing[/COLOR]
   με το [COLOR teal]Absolution[/COLOR] στη κατηγορια [COLOR white]MOVIES & TV[/COLOR]
 - Συντόμευση [COLOR orange]Προτιμήσεις[/COLOR] στα Αγαπημένα

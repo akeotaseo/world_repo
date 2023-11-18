@@ -2761,7 +2761,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.4.13" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.4.14" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2783,10 +2783,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.4.13 - Change how subscriptions videos are retrieved
+		<news>- v1.4.13 - Fix category Video REGEX
+- v1.4.13 - Change how subscriptions videos are retrieved
 - v1.4.12 - Fix followed REGEX if channel is live
-- v1.4.11 - Fix following REGEX, Fix Search REGEX
-- v1.4.10 - Fix play defaulting to wrong type, Change incorrect string id</news>
+- v1.4.11 - Fix following REGEX, Fix Search REGEX</news>
 	</extension>
 </addon>
 

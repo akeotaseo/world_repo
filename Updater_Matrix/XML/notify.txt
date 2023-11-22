@@ -17,7 +17,7 @@ World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.5[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 23 Νοεμβρίου 2023:[/B]
+- [B]Τελευταία ενημέρωση 19 Νοεμβρίου 2023:[/B]
 - Προσθήκη συντομεύσεων [COLORcyan]fenix Mac[/COLOR] & [COLOR blue]World[/COLOR]client
   στο  [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]ΚΑΝΑΛΙΑ[/COLOR]
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin

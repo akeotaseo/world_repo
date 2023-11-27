@@ -1940,6 +1940,41 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
+<addon	id="plugin.video.KODIvertiDO" version="1.1a" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
+<requires>
+    <import addon="script.module.requests" optional="true" />
+    <import addon="script.module.resolveurl" optional="true" />
+	<import addon="script.module.six" optional="true" />
+	<import addon="plugin.video.youtube" optional="true" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+   <extension point="xbmc.addon.repository" name="kodivertido">
+        <info>https://raw.githubusercontent.com/mendelux/KODIvertiDO_TEAM/master/_repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/mendelux/KODIvertiDO_TEAM/master/_repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mendelux/KODIvertiDO_TEAM/master/_repo/</datadir>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+                <platform>all</platform>
+		<summary lang="en">KovertidoTeam</summary>
+		<summary lang="da">KovertidoTeam</summary>
+		<description lang="en">
+[COLOR white]Complemento gratuito que no aloja ningun contenido.               Todo el contenido se encuentra en internet.No se acepta ninguna responsabilidad por el uso de este addon.[/COLOR]</description>
+		<website></website>
+		<license>GPL 2.0</license>
+		<platform>all</platform>
+<assets>
+        <icon>icon.jpg</icon>
+  <screenshot>resources/screenshots/screenshot1.gif</screenshot>
+  <screenshot>resources/screenshots/screenshot3.gif</screenshot>
+  <screenshot>resources/screenshots/screenshot2.jpg</screenshot>
+        <fanart>fanart.jpg</fanart>
+</assets>
+		<language>es</language>
+	</extension>
+</addon>
+
 <addon id="plugin.video.Krypton.tv" version="3.0.0" name="[B][COLOR lime]Krypton TV[/COLOR][/B]" provider-name="[B]Krypton.tv[/B]">
 <requires>
 		<import addon="script.module.six" />

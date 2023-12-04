@@ -664,6 +664,33 @@ https://github.com/Vashiel/repository.adulthideout
   </extension>
 </addon>
 
+<addon id="plugin.video.apex_sports" name="ApeX Sports" version="1.0.7~g2" provider-name="arxtic.ape">
+    <requires>
+        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+        <import addon="script.module.beautifulsoup4" version="3.2.1"/>
+        <import addon="script.module.requests"  />
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.dateutil"/>
+        <import addon="script.module.pytz"/>
+        <import addon="script.module.tzlocal"/>
+
+
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Simple sports addon.</summary>
+        <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+
+        <platform>all</platform>
+
+        <assets>
+        <icon>icon.jpg</icon>
+    </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.arenavisionl" name="ArenaVision" version="0.1.11" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -1337,7 +1364,7 @@ Quando vuoi. Dove vuoi.
   </extension>
 </addon>
 
-<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.6" provider-name="Jon Snow">
+<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.6a" provider-name="Jon Snow">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
 		<import addon="script.module.beautifulsoup4" version="3.2.1"/>
@@ -2626,7 +2653,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.19c" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.19cc" provider-name="mbebe">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six"/>

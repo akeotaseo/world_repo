@@ -4780,7 +4780,7 @@ v0.1.0
     </extension>
 </addon>
 
-<addon id="script.module.zeltorix.utilitys" name="Набор инструментов" version="0.0.138" provider-name="ZelToRiX">
+<addon id="script.module.zeltorix.utilitys" name="Набор инструментов" version="0.0.140" provider-name="ZelToRiX">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.zeltorix.packages" version="0.0.1" />

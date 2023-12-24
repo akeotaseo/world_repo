@@ -4314,7 +4314,7 @@ v0.1.0
 </addon>
 
 <addon id="script.luar"
-  version="0.9.9"
+  version="0.9.10"
   name="Luar"
   provider-name="The Dreamers">
   <requires>

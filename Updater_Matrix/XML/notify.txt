@@ -2,7 +2,7 @@
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
-World-[COLOR green]Matrix[/COLOR] 19 [COLOR blue]Έκδοση Build 2.6[/COLOR] 22 Δεκεμβρίου 2023
+World-[COLOR green]Matrix[/COLOR] 19 [COLOR blue]Έκδοση Build 2.6[/COLOR] 23 Δεκεμβρίου 2023
 World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.6[/COLOR] 21 Δεκεμβρίου 2023
 World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0[/COLOR] 21 Δεκεμβρίου 2023
 

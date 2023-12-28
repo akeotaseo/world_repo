@@ -2823,7 +2823,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.4.17" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.5.0" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2845,10 +2845,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.4.17 - Fix channels in following, favorites and search
-- v1.4.16 - Fix category video REGEX
-- v1.4.15 - Set content type, Update category video REGEX
-- v1.4.14 - Fix category Video REGEX</news>
+		<news>- v1.5.0 - Add login test to settings, - Fix MD5ex class to fix login for long passwords
+- v1.4.18 - Quick fix for subsciptions and category videos
+- v1.4.17 - Fix channels in following, favorites and search
+- v1.4.16 - Fix category video REGEX</news>
 	</extension>
 </addon>
 
@@ -3098,7 +3098,7 @@ v1.0.3 (3.8.2022)
 	</extension>
 </addon>
 
-<addon id="plugin.video.stalkervod" name="Stalker VOD Client" version="0.0.1" provider-name="rickey">
+<addon id="plugin.video.stalkervod" name="Stalker VOD Client" version="0.0.2" provider-name="rickey">
 	<requires>
 		<import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.27.1"/>
@@ -3109,8 +3109,8 @@ v1.0.3 (3.8.2022)
 	<extension point="xbmc.addon.metadata">
 		<reuselanguageinvoker>true</reuselanguageinvoker>
 		<platform>all</platform>
-		<summary lang="en">Stalker VOD Client</summary>
-		<description lang="en">Kodi Stalker client for accessing on demand videos and channels from Stalker middleware</description>
+		<summary lang="en_GB">Stalker VOD Client</summary>
+		<description lang="en_GB">Kodi Stalker client for accessing on demand videos and channels from Stalker middleware</description>
 		<license>GPL-3.0-or-later</license>
 		<language>en</language>
 		<source>https://github.com/rickeylohia/plugin.video.stalkervod</source>
@@ -3121,7 +3121,9 @@ v1.0.3 (3.8.2022)
 			<screenshot>resources/media/screenshot_2.png</screenshot>
 			<screenshot>resources/media/screenshot_3.png</screenshot>
 		</assets>
-		<news>v0.0.1  (2023-10-22)
+		<news>v0.0.2  (2023-12-27)
+			- Add favorites context menu option and re-use existing token if possible
+			v0.0.1  (2023-10-22)
 			- Initial Release
 		</news>
 	</extension>

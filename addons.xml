@@ -2823,7 +2823,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.5.0" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.5.1" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2845,10 +2845,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.5.0 - Add login test to settings, - Fix MD5ex class to fix login for long passwords
+		<news>- v1.5.1 - re-add channel names into category videos, Fix regex for following without image icon, expand clean text method, Apply clean text method to cat_video
+- v1.5.0 - Add login test to settings, - Fix MD5ex class to fix login for long passwords
 - v1.4.18 - Quick fix for subsciptions and category videos
-- v1.4.17 - Fix channels in following, favorites and search
-- v1.4.16 - Fix category video REGEX</news>
+- v1.4.17 - Fix channels in following, favorites and search</news>
 	</extension>
 </addon>
 

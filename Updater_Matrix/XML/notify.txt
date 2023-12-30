@@ -15,7 +15,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 22 Δεκεμβρίου 2023:[/B]
+- [B]Τελευταία ενημέρωση 30 Δεκεμβρίου 2023:[/B]
 - Ενα πρόχειρο φρεσκάρισμα σε kodi 19 [COLOR green]Matrix[/COLOR] 
   και απενεργοποίηση των αυτόματων ενημερώσεων του build
 - Νεα έκδοση 20.6 για kodi 20 [COLOR purple]Nexus[/COLOR] (sorry...)

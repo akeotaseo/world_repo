@@ -1149,6 +1149,41 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
 </addon>
 
+<addon id="plugin.video.darklegion.Nexus" name="[B][COLOR yellow]D[/COLOR][/B][B][COLOR lime]a[/COLOR][/B][B][COLOR yellow]R[/COLOR][/B][B][COLOR lime]k[/COLOR][/B][B][COLOR yellow]L[/COLOR][/B][B][COLOR lime]e[/COLOR][/B][B][COLOR yellow]G[/COLOR][/B][B][COLOR lime]i[/COLOR][/B][B][COLOR yellow]O[/COLOR][/B][B][COLOR lime]n[/COLOR][/B] [B][COLOR cyan]NeXuS[/COLOR][/B] [B][COLOR lime]V_3.3.3[/COLOR][/B]" version="3.3.3" provider-name="[B][COLOR yellow]DARK_LEGION_PRODUCTION[/COLOR][/B]">
+<requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.kodi-six" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="dlp.py">
+	<provides>video</provides>
+</extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR lime]Il meglio da vedere sulla tua TV !!![/COLOR]</summary>
+<description>[B][COLOR lime]- Add-on ufficiale di DARK_LEGION_PRODUCTION[/COLOR][/B]
+
+[B][COLOR lime]- DARK_LEGION, un Add-on per tutto il mondo.[/COLOR][/B]
+
+[B][COLOR lime]- Add-on DARK_LEGION e' gratuito!![/COLOR][/B]
+    </description>
+	<disclaimer lang="it_IT">[B][COLOR red]Dark_Legion indicizza contenuti dal WEB e la visione e la stabilità dello streaming non può essere garantita in alcun modo[/COLOR][/B]</disclaimer>
+    <platform>all</platform>
+	<assets>
+       <icon>icon.gif</icon>
+       <fanart>fanart.jpg</fanart>
+       <screenshot>resources/screenshot-01.jpg</screenshot>
+       <screenshot>resources/screenshot-02.jpg</screenshot>
+       <screenshot>resources/screenshot-03.jpg</screenshot>
+    </assets>
+	<news>
+[B][COLOR lime]v3.3.3 resize file zip[/COLOR][/B]
+[B][COLOR lime]v3.3.0 nexus[/COLOR][/B]
+[B][COLOR lime]- Addon DARK_LEGION in Python 3 il meglio per TV-PC-TABLET-TELEFONINO.[/COLOR][/B]
+</news>
+</extension>
+</addon>
+
 <addon id="plugin.video.darmowa-telewizja-com" name="darmowa-telewizja-com" version="1.0.0" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
@@ -3459,7 +3494,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone111" name="tvOne111" version="24+matrix.1wa" provider-name="RACC">
+<addon id="plugin.video.tvone111" name="tvOne111" version="25+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -3479,9 +3514,6 @@ provider-name="FrankAaro">
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
-    <assets>
-      <icon>icon.png</icon>
-    </assets>
   </extension>
 </addon>
 
@@ -3666,11 +3698,32 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
+<addon id="plugin.video.vilhaoplaylist" name="[COLOR lime]DarkLegion Playlist[/COLOR] [COLOR cyan]Matrix[/COLOR]" version="1.0" provider-name="DLP">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR lime]Addon per testare le liste[/COLOR]</summary>
+    <summary lang="en">[COLOR lime]DarkLegion.TUTTI I LINK SONO DISPONIBILI SU INTERNET![/COLOR]</summary>
+    <description lang="en">[COLOR lime]DLP Playlist é un addon per testare le playlist[/COLOR]</description>
+    <language>en de</language>
+    <platform>all</platform>
+      <assets>
+        <icon>icon.gif</icon>
+        <fanart>fanart.gif</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon
   id="plugin.video.vilhaoxxx"
-  version="1.0"
-  name="[COLOR pink]Vilhao XXX[/COLOR]"
-  provider-name="xbmc-adult">
+  version="1.0dl"
+  name="[COLOR pink]DARKLEGION XXX[/COLOR]"
+  provider-name="DLP-Adult">
   <requires>
     <!-- Commenting xbmc.python allows install on all versions of Kodi -->
     <!-- <import addon="xbmc.python" version="2.14.0"/> -->
@@ -3679,17 +3732,17 @@ provider-name="FrankAaro">
   </requires>
   <extension
     point="xbmc.python.pluginsource"
-    library="vilhao.py">
+    library="darklegion.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">[COLOR red]Reproduza vídeos de diferentes sites de streaming adulto[/COLOR]</summary>
-    <description lang="en_GB">[COLOR red]Este Addon reproduz vídeos de sites de streaming adulto. Ele contém material adulto explícito. Você só pode visualizar este complemento se tiver pelo menos 18 anos de idade ou maioridade na jurisdição em que reside ou da qual acessa este conteúdo. Se você não atender a esses requisitos, não terá permissão para usar este Addon.[/COLOR]</description>
-    <disclaimer lang="en_GB">[COLOR red]O[/COLOR] [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR] [COLOR red]não hospeda nem distribui nenhum conteúdo exibido por este Addon. O[/COLOR] [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR] [COLOR red]não tem nenhuma afiliação com o provedor de conteúdo.[/COLOR]</disclaimer>
+     <summary lang="en_GB">[COLOR red]Riproduci video da diversi siti di streaming per adulti[/COLOR]</summary>
+    <description lang="en_GB">[COLOR red]Questo Add_on riproduce video da siti di streaming per adulti. Contiene materiale esplicito per adulti. Puoi visualizzare questo Add_on solo se hai almeno 18 anni di età o maggiorenne nella giurisdizione in cui risiedi o da cui accedi a questo contenuto. Se non si soddisfano questi requisiti, non sarà consentito utilizzare questo Add_on.[/COLOR]</description>
+    <disclaimer lang="en_GB">[COLOR red]D[/COLOR] [COLOR blue]A[/COLOR][COLOR yellow]R[/COLOR][COLOR blue]K[/COLOR][COLOR yellow]L[/COLOR][COLOR blue]E[/COLOR][COLOR yellow]G[/COLOR] [COLOR lime]I[/COLOR] [COLOR cyan]O[/COLOR] [COLOR blue]N[/COLOR][COLOR red]non ospita né distribuisce alcun contenuto visualizzato da questo Add_on. D[/COLOR] [COLOR blue]A[/COLOR][COLOR yellow]R[/COLOR][COLOR blue]K[/COLOR][COLOR yellow]L[/COLOR][COLOR blue]E[/COLOR][COLOR yellow]G[/COLOR] [COLOR cyan]I[/COLOR][COLOR blue]O[/COLOR][COLOR lime]N[/COLOR] [COLOR red]non ha alcuna affiliazione con il fornitore di contenuti.[/COLOR]</disclaimer>
     <platform>all</platform>
     <assets>
-      <icon>icon.png</icon>
-	  <fanart>fanart.png</fanart>
+      <icon>icon.gif</icon>
+	  <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>

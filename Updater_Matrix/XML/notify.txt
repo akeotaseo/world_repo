@@ -15,7 +15,12 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 30 Δεκεμβρίου 2023:[/B]
+- [B]Τελευταία ενημέρωση 17 Ιανουαρίου 2024:[/B]
+- Αλλαγές/διορθώσεις/προσθήκες στο Skin
+- Διάφορες αλλαγές/διορθώσεις/προσθήκες
+
+
+- [B]Ενημέρωση 30 Δεκεμβρίου 2023:[/B]
 - Νεα έκδοση 20.6 για kodi 20 [COLOR purple]Nexus[/COLOR] (sorry...)
 - Δυνατότητα εγκατάστασης του build σε kodi 21 [COLOR cornflowerblue]Omega[/COLOR]
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες

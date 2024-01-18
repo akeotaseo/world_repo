@@ -3495,7 +3495,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone111" name="tvOne111" version="25+matrix.1" provider-name="RACC">
+<addon id="plugin.video.tvone111" name="tvOne111" version="25+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -3515,6 +3515,10 @@ provider-name="FrankAaro">
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
   </extension>
 </addon>
 

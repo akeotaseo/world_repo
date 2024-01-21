@@ -1,0 +1,6 @@
+http://152.89.62.76:8880/get.php?username=3ca03223n05&password=asdf3r233&type=m3u_plus
+http://152.89.62.76:8880/get.php?username=12mmk030084&password=46685985&type=m3u_plus
+http://152.89.62.76:8880/get.php?username=12mss240016&password=17235869&type=m3u_plus
+http://152.89.62.76:8880/get.php?username=12mmk090135&password=81391749&type=m3u_plus
+http://152.89.62.76:8880/get.php?username=6mmk070042&password=12838748&type=m3u_plus
+http://elmo.best:8880/get.php?username=Eduard_Zarioiu&password=qWoY7LmDaXgqWoY7&type=m3u_plus

@@ -922,7 +922,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
-<addon id="plugin.video.cb20" version="1.2.0" name="CB20" provider-name="aitschti">
+<addon id="plugin.video.cb20" version="2.0.0" name="CB20" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
@@ -936,8 +936,8 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
 All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
         </news>
         <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/fanart.png</fanart>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
         </assets>
         <source></source>
         <license>GPL-3.0</license>
@@ -2932,7 +2932,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.5.3" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.5.4" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2954,7 +2954,8 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.5.3 - Changes to clean_text method
+		<news>- v1.5.4 - Fix search, Fix following users
+- v1.5.3 - Changes to clean_text method
 - v1.5.2 - Fix REGEX for channels with no thumbnail
 - v1.5.1 - re-add channel names into category videos, Fix regex for following without image icon, expand clean text method, Apply clean text method to cat_video
 - v1.5.0 - Add login test to settings, - Fix MD5ex class to fix login for long passwords</news>

@@ -1190,7 +1190,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="4.01" provider-name="THE CREW">
+<addon id="plugin.video.daddylive" name="Daddylive" version="4.02" provider-name="THE CREW">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />
@@ -3955,7 +3955,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="plugin.video.xxx" name="XVideos" version="2023.10.13" provider-name="Me">
+<addon id="plugin.video.xxx" name="XVideos" version="2024.01.26" provider-name="Me">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>

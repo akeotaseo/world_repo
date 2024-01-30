@@ -1,5 +1,17 @@
-IPTV-KODI-M3U
-http://fast-iptv.xyz:25461/ username=rGaKpjvGha password=AVSnwJZ2db ====== http://better.newage.tf:3388/ username=RUPF3oUfkg password=C3cwZ1eNqs ====== http://xdigital.stream:8080 username=JimaraDirecto password=uVaEYpQRJdUw ====== http://zaintv.xyz:8080/ username=363605458663096 password=05458663096 ====== http://zaintv.xyz:8080/ username=937483939 password=63839393 ====== http://zaintv.xyz:8080/ username=937483939 password=63839393 ====== http://android-iptv.com/ username=V7rA1feOk3 password=FkGkEh8Spe ====== http://iptv.streamhispanatv.net:8080/ username=playgt password=playgt2023 ====== http://obsfullhd.tv:25461/ username=mazdak10 password=HpjgFH9qrv8N ====== http://m1.webvps.de:25443/ username=YZGNFGYW30 password=LM0T567SR0
+http://app.nicyou.xyz/get.php?username=5HN9D7EP83&password=10203040&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=mi1107684&password=Hg3JkTbBcAh&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=ja515412&password=w@RBcfrMCbF&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=KVD3N6TBJB&password=uhBN96NWEnw&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=vi1123188&password=acXyG6Nw4x&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=DXJ957ASAL&password=QDGtquQXCM&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=6599298578&password=050623&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=CCB9UBNVN9&password=Ab9GwMyxGua&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=vi1125395&password=D9JVC56bcnW&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=hu1222831&password=uh6SE6xsdvDa&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=9octubre2023&password=5767797343&type=m3u_plus
+http://app.nicyou.xyz/get.php?username=6SGCJCNN2R&password=ESM3VDsQdx&type=m3u_plus
+
+
 IPTV-KODI-M3U
 http://152.89.62.76:8880/get.php?username=3ca03223n05&password=asdf3r233&type=m3u_plus
 http://152.89.62.76:8880/get.php?username=12mmk030084&password=46685985&type=m3u_plus

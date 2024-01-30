@@ -415,4 +415,6 @@ http://elit64.com:3800/get.php?username=metpol5397mkhds&password=F8334ZoHD1&type
 http://s1luv1p.serveftp.com:8000/get.php?username=Daviduccio&password=ib5qehfD&type=m3u_plus&output=ts
 http://client.newborntv.xyz:88/get.php?username=70:2a:d5:33:73:70&password=hrUWB31RJU2tNUdQ9B53&type=m3u_plus&output=ts
 
+http://fast-iptv.xyz:25461/ username=rGaKpjvGha password=AVSnwJZ2db ====== http://better.newage.tf:3388/ username=RUPF3oUfkg password=C3cwZ1eNqs ====== http://xdigital.stream:8080 username=JimaraDirecto password=uVaEYpQRJdUw ====== http://zaintv.xyz:8080/ username=363605458663096 password=05458663096 ====== http://zaintv.xyz:8080/ username=937483939 password=63839393 ====== http://zaintv.xyz:8080/ username=937483939 password=63839393 ====== http://android-iptv.com/ username=V7rA1feOk3 password=FkGkEh8Spe ====== http://iptv.streamhispanatv.net:8080/ username=playgt password=playgt2023 ====== http://obsfullhd.tv:25461/ username=mazdak10 password=HpjgFH9qrv8N ====== http://m1.webvps.de:25443/ username=YZGNFGYW30 password=LM0T567SR0
+
 

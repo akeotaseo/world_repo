@@ -4802,7 +4802,6 @@ http://bestavb.maria-db.co:8000/get.php?username=CATANI_2&password=fjDUPrf&type=
 http://echo.solanaflix.com:8080/get.php?username=TV-90120194&password=172421414933&type=m3u_plus&output=mpegts
 http://tmax19.dynuddns.net:8080/get.php?username=ArJs5LYHLC&password=ScudieroNikoPest&type=m3u_plus&output=mpegts
 http://tmax19.dynuddns.net:8080/get.php?username=ArJs5LYHLC&password=ScudieroNikoPest&type=m3u_plus&output=mpegts
-http://cccfff.gleeze.com:8080/ppp.php?username=Aleksandargeorgiev&password=jCgdBgUMrs&type=m3u_plus&output=cccc
 http://suberocape.com/get.php?username=Miran.ademixx&password=cU3RxCdq42ZMSHGGpBrR&type=m3u_plus&output=ts
 http://cogroup.noip.life:19553/get.php?username=OrsoMarco01&password=RTCDrtySr23u&type=m3u_plus&output=ts
 http://x.v-iptv.com:25443/get.php?username=HAJG6&password=k7bKPqg05y&type=m3u_plus
@@ -5099,3 +5098,4 @@ http://metitv.pro:8080/get.php?username=oli-plaka&password=27351963&type=m3u
 http://m1.webvps.de:25443/get.php?username=pascalf&password=iwxfu3ebfb&type=m3u
 http://m1.webvps.de:25443/get.php?username=PascalF&password=IWXFU3EBFB&type=m3u
 http://sibfungold.info:8080/get.php?username=tverdnic2006&password=wHK6VZySE4R6HK46LY4j6AC9&type=m3u
+http://cccfff.gleeze.com:8080/ppp.php?username=Aleksandargeorgiev&password=jCgdBgUMrs&type=m3u_plus&output=cccc

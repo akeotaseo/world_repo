@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="Kodish.repo.store" name="[B]Kodish Store Rammeta[/B]" version="5.0.0" provider-name="Kodish Team">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+    <import addon="script.module.six" version="1.0.0"/>
+    <import addon="script.module.kodi-six" version="0.1.3.1"/>
+    <import addon="script.module.simplecache" version="1.0.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.requests" version="2.22.0+matrix.1"/>
+    <import addon="script.module.routing" version="0.2.3"/>
+    <import addon="script.module.simplejson"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Kodish Store Rammeta</summary>
+    <description lang="en">Addon Kodish Store Neo a versão permite instalar addons da Kodish e seus Parceiros Agora com Suporte ao Kodi 20</description>
+    <platform>all</platform>
+    <forum></forum>
+	<assets>
+    <icon>icon.png</icon>
+	<fanart>fanart.jpg</fanart>
+    </assets>
+    <website></website>
+  </extension>
+</addon>
+
 <addon id="plugin.audio.addict" name="AudioAddict" version="420.0.8.1" provider-name="Samuel Sapalski (@leas), Fritz Capell (capellf@gmail.com)">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -468,6 +498,24 @@ v2.4.0  (2019-01-01)
         <assets>
             <icon>icon.png</icon>
         </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.program.fastskin" name="Skin Fast" version="0.0.1" provider-name="primaeval, mkendo">
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+            <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <description lang="en">Tạo giao diện mới không hiệu ứng.</description>
+        <disclaimer lang="en"></disclaimer>
+        <language></language>
+        <platform>all</platform>
+        <license>GPLv2</license>
+        <forum></forum>
+        <source></source>
+        <website></website>
+        <assets><icon>icon.png</icon></assets>
     </extension>
 </addon>
 
@@ -1619,69 +1667,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon
-	id="plugin.video.flix-mac" version="1.0" name="FlixTvON MAC" provider-name="FlixTvON MAC">
-<requires>
-    	<import addon="script.module.kodi-six"/>
-	    <import addon="script.module.requests"/>
-		<import addon="script.module.six"/>
-
-		<import addon="script.module.web-pdb" />
-  </requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-
-	<extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-		<summary lang="pt">FlixTvON</summary>
-		<description lang="pt">Este addon fornece IPTV apenas para uso pessoal e privado (Addon sem fins lucrativos)... FICA AQUI MEU OBRIGADO AO @TRAIN_AGAIN PELA AJUDA,VALEU MEU AMIGO.</description>
-		<website>https://github.com/</website>
-		<license>GPL 3.0</license>
-		<platform>all</platform>
-		<disclaimer lang="pt">[COLORyellow]FlixTvON[/COLOR]</disclaimer>
-	<assets>
-        <icon>icon.jpg</icon>
-        <fanart>fanart.jpg</fanart>
-        <fondo>fondo.jpg</fondo>
-    </assets>
-		<language>pt</language>
-	</extension>
-
-</addon>
-
-<addon id="plugin.video.flixon" name="FLIXTVON" version="1.2.7+matrix" provider-name="FLIXTVON">
-	<requires>
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests-cache"/>
-		<import addon="script.module.requests"/>
-		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-		<import addon="script.module.youtube.dl" optional="true"/>
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.dateutil" optional="true" />
-		<import addon="script.module.resolveurl" optional="true"/>
-		<import addon="script.module.urlresolver" optional="true"/>
-		<import addon="script.module.cloudscraper" optional="true"/>
-		<import addon="script.module.inputstreamhelper" optional="true"/>
-		<import addon="script.module.slproxy" optional="true"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-
-	<extension point="xbmc.addon.metadata">
-		<summary>FLIXTVON SEMPRE ONLINE</summary>
-		<description>
-O desenvolvedor desse Addon nÃo e afiliado com KodiXMBC Fundation e não se responsabiliza pelo conteudo encontrado aqui nem o mau uso do mesmo.</description>
-		<platform>all</platform>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="420.0.7.1">
     <requires>
         <import addon="script.module.m7lib" version="0.1.0" />
@@ -2106,42 +2091,6 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon id="plugin.video.Krypton.tv" version="3.0.0" name="[B][COLOR lime]Krypton TV[/COLOR][/B]" provider-name="[B]Krypton.tv[/B]">
-<requires>
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests" optional="true"/>
-		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-		<import addon="script.module.youtube.dl" optional="true"/>
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.dateutil" optional="true" />
-		<import addon="script.module.resolveurl" optional="true"/>
-                <import addon="script.module.urlresolver" optional="true"/>
-		<import addon="script.module.cloudscraper" optional="true"/>
-		<import addon="script.module.inputstreamhelper" optional="true"/>
-		<import addon="script.module.slproxy" optional="true"/>
-	</requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR lime]ADDON [COLOR lime]Krypton[/COLOR][COLOR orange]TV [/COLOR]</summary>
-    <description lang="en">[B][COLOR lime]ADDON oficial [B][COLOR lime]Krypton[/COLOR][COLOR orange]TV [/COLOR][/B] - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
-[B][COLOR lime]Addon [B][COLOR lime]Krypton[/COLOR][COLOR orange]TV [/COLOR][/B] é de uso gratuito!![/B][/COLOR]</description>
-    <news>
-
-</news>
-    <platform>all</platform>
-	<assets>
-	<icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/media/1.jpg</screenshot>
-    <screenshot>resources/media/2.jpg</screenshot>
-    <screenshot>resources/media/3.jpg</screenshot>
-</assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.lazyman.nhl.tv" name="LazyMan" version="1.3.0" provider-name="actionbronson,skydrome">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -2528,42 +2477,6 @@ In addition to what livestreams allowed you to do, you can now,
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.neo.tv" version="2.0.0+matrix" name="[B][COLOR white]NEO tv[/COLOR][/B]" provider-name="Neo.tv">
-<requires>
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests" optional="true"/>
-		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-		<import addon="script.module.youtube.dl" optional="true"/>
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.dateutil" optional="true" />
-		<import addon="script.module.resolveurl" optional="true"/>
-                <import addon="script.module.urlresolver" optional="true"/>
-		<import addon="script.module.cloudscraper" optional="true"/>
-		<import addon="script.module.inputstreamhelper" optional="true"/>
-		<import addon="script.module.slproxy" optional="true"/>
-	</requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR white]ADDON [COLOR white]neo[/COLOR][COLOR orange]tv [/COLOR]</summary>
-    <description lang="en">[B][COLOR lime]ADDON oficial [B][COLOR white]neo[/COLOR][COLOR orange]tv [/COLOR][/B] - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
-[B][COLOR white]Addon [B][COLOR white]neo[/COLOR][COLOR orange]tv [/COLOR][/B] é de uso gratuito!![/B][/COLOR]</description>
-    <news>
-
-</news>
-    <platform>all</platform>
-	<assets>
-	<icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshots/.jpg</screenshot>
-    <screenshot>resources/screenshots/.jpg</screenshot>
-    <screenshot>resources/screenshots/.jpg</screenshot>
-</assets>
-  </extension>
 </addon>
 
 <addon id="plugin.video.nhlstreams" name="NHL Streams" version="0.3" provider-name="mbebe">

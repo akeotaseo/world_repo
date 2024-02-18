@@ -3406,9 +3406,10 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.16">
+<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.1 6w64">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
+        <import addon="repository.sarsaila" version="1.1.1"/>
         <import addon="script.module.requests" version="2.22.0"/>
         <import addon="script.module.routing" version="0.2.3"/>
     </requires>
@@ -3423,9 +3424,9 @@ provider-name="FrankAaro">
         <summary lang="en">Torrest on Kodi</summary>
         <description lang="en">Torrest is a service with a rest API which allows torrent streaming.</description>
         <news>
-- Update for torrest 0.0.4 (https://github.com/i96751414/torrest-cpp/releases/tag/v0.0.4)
-- Allow forcing torrest binary
-- Allow custom user-agent definitions
+- Update for torrest 0.0.5 (https://github.com/i96751414/torrest-cpp/releases/tag/v0.0.5)
+- Add support for domain and https for torrest service
+- Allow deleting torrent without prompt
         </news>
         <assets>
             <icon>icon.png</icon>

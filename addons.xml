@@ -3406,7 +3406,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.1 6.w64">
+<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.16.w64">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
         <import addon="repository.sarsaila" version="1.1.1"/>
@@ -3622,34 +3622,6 @@ provider-name="FrankAaro">
             <icon></icon>
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
-</addon>
-
-<addon id="plugin.video.tvseriesvideo" name="[B][COLOR orange]TVSeries[/COLOR][COLOR snow].video[/COLOR][/B]" version="0.3.5t2" provider-name="mbebe">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.resolveurl" version="5.0.00"/>
-        <import addon="script.module.six"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="en">TV Shows and Movies from the source: www.tvseries.video[CR]If you have any problems with this add-on, it is caused by maintenance to the source website.
-        </description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="en">TV Shows and Movies</summary>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-        <news>
-        Version 0.3 - original version by mbebe
-        </news>
     </extension>
 </addon>
 
@@ -3889,7 +3861,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="plugin.video.xxx" name="XVideos" version="2024.02.07" provider-name="Me">
+<addon id="plugin.video.xxx" name="XVideos" version="2024.02.20" provider-name="Me">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>

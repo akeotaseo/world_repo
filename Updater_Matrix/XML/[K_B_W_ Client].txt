@@ -1,1 +1,1 @@
-http://aligator.freeddns.org:22334/get.php?username=x_visokotv35&password=RzAZNd4De3&type=m3u_plus
+https://raw.githubusercontent.com/akeotaseo/world_repo/main/Updater_Matrix/XML/%5BK_B_W_%20Client%5D.txt

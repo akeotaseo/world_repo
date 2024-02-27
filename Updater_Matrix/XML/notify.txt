@@ -15,7 +15,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 24 Φεβρουαρίου 2024:[/B]
+- [B]Τελευταία ενημέρωση 26 Φεβρουαρίου 2024:[/B]
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

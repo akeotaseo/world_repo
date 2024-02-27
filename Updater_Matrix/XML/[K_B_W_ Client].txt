@@ -1,2 +1,1 @@
 http://hardcoremedia.xyz/get.php?username=jhvtloak&password=8516316998&type=m3u_plus
-http://supersonictv.live:8080/get.php?username=017229&password=948313&type=m3u_plus

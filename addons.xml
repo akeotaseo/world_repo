@@ -4638,6 +4638,21 @@ v0.1.0
    </extension>
 </addon>
 
+<addon id="script.module.pycountry" name="ISO Country Library" version="22.3.5" provider-name="jairox">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="resources/lib/"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>ISO Country Library - pycountry repacked for Kodi</summary>
+    <description>A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.</description>
+    <platform>all</platform>
+    <license>GNU AGPL</license>
+    <website>https://github.com/flyingcircusio/pycountry</website>
+    <source>https://github.com/flyingcircusio/pycountry/tree/main/src/pycountry</source>
+  </extension>
+</addon>
+
 <addon id="script.module.singledispatch"
        name="singledispatch"
        version="3.4.0.3"

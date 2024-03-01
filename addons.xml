@@ -1516,7 +1516,7 @@ Quando vuoi. Dove vuoi.
   </extension>
 </addon>
 
-<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.7" provider-name="Jon Snow">
+<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.7a" provider-name="Jon Snow">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
 		<import addon="script.module.beautifulsoup4" version="3.2.1"/>

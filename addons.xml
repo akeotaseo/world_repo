@@ -4788,6 +4788,33 @@ v0.1.0
   </extension>
 </addon>
 
+<addon id="script.module.zeltorix.utilitys" name="Набор инструментов (0.0.168)" version="0.0.202a" provider-name="ZelToRiX">
+    <requires>
+        <import addon="xbmc.python" minversion="3.0.0" version="3.0.1" />
+        <import addon="script.module.zeltorix.packages" version="0.0.12" />
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.python.module" library="resources/lib" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_GB">Дополнительные пакеты</summary>
+        <description lang="en_GB">Дополнения для моих плагинов
+        </description>
+        <language>ru en</language>
+        <license>GPL-3-or-later</license>
+        <forum>http://xbmc.ru/forum/showthread.php?t=26918</forum>
+        <source>https://github.com/Zeltorix/kodi/raw/main/source/release/utilitys</source>
+        <assets>
+            <icon>icon.jpg</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+        <debugging>true</debugging>
+    </extension>
+</addon>
+
 <addon id="script.module.zkte.iso8601" name="iso8601" version="1.0.2" provider-name="Michael Twomey">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

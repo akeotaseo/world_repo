@@ -3927,6 +3927,50 @@ v0.1.0
 </extension>
 </addon>
 
+<addon id="plugin.video.zeltorix.worldcams.tv" name="World Cams (тест)" version="0.0.25" provider-name="Zeltorix">
+    <requires>
+        <import addon="xbmc.python" minversion="3.0.0" version="3.0.1" />
+        <import addon="inputstream.adaptive" version="0.0.0" />
+        <import addon="script.module.zeltorix.utilitys" version="0.0.103" />
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="xbmc.addon.video" library="addon.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">For the worldcams.tv website</summary>
+        <summary lang="ru_RU">Для сайта worldcams.tv</summary>
+        <description lang="en_GB">To watch the live broadcast and other videos available on the worldcams.tv website</description>
+        <description lang="ru_RU">Для просмотра прямого эфира и прочих видео доступных на сайте worldcams.tv</description>
+        <disclaimer lang="en_GB">Unofficial plugin</disclaimer>
+        <disclaimer lang="ru_RU">Не официальный плагин</disclaimer>
+        <news>
+            v0.0.1 (2023-10-30)
+                [new]
+                [fix]
+            ...
+            v0.0.1 (2023-10-30)
+                [new] Старт проекта
+        </news>
+        <platform>all</platform>
+        <language>ru</language>
+        <license>GPL-3-or-later</license>
+        <forum>http://xbmc.ru/forum/showthread.php?t=26920</forum>
+        <source>https://github.com/Zeltorix/kodi/raw/main/release/worldcams_tv</source>
+        <assets>
+            <icon>icon.jpg</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+        <debugging>true</debugging>
+    </extension>
+</addon>
+
 <addon id="program.acestreamhandler" name="Ace Stream Handler" version="0.1.4" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -4786,6 +4830,38 @@ v0.1.0
     <platform>all</platform>
     <license>LGPL-2.1-only</license>
   </extension>
+</addon>
+
+<addon id="script.module.zeltorix.packages" name="Набор пакетов и модулей" version="0.0.23" provider-name="ZelToRiX">
+    <requires>
+        <import addon="xbmc.python" minversion="3.0.0" version="3.0.1" />
+        <import addon="inputstream.adaptive" version="0.0.0" optional="true" />
+        <import addon="script.module.beautifulsoup4" version="0.0.0" />
+
+<!--        для yt_dlp-->
+        <import addon="script.module.requests" version="0.0.0" optional="true" />
+        <import addon="script.module.mutagen" version="0.0.0" optional="true" />
+
+    </requires>
+<!--    <extension point="xbmc.python.script" library="addon.py">-->
+<!--        <provides>executable</provides>-->
+<!--    </extension>-->
+    <extension point="xbmc.python.module" library="resources/lib" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en_GB">Дополнительные пакеты и модули</summary>
+        <description lang="en_GB">Дополнительные пакеты и модули для моих плагинов</description>
+        <language>ru en</language>
+        <license>GPL-3-or-later</license>
+        <forum>http://xbmc.ru/forum/showthread.php?t=26918</forum>
+        <source>https://github.com/Zeltorix/kodi/raw/main/source/release/packages</source>
+        <assets>
+            <icon>icon.jpg</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+        <debugging>true</debugging>
+    </extension>
 </addon>
 
 <addon id="script.module.zeltorix.utilitys" name="Набор инструментов (0.0.168)" version="0.0.202a" provider-name="ZelToRiX">

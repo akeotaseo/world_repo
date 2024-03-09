@@ -2056,7 +2056,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon	id="plugin.video.KODIvertiDO" version="1.6" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
+<addon	id="plugin.video.KODIvertiDO" version="1.7" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
 <requires>
     <import addon="script.module.requests" optional="true" />
     <import addon="script.module.resolveurl" optional="true" />
@@ -2505,30 +2505,35 @@ In addition to what livestreams allowed you to do, you can now,
     </extension>
 </addon>
 
-<addon id="plugin.video.now_music" name="Now Thats What I Call Music" version="5.6.8" provider-name="Catoal">
+<addon id="plugin.video.now_music" name="Now Thats What I Call Music" version="9.0.1" provider-name="Catoal mod by Kodish Team">
   <requires>
-    <import addon="plugin.video.youtube" />
+
+	<trycatch>
+            <try>
+                <import addon="xbmc.python" version="3.0.0"/>
+            </try>
+
+            <catch>
+                <import addon="xbmc.python" version="2.24.0"/>
+            </catch>
+        </trycatch>
+
+
+       <import addon="plugin.video.youtube" version="5.0.0"/>
   </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
+ <extension point="xbmc.python.pluginsource" library="pulse.py">
+    <provides>audio video</provides>
+ </extension>
+ <extension point="xbmc.addon.metadata">
     <summary lang="en">Now Thats What I Call Music Collection</summary>
-    <description lang="en">En ajustes del addon puedes seleccionar visionado con youtube [apis], o con duffyou [sin apis].</description>
-    <disclaimer lang="en"></disclaimer>
+    <description lang="en">Now Thats What I Call Music Collection</description>
     <platform>all</platform>
-    <forum>n/a</forum>
-    <website>n/a</website>
-	<news>Versión 5.6.8
-- Añadido Now 60s
-- Añadido Now 70s
-- Añadido Now 80s
-- Añadido Now 90s</news>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.jpg</fanart>
-	  </assets>
-  </extension>
+    <forum></forum>
+    <website></website>
+    <assets>
+    <icon>icon.jpg</icon>
+    </assets>
+ </extension>
 </addon>
 
 <addon id="plugin.video.onltvaddon" name="Free BG/World Online TV" version="2022.01.29.01" provider-name="MartinStZ">

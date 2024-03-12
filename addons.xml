@@ -2412,6 +2412,47 @@ In addition to what livestreams allowed you to do, you can now,
 	</extension>
 </addon>
 
+<addon id="plugin.video.nbainternational" version="0.0.1~beta21" name="NBA International" provider-name="CHAMCHENKO">
+    <requires>
+        <import addon="script.module.codequick" version="0.9.13"/>
+        <import addon="script.module.future" version="0.17.1"/>
+        <import addon="script.module.pytz" version="2014.2"/>
+        <import addon="script.module.dateutil" version="2.8.1"/>
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB"></summary>
+        <description lang="en_GB">Kodi add-on for NBA International League Pass</description>
+        <platform>all</platform>
+        <language></language>
+        <license>GPL-2.0</license>
+        <source>https://github.com/chamchenko/plugin.video.nbainternational</source>
+        <forum>https://forum.kodi.tv/showthread.php?tid=362466</forum>
+        <website>https://watch.nba.com/</website>
+        <assets>
+            <icon>resources/media/icon.png</icon>
+            <fanart>resources/media/fanart.jpg</fanart>
+            <screenshot>resources/media/screenshot00001.jpg</screenshot>
+            <screenshot>resources/media/screenshot00002.jpg</screenshot>
+            <screenshot>resources/media/screenshot00003.jpg</screenshot>
+            <screenshot>resources/media/screenshot00004.jpg</screenshot>
+            <screenshot>resources/media/screenshot00005.jpg</screenshot>
+            <screenshot>resources/media/screenshot00006.jpg</screenshot>
+            <screenshot>resources/media/screenshot00007.jpg</screenshot>
+            <screenshot>resources/media/screenshot00008.jpg</screenshot>
+            <screenshot>resources/media/screenshot00009.jpg</screenshot>
+            <screenshot>resources/media/screenshot00010.jpg</screenshot>
+            <screenshot>resources/media/screenshot00011.jpg</screenshot>
+            <screenshot>resources/media/screenshot00012.jpg</screenshot>
+            <screenshot>resources/media/screenshot00013.jpg</screenshot>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
+</addon>
+
 <addon id="plugin.video.nhlstreams" name="NHL Streams" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />

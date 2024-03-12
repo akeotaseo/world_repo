@@ -596,6 +596,22 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
+<addon id="plugin.program.sports" name="Diggz Sports Browser " version="420.2" provider-name="Diggz, JewBMX">
+    <requires>
+        <import addon="script.module.kodi-six" />
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Opens Sports Websites from Kodi</summary>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.program.super.favourites" name="Super Favourites" version="8888.w" provider-name="jmooremcc, spoyser">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
@@ -776,6 +792,27 @@ https://github.com/Vashiel/repository.adulthideout
         <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.5.2">
+    <requires>
+        <import addon="script.module.m7lib" version="0.1.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Watch live streams of animals!</summary>
+        <description>Please support the continued development of Animal TV by becoming a Patron [COLOR
+            lightskyblue]https://patreon.m7kodi.dev/[/COLOR]
+        </description>
+        <platform>all</platform>
+        <website>https://m7kodi.dev</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.apex_sports" name="ApeX Sports" version="1.0.7~g3" provider-name="arxtic.ape">
@@ -1349,106 +1386,6 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
 </addon>
 
-<addon id="plugin.video.dazn" version="1.4.2+nexus.1" name="DAZN" provider-name="Jin, Maven">
-    <requires>
-        <import addon="xbmc.python" version="3.0.1"/>
-        <import addon="script.module.inputstreamhelper" version="0.5.0"/>
-        <import addon="script.module.kodi-six" version="0.1.3.1"/>
-        <import addon="script.module.six" version="1.14.0"/>
-        <import addon="script.common.plugin.cache" version="2.6.1.1"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.service" library="startup.py"/>
-    <extension point="xbmc.addon.metadata">
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-        <news>
-V1.4.2
-- fixed resolution problem on android devices
-V1.4.1
-- fixed playback for Kodi Nexus
-V1.4.0
-- fixed playback
-- added the date of an event in the title
-V1.3.26
-- improved package permission detection
-- use the ia property to play a buffered live stream from the beginning
-V1.3.25
-- colored display of unplayable streams (package permission)
-V1.3.24
-- fixed wrong function calls
-- fixed login
-V1.3.23
-- fixed lowercase error for "Start from beginning" feature
-V1.3.22
-- generation of a UUID for Android version 11 and higher, since "Network.MacAddress" returns an empty string
-- reset device id on logout
-- fix ListItem properties deprecations
-- show additional error message
-- dynamically determine the maximum number of devices that can be registered
-- fixed "Start from beginning" for live events
-V1.3.21
-- fixed missing PIN prompt when starting a stream via "Start from Beginning" context menu
-- fixed error when adding stream infos on kodi 18 and 19
-        </news>
-        <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/fanart.jpg</fanart>
-            <screenshot>resources/media/screenshot-01.jpg</screenshot>
-            <screenshot>resources/media/screenshot-02.jpg</screenshot>
-            <screenshot>resources/media/screenshot-03.jpg</screenshot>
-            <screenshot>resources/media/screenshot-04.jpg</screenshot>
-        </assets>
-        <summary lang="de_DE">ERLEBE DEINEN SPORT. LIVE UND AUF ABRUF.</summary>
-        <description lang="de_DE">
-DAZN ist ein live und on-demand Sportstreaming-Dienst.
-Du kannst jetzt Sportevents anschauen, wann immer es dir passt. Jederzeit. Überall.
-        </description>
-        <disclaimer lang="de_DE">Inoffizielles Addon - Benutzung auf eigene Gefahr</disclaimer>
-        <summary lang="en_GB">WATCH SPORTS. LIVE AND ON-DEMAND.</summary>
-        <description lang="en_GB">
-With DAZN, you can watch your favourite sport, live and on demand, at a time that suits you.
-Anytime. Anywhere.
-        </description>
-        <disclaimer lang="en_GB">Unofficial Addon - Use at your own risk</disclaimer>
-        <summary lang="en_US">WATCH SPORTS. LIVE AND ON-DEMAND.</summary>
-        <description lang="en_US">
-With DAZN, you can watch your favourite sport, live and on demand, at a time that suits you.
-Anytime. Anywhere.
-        </description>
-        <disclaimer lang="en_US">Unofficial Addon - Use at your own risk</disclaimer>
-        <summary lang="es_ES">VER ESTE DEPORTE. EN VIVO Y A LA CARTA.</summary>
-        <description lang="es_ES">
-Con DAZN, puedes ver tus deportes favoritos cuando lo desees.
-Cuando quieras. Donde quieras.
-        </description>
-        <disclaimer lang="es_ES">Complemento no oficial - Use bajo su propio riesgo</disclaimer>
-        <summary lang="fr_CA">REGARDER LES SPORTS. VIVANT OU PLUS TARD.</summary>
-        <description lang="fr_CA">
-Regardez avec DAZN vos sports préférés à la demande.
-Quand voulez. Où vous voulez.
-        </description>
-        <disclaimer lang="fr_CA">Addiciel non officiel - Utilisez à vos risques et périls</disclaimer>
-        <summary lang="fr_FR">REGARDER LES SPORTS. VIVANT OU PLUS TARD.</summary>
-        <description lang="fr_FR">
-Regardez avec DAZN vos sports préférés à la demande.
-Quand voulez. Où vous voulez.
-        </description>
-        <disclaimer lang="fr_FR">Addiciel non officiel - Utilisez à vos risques et périls</disclaimer>
-        <summary lang="it_IT">GUARDARE SPORT. LIVE E A RICHIESTA.</summary>
-        <description lang="it_IT">
-Con DAZN puoi guardare i tuoi eventi sportivi preferiti a tuo piacimento.
-Quando vuoi. Dove vuoi.
-        </description>
-        <disclaimer lang="it_IT">Addon non ufficiale - A proprio rischio e pericolo</disclaimer>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <website>https://www.dazn.com</website>
-        <source>https://github.com/Maven85/plugin.video.dazn</source>
-    </extension>
-</addon>
-
 <addon id="plugin.video.desporto.theanonymous" name="[B][COLOR yellow]Desporto[/COLOR] [COLOR cyan]TheAnonymous[/B][/COLOR]" version="1.5" provider-name="[B][COLOR cyan]Desporto[/COLOR] [COLOR yellow]TheAnonymous[/B][/COLOR]">
 <requires>
 		<import addon="script.module.six" />
@@ -1732,45 +1669,41 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon
-    id="plugin.video.hdtrailers_net.reloaded"
-    version="1.0.1"
-    name="HD-Trailers.net (reloaded)"
-    provider-name="WebEye">
+<addon id="plugin.video.hdtrailers_net" version="2.0.1" name="HD-Trailers.net" provider-name="WebEye, axbmcuser">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.12.4"/>
     <import addon="script.module.beautifulsoup4" version="4.3.1"/>
   </requires>
-
   <extension point="xbmc.python.pluginsource" library="main.py">
     <provides>video</provides>
   </extension>
-
   <extension point="xbmc.addon.metadata">
     <language>en</language>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
-    <website>https://github.com/Web-Eye/plugin.video.hdtrailers_net.reloaded</website>
-    <source>https://github.com/Web-Eye/plugin.video.hdtrailers_net.reloaded</source>
+    <website>https://forum.kodi.tv/showthread.php?tid=148400</website>
+    <forum>https://forum.kodi.tv/showthread.php?tid=148400</forum>
+    <source>https://github.com/axbmcuser/_repo/</source>
+    <news>[B]2.0.1[/B] (2022-12-31)
+
+- Improvements to the automatic View Type selection
+- Added main page button to all subfolders
+- Clean up unused code and language strings
+
+[B]2.0.0[/B] (2022-12-31)
+
+- Python 3 full rewrite by WebEye for Kodi 19+20
+- Improvements, additional changes and release cleanup by axbmcuser
+
+    </news>
     <summary lang="de">Trailer von der Internetseite "hd-trailers.net"</summary>
     <summary lang="en">Trailers from the website "hd-trailers.net"</summary>
-    <disclaimer lang="en_GB">Use at your own risk. Post suggestions, improvements or bug reports directly to GitHub.</disclaimer>
-    <disclaimer lang="de_DE">Benutzung auf eigene Gefahr. Anregungen, Verbesserungen oder Bugs bitte direkt über GitHub posten.</disclaimer>
     <assets>
       <icon>resources/assets/icon.png</icon>
       <fanart>resources/assets/fanart.png</fanart>
-      <screenshot>resources/assets/screenshot_1.png</screenshot>
-      <screenshot>resources/assets/screenshot_2.png</screenshot>
-      <screenshot>resources/assets/screenshot_3.png</screenshot>
     </assets>
-    <news>
-    </news>
   </extension>
-
-
-
-
 </addon>
 
 <addon id="plugin.video.hunt-channel" name="Hunt Channel" version="2021.09.26" provider-name="MetalChris">
@@ -3794,26 +3727,6 @@ v0.1.0
 	</extension>
 </addon>
 
-<addon id="plugin.video.winner" name="[COLOR orange]WINNER 3[/COLOR]" version="3.28.12" provider-name="La Taberna">
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-
-    <extension point="xbmc.addon.metadata">
-        <summary lang="es">[COLOR orange]WINNER 3[/COLOR]</summary>
-        <description lang="es">Addon con eventos deportivos en directo.</description>
-        <disclaimer lang="es">Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR][COLOR red][B]Pero no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, por su uso o por recibir asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
-        <license lang="es">[B]Este es un software gratuito[/B]</license>
-        <platform>all</platform>
-        <assets>
-            <icon>resources/media/icon.jpg</icon>
-            <fanart>resources/media/fanart.jpg</fanart>
-        </assets>
-
-        <news></news>
-    </extension>
-</addon>
-
 <addon id="plugin.video.wod" name="WOD" version="0.4" provider-name="">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
@@ -3880,28 +3793,6 @@ v0.1.0
 
 </addon>
 
-<addon id="plugin.video.yourdaddy" name="Who's Your Daddy?" version="1.0.0" provider-name="G-Man">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="script.module.six"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">Live Streaming Porn</summary>
-        <description lang="en">Adult Entertainment</description>
-        <disclaimer lang="en">For Adults Only</disclaimer>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <assets>
-            <icon>icon.png</icon>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.ZadarTeamAddon19"
        name="[COLOR blue][B]ZADAR TEAM ADDON[/B][/COLOR]"
        version="3.0.0+matrix"
@@ -3932,7 +3823,7 @@ v0.1.0
 </extension>
 </addon>
 
-<addon id="plugin.video.zeltorix.worldcams.tv" name="World Cams (тест)" version="0.0.25" provider-name="Zeltorix">
+<addon id="plugin.video.zeltorix.worldcams.tv" name="World Cams (тест)" version="0.0.26" provider-name="Zeltorix">
     <requires>
         <import addon="xbmc.python" minversion="3.0.0" version="3.0.1" />
         <import addon="inputstream.adaptive" version="0.0.0" />
@@ -4869,7 +4760,7 @@ v0.1.0
     </extension>
 </addon>
 
-<addon id="script.module.zeltorix.utilitys" name="Набор инструментов (0.0.168)" version="0.0.202a" provider-name="ZelToRiX">
+<addon id="script.module.zeltorix.utilitys" name="Набор инструментов" version="0.0.168" provider-name="ZelToRiX">
     <requires>
         <import addon="xbmc.python" minversion="3.0.0" version="3.0.1" />
         <import addon="script.module.zeltorix.packages" version="0.0.12" />

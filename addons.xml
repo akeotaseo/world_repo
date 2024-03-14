@@ -4564,6 +4564,22 @@ v0.1.0
     </extension>
 </addon>
 
+<addon id="script.module.isodate" name="ISO8601 Library" version="0.6.0.1" provider-name="jairox">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="resources/lib/"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>ISO8601 Library</summary>
+    <description>ISO 8601 date/time parser repacked for Kodi</description>
+    <platform>all</platform>
+    <license>BSD</license>
+    <source>https://github.com/gweis/isodate</source>
+    <website>https://github.com/back-to/script.module.isodate</website>
+    <news></news>
+  </extension>
+</addon>
+
 <addon id="script.module.js2py" name="js2py" version="3.0.0" provider-name="Addons4Kodi">
   <requires>
     <import addon="script.module.six" version="1.15.0"/>

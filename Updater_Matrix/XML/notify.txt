@@ -15,7 +15,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 19 Μαρτίου 2024:[/B]
+- [B]Τελευταία ενημέρωση 23 Μαρτίου 2024:[/B]
 - Κι ο Θεός βοηθός...
 
 

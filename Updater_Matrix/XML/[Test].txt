@@ -50,3 +50,6 @@ http://xtream-ie.com:80/get.php?username=mo3adv60B&password=mo3adv60B&type=m3u_p
 http://zaintv.xyz:8080/get.php?username=363605458663096&password=05458663096&type=m3u_plus
 http://zyniptv.com:8080/get.php?username=ObsFullHd&password=Scgw82xaNDSa&type=m3u_plus
 https://live.maxcimo.com:8000/get.php?username=zredmonkey92162&password=h52kjo82jikjijkihvg552g&type=m3u_plus
+http://imaxplay.net:2082/get.php?username=powertv&password=S5PrKNrexPba&type=m3uReal
+http://app.nicebea.xyz/xmltv.php?username=6GB8F36CBE&password=vNF6J4ShD8rr&type=m3u_plus
+http://app.nicebea.xyz/xmltv.php?username=JQJ3C2GFR8&password=xtmxBW4c7r7r&type=m3u_plus

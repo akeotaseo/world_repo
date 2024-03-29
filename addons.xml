@@ -1964,19 +1964,20 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.kodispaintv" name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]" version="3.0.0" provider-name="joheos11">
+<addon id="plugin.video.kodispaintv" name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]" version="3.4.0" provider-name="joheos11">
 	<requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests" optional="true"/>
-		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.dateutil" />
+		<import addon="script.module.websocket" />
+		<import addon="script.module.inputstreamhelper" optional="true"/>
 		<import addon="script.module.youtube.dl" optional="true"/>
 		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.dateutil" optional="true" />
+		<import addon="plugin.video.duffyou" optional="true" />
 		<import addon="script.module.resolveurl" optional="true"/>
 		<import addon="script.module.urlresolver" optional="true"/>
 		<import addon="script.module.cloudscraper" optional="true"/>
-		<import addon="script.module.inputstreamhelper" optional="true"/>
 		<import addon="script.module.slproxy" optional="true"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
@@ -1994,7 +1995,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	<extension point="xbmc.addon.metadata">
 		<summary>Canales de Televisión, deportes y más...</summary>
 		<description>
-Puedes seguirme en https://t.me/kodispain y http://konectas.es
+Puedes seguirme en https://t.me/kodispain_1 y http://konectas.es
 
 AVISO LEGAL:
 
@@ -2013,7 +2014,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 			<screenshot>resources/media/screenshoot-3.jpg</screenshot>
 			<screenshot>resources/media/screenshoot-4.jpg</screenshot>
 		</assets>
-		<news>Primera versión también compatible con Kodi 19 Matrix</news>
+		<news>Primera versión basada en LSP Mod by Someone Like You</news>
 	</extension>
 </addon>
 

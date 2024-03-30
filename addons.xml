@@ -3050,7 +3050,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.sc19
     </extension>
 </addon>
 
-﻿<addon id="plugin.video.sportstreams" name="Sport Streams" provider-name="waladir" version="1.0.7">
+﻿<addon id="plugin.video.sportstreams" name="Sport Streams" provider-name="waladir" version="1.0.8">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests" version="2.22.0" />
@@ -3076,6 +3076,9 @@ Niké.sk (živé přenosy i archiv ze slovenských soutěží)
     <platform>all</platform>
     <source>https://github.com/waladir/plugin.video.sportstreams</source>
     <news>
+v1.0.8 (30.3.2024)
+- ošetření chybějících dat u Ettu.tv
+
 v1.0.7 (4.3.2023)
 - oprava řazení u ČT4 Sport Plus
 - oprava chyby s nevyplněným url u budoucích streamů
@@ -3089,9 +3092,6 @@ v1.0.5 (14.11.2022)
 
 v1.0.4 (12.11.2022)
 - přidání Ettu.tv
-
-v1.0.3 (3.8.2022)
-- úprava dat pro huste.tv + formátování datumu
     </news>
     <assets>
         <icon>icon.png</icon>

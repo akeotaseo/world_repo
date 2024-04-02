@@ -1,0 +1,149 @@
+http://jabawalkies.club:8080/get.php?username=Zyw9DhhFr1&password=d3x48sAK9F&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : Zyw9DhhFr1 
+ PASSWORD : d3x48sAK9F 
+ MAXCONN : 1001 
+ ACTCONN : 838 
+ TRIAL : 0 
+ Created on : 9/12/2021 4:48:16 PM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 4/2/2024 4:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HD24/7Arabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 2 
+ http://jabawalkies.club:8080/get.php?username=WZuU9hNmRJ&password=tZrJVmk2yC&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : WZuU9hNmRJ 
+ PASSWORD : tZrJVmk2yC 
+ MAXCONN : 100 
+ ACTCONN : 50 
+ TRIAL : 0 
+ Created on : 10/1/2020 11:24:06 PM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 1/1/1970 12:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HD24/7Arabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 3 
+ http://jabawalkies.club:8080/get.php?username=hpzfgUh8z2&password=GZb9FADDzh&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : hpzfgUh8z2 
+ PASSWORD : GZb9FADDzh 
+ MAXCONN : 1000 
+ ACTCONN : 294 
+ TRIAL : 0 
+ Created on : 12/18/2020 3:06:31 AM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 4/19/2024 5:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HD24/7Arabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 4 
+ http://jabawalkies.club:8080/get.php?username=B7CfqXh512&password=tCy9H8P13e&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : B7CfqXh512
+08:39
+
+ PASSWORD : tCy9H8P13e 
+ MAXCONN : 100 
+ ACTCONN : 21 
+ TRIAL : 0 
+ Created on : 1/30/2024 1:10:52 AM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 1/1/1970 12:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)USA HD USA BUUSA SD USA KIDS HDUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HDArabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 5 
+ http://jabawalkies.club:8080/get.php?username=6kjTRJP7jV&password=UGG3pXKVQE&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : 6kjTRJP7jV 
+ PASSWORD : UGG3pXKVQE 
+ MAXCONN : 250 
+ ACTCONN : 217 
+ TRIAL : 0 
+ Created on : 10/2/2023 12:16:19 AM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 5/1/2024 5:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HDArabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 6 
+ http://jabawalkies.club:8080/get.php?username=xrPgkb3VjC&password=guvYUFBGwm&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : xrPgkb3VjC 
+ PASSWORD : guvYUFBGwm 
+ MAXCONN : 500 
+ ACTCONN : 470 
+ TRIAL : 0 
+ Created on : 3/13/2021 12:46:11 AM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 4/15/2024 5:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)PPV 2USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)EPL/ASTRO/OPTUS/SPARK (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)Flo-Sports (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HD24/7Arabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 7 
+ http://jabawalkies.club:8080/get.php?username=Ii1iLilIilvcf5111iIl1lIil&password=wZNi2qBZ3699m&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : Ii1iLilIilvcf5111iIl1lIil 
+ PASSWORD : wZNi2qBZ3699m 
+ MAXCONN : 500 
+ ACTCONN : 81 
+ TRIAL : 0 
+ Created on : 12/19/2021 5:48:37 PM
+08:39
+
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 1/1/1970 12:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HDArabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 8 
+ http://jabawalkies.club:8080/get.php?username=qYpkzN7tRT&password=G1bCxknehy&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : qYpkzN7tRT 
+ PASSWORD : G1bCxknehy 
+ MAXCONN : 3 
+ ACTCONN : 1 
+ TRIAL : 0 
+ Created on : 10/10/2022 5:01:42 AM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 4/5/2024 11:37:12 PM 
+ Channels : PPV HD (LIVE EVENTS)PPV 2USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)EPL/ASTRO/OPTUS/SPARK (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)Flo-Sports (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HD24/7Arabic Australia Brazil-endBrazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 9 
+ http://jabawalkies.club:8080/get.php?username=BvdFXz1acv&password=cQVN7RsrPa&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : BvdFXz1acv 
+ PASSWORD : cQVN7RsrPa 
+ MAXCONN : 62 
+ ACTCONN : 55 
+ TRIAL : 0 
+ Created on : 2/27/2024 6:45:07 PM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 4/29/2024 5:00:00 AM 
+ Channels : PPV HD (LIVE EVENTS)USA HD USA BUUSA SD USA KIDS HDUSA Locals2USA Locals back upUSA MOVIES HDUSA NEWS HDUSA SPORTS HDUSA MLSMLB/NFL/NHL/stbemuiptv.comAMLB/NFL/NHL/stbemuiptv.comA B-upMLB/NHL/stbemuiptv.comA/NFL Teams HDUSA Sports stbemuiptv.comC Sports Regionals HDUSA Sports UFC Fight PassCanada HDCanada Sports HDUK HDUK MOVIES HDUK SPORTS HDUK SPORTS BuBEIN Arabic HDCLUB HD (Live Events)DAZN (Live Events)ESPN Plus (Live Events)Dirtvision (Live Events)RUGBY PASS (Live Events)World SportsMusic Choice HDArabic Australia Brazilian HDBRAZIL-CARIBBEANCroatiaColombiaDutch/GermanFrance HDFrench CanadianGreekIndia HDIrelandITALYLatinoMexicoNetherlandsPhilippinePortuguese Puerto RicoReligious Spanish FHDSpanish HDSpain-LSwitzerland XXX HDXXX HD VOD TESTING/FIXING/OFFSEASON 
+ VOD :  
+ Tested BY Telegram: @stbemuiptvcom1  
+ 
+stbemuiptv.com : 10 
+ http://jabawalkies.club:8080/get.php?username=x9t7HrZpr1&password=Kyu54QRn8f&type=m3u_plus 
+ STATUS : Active 
+ USERNAME : x9t7HrZpr1 
+ PASSWORD : Kyu54QRn8f 
+ MAXCONN : 80 
+ ACTCONN : 29 
+ TRIAL : 0 
+ Created on : 11/2/2020 4:41:08 PM 
+ Allowed Outputs : m3u8,ts,rtmp 
+ Expired on : 4/13/2024 4:00:00 AM

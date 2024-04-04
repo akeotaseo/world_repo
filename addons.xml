@@ -2921,7 +2921,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.6.0" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.6.1" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2943,9 +2943,9 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.6.0 - Remove view_set method, change how cat_video gets video data, Remove hardcoded categories, add Categories section, add Live Stream Section, add info_label to include duration and year, Fix user search and battle leaderboard REGEX
-- v1.5.4 - Fix search, Fix following users
-- v1.5.3 - Changes to clean_text method</news>
+		<news>- v1.6.1 - Add Upcoming into upcoming video titles, Autoplay if only 1 quality, add m3u8 handler for live streams
+- v1.6.0 - Remove view_set method, change how cat_video gets video data, Remove hardcoded categories, add Categories section, add Live Stream Section, add info_label to include duration and year, Fix user search and battle leaderboard REGEX
+- v1.5.4 - Fix search, Fix following users</news>
 	</extension>
 </addon>
 

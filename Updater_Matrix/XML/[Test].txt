@@ -136,6 +136,7 @@ http://dnns.ca:8000/get.php?username=shpetimgashi&password=70:2a:d5:37:94:88&typ
 http://dnsplay.xyz/get.php?username=rpauilxw&password=Lap2P2m59u&type=m3u_plus
 http://dottor.ddns.net:8000/get.php?username=e79den9e&password=m72dmuw&type=m3u_plus
 http://dragonball.digips.ovh:9798/get.php?username=jose394494&password=7eutaztsla&type=m3u_plus
+http://drks.info:8080/get.php?username=nitiniti&password=3w31aSTLUG&type=m3u_plus
 http://ds.s220.cc:8880/get.php?username=guqfsnkorq&password=7czdbvkic3&type=m3u_plus
 http://dynamoproject.net:8880/get.php?username=Sabrinacarrera&password=6uM2J6ieLs&type=m3u_plus
 http://echo.solanaflix.com:8080/get.php?username=TV-90120194&password=172421414933&type=m3u_plus
@@ -213,6 +214,7 @@ http://iptvfeki.streamtv.to:8080/get.php?username=sekisestra&password=mnef4th8kw
 http://iptvgala.de:4512/get.php?username=ebrubecker&password=7vr2sbzptq&type=m3u_plus
 http://iptvmedia.live:8080/get.php?username=Stefan&password=bd693fe7&type=m3u_plus
 http://iptvpixel.com:80/get.php?username=ahmedmamdouh9090&password=01010384376&type=m3u_plus
+http://iptvportuga.com:25461/get.php?username=mariosantos&password=FSO7N84RaO&type=m3u_plus
 http://iptvtree.net:8080/get.php?username=F32814&password=52428e06&type=m3u
 http://iptvworld.ml:2095/get.php?username=ajb46eud&password=eyfbqqak&type=m3u_plus
 http://iriade-no-freezze.ddns.me:80/get.php?username=Sergiolino&password=Brecciolino&type=m3u_plus&output=m3u8
@@ -536,3 +538,12 @@ http://zeki.baba-iptv.com:8080/get.php?username=Hakanonal&password=Onalhakan&typ
 http://zuihaode.site:8000/get.php?username=JorgeBrown&password=zfb9Zjyf37&type=m3u_plus
 http://zyniptv.com:8080/get.php?username=ObsFullHd&password=Scgw82xaNDSa&type=m3u_plus
 https://live.maxcimo.com:8000/get.php?username=zredmonkey92162&password=h52kjo82jikjijkihvg552g&type=m3u_plus
+
+http://ott1.live:8080/get.php?username=Bangla100conx&password=BANGLA100CONX&type=m3u_plus
+http://ott1.live:8080/get.php?username=Livetvontelegram200&password=Live@400conx&type=m3u_plus
+http://ott1.live:8080/get.php?username=RIOSKYPEGUSHDJ200COX&password=GDWUXHJEJDHAKSCRFRR&type=m3u_plus
+http://ott1.live:8080/get.php?username=Sshreborn250&password=250conxonly&type=m3u_plus
+http://areaf.xyz:8080/get.php?username=251686929389097&password=6681686929389244&type=m3u_plus
+http://areaf.xyz:8080/get.php?username=561703513591132&password=21703513591179&type=m3u_plus
+http://areaf.xyz:8080/get.php?username=851700258643125&password=21703359542785&type=m3u_plus
+http://areaf.xyz:8080/get.php?username=Eddy&password=Eddy&type=m3u_plus

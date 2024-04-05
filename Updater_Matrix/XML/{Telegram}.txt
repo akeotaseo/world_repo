@@ -7,3 +7,4 @@ http://jabawalkies.club:8080/get.php?username=hpzfgUh8z2&password=GZb9FADDzh&typ
 http://jabawalkies.club:8080/get.php?username=qYpkzN7tRT&password=G1bCxknehy&type=m3u_plus
 http://jabawalkies.club:8080/get.php?username=x9t7HrZpr1&password=Kyu54QRn8f&type=m3u_plus
 http://jabawalkies.club:8080/get.php?username=xrPgkb3VjC&password=guvYUFBGwm&type=m3u_plus
+http://jabawalkies.club:8080/get.php?username=Ii1iLilIilvcf5111iIl1lIil&password=wZNi2qBZ3699m&type=m3u_plus

@@ -1358,35 +1358,6 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowa-telewizja-com" name="darmowa-telewizja-com" version="1.0.0" provider-name="lg">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="service.cronxbmc" optional="true"/>
-        <import addon="script.module.future"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
- 	<extension point="xbmc.addon.metadata">
-        <description lang="pl">darmowa-telewizja-com</description>
-        <disclaimer lang="pl">darmowa-telewizja-com
-        </disclaimer>
-        <summary lang="en">darmowa-telewizja-com</summary>
-        <description lang="en">darmowa-telewizja-com</description>
-        <disclaimer lang="en">darmowa-telewizja-com
-        </disclaimer>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon></icon>
-        </assets>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
-</addon>
-
 <addon id="plugin.video.dartstreams" name="dartstreams" version="1.0.0a" provider-name="lg">
     <requires>
         <import addon="script.module.requests" />
@@ -1918,36 +1889,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.klubsports" name="klubsports" version="1.0.02a" provider-name="lg">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="service.cronxbmc" optional="true"/>
-        <import addon="script.module.future"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
- 	<extension point="xbmc.addon.metadata">
-        <description lang="pl">klubsports</description>
-        <disclaimer lang="pl">klubsports
-        </disclaimer>
-        <summary lang="en">klubsports</summary>
-        <description lang="en">klubsports</description>
-        <disclaimer lang="en">klubsports
-        </disclaimer>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon>icon.jpg</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
-</addon>
-
 <addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.2" provider-name="Kodi Karaoke">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -2227,38 +2168,6 @@ AVISO LEGAL:
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.maxsport" name="maxsport" version="1.0.0" provider-name="lg">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="service.cronxbmc" optional="true"/>
-        <import addon="script.module.future"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
-	<extension point="xbmc.service" library="serverHTTP.py" />
-	<extension point="xbmc.addon.metadata">
-        <description lang="pl">test</description>
-        <disclaimer lang="pl">test
-        </disclaimer>
-        <summary lang="en">test</summary>
-        <description lang="en">test</description>
-        <disclaimer lang="en">test
-        </disclaimer>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon></icon>
-        </assets>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
-
 </addon>
 
 <addon id="plugin.video.MetalOnMetal" name="[COLOR red]Metal on Metal[/COLOR]"	version="1.0.14"	provider-name="Sergi">
@@ -2705,35 +2614,6 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-    </extension>
-</addon>
-
-<addon id="plugin.video.polstreamLive" name="polstreamLive" version="1.0.0" provider-name="lg">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="service.cronxbmc" optional="true"/>
-        <import addon="script.module.future"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
- 	<extension point="xbmc.addon.metadata">
-        <description lang="pl">polstreamLive</description>
-        <disclaimer lang="pl">polstreamLive
-        </disclaimer>
-        <summary lang="en">polstreamLive</summary>
-        <description lang="en">polstreamLive</description>
-        <disclaimer lang="en">polstreamLive
-        </disclaimer>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon></icon>
-        </assets>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
 </addon>
 
@@ -3196,7 +3076,7 @@ v1.0.4 (12.11.2022)
 	</extension>
 </addon>
 
-<addon id="plugin.video.stalkervod" name="Stalker VOD Client" version="0.0.5" provider-name="rickey">
+<addon id="plugin.video.stalkervod" name="Stalker VOD Client" version="0.0.6" provider-name="rickey">
 	<requires>
 		<import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests" version="2.27.1"/>
@@ -3221,6 +3101,9 @@ v1.0.4 (12.11.2022)
 			<screenshot>resources/media/screenshot_4.png</screenshot>
 		</assets>
 		<news>
+v0.0.6  (2024-03-28)
+- Bug fix
+
 v0.0.5  (2024-03-23)
 - Fix for portals with no stalker_portal in context path
 Please try re-entering the server address based on the format provided if it does not work after upgrading to v0.0.5
@@ -3239,37 +3122,6 @@ v0.0.1  (2023-10-22)
 - Initial Release
 		</news>
 	</extension>
-</addon>
-
-<addon id="plugin.video.stream2watch" name="stream2watch" version="1.0.03" provider-name="lg">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="service.cronxbmc" optional="true"/>
-        <import addon="script.module.future"/>
-		<import addon="script.module.js2py" version="3.0.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
- 	<extension point="xbmc.service" library="serverHTTP.py" />
-	<extension point="xbmc.addon.metadata">
-        <description lang="pl">stream2watch</description>
-        <disclaimer lang="pl">stream2watch
-        </disclaimer>
-        <summary lang="en">stream2watch</summary>
-        <description lang="en">stream2watch</description>
-        <disclaimer lang="en">stream2watch
-        </disclaimer>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon>icon.jpg</icon>
-        </assets>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
 </addon>
 
 <addon id="plugin.video.takeroom" name="Take Room" version="1.0" provider-name="Take Room">
@@ -3680,35 +3532,6 @@ provider-name="FrankAaro">
       <icon>icon.png</icon>
     </assets>
   </extension>
-</addon>
-
-<addon id="plugin.video.tvpolan" name="tvpolan" version="1.0.0" provider-name="lg">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="service.cronxbmc" optional="true"/>
-        <import addon="script.module.future"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-    </extension>
- 	<extension point="xbmc.addon.metadata">
-        <description lang="pl">tvpolan</description>
-        <disclaimer lang="pl">tvpolan
-        </disclaimer>
-        <summary lang="en">tvpolan</summary>
-        <description lang="en">tvpolan</description>
-        <disclaimer lang="en">tvpolan
-        </disclaimer>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon></icon>
-        </assets>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
 </addon>
 
 <addon id="plugin.video.twistedtv" name="[COLOR orange]Twisted TV[/COLOR]" version="1.0" provider-name="[COLOR orange]Twisted Nutz[/COLOR]">

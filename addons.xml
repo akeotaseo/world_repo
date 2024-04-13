@@ -1126,7 +1126,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
 </addon>
 
 <addon id="plugin.video.co.bellesa.free"
-       version="0.0.7"
+       version="0.0.8"
        name="bellesa.co (free)"
        provider-name="fr33p0rt">
 <requires>

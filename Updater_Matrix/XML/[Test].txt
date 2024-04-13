@@ -547,3 +547,6 @@ http://areaf.xyz:8080/get.php?username=251686929389097&password=6681686929389244
 http://areaf.xyz:8080/get.php?username=561703513591132&password=21703513591179&type=m3u_plus
 http://areaf.xyz:8080/get.php?username=851700258643125&password=21703359542785&type=m3u_plus
 http://areaf.xyz:8080/get.php?username=Eddy&password=Eddy&type=m3u_plus
+
+
+http://12050.vipbora.com:80/get.php?username=bora524&password=8eax57394&type=m3u_plus

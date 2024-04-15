@@ -1294,7 +1294,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="4.03" provider-name="THE CREW">
+<addon id="plugin.video.daddylive" name="Daddylive" version="4.04" provider-name="THE CREW">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />
@@ -2304,6 +2304,32 @@ AVISO LEGAL:
 		<fanart>fanart.jpg</fanart>
 	  </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.mycamtv"
+version="1.0.0"
+name="MyCamTV Live Adult Webcams"
+provider-name="MyCamTV">
+<requires>
+  <import addon="xbmc.python" version="3.0.1"/>
+  <import addon="script.module.requests" version="2.22.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en_GB">MyCamTV Live Adult Webcams</summary>
+  <description lang="en_GB">MyCamTV Live Adult Webcams includes Stripchat.com, Chaturbate.com, Camsoda.com, Bongocams.com, Cam4.com.</description>
+  <disclaimer lang="en_GB">All the live webcams are directly streamed at the website which model signed up. You can preview here and interact with the content at related website. We don't own, store, publish any content under our network.</disclaimer>
+  <license>GPL-3.0-only	</license>
+  <assets>
+    <icon>resources/images/icon.gif</icon>
+    <fanart>resources/images/fanart.jpg</fanart>
+    <screenshot>resources/images/screenshot-1.jpg</screenshot>
+    <screenshot>resources/images/screenshot-2.jpg</screenshot>
+  </assets>
+  <news>Initial release of MyCamTV Live Adult Webcams</news>
+</extension>
 </addon>
 
 <addon id="plugin.video.myiptvpro" name="  [B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.2a" provider-name="A Great Person">

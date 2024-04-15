@@ -1961,7 +1961,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon	id="plugin.video.KODIvertiDO" version="1.82" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
+<addon	id="plugin.video.KODIvertiDO" version="1.85" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
 <requires>
     <import addon="script.module.requests" optional="true" />
     <import addon="script.module.resolveurl" optional="true" />

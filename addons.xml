@@ -2110,7 +2110,7 @@ AVISO LEGAL:
 </addon>
 
 <addon
-	id="plugin.video.macvod" version="1.98" name="[COLORyellow]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo|233">
+	id="plugin.video.macvod" version="1.991" name="[COLORyellow]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo|233">
 <requires>
     	<import addon="script.module.resolveurl"/>
 	    <import addon="script.module.requests"/>

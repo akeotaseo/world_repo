@@ -517,7 +517,13 @@ http://tv.pro-ott.com/get.php?username=harris91829&password=PM8WH57T1X&type=m3u_
 http://tv.pro-ott.com/get.php?username=hermandb&password=WPLLZUMVVI&type=m3u_plus
 http://tv.pro-ott.com/get.php?username=ideslep&password=GHH9N29R4A&type=m3u_plus
 http://tv.pro-ott.com/get.php?username=o1tEXUfCO0&password=QE4I5CeVb1&type=m3u_plus
+
+http://cdn1bee.com:80/get.php?username=488719858&password=739413862&type=m3u_plus
 http://tv.ultimate-iptv.pro:8000/get.php?username=985122825605&password=985122825605&type=m3u_plus
+http://rtx.p9325.top:8080/get.php?username=FM4gwrJO4t&password=6mrUsrmwaM&type=m3u_plus&output=m3u8
+
+
+
 http://tv.urllista.com:80/get.php?username=joaobfigueiredo&password=k20mwmp88id&type=m3u_plus
 http://tv.urllista.com:80/get.php?username=kalifwe&password=3xrfuiyywxy&type=m3u_plus
 http://tv.urllista.com:80/get.php?username=kletissonsantos&password=34brvj1ypd&type=m3u_plus

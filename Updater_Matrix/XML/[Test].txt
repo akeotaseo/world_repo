@@ -498,3 +498,8 @@ http://zuihaode.site:8000/get.php?username=JorgeBrown&password=zfb9Zjyf37&type=m
 http://zyniptv.com:8080/get.php?username=ObsFullHd&password=Scgw82xaNDSa&type=m3u_plus
 httph://triertri.xyz/get.php?username=022976210&password=231874469&type=m3u_plus
 https://live.maxcimo.com:8000/get.php?username=zredmonkey92162&password=h52kjo82jikjijkihvg552g&type=m3u_plus
+
+http://ms.motv.club:12076/get.php?username=EnisM1MOB&password=Nor-EnisM1&type=m3u_plus
+http://cdn1bee.com:80/get.php?username=488719858&password=739413862&type=m3u_plus
+http://tv.ultimate-iptv.pro:8000/get.php?username=985122825605&password=985122825605&type=m3u_plus
+http://rtx.p9325.top:8080/get.php?username=FM4gwrJO4t&password=6mrUsrmwaM&type=m3u_plus&output=m3u8

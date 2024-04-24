@@ -503,3 +503,4 @@ http://ms.motv.club:12076/get.php?username=EnisM1MOB&password=Nor-EnisM1&type=m3
 http://cdn1bee.com:80/get.php?username=488719858&password=739413862&type=m3u_plus
 http://tv.ultimate-iptv.pro:8000/get.php?username=985122825605&password=985122825605&type=m3u_plus
 http://rtx.p9325.top:8080/get.php?username=FM4gwrJO4t&password=6mrUsrmwaM&type=m3u_plus&output=m3u8
+http://anotaai.xyz/get.php?username=42198657&password=98265115&type=m3u_plus

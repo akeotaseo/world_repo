@@ -16,6 +16,17 @@ http://EXM3U.ofio.xyz:80/get.php?username=vi729855&password=YndXMTxNUqF&type=m3u
 http://andreeamarin.info:8000/get.php?username=Savu_Roberto&password=r64qrdF&type=m3u_plus
 http://andreeamarin.info:8000/get.php?username=aranka_lupsa&password=cZXxUf5&type=m3u_plus
 http://andreeamarin.info:8000/get.php?username=jY6GjDRJtr4&password=eQxcU77&type=m3u_plus
+http://dd.iptvget.icu:80/get.php?username=9NH6V2JR5L&password=stxGk7hg8K&type=m3u
+http://dd.iptvget.icu:80/get.php?username=A1732606&password=5883gh5788&type=m3u
+http://dd.iptvget.icu:80/get.php?username=KMXJYFMUXF&password=8666675776&type=m3u
+http://dd.iptvget.icu:80/get.php?username=P4RN7XUPVU&password=JTckKAT8TV4&type=m3u
+http://dd.iptvget.icu:80/get.php?username=XHE4820506&password=544788666&type=m3u
+http://dd.iptvget.icu:80/get.php?username=hu917950&password=xECyrnnEKr8&type=m3u
+http://dd.iptvget.icu:80/get.php?username=ja914842&password=eXXNaEQFq3TD&type=m3u
+http://dd.iptvget.icu:80/get.php?username=mi215756&password=tbdWeThMtX&type=m3u
+http://dd.iptvget.icu:80/get.php?username=soniaesmovil&password=Yw@vEUes4M&type=m3u
+http://dd.iptvget.icu:80/get.php?username=vi1228488&password=43XnD9TVaUgR&type=m3u
+http://dd.iptvget.icu:80/get.php?username=vi125973&password=wcM568sMR5&type=m3u
 http://goood.mine.nu:8000/get.php?username=fl348&password=348fl&type=m3u
 http://goood.mine.nu:8000/get.php?username=fl87&password=87fl&type=m3u
 http://jabawalkies.club:8080/get.php?username=6kjTRJP7jV&password=UGG3pXKVQE&type=m3u_plus
@@ -59,6 +70,7 @@ http://s.pdsrv.io/get.php?username=thalesiagorh3&password=shchnsf4&type=m3u_plus
 http://s.pdsrv.io/get.php?username=toninhopadua&password=7X18G294&type=m3u_plus
 http://s1.czxbexchange.xyz/get.php?username=19366073&password=18603509&type=m3u_plus
 http://s1.czxbexchange.xyz/get.php?username=898964357111&password=407483092549&type=m3u_plus
+http://sibfungold.info:8080/get.php?username=noyoss1&password=Nuy6wDwqYu22PQ5C7LC8&type=m3u_plus
 http://smart.maxones.xyz/get.php?username=Aitor903D&password=AitorM122&type=m3u_plus
 http://smart.maxones.xyz/get.php?username=Alex422&password=Alex422M12&type=m3u_plus
 http://smart.maxones.xyz/get.php?username=CHIPI829AAB&password=CHIPI829BM121&type=m3u_plus

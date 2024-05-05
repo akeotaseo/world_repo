@@ -2,7 +2,7 @@ http://restream.globaltv1.net:8080/get.php?username=Koerper&password=6PacDRLyepQ
 http://restream.globaltv1.net:8080/get.php?username=AndyTele&password=MVjUZYhSbm&type=m3u_plus
 http://restream.globaltv1.net:8080/get.php?username=HuBsi469&password=ubVz4pRXdvhp&type=m3u_plus
 http://restream.globaltv1.net:8080/get.php?username=MaikK&password=x0606x&type=m3u_plus
-_plus
+
 http://restream.globaltv1.net:8080/get.php?username=Maria11&password=ksRnGGt7N8ka&type=m3u_plus
 http://restream.globaltv1.net:8080/get.php?username=MarkA&password=x22032022x&type=m3u_plus
 http://restream.globaltv1.net:8080/get.php?username=JPohl&password=1234JPohl&type=m3u_plus

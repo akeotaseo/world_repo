@@ -185,6 +185,26 @@
     </extension>
 </addon>
 
+<addon id="plugin.audio.radio_de_light" name="Radio.de light" provider-name="Publish3r" version="1.0.1w">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="de_DE">Radio.de light</summary>
+    <description lang="de_DE">Radiostreams von https://www.radio.de</description>
+    <language>de</language>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
 <addon id="plugin.audio.rhapsody" name="Napster" version="3.2.0a" provider-name="pogowurst">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
@@ -2110,7 +2130,7 @@ AVISO LEGAL:
 </addon>
 
 <addon
-	id="plugin.video.macvod" version="1.991" name="[COLORyellow]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo|233">
+	id="plugin.video.macvod" version="1.993" name="[COLORyellow]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo|233">
 <requires>
     	<import addon="script.module.resolveurl"/>
 	    <import addon="script.module.requests"/>
@@ -2124,7 +2144,7 @@ AVISO LEGAL:
 
 	<extension point="xbmc.addon.metadata">
         <platform>all</platform>
-		<summary lang="es">Personal addon for IPTV</summary>
+		<summary lang="en">Personal addon for IPTV</summary>
 		<description lang="es">This addon provides IPTV for personal and private use only</description>
 		<website>https://github.com/</website>
 		<license>GPL 3.0</license>

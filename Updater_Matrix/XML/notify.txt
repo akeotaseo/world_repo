@@ -3,14 +3,14 @@
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
 
-World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.6[/COLOR] 29 Μαΐου 2024
-World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0[/COLOR] 29 Μαΐου 2024
+World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.6[/COLOR]  29 Μαΐου 2024
+World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0[/COLOR]  29 Μαΐου 2024
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build
 να έχετε πάντα την τελευταία έκδοση
-(Στην πρώτη εγκατάσταση περιμένετε ([COLOR red]10 - 15[/COLOR] λεπτά)
+Στην πρώτη εγκατάσταση περιμένετε ([COLOR red]10 - 15[/COLOR] λεπτά)
 ωσότου ολοκληρωθούνε οι όποιες ενημερώσεις του build
-και των πρόσθετων)
+και των πρόσθετων
 Για να συνεχίσετε πατήστε [COLOR orange]CLOSE[/COLOR]
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -

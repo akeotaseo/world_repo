@@ -4,7 +4,7 @@
 
 
 World-[COLOR purple]Nexus[/COLOR] 20 [COLOR blue]Έκδοση Build 20.6[/COLOR]  29 Μαΐου 2024
-World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.0[/COLOR]  29 Μαΐου 2024
+World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.1[/COLOR]  29 Μαΐου 2024
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build
 να έχετε πάντα την τελευταία έκδοση

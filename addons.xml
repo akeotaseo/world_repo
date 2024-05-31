@@ -1314,7 +1314,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="4.04" provider-name="THE CREW">
+<addon id="plugin.video.daddylive" name="Daddylive" version="4.10" provider-name="THE CREW">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />
@@ -2875,7 +2875,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 	</extension>
 </addon>
 
-<addon id="plugin.video.sc19" version="1.4.1" name="SC19" provider-name="aitschti">
+<addon id="plugin.video.sc19" version="1.4.2" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="inputstream.ffmpegdirect" version="19.0.0"/>
@@ -3522,7 +3522,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone1111" name="tvOne1112" version="111+matrix.1w" provider-name="RACC">
+<addon id="plugin.video.tvone1111" name="tvOne1112" version="111+matrix.1wa" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>

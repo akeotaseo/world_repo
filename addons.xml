@@ -3522,7 +3522,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone1111" name="tvOne1112" version="111+matrix.1wa" provider-name="RACC">
+<addon id="plugin.video.tvone1111" name="tvOne1112" version="111+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -3550,6 +3550,39 @@ provider-name="FrankAaro">
     <source/>
     <assets>
       <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvone1112" name="tvOne1112" version="111+matrix.1" provider-name="RACC">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.pycryptodome"/>
+    <import addon="script.module.dateutil"/>
+    <import addon="script.module.pyamf"/>
+    <import addon="script.module.kodi-six"/>
+    <import addon="script.module.future"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.routing"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">tvOne1112</summary>
+    <description lang="en_gb">tvOne1112</description>
+    <disclaimer lang="en_gb"/>
+    <language/>
+    <platform>all</platform>
+    <license>GPL-3.0-only</license>
+    <forum/>
+    <website/>
+    <email/>
+    <source/>
+    <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>

@@ -1,0 +1,68 @@
+00:1a:79:b2:8b:8b=http://zenlink.link/c/=,
+00:1a:79:b0:5d:c9=http://zenlink.link/c/=,
+00:1a:79:bc:07:08=http://zenlink.link/c/=,
+
+00:1a:79:a1:c9:59=http://zenlink.link/c/=,
+
+00:1a:79:b3:06:de=http://zenlink.link/c/=,
+00:1a:79:a9:de:bb=http://zenlink.link/c/=,
+00:1a:79:b4:e1:27=http://zenlink.link/c/=,
+00:1a:79:b0:34:07=http://zenlink.link/c/=,
+00:1a:79:b0:6b:cc=http://zenlink.link/c/=,
+00:1a:79:ae:e0:b1=http://zenlink.link/c/=,
+00:1a:79:aa:5d:9c=http://zenlink.link/c/=,
+00:1a:79:b9:e9:7e=http://zenlink.link/c/=,
+00:1a:79:aa:5d:f3=http://zenlink.link/c/=,
+00:1a:79:ae:89:42=http://zenlink.link/c/=,
+
+00:1a:79:b0:72:27=http://zenlink.link/c/=,
+00:1a:79:b0:57:10=http://zenlink.link/c/=,
+00:1a:79:bb:ef:37=http://zenlink.link/c/=,
+
+00:1a:79:bc:08:7d=http://zenlink.link/c/=,
+
+00:1a:79:ac:1e:ac=http://zenlink.link/c/=,
+
+00:1a:79:b4:54:5d=http://zenlink.link/c/=,
+00:1a:79:bd:23:bd=http://zenlink.link/c/=,
+00:1a:79:b3:2e:b9=http://zenlink.link/c/=,
+00:1a:79:b0:5b:8e=http://zenlink.link/c/=,
+00:1a:79:b7:e6:89=http://zenlink.link/c/=,
+
+00:1a:79:b7:70:72=http://zenlink.link/c/=,
+00:1a:79:49:08:0a=http://zenlink.link/c/=,
+00:1a:79:a9:22:da=http://zenlink.link/c/=,
+00:1a:79:29:0d:53=http://zenlink.link/c/=,
+00:1a:79:cb:b8:95=http://zenlink.link/c/=,
+00:1a:79:b7:75:04=http://zenlink.link/c/=,
+00:1a:79:b6:51:de=http://zenlink.link/c/=,
+00:1a:79:19:8c:99=http://zenlink.link/c/=,
+00:1a:79:6e:51:14=http://zenlink.link/c/=,
+00:1a:79:c3:04:97=http://zenlink.link/c/=,
+00:1a:79:2e:98:c2=http://zenlink.link/c/=,
+
+00:1a:79:c5:8b:4e=http://zenlink.link/c/=,
+00:1a:79:68:97:0f=http://zenlink.link/c/=,
+00:1a:79:b6:51:de=http://zenlink.link/c/=,
+
+
+-------------------------
+00:1a:79:ba:60:d8=http://zenlink.link/c/=, No GR?
+
+00:1a:79:b6:88:c7=http://zenlink.link/c/=,
+00:1a:79:b7:52:1c=http://zenlink.link/c/=,
+00:1a:79:ba:60:d8=http://zenlink.link/c/=,
+
+
+
+
+
+00:1a:79:b7:e6:88=http://zenlink.link/c/=, OFF...????
+00:1a:79:bc:0d:53=http://zenlink.link/c/=, OFF...????
+00:1a:79:b7:6f:2d=http://zenlink.link/c/=, OFF...????
+00:1a:79:b9:f1:15=http://zenlink.link/c/=, OFF...????
+
+00:1a:79:bc:07:08=http://zenlink.link/c/=, ok
+00:1a:79:17:63:a4=http://zenlink.link/c/=, ok
+
+

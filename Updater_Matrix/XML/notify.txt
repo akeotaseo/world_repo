@@ -16,7 +16,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.1
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 
-- [B]Τελευταία ενημέρωση 05 Ιουνίου 2024:[/B]
+- [B]Τελευταία ενημέρωση 06 Ιουνίου 2024:[/B]
 - Νέο Zip...
 
 

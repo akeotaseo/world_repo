@@ -1,4 +1,4 @@
-21
+22
 |||
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
@@ -16,7 +16,8 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.1
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 
-- [B]Τελευταία ενημέρωση 18 Ιουνίου 2024:[/B]
+- [B]Τελευταία ενημέρωση 24 Ιουνίου 2024:[/B]
+- Εγκατάσταση και ενημέρωση [COLOR orange]Scrubs v2[/COLOR]
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 

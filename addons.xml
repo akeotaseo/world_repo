@@ -1314,7 +1314,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
     </extension>
 </addon>
 
-<addon id="plugin.video.daddylive" name="Daddylive" version="4.14" provider-name="THE CREW">
+<addon id="plugin.video.daddylive" name="Daddylive" version="4.15" provider-name="THE CREW">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" />

@@ -3837,7 +3837,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="plugin.video.xtasy19" name="[COLOR orange]Xtasy.D[/COLOR]" version="1.1.0" provider-name="Xtasy Dreamer">
+<addon id="plugin.video.xtasy19" name="[COLOR orange]Xtasy.D[/COLOR]" version="1.1.0a" provider-name="Xtasy Dreamer">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" />

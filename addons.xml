@@ -2845,7 +2845,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.7.2" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.7.3" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2867,10 +2867,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.7.2 - Fix following REGEX for titles
+		<news>- v1.7.3 - Add option to view title on one line
+- v1.7.2 - Fix following REGEX for titles
 - v1.7.1 - Fix Live videos in following, re-add auto play if only one stream, make blank search return null, Update User Agent, Force SSL
-- v1.7.0 - Change where following is retrieved from, add methods and context menus to manage playlists, add watch later in menu
-- v1.6.1 - Add Upcoming into upcoming video titles, Autoplay if only 1 quality, add m3u8 handler for live streams</news>
+- v1.7.0 - Change where following is retrieved from, add methods and context menus to manage playlists, add watch later in menu</news>
 	</extension>
 </addon>
 

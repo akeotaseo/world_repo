@@ -1950,7 +1950,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon	id="plugin.video.KODIvertiDO" version="1.85" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
+<addon	id="plugin.video.KODIvertiDO" version="2.00" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
 <requires>
     <import addon="script.module.requests" optional="true" />
     <import addon="script.module.resolveurl" optional="true" />
@@ -2814,6 +2814,35 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 	<news>news
 	</news>
 </extension>
+</addon>
+
+<addon id="plugin.video.rumble" name="Rumble" version="1.7.3" provider-name="azzy9">
+	<requires>
+		<import addon="script.module.simplejson"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.six"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Watch rumble videos.</summary>
+		<summary lang="pt_br">Assista videos do rumble.</summary>
+		<description lang="en">Watch uncensored videos with rumble.</description>
+		<description lang="pt_br">Asssista videos sem censura com o rumble.</description>
+		<disclaimer lang="en">We are not associated with rumble.com or the Kodi Team</disclaimer>
+		<disclaimer lang="pt_br">Não somos associados à rumble.com nem com o Kodi Team</disclaimer>
+		<website>https://github.com/azzy9/plugin.video.rumble</website>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>- v1.7.3 - Add option to view title on one line
+- v1.7.2 - Fix following REGEX for titles
+- v1.7.1 - Fix Live videos in following, re-add auto play if only one stream, make blank search return null, Update User Agent, Force SSL
+- v1.7.0 - Change where following is retrieved from, add methods and context menus to manage playlists, add watch later in menu</news>
+	</extension>
 </addon>
 
 <addon id="plugin.video.sc19" version="1.4.2" name="SC19" provider-name="aitschti">

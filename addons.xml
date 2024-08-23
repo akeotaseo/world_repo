@@ -367,42 +367,6 @@ v2.4.0  (2019-01-01)
     </extension>
 </addon>
 
-<addon id="plugin.program.709wiz" name="[COLOR FF0C5EB4][B]7o9[/B][/COLOR]Wizard" version="99.5.5" provider-name="Slam, Sarge, Funsterbe, BYB">
-	<requires>
-		<import addon="xbmc.python" version="3.0.1"/>
-		<import addon="script.module.requests" optional="true" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">7o9's lightweight Wizard</summary>
-		<description lang="en_GB">Kodi Build Wizard</description>
-		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
-		<language>en</language>
-		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<source></source>
-		<news>2.1.8 - Added logviewer to maintenance. 2.1.7 - Fixed issue with binary installs failing. Updated Advancedsettings configs. Added notification at start of backups. 2.1.6.1 - Fix permissions error on Windows devices. Added keeping binaries list when installs fail. 2.1.6 - Added binary addon installation to build install. Fix for Dropbox zips not showing the file length. Fixed error on startup when buildfile or notify urls are invalid. 2.1.5 - Added option to cancel prompts for build update and no build. 2.1.4 - Small fix to Whitelist 2.1.3 - Added prompt that opens the Build Menu when there's an update or now build installed. Added Force Close shortcut. Restructured addon a bit. There is now a uservar py in root of addon for user variables. 2.1.1 - Added Custom Backups Path 2.1.0 - Added Backup/Restore 2.0.7 - Added Whitelist, Fixes to Dropbox urls. 2.0.5 - Added Authorize Debrid, Added language strings to most labels, code cleanup 2.0.3 - Added video preview 2.0.2 - Fixed issue with backup restore  2.0.0 Major changes to the framework of the addon. Allocated most of the code to modules. Added some new modules. Added support for Dropbox links. Fixed cancel download. 1.1.3 - Fix to save items when items not selected 1.1.2 - Remade service.py, small Bugfixes. 1.1.1 - Fixed an issue with update checker. 1.1.0 - Fixed Resolveurl path in save data. 1.0.9 - Added settings to main menu. 1.0.8 - Fixed percentage during build download, 1.0.7 - Added option to link to another xml or json file. This is good for teams or community wizards as each builder can have their own xml. Also changed format of the builds xml. Please refer to builds_newformat.xml located in the resources folder. The old format will still work but if the user is running an older version of the wizard, they'll only see the version number as the name. They'll want to update to fix that. 1.0.6 - Added Notifications Dialog. Special thanks to Blue for art and helping with the design. 1.0.5 - Bugfixes. 1.0.3 - Added download progress to build install. 1.0.2 - Added option to encode the buildfile variable to a base64 string. 1.0.1 - Added the option to use json for build file. 1.0.0 - Basic clean up. Ready for official release. 0.0.9 - Added Save Menu, 0.0.8 - Bug fixes, 0.0.7 - Added Advanced Settings presets to Maintenance. 0.0.6 - Added Clear Packages, the first of the Maintenance section.
-0.0.5 - Bug fixes
-0.0.4 - Added enabling of disabled addons on build first run. Added update repos on build first run.
-0.0.3 - Added prompt notifying when new version of installed build is available.
-0.0.2 - Initial Release
-		</news>
-		<assets>
-				<icon>resources/icon.png</icon>
-				<fanart>resources/fanart.jpg</fanart>
-				<banner></banner>
-				<clearlogo></clearlogo>
-				<screenshot></screenshot>
-		</assets>
-	</extension>
-</addon>
-
 <addon
     id="plugin.program.advanced.emulator.launcher"
     name="Advanced Emulator Launcher"

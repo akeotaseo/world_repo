@@ -4642,20 +4642,6 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="script.module.pycryptodome"
-       name="PyCryptodome"
-       version="3.4.3"
-       provider-name="Legrandin">
-  <extension point="xbmc.python.module"
-             library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <summary>Cryptographic library for Python</summary>
-    <source> http://www.pycryptodome.org</source>
-    <platform>all</platform>
-    <license>Public domain</license>
-  </extension>
-</addon>
-
 <addon id="script.module.routing" name="Plugin routing" version="0.2.3.1" provider-name="takoi">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>

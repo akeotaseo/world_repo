@@ -3666,7 +3666,7 @@ provider-name="FrankAaro">
 
 <addon
   id="plugin.video.videodevil"
-  version="1.8.27"
+  version="1.8.28"
   name="VideoDevil"
   provider-name="xbmc-adult">
   <requires>

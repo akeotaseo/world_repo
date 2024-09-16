@@ -3114,57 +3114,6 @@ v1.0.4 (12.11.2022)
 	</extension>
 </addon>
 
-<addon id="plugin.video.stalkervod" name="Stalker VOD Client" version="0.0.7" provider-name="rickey">
-	<requires>
-		<import addon="xbmc.python" version="3.0.1"/>
-		<import addon="script.module.requests" version="2.27.1"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon_entry.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<reuselanguageinvoker>true</reuselanguageinvoker>
-		<platform>all</platform>
-		<summary lang="en_GB">Stalker VOD Client</summary>
-		<description lang="en_GB">Kodi Stalker client for accessing on demand videos and channels from Stalker middleware</description>
-		<license>GPL-3.0-or-later</license>
-		<language>en</language>
-		<source>https://github.com/rickeylohia/plugin.video.stalkervod</source>
-		<website>https://github.com/rickeylohia/plugin.video.stalkervod</website>
-		<assets>
-			<icon>resources/media/icon.png</icon>
-			<screenshot>resources/media/screenshot_1.png</screenshot>
-			<screenshot>resources/media/screenshot_2.png</screenshot>
-			<screenshot>resources/media/screenshot_3.png</screenshot>
-			<screenshot>resources/media/screenshot_4.png</screenshot>
-		</assets>
-		<news>
-v0.0.7  (2024-06-10)
-- Bug fix
-
-v0.0.6  (2024-03-28)
-- Bug fix
-
-v0.0.5  (2024-03-23)
-- Fix for portals with no stalker_portal in context path
-Please try re-entering the server address based on the format provided if it does not work after upgrading to v0.0.5
-https://github.com/rickeylohia/plugin.video.stalkervod/issues/12
-
-v0.0.4  (2024-01-20)
-- Refactor, debug logs and fix for https://github.com/rickeylohia/plugin.video.stalkervod/issues/10
-
-v0.0.3  (2024-01-05)
-- Minor bug fixes and highlight favorites
-
-v0.0.2  (2023-12-27)
-- Add favorites context menu option and re-use existing token if possible
-
-v0.0.1  (2023-10-22)
-- Initial Release
-		</news>
-	</extension>
-</addon>
-
 <addon id="plugin.video.takeroom" name="Take Room" version="1.0" provider-name="Take Room">
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>

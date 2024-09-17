@@ -684,6 +684,37 @@ Use this to organize your Favourites.
 
 </addon>
 
+<addon id="plugin.video.90phuttv" version="1.0.10" name="90PhutTV" provider-name="hoaivnpt">
+<requires>
+  <import addon="xbmc.python" version="3.0.1"/>
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en_GB">90PHUT TV</summary>
+  <description lang="en_GB">Xem trực tiếp bóng đá từ các nguồn 90PHUT, CAKHIA, SAOKE...</description>
+  <disclaimer lang="en_GB">Provided by hoaivnpt</disclaimer>
+  <license>GPL-3.0-only	</license>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>1. Ver 1.0.1: Tập làm addon kodi.
+2. Ver 1.0.2: Auto Update.
+3. Ver 1.0.3: Get contents by Python.
+4. Ver 1.0.4: Fix update.
+5. Ver 1.0.5: Add replay item.
+6. Ver 1.0.6: Complete items.
+7. Ver 1.0.7: Fix bugs.
+8. Ver 1.0.8: Fix Highlights.
+9. Ver 1.0.9: Add Vebotv.
+10. Fix update
+  </news>
+</extension>
+</addon>
+
 <addon id="plugin.video.acestreamsearch"
        name="AcestreamSearch"
        version="0.1.0"
@@ -1409,7 +1440,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
   </extension>
 </addon>
 
-<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.7b" provider-name="Jon Snow">
+<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.7c" provider-name="Jon Snow">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
 		<import addon="script.module.beautifulsoup4" version="3.2.1"/>
@@ -4812,7 +4843,7 @@ v0.1.0
 
 <addon id="script.sites"
   name="script sites"
-  version="19.5"
+  version="19.5a"
   provider-name="ML Gb">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

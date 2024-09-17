@@ -1,4 +1,5 @@
-00:1A:79:30:1E:F9=http://line.clear-ocean.link:80/c/=,
+00:1A:79:30:1E:F9=http://mag.diamondma.club:80/c/=,
+00:1A:79:00:07:A8=http://line.clear-ocean.link:80/c/=,
 00:1A:79:30:22:C0=http://line.clear-ocean.link:80/c/=,
 00:1A:79:30:26:FE=http://line.clear-ocean.link:80/c/=,
 00:1A:79:30:34:31=http://line.clear-ocean.link:80/c/=,

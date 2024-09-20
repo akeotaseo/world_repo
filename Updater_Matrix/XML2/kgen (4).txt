@@ -10,7 +10,7 @@
 00:1A:79:D8:28:80=http://mag.diamondma.club:80/c/=,
 00:1A:79:BF:BB:A6=http://mag.diamondma.club:80/c/=,
 00:1A:79:17:10:AD=http://mag.diamondma.club:80/c/=,
-00:1Α:79:91:68: 5Α=http://mag.diamondma.club:80/c/=,
+00:1Α:79:91:68:5Α=http://mag.diamondma.club:80/c/=,
 00:1A:79:4B:20:76=http://mag.diamondma.club:80/c/=,
 00:1A:79:11:6F:0E=http://mag.diamondma.club:80/c/=,
 00:1A:79:A3:87:47=http://mag.diamondma.club:80/c/=,

@@ -1969,7 +1969,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon	id="plugin.video.KODIvertiDO" version="2.01" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
+<addon	id="plugin.video.KODIvertiDO" version="6.0w" name="[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]" provider-name="equipo KODIvertiDO TEAM">
 <requires>
     <import addon="script.module.requests" optional="true" />
     <import addon="script.module.resolveurl" optional="true" />
@@ -3416,7 +3416,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone" name="tvOne" version="26+matrix.2w" provider-name="RACC">
+<addon id="plugin.video.tvone" name="tvOne" version="27+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -3432,17 +3432,8 @@ provider-name="FrankAaro">
     <reuselanguageinvoker>true</reuselanguageinvoker>
     <summary lang="en_gb">tvOne</summary>
     <description lang="en_gb">tvOne</description>
-    <disclaimer lang="en_gb"/>
-    <language/>
-    <platform>all</platform>
     <license>GPL-3.0</license>
-    <forum/>
-    <website/>
-    <email/>
-    <source/>
-    <assets>
-      <icon>icon.png</icon>
-    </assets>
+    <platform>all</platform>
   </extension>
 </addon>
 
@@ -3471,7 +3462,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone111" name="tvOne111" version="25+matrix.1w" provider-name="RACC">
+<addon id="plugin.video.tvone111" name="tvOne111" version="26+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -3491,10 +3482,6 @@ provider-name="FrankAaro">
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.jpg</fanart>
-	</assets>
   </extension>
 </addon>
 
@@ -3530,7 +3517,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone1112" name="tvOne1112" version="111+matrix.1" provider-name="RACC">
+<addon id="plugin.video.tvone1112" name="tvOne1112" version="112+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -3556,10 +3543,7 @@ provider-name="FrankAaro">
     <website/>
     <email/>
     <source/>
-    <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-    </assets>
+    <assets/>
   </extension>
 </addon>
 

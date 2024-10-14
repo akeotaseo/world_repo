@@ -3416,7 +3416,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone" name="tvOne" version="27+matrix.1w" provider-name="RACC">
+<addon id="plugin.video.tvone" name="tvOne" version="27+matrix.2w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -3432,8 +3432,17 @@ provider-name="FrankAaro">
     <reuselanguageinvoker>true</reuselanguageinvoker>
     <summary lang="en_gb">tvOne</summary>
     <description lang="en_gb">tvOne</description>
-    <license>GPL-3.0</license>
+    <disclaimer lang="en_gb"/>
+    <language/>
     <platform>all</platform>
+    <license>GPL-3.0</license>
+    <forum/>
+    <website/>
+    <email/>
+    <source/>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 
@@ -3482,10 +3491,14 @@ provider-name="FrankAaro">
     <disclaimer lang="en_gb"/>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
   </extension>
 </addon>
 
-<addon id="plugin.video.tvone1111" name="tvOne1112" version="111+matrix.1w" provider-name="RACC">
+<addon id="plugin.video.tvone1111" name="tvOne1112" version="112+matrix.1w" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.pycryptodome"/>
@@ -4031,7 +4044,7 @@ v0.1.0
 	</extension>
 </addon>
 
-<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.8" provider-name="Clement Osumo">
+<addon id="script.black.bars.never" name="BlackBarsNever" version="1.0.11" provider-name="Clement Osumo">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.20.0"/>
@@ -4044,22 +4057,21 @@ v0.1.0
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary lang="en">BlackBarsNever</summary>
-		<description lang="en">This addon eliminates the problem of black bars. If the black bars are hardcoded, the addon will automatically
+		<summary lang="en_US">BlackBarsNever</summary>
+		<description lang="en_US">This addon eliminates the problem of black bars. If the black bars are hardcoded, the addon will automatically
 		detect this and remove them. If the video is a wide screen format, the addon will also detect this and remove the black bars too.
 		</description>
-		<license>GNU General Public License, v2</license>
+		<license>MIT</license>
 		<language></language>
 		<forum></forum>
 		<source>https://github.com/osumoclement/script.black.bars.never</source>
-		<website>alkywave.com</website>
+		<website>cheensa.com</website>
 		<email></email>
 		<assets>
 			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
+			<fanart>fanart.jpeg</fanart>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
-			<screenshot>resources/screenshot-02.jpg</screenshot>
-			<screenshot>resources/screenshot-03.jpg</screenshot>
+		    <screenshot>resources/screenshot-02.jpg</screenshot>
 		</assets>
 		<news>Updated the addon to use new addon.xml metadata</news>
 	</extension>

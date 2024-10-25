@@ -47,12 +47,3 @@
 00:1a:79:bc:07:08=http://zenlink.link/c/=,
 00:1a:79:17:63:a4=http://zenlink.link/c/=,
 
-
-http://optimus-tv.org:8080,00:1A:79:6B:BA:22
-http://optimus-tv.org:8080,00:1A:79:AB:5A:0A
-http://optimus-tv.org:8080,00:1A:79:13:54:DA
-http://optimus-tv.org:8080,00:1A:79:A0:E1:FC
-http://optimus-tv.org:8080,00:1A:79:BD:BE:2C
-http://optimus-tv.org:8080,00:1A:79:0F:4A:9B
-http://optimus-tv.org:8080,00:1A:79:07:BC:9C
-http://optimus-tv.org:8080,00:1A:79:77:04:86

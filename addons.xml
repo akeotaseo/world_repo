@@ -340,7 +340,7 @@ v2.4.0  (2019-01-01)
 	</extension>
 </addon>
 
-<addon id="plugin.image.pdfreader" name="PDF Reader" version="2.0.2" provider-name="i96751414">
+<addon id="plugin.image.pdfreader" name="PDF Reader" version="2.0.3" provider-name="i96751414">
     <requires>
         <!--<import addon="xbmc.python" version="3.0.0"/>-->
         <import addon="script.module.pil"/>
@@ -355,6 +355,9 @@ v2.4.0  (2019-01-01)
         <summary lang="en">PDF Reader</summary>
         <description lang="en">Read your pdf's through Kodi.</description>
         <license>GPL 2.0</license>
+        <news>
+- Add support for xbmcvfs translations (python 3)
+        </news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>

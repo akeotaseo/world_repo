@@ -1,3 +1,12 @@
+          NEW no test
+
+
+
+
+
+
+
+
 http://goodtv.nomuvadem.xyz:80/get.php?username=BX3TPEHNGX&password=7vHyx@Xkvy&type=m3u_plus
 http://goodtv.nomuvadem.xyz:80/get.php?username=C5Q8ERJKGH&password=8VHqxpyjE8Mf&type=m3u_plus
 http://goodtv.nomuvadem.xyz:80/get.php?username=HROCKTV&password=4827361940528371&type=m3u_plus
@@ -2780,7 +2789,8 @@ http://xdgo.live:8080/get.php?username=17217723&password=YRPVuZhuvn&type=m3u_plu
 http://xdgo.live:8080/get.php?username=175428763&password=aa2020tt&type=m3u_plus&output=mpegts
 http://xdgo.live:8080/get.php?username=1780000764&password=gg2022dd&type=m3u_plus&output=mpegts
 http://xdgo.live:8080/get.php?username=23810232a&password=M9EuXrbC3F&type=m3u_plus&output=mpegts
-
+====
+{AllTelegram}2
 http://087ea805a32488bc3052858e744f1c0f.ar.iscaja.me:25461/get.php?username=111E7uaW74860g&password=11A6E8N4x417O1&type=m3u_plus
 http://087ea805a32488bc3052858e744f1c0f.ar.iscaja.me:25461/get.php?username=1E9g899c11h9rH&password=98jeh11414999x&type=m3u_plus
 http://087ea805a32488bc3052858e744f1c0f.ar.iscaja.me:25461/get.php?username=2416661v61660F&password=0b42rDS0216107&type=m3u_plus
@@ -9677,7 +9687,8 @@ http://xxip43.top:8080/get.php?username=Anaimaldonado24gmail.com&password=9hOIM0
 http://xxip43.top:8080/get.php?username=bradhollett@yahoo.com&password=1115@5111&type=m3u_plus
 http://xxip43.top:8080/get.php?username=mario.degregorio11@gmail.com&password=xQ22KbDGZ8&type=m3u_plus
 http://xxip43.top:8080/get.php?username=n8buxG&password=222085&type=m3u_plus
-
+==
+OFF????
 http://013tv.com:8080/get.php?username=12915223&password=fc28dfb6&type=m3u
 http://013tv.com:8080/get.php?username=7e4b0dbd&password=1dd755dc3f&type=m3u_plus
 http://013tv.com:8080/get.php?username=88d59804&password=277fe806df&type=m3u_plus
@@ -10197,6 +10208,8 @@ https://my.game-tv.org:443/xmltv.php?username=Tudor_valentin&password=hMQN65J&ty
 https://my.game-tv.org:443/xmltv.php?username=adryana_lazar&password=Bxl9iY9yDw&type=xml_plus 
 https://my.game-tv.org:443/xmltv.php?username=nJ2YPj0xFTk5wpNCtDfq8Q6a&password=aEchxAjT2jrc3R37K6qXW5aX&type=xml_plus
 https://my.game-tv.org:443/xmltv.php?username=scheinbeniamin&password=pA5Q3fgZFyJ6muuNgWYgAqFS&type=xml_plus
+===
+single
 
 http://001122.io:2095/get.php?username=esiptvpro141&password=112233445566&type=m3u_plus&output=ts
 http://001122.io:2095/get.php?username=samikhlifi2024&password=netsamikhalifitv&type=m3u_plus&output=ts

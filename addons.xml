@@ -1495,7 +1495,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.1+matrix.1" provider-name="realvito">
+<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.2+matrix.1" provider-name="realvito">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.27.0"/>
@@ -1510,7 +1510,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 		<disclaimer lang="de_DE">Die von diesem Addon dargestellten Inhalte werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Anbietern des Inhalts.</disclaimer>
 		<summary lang="en_GB">Videoportal of EURONEWS</summary>
 		<description lang="en_GB">euronews offers a unique perspective on world affairs. euronews gives people the opportunity to form their own opinion, by presenting factual analysis and a variety of viewpoints.[CR]euronews World news daily 24 hours are available in 12 different editions in Arabic, English, French, German, Greek, Hungarian, Italian, Persian, Portuguese, Russian, Spanish and Turkish.</description>
-		<disclaimer lang="en_GB">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
+		<disclaimer lang="en_GB">The content displayed by this Addon is not hosted or distributed by the creators of the Addon, nor do the creators have any affiliation with the providers of the content.</disclaimer>
 		<summary lang="el_GR">Τηλεοπτική πύλη EURONEWS</summary>
 		<description lang="el_GR">Το euronews προσφέρει μια μοναδική προοπτική στις παγκόσμιες υποθέσεις. Το euronews δίνει στους ανθρώπους την ευκαιρία να διαμορφώσουν τη δική τους γνώμη, παρουσιάζοντας πραγματικές αναλύσεις και ποικίλες απόψεις.[CR]euronews World news καθημερινά 24 ώρες είναι διαθέσιμα σε 12 διαφορετικές εκδόσεις το Αραβικά, Αγγλικά, Γαλλικά, Γερμανικά, Ελληνικά, Ουγγρικά, Ιταλικά, Περσικά, Πορτογαλικά, Ρωσικά, Ισπανικά και Τουρκικά.</description>
 		<summary lang="es_ES">Videoportal de EURONEWS</summary>
@@ -1540,9 +1540,11 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR orangered]Version 2.3.1+matrix.1  (02.06.2024)[/COLOR][/B]
-- fixed: Fast keine Ordner in der Startübersicht vorhanden (Neue Webseite)
-- optimized: Sprach-Übersetzungen überarbeitet
+[B][COLOR orangered]Version 2.3.2+matrix.1  (29.09.2024)[/COLOR][/B]
+- fixed: Entweder werden keine Ordner in der Startübersicht oder keine Unterordner angezeigt (Quelltext verändert)
+- fixed: Beiträge die nur eine Youtube-ID beinhalten werden nicht angezeigt (manchmal gibt es keinen Direkt-Stream von Euronews)
+- optimized: Abfrage der Youtube-ID für LIVESTREAMS (manchmal wurde die ID im Quelltext nicht erkannt)
+- added: Anpassungen an Änderungen von KODI-Omega
 		</news>
 	</extension>
 </addon>
@@ -2461,6 +2463,41 @@ In addition to what livestreams allowed you to do, you can now,
         </assets>
         <reuselanguageinvoker>true</reuselanguageinvoker>
     </extension>
+</addon>
+
+<addon id="plugin.video.next"
+	name="[COLOR blue]NEXT[/COLOR]"
+	version="2024"
+	provider-name="NEXT">
+  <requires>
+    <import addon="script.module.requests" />
+    <import addon="script.module.six" />
+    <import addon="script.module.resolveurl"  optional="true" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.repository" name="NEXT Repositorio">
+        <info>https://raw.githubusercontent.com/djliptv/NEXT/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/djliptv/NEXT/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/djliptv/NEXT/master/Repositorio/</datadir>
+    </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">NEXTube</summary>
+    <description lang="en">Musica Actual Y Retro.</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+    <assets>
+    <icon>icon.png</icon>
+    <screenshot>resources/screenshots/screenshot1.jpg</screenshot>
+    <screenshot>resources/screenshots/screenshot2.jpg</screenshot>
+    <screenshot>resources/screenshots/screenshot3.jpg</screenshot>
+    <screenshot>resources/screenshots/screenshot4.jpg</screenshot>
+    <screenshot>resources/screenshots/screenshot5.jpg</screenshot>
+    <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
 </addon>
 
 <addon id="plugin.video.nhlstreams" name="NHL Streams" version="0.3" provider-name="mbebe">

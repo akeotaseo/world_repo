@@ -1,4 +1,8 @@
 00:1A:79:00:07:A8=http://mag.diamondma.club:80/c/=,
+00:1A:79:C0:4F:BE=http://mag.diamondma.club:80/c/=,
+00:1A:79:BF:BE:CA=http://mag.diamondma.club:80/c/=,
+00:1A:79:C3:1E:43=http://mag.diamondma.club:80/c/=,
+00:1A:79:C0:8A:4A=http://mag.diamondma.club:80/c/=,
 00:1A:79:70:90:7F=http://mag.diamondma.club:80/c/=,
 00:1A:79:3A:A6:08=http://mag.diamondma.club:80/c/=,
 00:1A:79:5F:CE:67=http://mag.diamondma.club:80/c/=,

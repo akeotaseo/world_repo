@@ -1,0 +1,222 @@
+#EXTM3U
+
+#EXTINF:-1,ACETOP-1
+acestream://2b0acad014567bbbe0664904af8c001754283eb1
+#EXTINF:-1,ACETOP-2
+acestream://5f569f3ecf8b4d2f2f4bc732dd7023568f76e4a9
+#EXTINF:-1,AMAZON PRIME VIDEO 5 HD [BE]
+acestream://d3634268718c6e52cde4a34d0e75cffef26c1ba9
+#EXTINF:-1,AMAZON PRIME VIDEO 6 HD [BE]
+acestream://26e31f091414fb036917a255b4adaf12b2f3da5b
+#EXTINF:-1,BT Sport / ESPN [UK]
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1,BT Sport 1
+acestream://06fd695a8353f40d6586db7c778a5862554c09d1
+#EXTINF:-1,BT Sport 1 [UK]
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1,BT Sport 2
+acestream://927996b8192c7cc6bf768d52528c8e4198294328
+#EXTINF:-1,BT Sport 2 [UK]
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1,BT Sport 3
+acestream://22fead867a8657cfb58cd84245e18954ab199db3
+#EXTINF:-1,BT Sport 3 [UK]
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1,BeIN Sports 1 [BE]
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1,BeIN Sports 2 [BE]
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1,BeIN Sports 3 [BE]
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1,DAZN1
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1,DAZN2
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1,DAZN3
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1,DAZN4
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1,DUBAI SPORTS 3
+acestream://0addcc896d5c6749ff262674f1d5c9b5f9e7be4b
+#EXTINF:-1,Dubai Sports 2
+acestream://ebfb7c61b14f06ecafb80ba4cc170b0f47665b17
+#EXTINF:-1,Dubai Sports 3
+acestream://34a717795ab68429e61a2c4ef8b59ddcb458e4b1
+#EXTINF:-1,ELGOLES900
+acestream://19faf1c5e9db0208726f0af6caefbe550992d26f
+#EXTINF:-1,ELGOLES901
+acestream://6790700151a98601e7d2259e76ea41c788e06dc6
+#EXTINF:-1,ELGOLES902
+acestream://d8be596477f67850f1902873d9404478564947c8
+#EXTINF:-1,ELGOLES903
+acestream://a469be0ffb3d169bb4ce8971842a66e72578ded9
+#EXTINF:-1,ELGOLES904
+acestream://13462d508d70f5028f8a8da048bdbee7432d3433
+#EXTINF:-1,ESPN 2 [BE]
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1,ESPN 4 [BE]
+acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1,ESPN HD [US]
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1,ESPN [BE]
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1,ESPN2 [US]
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1,Eleven Sports 1 [BE]
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1,Eleven Sports 2 [BE]
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1,Eleven Sports 3 [BE]
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1,Eleven Sports 4 [BE]
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1,Eleven Sports 5 [BE]
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1,Eleven Sports 6 [BE]
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1,Euro1_Deportes
+acestream://32ae78f7f26e931fef9af6b0c36a1379935ed800
+#EXTINF:-1,Eurosport 1 HD [RU]
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1,FOX Sports 1 HD [US]
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1,FOX Sports 2 HD [US]
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1,FS1
+acestream://b127df86fa00b48fe2e52f38d69b71cc9176bc80
+#EXTINF:-1,FS1 Salzburg
+acestream://61ed2f6343a0f1b5b5673db91b038a12e41ce704
+#EXTINF:-1,Fast&Funbox HD [RU]
+acestream://c811cde690d467a2e45d3c263c4f0960a3933d18
+#EXTINF:-1,FightBox HD [RU]
+acestream://49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1,M-1 Global
+acestream://2fa5c9503f5a4ce55b41d9153ed096afbc31e4f1
+#EXTINF:-1,M-1 Global [RU]
+acestream://a7e4499c869037073c97deb47a50d1e7090b1c04
+#EXTINF:-1,M. Deportes HD
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1,M. Golf HD
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1,M. LaLiga
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1,M. Liga de Campeones
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1,MUTV
+acestream://4e5957e5047693664f42960e47512aacc4b2993f
+#EXTINF:-1,Moldova 1
+acestream://b7564306ba2b941455909b0a61e20e8cff0e88ab
+#EXTINF:-1,Moldova 2
+acestream://b58ff31850d94a1bd52b276322420a7461e715e7
+#EXTINF:-1,Moldova1
+acestream://5ab26c2148693dbbd3331d3b12f855ae954f777c
+#EXTINF:-1,Motors TV HD
+acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1,NBA TV [US]
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1,OPEN TV (GREECE) - ARENAVISION
+acestream://59df9074716d2787ab893106a39cf68bc9590ec2
+#EXTINF:-1,Premier Sports 1 [UK]
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1,Premier Sports 2 [UK]
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1,Setanta Live 1 [RU]
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1,Setanta Live 2 [RU]
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1,Sky Sport 2 HD [DE]
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1,Sky Sports Arena [UK]
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1,Sky Sports Cricket [UK]
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1,Sky Sports Football [UK]
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1,Sky Sports Main Event [UK]
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1,SkySP PL [UK]
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1,Sport Klub [PL]
+acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1,SuperTennis HD
+acestream://b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1,TENNIS CHANNEL HD (ArenaVision)
+acestream://764838bdbe11c72b808f229383659083bffe58c2
+#EXTINF:-1,TV TORUŃ
+acestream://7eaf3876d5f4e221ee9dd59b84b152c50ff32d84
+#EXTINF:-1,Telewizja Toruń
+acestream://c0cdc1db7a38cadd077fc9ef2882c20012a02bd9
+#EXTINF:-1,Tennis Channel HD
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1,UFC HD [RU]
+acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
+#EXTINF:-1,VIASAT SPORT HD [RU]
+acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1,Viasat Sport
+acestream://bb2a2516e6541cc3a3f3f09332e62f4f40d6cac5
+#EXTINF:-1,Wheeeee
+acestream://0aa775518c7d318a50f5495f50cf503bfdf78012
+#EXTINF:-1,Ziggo Sport
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1,Ziggo Sport 2
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1,Ziggo Sport 3
+acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
+#EXTINF:-1,Ziggo Sport 4
+acestream://36dfc36084b2138d3451c4700b462ac1094d693d
+#EXTINF:-1,Ziggo Sport 6
+acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
+#EXTINF:-1,pimpletv.ru
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1,Авто плюс
+acestream://1b8339aca53dac5e7ee443614a15bd47176904a3
+#EXTINF:-1,Астрахань.Ru Sport
+acestream://e9625730643fa4496d2498757e43c7106d8abdfe
+#EXTINF:-1,Бокс ТВ [RU]
+acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
+#EXTINF:-1,КХЛ HD [RU]
+acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1,КХЛ ТВ [RU]
+acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1,МАТЧ! Планета [RU]
+acestream://106c8656fca0ca91a696110467788d202d7111af
+#EXTINF:-1,Матч!
+acestream://97d5f2a9232a1ccbf8f81c270a0050ca601618fd
+#EXTINF:-1,Матч! HD
+acestream://2bb81a951f3daa6d0cafad118c289e7640d8c935
+#EXTINF:-1,Матч! Премьер HD [RU]
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1,Матч! Страна [RU]
+acestream://ef9c77bd94783448b8edb552109f5f15b2bd82d1
+#EXTINF:-1,Матч! ТВ HD [RU]
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1,Матч! Футбол 1 ( original ) [RU]
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1,Матч! Футбол 2 ( original ) [RU]
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1,Матч! Футбол 3 ( original ) [RU]
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1,Мир Баскетбола [RU]
+acestream://c4acde347445b0a07a9e8695b4254bee2b2df570
+#EXTINF:-1,Русский Экстрим [RU]
+acestream://ed63659df12baa6febbe70f4125b6527aa1ae413
+#EXTINF:-1,Сетанта Спорт HD
+acestream://91cb82c3b5d07108a3fc15498c0a726abb70c4b7
+#EXTINF:-1,Спортивный
+acestream://9de986964590ddac7631ab22fcf8d48e375db140
+#EXTINF:-1,Спортивный [RU]
+acestream://8410d89a5767b250cd752381672aeb5fbe2240d3
+#EXTINF:-1,Старт HD
+acestream://825e7e0f80441819cfd29d87c3659e520c25b616
+#EXTINF:-1,Старт [RU]
+acestream://4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1,Точка отрыва [RU]
+acestream://ee5cd7316e917f156bf8d176a11da98fe403b0b2
+#EXTINF:-1,Футбол HD [RU]
+acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1,Футбольный HD
+acestream://91dbefa490386529fe80b6a444e08746a735b427
+#EXTINF:-1,Футбольный HD [RU]
+acestream://92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
+#EXTINF:-1,Хоккейный HD [RU]
+acestream://99f0646986e9266836dd79047dedecb04e243857

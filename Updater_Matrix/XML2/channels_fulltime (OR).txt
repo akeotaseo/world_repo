@@ -857,263 +857,263 @@ acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 infohash="988072d7f88e09cd815a42fcd2a15762f0d86a79",Ziggo Sport Voetbal [BE]
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1 infohash="2f7bd12803e3600bb80600e12364fc26e9f1c7ba",RU-Авто 24 [RU]
+#EXTINF:-1 infohash="2f7bd12803e3600bb80600e12364fc26e9f1c7ba",Авто 24 [RU]
 acestream://7e515477cf191b1e4e33c7151c7cf84925f16780
-#EXTINF:-1 infohash="6a3e9398e0ef1ab2baab904cd3d3d78afb72cb18",RU-Авто Плюс [RU]
+#EXTINF:-1 infohash="6a3e9398e0ef1ab2baab904cd3d3d78afb72cb18",Авто Плюс [RU]
 acestream://c3ff9e5243014a19c3cee52159d68fd750eeecb9
-#EXTINF:-1 infohash="fbe6cc6532011348e31992e4e37138de3001f2d7",RU-Арсенал HD [RU]
+#EXTINF:-1 infohash="fbe6cc6532011348e31992e4e37138de3001f2d7",Арсенал HD [RU]
 acestream://7cf9a5935adc526cab260a6a561af7d6fe34f640
-#EXTINF:-1 infohash="26704e203fcf15bf025bbc9a2d238dfb14075652",RU-Блокбастер HD [RU]
+#EXTINF:-1 infohash="26704e203fcf15bf025bbc9a2d238dfb14075652",Блокбастер HD [RU]
 acestream://6019512392cd7316a5362e275966779bf9011fee
-#EXTINF:-1 infohash="4fe43d0daca047040d2e758f82302bed3bbf854a",RU-Бокс ТВ [RU]
+#EXTINF:-1 infohash="4fe43d0daca047040d2e758f82302bed3bbf854a",Бокс ТВ [RU]
 acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
-#EXTINF:-1 infohash="d78c7a1da99696e3987563926a1cd31bff9c56bf",RU-В гостях у сказки [RU]
+#EXTINF:-1 infohash="d78c7a1da99696e3987563926a1cd31bff9c56bf",В гостях у сказки [RU]
 acestream://77c4a879752e4a24e2e39bfcd58458eee24b58a0
-#EXTINF:-1 infohash="db78bbaaa4dbb877cfa87070db8179cd0c78b515",RU-В мире животных [RU]
+#EXTINF:-1 infohash="db78bbaaa4dbb877cfa87070db8179cd0c78b515",В мире животных [RU]
 acestream://30ed25e99233ae63f7e10787c8806f74f52a437c
-#EXTINF:-1 infohash="db224b9e4979973e97a389a62c8259388ec3207e",RU-Глазами туриста HD [RU]
+#EXTINF:-1 infohash="db224b9e4979973e97a389a62c8259388ec3207e",Глазами туриста HD [RU]
 acestream://4f3037f55f54cf2417a6d6847adc5095537f9e83
-#EXTINF:-1 infohash="e06688954b01bd649f62e385a190fa63bfe01d9f",RU-Диалоги о рыбалке [RU]
+#EXTINF:-1 infohash="e06688954b01bd649f62e385a190fa63bfe01d9f",Диалоги о рыбалке [RU]
 acestream://8b0600c72af71a12e844135c93c759ce1eb3dfa0
-#EXTINF:-1 infohash="fa7779232bdf287ba44134ab1cc02a592ff9c698",RU-Дикий [RU]
+#EXTINF:-1 infohash="fa7779232bdf287ba44134ab1cc02a592ff9c698",Дикий [RU]
 acestream://c60f8614f11e0f11338e25567a92f5fb84eb4832
-#EXTINF:-1 infohash="ed6452bdf0452841bbfa3a060ee00e73b5968262",RU-Дождь [RU]
+#EXTINF:-1 infohash="ed6452bdf0452841bbfa3a060ee00e73b5968262",Дождь [RU]
 acestream://4b91bbf01a5574583e7e4af5b258de3e454d83e4
-#EXTINF:-1 infohash="0334a6a2478cb04840b658cd9eec2181fadd73d4",RU-Доктор [RU]
+#EXTINF:-1 infohash="0334a6a2478cb04840b658cd9eec2181fadd73d4",Доктор [RU]
 acestream://327cc1410c2e7af8fca0925f7a003ffdba6cdb2a
-#EXTINF:-1 infohash="22b73ed881efe130b4222b0168de8a0e8a299c24",RU-Дом кино [RU]
+#EXTINF:-1 infohash="22b73ed881efe130b4222b0168de8a0e8a299c24",Дом кино [RU]
 acestream://4403739564a9b19055786e9844ea48147b3f930b
-#EXTINF:-1 infohash="1b86e011adec585107f75423b7c5827f2ce0e460",RU-Дом кино премиум HD [RU]
+#EXTINF:-1 infohash="1b86e011adec585107f75423b7c5827f2ce0e460",Дом кино премиум HD [RU]
 acestream://c2877f4320f2029a59f2121525280c539fb1b9e9
-#EXTINF:-1 infohash="ad5c09fb6b08bc1aefe4b6bf292c4db6a04f7700",RU-Домашний [RU]
+#EXTINF:-1 infohash="ad5c09fb6b08bc1aefe4b6bf292c4db6a04f7700",Домашний [RU]
 acestream://66e2f44bd0a7687a61f5cc4f03bcfc20a505057c
-#EXTINF:-1 infohash="7a19cd742fba7d89ffa491776c38b3008154df36",RU-Дорама [RU]
+#EXTINF:-1 infohash="7a19cd742fba7d89ffa491776c38b3008154df36",Дорама [RU]
 acestream://67cf1b59347125a57a5ea62844a6b77075a3d9dd
-#EXTINF:-1 infohash="a98290bfa375a6f19b81d664e59da9bb0111d997",RU-Драйв [RU]
+#EXTINF:-1 infohash="a98290bfa375a6f19b81d664e59da9bb0111d997",Драйв [RU]
 acestream://2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
-#EXTINF:-1 infohash="00314f5387ad15fd701ba7d2e9fdb7b4a286197d",RU-Душевное [RU]
+#EXTINF:-1 infohash="00314f5387ad15fd701ba7d2e9fdb7b4a286197d",Душевное [RU]
 acestream://82cc7621069b4095f002b43a669b40c2b5342afc
-#EXTINF:-1 infohash="7e47ad913e702f8586bcdb0c4d97d3f96e8641c0",RU-Еврокино [RU]
+#EXTINF:-1 infohash="7e47ad913e702f8586bcdb0c4d97d3f96e8641c0",Еврокино [RU]
 acestream://cda16e6d488958942dcd9cd96284c0910dc29cce
-#EXTINF:-1 infohash="2c4cda7044f5390e060823dc25014eb23875c820",RU-Еда Премиум HD [RU]
+#EXTINF:-1 infohash="2c4cda7044f5390e060823dc25014eb23875c820",Еда Премиум HD [RU]
 acestream://42f32ae94fa97417ddd6f2b6f141bca76f56a299
-#EXTINF:-1 infohash="d4e1984fe9e54956aec065fe4532841d66c01438",RU-Жара [RU]
+#EXTINF:-1 infohash="d4e1984fe9e54956aec065fe4532841d66c01438",Жара [RU]
 acestream://0f777acf2def9b2c0ae254041796fbae5ba60501
-#EXTINF:-1 infohash="7670a5eb8855ee531fd83071d3f4dcb4088608c2",RU-Живая планета [RU]
+#EXTINF:-1 infohash="7670a5eb8855ee531fd83071d3f4dcb4088608c2",Живая планета [RU]
 acestream://b0ecbeeb8ce7bb65cd3ee911b44084976b259549
-#EXTINF:-1 infohash="c798cfb60ad3202bf02dc9eeda42b6a977c96d63",RU-Загородная жизнь [RU]
+#EXTINF:-1 infohash="c798cfb60ad3202bf02dc9eeda42b6a977c96d63",Загородная жизнь [RU]
 acestream://fccd5e7ff7469f38dea15ac0d396034c81bd0e4d
-#EXTINF:-1 infohash="5421d7e05a8400792bedebc375569abe0652c9b9",RU-Здоровое ТВ [RU]
+#EXTINF:-1 infohash="5421d7e05a8400792bedebc375569abe0652c9b9",Здоровое ТВ [RU]
 acestream://33d0a8be4195259a9d2e341bcd62123cd7a903fd
-#EXTINF:-1 infohash="f38c884bce595a962f75f838596165c99ef8402a",RU-Иллюзион+ [RU]
+#EXTINF:-1 infohash="f38c884bce595a962f75f838596165c99ef8402a",Иллюзион+ [RU]
 acestream://cc4b12985ef1c75d786cc5fafa5d0deb960312fd
-#EXTINF:-1 infohash="c62affbc37a7b013f7e47d72e11e09e5879a053b",RU-ИНДИЙСКОЕ КИНО [RU]
+#EXTINF:-1 infohash="c62affbc37a7b013f7e47d72e11e09e5879a053b",ИНДИЙСКОЕ КИНО [RU]
 acestream://28ca0f5e5e058a2eda74f7c1595022f2914af123
-#EXTINF:-1 infohash="9f1c19be4fa27db2bc9789252240296d2cc66b54",RU-Камеди HD [RU]
+#EXTINF:-1 infohash="9f1c19be4fa27db2bc9789252240296d2cc66b54",Камеди HD [RU]
 acestream://69f02544ef5a6029b4ac7b34a7af5616437c64e0
-#EXTINF:-1 infohash="f45b5a67839dad483c93132cbbb7c1f88f3f66a9",RU-Капитан Фантастика HD [RU]
+#EXTINF:-1 infohash="f45b5a67839dad483c93132cbbb7c1f88f3f66a9",Капитан Фантастика HD [RU]
 acestream://5bfc90fb33d6046da53943364b3d68d0e19e4464
-#EXTINF:-1 infohash="881465432a90d2a4cb7df8bf41cb25fce15177a7",RU-Карусель [RU]
+#EXTINF:-1 infohash="881465432a90d2a4cb7df8bf41cb25fce15177a7",Карусель [RU]
 acestream://c008e67929d47855b43f7a9af7305a6c32504132
-#EXTINF:-1 infohash="d092686779efec6d9ccea4409d567b9dfbe29252",RU-КИНО UHD [RU]
+#EXTINF:-1 infohash="d092686779efec6d9ccea4409d567b9dfbe29252",КИНО UHD [RU]
 acestream://038b448c810cad19a2a9e615d94696a23141e379
-#EXTINF:-1 infohash="23446bc0b284950a536eab7592bc1918e2fa667f",RU-КИНО ТВ [RU]
+#EXTINF:-1 infohash="23446bc0b284950a536eab7592bc1918e2fa667f",КИНО ТВ [RU]
 acestream://aeb66589dcdbf45061b76eb52ed29ea8297e8e21
-#EXTINF:-1 infohash="3b40d0d8f3292e94d23e92e7f2fad000b1b03f92",RU-Киноджем 1 HD [RU]
+#EXTINF:-1 infohash="3b40d0d8f3292e94d23e92e7f2fad000b1b03f92",Киноджем 1 HD [RU]
 acestream://6f59144864d644ee3f53fddef7db2c2f69255c2e
-#EXTINF:-1 infohash="1178829996d938a69c7b942ef804127bfca836b3",RU-Кинозал 1 [RU]
+#EXTINF:-1 infohash="1178829996d938a69c7b942ef804127bfca836b3",Кинозал 1 [RU]
 acestream://6c6849a17243f967d0c6f04323af9dfde161c3f2
-#EXTINF:-1 infohash="5254ec612b0bded26299560b4e51bd491bf9796f",RU-Кинокомедия [RU]
+#EXTINF:-1 infohash="5254ec612b0bded26299560b4e51bd491bf9796f",Кинокомедия [RU]
 acestream://dfb83e3ff3c570ba7346641c827d89bd472a18a2
-#EXTINF:-1 infohash="9650f12d9a13248dc7ee4919eb208b0eff3c563a",RU-Киномикс [RU]
+#EXTINF:-1 infohash="9650f12d9a13248dc7ee4919eb208b0eff3c563a",Киномикс [RU]
 acestream://3dba401ca5f2508ddfa955333e233d40d7f3572e
-#EXTINF:-1 infohash="403a3d7707586a2639237ea4d441cc029459524c",RU-Кинопоказ HD [RU]
+#EXTINF:-1 infohash="403a3d7707586a2639237ea4d441cc029459524c",Кинопоказ HD [RU]
 acestream://682b445d50584498d63230dd10d05c793779ad9d
-#EXTINF:-1 infohash="8eb2c2a4534bcbaa1873e258e0fa4fcdad0dc05c",RU-Кинопремьера HD [RU]
+#EXTINF:-1 infohash="8eb2c2a4534bcbaa1873e258e0fa4fcdad0dc05c",Кинопремьера HD [RU]
 acestream://94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
-#EXTINF:-1 infohash="c1dee6517b501723725b0ba578e2134ba8d317a6",RU-КиноСат [RU]
+#EXTINF:-1 infohash="c1dee6517b501723725b0ba578e2134ba8d317a6",КиноСат [RU]
 acestream://b2314014f5b3c51ed75dc5066260b5134fa4d5a6
-#EXTINF:-1 infohash="ce1735b634b02267a74367a51f0ef8ef66630ef7",RU-КИНОСВИДАНИЕ [RU]
+#EXTINF:-1 infohash="ce1735b634b02267a74367a51f0ef8ef66630ef7",КИНОСВИДАНИЕ [RU]
 acestream://f5302ed56cf6af61378b2527524398558d9cddde
-#EXTINF:-1 infohash="605dc598e02b8ba1ef8c07572661a421cefe33ba",RU-Киносемья [RU]
+#EXTINF:-1 infohash="605dc598e02b8ba1ef8c07572661a421cefe33ba",Киносемья [RU]
 acestream://e177586ae336f410e95e784348e4a1f7a82e0952
-#EXTINF:-1 infohash="80e761abc1c2793ee2ceb87485db40b99bb13407",RU-КИНОСЕРИЯ [RU]
+#EXTINF:-1 infohash="80e761abc1c2793ee2ceb87485db40b99bb13407",КИНОСЕРИЯ [RU]
 acestream://f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd
-#EXTINF:-1 infohash="44f248fb3e52db27504a1fa72560e0aa187ac72e",RU-Киноужас [RU]
+#EXTINF:-1 infohash="44f248fb3e52db27504a1fa72560e0aa187ac72e",Киноужас [RU]
 acestream://fd386c089ec9cc7d1d75ef5d59cf2199211515e7
-#EXTINF:-1 infohash="373b097439b972056ddd336f74949e5d012a4634",RU-Кинохит [RU]
+#EXTINF:-1 infohash="373b097439b972056ddd336f74949e5d012a4634",Кинохит [RU]
 acestream://f1fe45c8d5f58301c74dde7acaf4db13e497b586
-#EXTINF:-1 infohash="ac61a121998a3dcd1aa2a0bda6c8d757f89388af",RU-Комедийное HD [RU]
+#EXTINF:-1 infohash="ac61a121998a3dcd1aa2a0bda6c8d757f89388af",Комедийное HD [RU]
 acestream://322a734d2e4f99121e09df9f4831a7edf3d55f2c
-#EXTINF:-1 infohash="223585a877fa51808b5c6244b3f0591c82e84cbd",RU-Конный мир HD [RU]
+#EXTINF:-1 infohash="223585a877fa51808b5c6244b3f0591c82e84cbd",Конный мир HD [RU]
 acestream://96951e5de62a3e7095a1ed8a191817c8935e7017
-#EXTINF:-1 infohash="2d093fce90c42d50a36ad8b0b54b27ee45c09e1e",RU-Кто есть кто [RU]
+#EXTINF:-1 infohash="2d093fce90c42d50a36ad8b0b54b27ee45c09e1e",Кто есть кто [RU]
 acestream://16201468d380dafc1921287db09289dc83d688c0
-#EXTINF:-1 infohash="47c727a649958399a0b18aa3e92350f42a58d247",RU-Кухня ТВ [RU]
+#EXTINF:-1 infohash="47c727a649958399a0b18aa3e92350f42a58d247",Кухня ТВ [RU]
 acestream://a90a4172c6e146c87a92e32b5a8ed6af12ba0237
-#EXTINF:-1 infohash="242553daf687872eca8e184c238dc11ab712e9ac",RU-КХЛ HD [RU]
+#EXTINF:-1 infohash="242553daf687872eca8e184c238dc11ab712e9ac",КХЛ HD [RU]
 acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-#EXTINF:-1 infohash="38c98858c0fc5e670820d2e1d308c71efcaa2ddc",RU-КХЛ ТВ [RU]
+#EXTINF:-1 infohash="38c98858c0fc5e670820d2e1d308c71efcaa2ddc",КХЛ ТВ [RU]
 acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-#EXTINF:-1 infohash="2d5d33c8c011603172bf9d778d6d77dcce6e0aca",RU-Любимое кино [RU]
+#EXTINF:-1 infohash="2d5d33c8c011603172bf9d778d6d77dcce6e0aca",Любимое кино [RU]
 acestream://ed833df0a763fa26f180acac44634eb4c3918d86
-#EXTINF:-1 infohash="9fb2a296420e6a33d1de4e54611d7039d533a2b3",RU-Ля-минор [RU]
+#EXTINF:-1 infohash="9fb2a296420e6a33d1de4e54611d7039d533a2b3",Ля-минор [RU]
 acestream://e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
-#EXTINF:-1 infohash="0efa594cf5043eb03a86ecf2dbcb6d9fdc94cfe5",RU-Малыш [RU]
+#EXTINF:-1 infohash="0efa594cf5043eb03a86ecf2dbcb6d9fdc94cfe5",Малыш [RU]
 acestream://42f4491e03e5730330457e7c49c55362bf2cbc7e
-#EXTINF:-1 infohash="3a6ebb9eb0012bbd563e710c0c7e7ce2a8e4239a",RU-Матч! Арена HD [RU]
+#EXTINF:-1 infohash="3a6ebb9eb0012bbd563e710c0c7e7ce2a8e4239a",Матч! Арена HD [RU]
 acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 infohash="e84c8f3896a843b7fb272a6e3a18bba6b198db04",RU-Матч! Боец [RU]
+#EXTINF:-1 infohash="e84c8f3896a843b7fb272a6e3a18bba6b198db04",Матч! Боец [RU]
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 infohash="20be180e057ac43660627ca9fe66eaa6bd6c1aee",RU-Матч! Игра HD [RU]
+#EXTINF:-1 infohash="20be180e057ac43660627ca9fe66eaa6bd6c1aee",Матч! Игра HD [RU]
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1 infohash="7f6cf90f0e096df22e2b7fbcd5e6bff2318620ad",RU-МАТЧ! Планета [RU]
+#EXTINF:-1 infohash="7f6cf90f0e096df22e2b7fbcd5e6bff2318620ad",МАТЧ! Планета [RU]
 acestream://106c8656fca0ca91a696110467788d202d7111af
-#EXTINF:-1 infohash="88c482d9e57b1a031c032344f9c00cf7b36da8d9",RU-Матч! Премьер HD [RU]
+#EXTINF:-1 infohash="88c482d9e57b1a031c032344f9c00cf7b36da8d9",Матч! Премьер HD [RU]
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 infohash="8a8f6a325daa9b61370ea7800359b11392219f3c",RU-Матч! Страна [RU]
+#EXTINF:-1 infohash="8a8f6a325daa9b61370ea7800359b11392219f3c",Матч! Страна [RU]
 acestream://ef9c77bd94783448b8edb552109f5f15b2bd82d1
-#EXTINF:-1 infohash="f69b2859510dce33b992dd1940f95254c6e6f51c",RU-Матч! ТВ HD [RU]
+#EXTINF:-1 infohash="f69b2859510dce33b992dd1940f95254c6e6f51c",Матч! ТВ HD [RU]
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 infohash="0bb7252a2a8dd3704b3a6c0538478450b8987012",RU-Матч! Футбол 1 ( original ) [RU]
+#EXTINF:-1 infohash="0bb7252a2a8dd3704b3a6c0538478450b8987012",Матч! Футбол 1 ( original ) [RU]
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 infohash="fc5e35ba19a015dc14fa4060fb922f7cbc026f96",RU-Матч! Футбол 2 ( original ) [RU]
+#EXTINF:-1 infohash="fc5e35ba19a015dc14fa4060fb922f7cbc026f96",Матч! Футбол 2 ( original ) [RU]
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 infohash="7f6ceda82b964c416983ab233787cee4e2333435",RU-Матч! Футбол 3 ( original ) [RU]
+#EXTINF:-1 infohash="7f6ceda82b964c416983ab233787cee4e2333435",Матч! Футбол 3 ( original ) [RU]
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 infohash="f6fe32f9f31a7b72693a2ede8e5ad039b9ff1677",RU-Мир Баскетбола [RU]
+#EXTINF:-1 infohash="f6fe32f9f31a7b72693a2ede8e5ad039b9ff1677",Мир Баскетбола [RU]
 acestream://c4acde347445b0a07a9e8695b4254bee2b2df570
-#EXTINF:-1 infohash="b36ca2884ed1cedd173e96e53337588ed9784437",RU-Мир Вокруг HD [RU]
+#EXTINF:-1 infohash="b36ca2884ed1cedd173e96e53337588ed9784437",Мир Вокруг HD [RU]
 acestream://d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613
-#EXTINF:-1 infohash="7489852d25d4dbb269c1352042c7423f13220903",RU-Мосфильм [RU]
+#EXTINF:-1 infohash="7489852d25d4dbb269c1352042c7423f13220903",Мосфильм [RU]
 acestream://50c13be1307994322057222dbbeefd22622e333d
-#EXTINF:-1 infohash="b649ac53f9e2c903791f138b83bae6a052b589e8",RU-Моторспорт ТВ [RU]
+#EXTINF:-1 infohash="b649ac53f9e2c903791f138b83bae6a052b589e8",Моторспорт ТВ [RU]
 acestream://0eb8444f75bfe89d5a92c1497ac34ff4c4441207
-#EXTINF:-1 infohash="5013186c2b6b0ce4d813cd8bcf13b6a7ecec1e48",RU-Моя планета HD [RU]
+#EXTINF:-1 infohash="5013186c2b6b0ce4d813cd8bcf13b6a7ecec1e48",Моя планета HD [RU]
 acestream://bc956bc36a6384474f1b613638c79291e0ee3c14
-#EXTINF:-1 infohash="7d60b1179bac6fa3a63c7b80dd02b4bd33c9079e",RU-Мужское кино [RU]
+#EXTINF:-1 infohash="7d60b1179bac6fa3a63c7b80dd02b4bd33c9079e",Мужское кино [RU]
 acestream://26491abeef0cc9d0646bb8de880fe73d5ca285af
-#EXTINF:-1 infohash="7299f1e25e42a5f99c79416d18eb9cd44da34688",RU-Мужской [RU]
+#EXTINF:-1 infohash="7299f1e25e42a5f99c79416d18eb9cd44da34688",Мужской [RU]
 acestream://6f333af96362664dd566c585601d7c522c9b09e1
-#EXTINF:-1 infohash="e1bba4aa473d4bec2966d35bc2b579c3f1120da8",RU-МУЗ [RU]
+#EXTINF:-1 infohash="e1bba4aa473d4bec2966d35bc2b579c3f1120da8",МУЗ [RU]
 acestream://38cf205218182050f0df6c7d8321e5e651286e91
-#EXTINF:-1 infohash="a1673401b01e3c9626837bb1163e3e6baa4c1c33",RU-Музыка Первого [RU]
+#EXTINF:-1 infohash="a1673401b01e3c9626837bb1163e3e6baa4c1c33",Музыка Первого [RU]
 acestream://4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0
-#EXTINF:-1 infohash="120cffa3087fc07ea13c83f2c4fff8f3f5767eb8",RU-Мульт HD [RU]
+#EXTINF:-1 infohash="120cffa3087fc07ea13c83f2c4fff8f3f5767eb8",Мульт HD [RU]
 acestream://83392085bd6971ff98e8884913a51c3313126f7f
-#EXTINF:-1 infohash="b229a0b136490e63cd361c1dcd0f55d45281a87a",RU-Мультиландия [RU]
+#EXTINF:-1 infohash="b229a0b136490e63cd361c1dcd0f55d45281a87a",Мультиландия [RU]
 acestream://78f1672c711f67c5588ecc96580f7524c0fb87fb
-#EXTINF:-1 infohash="78250d0bb48bb99877ef2708f5c98ffa532d5a08",RU-Мультимузыка [RU]
+#EXTINF:-1 infohash="78250d0bb48bb99877ef2708f5c98ffa532d5a08",Мультимузыка [RU]
 acestream://5cb13f2670c56d4e5d507c2f963136adad34aa19
-#EXTINF:-1 infohash="a604243282974cc912690555f96b1c80d1495607",RU-НАНО [RU]
+#EXTINF:-1 infohash="a604243282974cc912690555f96b1c80d1495607",НАНО [RU]
 acestream://f57378901dec9cb1d110f3893f355becb6cae39d
-#EXTINF:-1 infohash="64d344a0acae84a96205b9b91924d5777f147a89",RU-Наука 2.0 [RU]
+#EXTINF:-1 infohash="64d344a0acae84a96205b9b91924d5777f147a89",Наука 2.0 [RU]
 acestream://07b0f15c3571584ecee786e2b05bec75a6b4485b
-#EXTINF:-1 infohash="2344fa4304ac860f6469f03b1563b9332acefeb0",RU-Наш Кинопоказ HD [RU]
+#EXTINF:-1 infohash="2344fa4304ac860f6469f03b1563b9332acefeb0",Наш Кинопоказ HD [RU]
 acestream://ea3446c59eb4f6083c98a73e367b262e7e89c6ed
-#EXTINF:-1 infohash="e926e95fd0c8b79d003d9426e2a99f118f5e0796",RU-Наша сибирь 4K [RU]
+#EXTINF:-1 infohash="e926e95fd0c8b79d003d9426e2a99f118f5e0796",Наша сибирь 4K [RU]
 acestream://4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
-#EXTINF:-1 infohash="43457f20587e5837ff55c0b46ac549dfc155103a",RU-Наше крутое HD [RU]
+#EXTINF:-1 infohash="43457f20587e5837ff55c0b46ac549dfc155103a",Наше крутое HD [RU]
 acestream://4f40b12ad32618adf3262143db8cc80ae686a5f0
-#EXTINF:-1 infohash="156283f58f21399fb21145d36fd43419da56bfbf",RU-Наше любимое HD [RU]
+#EXTINF:-1 infohash="156283f58f21399fb21145d36fd43419da56bfbf",Наше любимое HD [RU]
 acestream://c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1
-#EXTINF:-1 infohash="2fcdf632729bef234bfe1048532be31fe261d2c3",RU-Наше Мужское HD [RU]
+#EXTINF:-1 infohash="2fcdf632729bef234bfe1048532be31fe261d2c3",Наше Мужское HD [RU]
 acestream://646e1bd5cccfef3d0926eee34eb3fd7e01430507
-#EXTINF:-1 infohash="5e41e16355cfe58b6aa24820ce4110b3e1fd7f05",RU-Наше новое киRU-Но [RU]
+#EXTINF:-1 infohash="5e41e16355cfe58b6aa24820ce4110b3e1fd7f05",Наше новое кино [RU]
 acestream://ae38625cca3cae6873509ba05b99aa1af5ec0f4e
-#EXTINF:-1 infohash="3b63538adbaed8e4b192a054fdc7882296d44026",RU-Ностальгия [RU]
+#EXTINF:-1 infohash="3b63538adbaed8e4b192a054fdc7882296d44026",Ностальгия [RU]
 acestream://4308d30a3e8a7bc83e1f081f565371120c3fb6b3
-#EXTINF:-1 infohash="2a996dbd7180fe0fa2c147b7ee1d532c220c2457",RU-НСТ [RU]
+#EXTINF:-1 infohash="2a996dbd7180fe0fa2c147b7ee1d532c220c2457",НСТ [RU]
 acestream://038d0b88c99d988b0b91af57ef142f563a90d200
-#EXTINF:-1 infohash="fb85e578240f4aceb1d1e67e52a9cc6895c67ef8",RU-НТВ Сериал [RU]
+#EXTINF:-1 infohash="fb85e578240f4aceb1d1e67e52a9cc6895c67ef8",НТВ Сериал [RU]
 acestream://4419e27b1f86679b2741e2f0d096922b05c00993
-#EXTINF:-1 infohash="5c12404dc3f67ce3421cee2e47871912d313dad7",RU-НТВ Стиль [RU]
+#EXTINF:-1 infohash="5c12404dc3f67ce3421cee2e47871912d313dad7",НТВ Стиль [RU]
 acestream://c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6
-#EXTINF:-1 infohash="bc301f9bb46cb45a6ba0a6ae1dc4a0bf1b8cc36b",RU-НТВ ХИТ [RU]
+#EXTINF:-1 infohash="bc301f9bb46cb45a6ba0a6ae1dc4a0bf1b8cc36b",НТВ ХИТ [RU]
 acestream://f9cad853d220c9d7c3ec88ad65681a611b8ec280
-#EXTINF:-1 infohash="1fdaf5914ea4b80d10b1053de7d740fe31f31fee",RU-О! [RU]
+#EXTINF:-1 infohash="1fdaf5914ea4b80d10b1053de7d740fe31f31fee",О! [RU]
 acestream://f629f91eaeee18118080c0211516469495af04f2
-#EXTINF:-1 infohash="69b6ed2da6ea4b37fc965a0b0b456a28f403f635",RU-О!Кино [RU]
+#EXTINF:-1 infohash="69b6ed2da6ea4b37fc965a0b0b456a28f403f635",О!Кино [RU]
 acestream://79fc325adef8b1977b790c8435ff868cb6f75794
-#EXTINF:-1 infohash="97173d5c881764f696276b011feae5d9c8fc4491",RU-Оружие [RU]
+#EXTINF:-1 infohash="97173d5c881764f696276b011feae5d9c8fc4491",Оружие [RU]
 acestream://ac92a83d7e7903ee7b843e4a490d247ff357d1e9
-#EXTINF:-1 infohash="da7e8d2f8d00e935946fb17a88d6eab62e7212ef",RU-Остросюжетное HD [RU]
+#EXTINF:-1 infohash="da7e8d2f8d00e935946fb17a88d6eab62e7212ef",Остросюжетное HD [RU]
 acestream://6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5
-#EXTINF:-1 infohash="10cb1b48a429a04bbcdbcd75835f26062c4e41b4",RU-Охотник и Рыболов HD [RU]
+#EXTINF:-1 infohash="10cb1b48a429a04bbcdbcd75835f26062c4e41b4",Охотник и Рыболов HD [RU]
 acestream://0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
-#EXTINF:-1 infohash="7f68905586e70b6d2684f6ded8e6367365906f5c",RU-Поехали! [RU]
+#EXTINF:-1 infohash="7f68905586e70b6d2684f6ded8e6367365906f5c",Поехали! [RU]
 acestream://c5841f89c3ae2e6745948308be283a904bf96adb
-#EXTINF:-1 infohash="c9f1505f9c0597424e0c595edbe441c1780a8b12",RU-Премиальное HD [RU]
+#EXTINF:-1 infohash="c9f1505f9c0597424e0c595edbe441c1780a8b12",Премиальное HD [RU]
 acestream://4bf6e4511111ef5f8946c75ff85d3591a809f131
-#EXTINF:-1 infohash="9a7419d0e9ccf16b5c474cb9c80f3b5cc08d7872",RU-Приключения HD [RU]
+#EXTINF:-1 infohash="9a7419d0e9ccf16b5c474cb9c80f3b5cc08d7872",Приключения HD [RU]
 acestream://ad69a3fc4c2c2c90f29254a6b1b5b2171c747283
-#EXTINF:-1 infohash="bd0abcbc41397ebec18e94dd4799b24c21449ccd",RU-Про Любовь HD [RU]
+#EXTINF:-1 infohash="bd0abcbc41397ebec18e94dd4799b24c21449ccd",Про Любовь HD [RU]
 acestream://300552f346d9fe2dfd405f48fbafe084a95da563
-#EXTINF:-1 infohash="a95ec5a3780c3a3c76da5707b12561daee4f2305",RU-Пятница [RU]
+#EXTINF:-1 infohash="a95ec5a3780c3a3c76da5707b12561daee4f2305",Пятница [RU]
 acestream://10d62d03d9fd2a9e84f639ed40a42e6a13940fce
-#EXTINF:-1 infohash="2f681a20a31e7e7a351702823d50c50dcf96fc0c",RU-Родное кино [RU]
+#EXTINF:-1 infohash="2f681a20a31e7e7a351702823d50c50dcf96fc0c",Родное кино [RU]
 acestream://b46c879a624e1d0aa8eeb18300cda7413657e80a
-#EXTINF:-1 infohash="fc05594eea6af5b2d82b022b768a92d1260b4ffe",RU-Романтичное [RU]
+#EXTINF:-1 infohash="fc05594eea6af5b2d82b022b768a92d1260b4ffe",Романтичное [RU]
 acestream://19bf6faf7257fb5db419008750d80ab4b693981e
-#EXTINF:-1 infohash="f1a5c523d5e844945969c6bb7b51fbf1f28eba03",RU-Русская комедия [RU]
+#EXTINF:-1 infohash="f1a5c523d5e844945969c6bb7b51fbf1f28eba03",Русская комедия [RU]
 acestream://c33dc2a170db91a6b0c8bb1f9583b008122cdf8c
-#EXTINF:-1 infohash="4a66f6256d4aafe9043ca46cb057e887ecf14980",RU-Русский Бестселлер [RU]
+#EXTINF:-1 infohash="4a66f6256d4aafe9043ca46cb057e887ecf14980",Русский Бестселлер [RU]
 acestream://3b35986d4455f25cc8a28d666bb2ca8b638986de
-#EXTINF:-1 infohash="050d2c6e62118c2f8a75e26c1399d06cb07bb551",RU-Русский Детектив [RU]
+#EXTINF:-1 infohash="050d2c6e62118c2f8a75e26c1399d06cb07bb551",Русский Детектив [RU]
 acestream://0028b93215ac25fb20fac7938a5697cf835a4a36
-#EXTINF:-1 infohash="ad985ece170940d1d93769dc9f2291469a718dfc",RU-Русский иллюзион [RU]
+#EXTINF:-1 infohash="ad985ece170940d1d93769dc9f2291469a718dfc",Русский иллюзион [RU]
 acestream://9f476ff8038d54604d17b15e25e57a041372cde1
-#EXTINF:-1 infohash="570d51491a1e50989346ecd9d0c5cf8f3aecd78b",RU-Русский Экстрим [RU]
+#EXTINF:-1 infohash="570d51491a1e50989346ecd9d0c5cf8f3aecd78b",Русский Экстрим [RU]
 acestream://ed63659df12baa6febbe70f4125b6527aa1ae413
-#EXTINF:-1 infohash="bde0b4aa0c8461fc252b5576a31a09e644e58d48",RU-Рыжий [RU]
+#EXTINF:-1 infohash="bde0b4aa0c8461fc252b5576a31a09e644e58d48",Рыжий [RU]
 acestream://0ef17cf868ef54b443dd41516803276779b76aac
-#EXTINF:-1 infohash="32fa4e9c1c34b06c9cdbced939dee4b6b6c5beba",RU-СЕРИАЛ UHD [RU]
+#EXTINF:-1 infohash="32fa4e9c1c34b06c9cdbced939dee4b6b6c5beba",СЕРИАЛ UHD [RU]
 acestream://3a71745381e1a6821a881c96a230b6cd365d4da5
-#EXTINF:-1 infohash="c18fd62e385573b8d4c8aa2cb5811a193e2befea",RU-Сов. Секретно [RU]
+#EXTINF:-1 infohash="c18fd62e385573b8d4c8aa2cb5811a193e2befea",Сов. Секретно [RU]
 acestream://e01cca4c9eed9644507650b6e0bdfcd8ce28acb5
-#EXTINF:-1 infohash="30cf0f8140006a03d60a4639c623f024b4e167ed",RU-Спортивный [RU]
+#EXTINF:-1 infohash="30cf0f8140006a03d60a4639c623f024b4e167ed",Спортивный [RU]
 acestream://8410d89a5767b250cd752381672aeb5fbe2240d3
-#EXTINF:-1 infohash="fc5c69847a489f2e0984926534205627989f1896",RU-Старт [RU]
+#EXTINF:-1 infohash="fc5c69847a489f2e0984926534205627989f1896",Старт [RU]
 acestream://4b129146077c1e357e4ab341448b9fb629f939dc
-#EXTINF:-1 infohash="9ac637b44ab67b62d2e195c2e2e15178f96cb548",RU-Страшное HD [RU]
+#EXTINF:-1 infohash="9ac637b44ab67b62d2e195c2e2e15178f96cb548",Страшное HD [RU]
 acestream://d47c7365f67b9b8169404e1c4d86fd698307fa15
-#EXTINF:-1 infohash="a07a6365dc2f3f7e1ca8dfdb63d05f45e187afb7",RU-СТС Kids [RU]
+#EXTINF:-1 infohash="a07a6365dc2f3f7e1ca8dfdb63d05f45e187afb7",СТС Kids [RU]
 acestream://c0d8e40d726705eaa3c8e714e38babffd2dd18cb
-#EXTINF:-1 infohash="c8664d53f5553fbbc565e5c2e99f6cc31f1e78db",RU-СТС Love [RU]
+#EXTINF:-1 infohash="c8664d53f5553fbbc565e5c2e99f6cc31f1e78db",СТС Love [RU]
 acestream://d586953ebbdb28493eecd8d8e8527557a231201d
-#EXTINF:-1 infohash="00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22",RU-СТС [RU]
+#EXTINF:-1 infohash="00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22",СТС [RU]
 acestream://5e06a45d6939341fb7427189245380086c1d63c7
-#EXTINF:-1 infohash="ebeec408c96acce8cfea1dcb0a53397fbee77acf",RU-Суббота! [RU]
+#EXTINF:-1 infohash="ebeec408c96acce8cfea1dcb0a53397fbee77acf",Суббота! [RU]
 acestream://14002498165f0a7aaaea284ebb9965f078eb0f69
-#EXTINF:-1 infohash="3403267623697a7092a10478aad7f234f2ce4a64",RU-ТВ 3 [RU]
+#EXTINF:-1 infohash="3403267623697a7092a10478aad7f234f2ce4a64",ТВ 3 [RU]
 acestream://3b878b202b26e2b15bf7304e21a7d5283ebf236b
-#EXTINF:-1 infohash="1324b58bf20dd2dc6491353e6f09c5c19effb8e4",RU-ТВ XXI [RU]
+#EXTINF:-1 infohash="1324b58bf20dd2dc6491353e6f09c5c19effb8e4",ТВ XXI [RU]
 acestream://6af72b6047bed580ad57c036ce635dd93233abb6
-#EXTINF:-1 infohash="fab9f7a13476148dc75d77ba29bf38ccf966ac81",RU-ТНТ (+7) [RU]
+#EXTINF:-1 infohash="fab9f7a13476148dc75d77ba29bf38ccf966ac81",ТНТ (+7) [RU]
 acestream://e8c4dc3309c32e58d0235919620180e9eea9d291
-#EXTINF:-1 infohash="a6169d01fb2b8a62b45857666946732773c651d1",RU-ТНТ HD [RU]
+#EXTINF:-1 infohash="a6169d01fb2b8a62b45857666946732773c651d1",ТНТ HD [RU]
 acestream://caa3dad746d80a887e8a259f1c7c2eead749094b
-#EXTINF:-1 infohash="64404f0e23ae2a21b28d714138472954bda42395",RU-ТНТ-Music [RU]
+#EXTINF:-1 infohash="64404f0e23ae2a21b28d714138472954bda42395",ТНТ-Music [RU]
 acestream://347126177d806d4578b249807200e71db6470b63
-#EXTINF:-1 infohash="6f169084c32e98f87f49d9880406873c3453b49d",RU-ТНТ4 [RU]
+#EXTINF:-1 infohash="6f169084c32e98f87f49d9880406873c3453b49d",ТНТ4 [RU]
 acestream://da27959a3e9ee97647df5aadd056021099e2d845
-#EXTINF:-1 infohash="8ee0c3512883fe9cd8fc597e30a4cf45631c92df",RU-Точка отрыва [RU]
+#EXTINF:-1 infohash="8ee0c3512883fe9cd8fc597e30a4cf45631c92df",Точка отрыва [RU]
 acestream://ee5cd7316e917f156bf8d176a11da98fe403b0b2
-#EXTINF:-1 infohash="f19a2cd4c0e4924b79d207c39a9570bcf2620f70",RU-Уникум [RU]
+#EXTINF:-1 infohash="f19a2cd4c0e4924b79d207c39a9570bcf2620f70",Уникум [RU]
 acestream://dc5cf63b879b13f10c439d90b82bd91a5ba957ee
-#EXTINF:-1 infohash="69af62012e44a54dbe1d7a330bc53d037dd7cc3e",RU-Усадьба [RU]
+#EXTINF:-1 infohash="69af62012e44a54dbe1d7a330bc53d037dd7cc3e",Усадьба [RU]
 acestream://8753c67ddaedb391cca8e6a043ec85999f6b3199
-#EXTINF:-1 infohash="ac1af534d9413abee090607cd87954d964d2fd91",RU-Феникс Плюс Кино [RU]
+#EXTINF:-1 infohash="ac1af534d9413abee090607cd87954d964d2fd91",Феникс Плюс Кино [RU]
 acestream://505d4c6259acfea0ee5d9b1f26f7badd447f69f6
-#EXTINF:-1 infohash="9d4b38b7218803e1d877b01b3a6c6db1a494bb6a",RU-Футбол HD [RU]
+#EXTINF:-1 infohash="9d4b38b7218803e1d877b01b3a6c6db1a494bb6a",Футбол HD [RU]
 acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 infohash="65ae3e0427ef14d9ef88f0183c011e6ff42ca062",RU-Футбольный HD [RU]
+#EXTINF:-1 infohash="65ae3e0427ef14d9ef88f0183c011e6ff42ca062",Футбольный HD [RU]
 acestream://92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
-#EXTINF:-1 infohash="c6b97fd0578b6f279870a6d002640c1fc97e810a",RU-Хит HD [RU]
+#EXTINF:-1 infohash="c6b97fd0578b6f279870a6d002640c1fc97e810a",Хит HD [RU]
 acestream://3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
-#EXTINF:-1 infohash="8b7c300e60486a80c1e25bc5ecd693533fca52a4",RU-Хоккейный HD [RU]
+#EXTINF:-1 infohash="8b7c300e60486a80c1e25bc5ecd693533fca52a4",Хоккейный HD [RU]
 acestream://99f0646986e9266836dd79047dedecb04e243857
-#EXTINF:-1 infohash="7f9ae2b48d0872ae47d04890227d33fb225658d1",RU-Шансон ТВ [RU]
+#EXTINF:-1 infohash="7f9ae2b48d0872ae47d04890227d33fb225658d1",Шансон ТВ [RU]
 acestream://71506b08243e6b12e0e6e69c8582622a38009637
-#EXTINF:-1 infohash="90f87b7e2044d25ce1e483774bded9ccf961e697",RU-Шокирующее HD [RU]
+#EXTINF:-1 infohash="90f87b7e2044d25ce1e483774bded9ccf961e697",Шокирующее HD [RU]
 acestream://a4d2d63c562696b5ef7731efb7c2df74d9183700

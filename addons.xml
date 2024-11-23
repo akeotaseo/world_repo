@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="Kodish.repo.store" name="[B]Kodish Store Rammeta[/B]" version="5.0.0" provider-name="Kodish Team">
+<addon id="Kodish.repo.store" name="[B]Kodish Store Onimatrix DX[/B]" version="7.2" provider-name="Kodish Team">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="plugin.video.youtube" version="5.0.0"/>
@@ -11,6 +11,7 @@
     <import addon="script.module.requests" version="2.22.0+matrix.1"/>
     <import addon="script.module.routing" version="0.2.3"/>
     <import addon="script.module.simplejson"/>
+    <import addon="resource.language.pt_br"/>
   </requires>
 
   <extension point="xbmc.python.pluginsource" library="default.py">
@@ -18,8 +19,8 @@
   </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Kodish Store Rammeta</summary>
-    <description lang="en">Addon Kodish Store Neo a versão permite instalar addons da Kodish e seus Parceiros Agora com Suporte ao Kodi 20</description>
+    <summary lang="en">Kodish Store Onimatrix DX</summary>
+    <description lang="en">Addon Kodish Store Onimatrix DX a versão permite instalar addons da Kodish e seus Parceiros Agora com Suporte ao Kodi 20/21</description>
     <platform>all</platform>
     <forum></forum>
 	<assets>
@@ -1118,31 +1119,6 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
   </extension>
 </addon>
 
-<addon id="plugin.video.clickhere" name="  [B][COLOR white]Click Here[/COLOR][/B]" version="1.4" provider-name="Diamond Build">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.routing"/>
-    <import addon="script.module.unidecode" />
-    <import addon="script.module.inputstreamhelper" />
-    <import addon="script.module.resolveurl"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <description lang="en">Click Here, Debrid Free, One Click Play</description>
-    <summary lang="en_GB">Click Here, Debrid Free, One Click Play</summary>
-    <platform>all</platform>
-    <language>en</language>
-    <license>GPL-2.0-or-later</license>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.jpg</fanart>
-  </assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.co.bellesa.free"
        version="0.0.8"
        name="bellesa.co (free)"
@@ -1238,78 +1214,6 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
   <email>fr33p0rt@protonmail.com</email>
   <news>New player based video path calculation</news>
 </extension>
-</addon>
-
-<addon id="plugin.video.crackle" name="Crackle" version="2022.10.19" provider-name="eracknaphobia">
-  <requires>
-      <import addon="xbmc.python" version="3.0.0"/>
-      <import addon="script.module.requests"/>
-      <import addon="script.module.inputstreamhelper"/>
-      <import addon="script.module.kodi-six" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en_GB">Crackle delivers popular, award-winning TV, movies and originals. With no limit to how much you can watch across all your devices, you can binge all you want, wherever you want.</summary>
-    <description lang="en_GB">Crackle is a video streaming distributor of original web shows, Hollywood movies, and TV shows. Founded in the early 2000s as Grouper, and rebranded in 2007, Crackle is owned by Sony Pictures Entertainment.</description>
-      <news>
-        - Update to f-strings
-      </news>
-    <language>en</language>
-    <platform>all</platform>
-    <license>GPL-2.0-or-later</license>
-    <forum></forum>
-    <source>https://github.com/eracknaphobia/plugin.video.crackle</source>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-
-<addon id="plugin.video.cristalazul" name="[B][/B][COLOR aqua]CRISTAL AZUL 3.0.10[/COLOR]" version="3.0.10" provider-name="PICAPAU, LOURDES, SUPERTOPO, LUISMA, GEORGE">
-    <requires>
-        <import addon="script.module.simplecache"/>
-        <import addon="script.module.six"/>
-        <import addon="script.module.kodi-six"/>
-        <import addon="script.module.requests"/>
-        <import addon="script.module.youtube.dl" optional="true" />
-        <import addon="plugin.video.youtube" />
-		<import addon="plugin.video.duffyou" optional="true" />
-        <import addon="script.module.dateutil" optional="true" />
-        <import addon="script.module.resolveurl" optional="true" />
-        <import addon="script.module.cloudscraper" optional="true" />
-        <import addon="script.module.inputstreamhelper" />
-        <import addon="script.module.pycryptodome" optional="true" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-
-    <extension point="xbmc.service" library="autoexec.py" start="autoexec" />
-
-    <extension point="xbmc.addon.repository" name="Mi repositorio">
-       <dir minversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/picapaujulen/repositorio/master/Repositorio/</datadir>
-       </dir>
-    </extension>
-
-
-    <extension point="xbmc.addon.metadata">
-        <summary>creado por picapau, lourdes, supertopo y luisma</summary>
-        <description>ESTE ADDON NO CONTIENE ENLACES PROPIOS,SON RECOPILACIONES DE LA RED, SOLO SE FACILITA EL ACESSO A ESAS WEBS, ESTAS WEBS SON LAS RESPONSABLES DE LOS CONTENIDOS
-        </description>
-		<disclaimer>Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR][COLOR red][B]Pero no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, por su uso o por recibir asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.gif</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.darklegion.Nexus" name="[B][COLOR yellow]D[/COLOR][/B][B][COLOR lime]a[/COLOR][/B][B][COLOR yellow]R[/COLOR][/B][B][COLOR lime]k[/COLOR][/B][B][COLOR yellow]L[/COLOR][/B][B][COLOR lime]e[/COLOR][/B][B][COLOR yellow]G[/COLOR][/B][B][COLOR lime]i[/COLOR][/B][B][COLOR yellow]O[/COLOR][/B][B][COLOR lime]n[/COLOR][/B] [B][COLOR cyan]NeXuS[/COLOR][/B] [B][COLOR lime]V_3.3.3[/COLOR][/B]" version="3.3.3" provider-name="[B][COLOR yellow]DARK_LEGION_PRODUCTION[/COLOR][/B]">
@@ -4880,7 +4784,7 @@ v0.1.0
 
 <addon id="script.sites"
   name="script sites"
-  version="19.5a"
+  version="19.5b"
   provider-name="ML Gb">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

@@ -975,10 +975,6 @@ http://pro.lsscover.cc:8080/get.php?username=Eddie31203C&password=6VKXwFhtpM55&t
 
 
 
-
-
-
-
 http://callvip.me:80/get.php?username=urimshehu&password=jmG5gYTE5u&type=m3u_plus
 http://callvip.me:80/get.php?username=kocavosk&password=CBcs3MB5Dbuh&type=m3u_plus
 http://callvip.me:80/get.php?username=XhemajlIdrizi&password=jmeDPT3X7Z8SYBMWdyx3B6Uaygasigda&type=m3u_plus

@@ -53,7 +53,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.audio.dashradio" name="Dash Radio" version="420.3" provider-name="Diggz">
+<addon id="plugin.audio.dashradio" name="Litt Live Radio" version="421.3" provider-name="Diggz">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
 </requires>
@@ -62,7 +62,9 @@
 </extension>
 <extension point="xbmc.addon.metadata">
     <summary lang="en">Dash Radio</summary>
-    <description lang="en">Dash Radio is a digital radio broadcasting platform over 80 original stations. These stations are curated by DJs, radio personalities, musicians, and music tastemakers. The platform includes partner stations curated by Snoop Dogg, Kylie Jenner, Lil Wayne, Tech N9ne, Borgore, B-Real of Cypress Hill, and others.</description>
+    <description lang="en">Litt Live (stylized as LITT Live, formerly Dash Radio) is a digital radio broadcasting platform with over 80 radio stations. These stations are curated by DJs, radio personalities, musicians, etc. The platform includes partner stations curated by Snoop Dogg, Kylie Jenner, Lil Wayne, Tech N9ne, Borgore, B-Real of Cypress Hill, and others. Dash Radio has no subscription fees and is commercial-free.
+
+</description>
     <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
         <license>Free</license>
     <platform>all</platform>
@@ -4942,5 +4944,29 @@ v0.1.0
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
 	</extension>
+</addon>
+
+<addon id="service.subtitles.all_subs_plus" name="All Subs Plus" version="2.3.1" provider-name="burekas">
+    <requires>
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.beautifulsoup4" version="4.8.2" />
+        <import addon="script.common.plugin.cache" version="2.5.5"/>
+        <import addon="script.module.chardet" />
+        <!-- <import addon="script.subskeys" version="1.0.1"/> -->
+    </requires>
+    <extension point="xbmc.service" library="autosub.py"/>
+    <extension point="xbmc.subtitle.module" library="service.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Searching subtitles from several providers in one place</summary>
+        <summary lang="en_GB">Searching subtitles from several providers in one place</summary>
+        <summary lang="he">חיפוש כתוביות ממספר מקורות במקום אחד</summary>
+        <summary lang="he_IL">חיפוש כתוביות ממספר מקורות במקום אחד</summary>
+        <description lang="en">[CR]Providers included: Wizdom, Ktuvit, OpenSubtitles, Subscene and Local Storage.[CR][CR]Made by Burekas[CR]Thanks to: Sbs, Catz, wizdom, manacker, amet, drorba, rafi_d[CR][CR]For news, updates and more info - Visit: https://bit.ly/3DaU7JT[CR][CR]Burekas Repo: https://bit.ly/49mJge3</description>
+        <language>en</language>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
 </addon>
 </addons>

@@ -424,17 +424,6 @@
 00:1A:79:B4:DE:31=http://line.iptvwings.com:80/c/=,
 
 
-00:1A:79:73:12:7F=http://mag.ukhd.tv:80/c/=,
-00:1A:79:03:9E:68=http://mag.ukhd.tv:80/c/=,
-00:1A:79:D4:CE:25=http://mag.ukhd.tv:80/c/=,
-00:1A:79:17:03:E8=http://mag.ukhd.tv:80/c/=,
-00:1A:79:C4:58:3E=http://mag.ukhd.tv:80/c/=,
-00:1A:79:1A:D5:36=http://mag.ukhd.tv:80/c/=,
-00:1A:79:62:3F:3E=http://mag.ukhd.tv:80/c/=,
-00:1A:79:22:03:15=http://mag.ukhd.tv:80/c/=,
-00:1A:79:73:12:7F=http://mag.ukhd.tv:80/c/=,
-00:1A:79:03:9E:68=http://mag.ukhd.tv:80/c/=,
-00:1A:79:D4:CE:25=http://mag.ukhd.tv:80/c/=,
 
 
 00:1A:79:5C:C0:0A=http://mag.greatott.me/c/=,
@@ -463,20 +452,10 @@
 00:1A:79:60:BE:70=http://mag.greatott.me/c/=,
 
 
-00:1A:79:32:BD:7D=http://line.iptveros.com/c/=,
-00:1A:79:B4:DC:F1==http://line.iptveros.com/c/=,
-00:1A:79:52:5D:B4==http://line.iptveros.com/c/=,
-00:1A:79:24:98:C2==http://line.iptveros.com/c/=,
-00:1A:79:44:8B:33==http://line.iptveros.com/c/=,
-00:1A:79:C3:1E:DD==http://line.iptveros.com/c/=,
-00:1A:79:19:30:72==http://line.iptveros.com/c/=,
-00:1A:79:E9:A5:1B==http://line.iptveros.com/c/=,
-00:1A:79:1B:69:92==http://line.iptveros.com/c/=,
-00:1A:79:C5:91:C9==http://line.iptveros.com/c/=,
-00:1A:79:A3:A5:46==http://line.iptveros.com/c/=,
 
 
-=http://uhd3.one/c/=,
+
+
 
 
 00:1A:79:05:48:CD=http://uhd3.one/c/=,

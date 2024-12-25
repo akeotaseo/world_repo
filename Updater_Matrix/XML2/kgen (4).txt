@@ -461,3 +461,16 @@
 00:1A:79:24:78:2D=http://mag.greatott.me/c/=,
 00:1A:79:C4:05:7D=http://mag.greatott.me/c/=,
 00:1A:79:60:BE:70=http://mag.greatott.me/c/=,
+
+
+00:1A:79:32:BD:7D=http://line.iptveros.com/c/=,
+00:1A:79:B4:DC:F1==http://line.iptveros.com/c/=,
+00:1A:79:52:5D:B4==http://line.iptveros.com/c/=,
+00:1A:79:24:98:C2==http://line.iptveros.com/c/=,
+00:1A:79:44:8B:33==http://line.iptveros.com/c/=,
+00:1A:79:C3:1E:DD==http://line.iptveros.com/c/=,
+00:1A:79:19:30:72==http://line.iptveros.com/c/=,
+00:1A:79:E9:A5:1B==http://line.iptveros.com/c/=,
+00:1A:79:1B:69:92==http://line.iptveros.com/c/=,
+00:1A:79:C5:91:C9==http://line.iptveros.com/c/=,
+00:1A:79:A3:A5:46==http://line.iptveros.com/c/=,

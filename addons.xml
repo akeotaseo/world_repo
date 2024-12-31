@@ -3326,39 +3326,6 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.torrest" name="Torrest" provider-name="i96751414" version="0.0.16.w64">
-    <requires>
-        <!--<import addon="xbmc.python" version="3.0.0"/>-->
-        <import addon="repository.sarsaila" version="1.1.1"/>
-        <import addon="script.module.requests" version="2.22.0"/>
-        <import addon="script.module.routing" version="0.2.3"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="navigation.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.service" library="service.py"/>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <license>See https://github.com/i96751414/plugin.video.torrest/blob/master/LICENSE</license>
-        <source>https://github.com/i96751414/plugin.video.torrest</source>
-        <summary lang="en">Torrest on Kodi</summary>
-        <description lang="en">Torrest is a service with a rest API which allows torrent streaming.</description>
-        <news>
-- Update for torrest 0.0.5 (https://github.com/i96751414/torrest-cpp/releases/tag/v0.0.5)
-- Add support for domain and https for torrest service
-- Allow deleting torrent without prompt
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <screenshot>resources/screenshots/screenshot-1.jpg</screenshot>
-            <screenshot>resources/screenshots/screenshot-2.jpg</screenshot>
-            <screenshot>resources/screenshots/screenshot-3.jpg</screenshot>
-            <screenshot>resources/screenshots/screenshot-4.jpg</screenshot>
-        </assets>
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-    </extension>
-</addon>
-
 <addon id="plugin.video.tvlive" name="[B][COLOR mediumslateblue]TV Live Streams[/B][/COLOR]" version="3.1.2" provider-name="[B][COLOR mediumslateblue]The Hood[/B][/COLOR]">
   <extension point="xbmc.python.pluginsource"
 			library="default.py">

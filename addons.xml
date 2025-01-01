@@ -1070,7 +1070,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
-<addon id="plugin.video.cb20" version="2.1.0" name="CB20" provider-name="aitschti">
+<addon id="plugin.video.cb20" version="2.2.1" name="CB20" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <!-- Other dependencies -->
@@ -1093,7 +1093,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
         <license>GPL-3.0</license>
         <forum></forum>
         <website></website>
-        <email>last5mins@yandex.com</email>
+        <email>burnermail2@posteo.de</email>
         <summary lang="en_GB">Chaturbate for Kodi 20+</summary>
         <summary lang="de_DE">Chaturbate für Kodi 20+</summary>
         <description lang="en_GB">Chaturbate streaming for Kodi 20+</description>
@@ -2859,7 +2859,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 	</extension>
 </addon>
 
-<addon id="plugin.video.sc19" version="1.4.2" name="SC19" provider-name="aitschti">
+<addon id="plugin.video.sc19" version="1.5.1" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="inputstream.ffmpegdirect" version="19.0.0"/>
@@ -2884,7 +2884,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.sc19
         <license>GPL-3.0</license>
         <forum></forum>
         <website></website>
-        <email>last5mins@yandex.com</email>
+        <email>burnermail2@posteo.de</email>
         <summary lang="en_GB">Stripchat for Kodi 19/20/21</summary>
         <summary lang="de_DE">Stripchat für Kodi 19/20/21</summary>
         <description lang="en_GB">Stripchat streaming for Kodi 19/20/21</description>

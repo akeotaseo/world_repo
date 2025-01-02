@@ -3,7 +3,7 @@
 [COLOR chartreuse]Δημιουργία Build 07 Απριλίου 2021[/COLOR]
 
 
-World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2[/COLOR]  11 Σεπτεμβρίου 2024
+World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2.1[/COLOR]  01 Ιανουαρίου 2025
 
 Σημείωση: Παρακαλώ, για την εύρυθμη λειτουργία του build
 να έχετε πάντα την τελευταία έκδοση.
@@ -14,9 +14,13 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 31 Δεκεμβρίου 2024:[/B]
-- Αλλαγές/διορθώσεις/προσθήκες στο Skin
+- [B]Τελευταία ενημέρωση 01 Ιανουαρίου 2025:[/B]
+- Νέο zip...
+
+
+- [B]Ενημέρωση 28 Δεκεμβρίου 2024:[/B]
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
+ 
 
 - [B]Ενημέρωση 08 Σεπτεμβρίου 2024:[/B]
 - Νέο zip...

@@ -64,11 +64,25 @@
 
 
 
-00:1A:79:77:84:03=http://oceanstream.me/c=,
-00:1A:79:46:37:2D=http://oceanstream.me/c=,
-00:1A:79:77:82:B7=http://oceanstream.me/c=,
-00:1A:79:B5:D7:0B=http://oceanstream.me/c=,
-00:1A:79:75:63:44=http://oceanstream.me/c=,
-00:1A:79:60:D3:59=http://oceanstream.me/c=,
-00:1A:79:B5:10:D1=http://oceanstream.me/c=,
+00:1A:79:77:84:03=http://oceanstream.me/c/=,
+00:1A:79:46:37:2D=http://oceanstream.me/c/=,
+00:1A:79:77:82:B7=http://oceanstream.me/c/=,
+00:1A:79:B5:D7:0B=http://oceanstream.me/c/=,
+00:1A:79:75:63:44=http://oceanstream.me/c/=,
+00:1A:79:60:D3:59=http://oceanstream.me/c/=,
+00:1A:79:B5:10:D1=http://oceanstream.me/c/=,
+
+
+
+
+00:1A:79:c2:e9:a6=http://alpha-2ott.me:80/c/=,
+00:1A:79:46:8b:81=http://alpha-2ott.me:80/c/=,
+00:1A:79:98:cd:b8=http://alpha-2ott.me:80/c/=,
+00:1A:79:B5:D7:0B=http://alpha-2ott.me:80/c/=,
+00:1A:79:b1:5d:fd=http://alpha-2ott.me:80/c/=,
+00:1A:79:40:69:d3=http://alpha-2ott.me:80/c/=,
+00:1A:79:3d:54:41=http://alpha-2ott.me:80/c/=,
+00:1A:79:0e:34:c8=http://alpha-2ott.me:80/c/=,
+00:1A:79:0E:18:13:c8=http://alpha-2ott.me:80/c/=,
+
 

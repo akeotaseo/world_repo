@@ -83,6 +83,6 @@
 00:1A:79:40:69:d3=http://alpha-2ott.me:80/c/=,
 00:1A:79:3d:54:41=http://alpha-2ott.me:80/c/=,
 00:1A:79:0e:34:c8=http://alpha-2ott.me:80/c/=,
-00:1A:79:0E:18:13:c8=http://alpha-2ott.me:80/c/=,
+00:1A:79:0E:18:13=http://alpha-2ott.me:80/c/=,
 
 

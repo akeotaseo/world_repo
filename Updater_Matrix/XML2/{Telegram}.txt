@@ -136,7 +136,7 @@ http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=APtdCUyyhX&password=1181
 http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=AV4eWgz6tQ&password=526181698911&type=m3u_plus
 http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=BmAViR75WZ&password=551116011913&type=m3u_plus
 http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=CTtzTdJ4b2&password=055444544555&type=m3u_plus
-http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=CsReP8wUUT&password=881778778133&type=m3
+http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=CsReP8wUUT&password=881778778133&type=m3u
 http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=D3o9NVvcgM&password=881511536935&type=m3u_plus
 http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=D648844z63366K&password=67ks96y6x6L941&type=m3u_plus
 http://0kihpzwqpr0h8hvw9pm7.live:25461/get.php?username=D949c7ZhyX&password=919111919666&type=m3u_plus
@@ -2235,7 +2235,7 @@ http://bccdn.xyz:80/get.php?username=Maecamila&password=558387913794&type=m3u
 http://bccdn.xyz:80/get.php?username=Mhartinelly&password=Pirapora2024&type=m3u
 http://bccdn.xyz:80/get.php?username=Mxpro29&password=62827229&type=m3u
 http://bccdn.xyz:80/get.php?username=SLvanessa71984687376&password=yam1xk4k2s&type=m3u
-http://bccdn.xyz:80/get.php?username=Spaline28822&password=7717996611&type=m3u 
+http://bccdn.xyz:80/get.php?username=Spaline28822&password=7717996611&type=m3u
 http://bccdn.xyz:80/get.php?username=Wilma13&password=Wilmajoao13&type=m3u
 http://bccdn.xyz:80/get.php?username=b7dblt1e&password=4scp1w8g&type=m3u
 http://bccdn.xyz:80/get.php?username=c41jcjfb&password=v2vo3pgv&type=m3u

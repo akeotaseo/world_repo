@@ -14,8 +14,14 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 03 Ιανουαρίου 2025:[/B]
+- [B]Τελευταία ενημέρωση 07 Ιανουαρίου 2025:[/B]
+- Αλλαγές/διορθώσεις/προσθήκες στο Skin
+- Διάφορες αλλαγές/διορθώσεις/προσθήκες
+
+
+- [B]Ενημέρωση 03 Ιανουαρίου 2025:[/B]
 - Μικρές διορθώσεις..
+
 
 - [B]Ενημέρωση 01 Ιανουαρίου 2025:[/B]
 - Νέο zip...
@@ -40,7 +46,6 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [B]Ενημέρωση 06 Ιουνίου 2024:[/B]
 - Νέο Zip...
-
 
 
 - [B]Ενημέρωση 28 Μαρτίου 2024:[/B]
@@ -69,6 +74,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
+
 - [B]Ενημέρωση 19 Νοεμβρίου 2023:[/B]
 - Προσθήκη συντομεύσεων [COLORcyan]fenix Mac[/COLOR] & [COLOR blue]World[/COLOR]client
   στο  [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]ΚΑΝΑΛΙΑ[/COLOR]
@@ -90,6 +96,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 - Συντόμευση [COLOR orange]Προτιμήσεις[/COLOR] στα Αγαπημένα
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
+
 
  - [B]Ενημέρωση 30 Ωκτωβρίου 2023:[/B]
  - Αλλαγές/διορθώσεις/προσθήκες στο Skin

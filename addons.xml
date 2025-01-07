@@ -1928,40 +1928,6 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon id="plugin.video.latinsports" name="Latin Sports" version="1.0.6" provider-name="Gigoro">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0" />
-    <import addon="script.module.dateutil" />
-    <import addon="script.module.codequick" version="0.9.10" />
-    <import addon="script.module.beautifulsoup4" version="4.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_ES">Addon de kodi simple para ver retrasmiciones en vivo de diferentes paginas de deportes</summary>
-    <description lang="es_ES">Addon para ver retrasmiciones en vivo de diferentes paginas de deportes</description>
-    <disclaimer lang="es_ES">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider. This addon acts merely as a browser for sites publically available on the internet which the author has no control of.</disclaimer>
-    <language>es</language> <!-- language of the content the add-on provides, omit if the add-on does not provide any content -->
-    <platform>all</platform>
-    <license>GPL-3.0-or-later</license>
-    <source>https://github.com/gigoro33/plugin.video.LatinSports</source>
-    <assets>
-      <icon>resources/images/icon.png</icon>
-      <fanart>resources/images/fanart.jpg</fanart>
-      <screenshot>resources/images/screenshot-1.jpg</screenshot>
-      <screenshot>resources/images/screenshot-2.jpg</screenshot>
-    </assets>
-    <news>1.0.6 Se añade el canal Futbol libre HD</news>
-    <news>1.0.5 Se Se corrige la reprodución de algunos canales en la opción de agenda deportiva para tucanaldeportivo.org</news>
-    <news>1.0.4 Se añade opcion de agenda deportiva para tucanaldeportivo.org</news>
-    <news>1.0.3 Se añade opciones de reproduciion para teleXtrema y se corrige el charset</news>
-    <news>1.0.2 Se refactoriza el codigo y se simplifica se cambia el dominio tucanaldeportivo.com por tucanaldeportivo.org</news>
-    <news>1.0.1 Se añade la pagina tucanaldeportivo.com</news>
-    <news>1.0.0 Desplegada la version incial</news>
-  </extension>
-</addon>
-
 <addon id="plugin.video.lazyman.nhl.tv" name="LazyMan" version="1.3.0" provider-name="actionbronson,skydrome">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

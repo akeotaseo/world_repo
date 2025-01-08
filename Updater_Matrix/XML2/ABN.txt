@@ -1211,3 +1211,11 @@ http://defaultgen.com:3050/get.php?username=total&password=aNXa8Vn7XL&type=m3u_p
 http://defaultgen.com:3050/get.php?username=twylana22%40gmail.com&password=GieQ9LZiNi&type=m3u_plus
 http://defaultgen.com:3050/get.php?username=twylana22@gmail.com&password=GieQ9LZiNi&type=m3u_plus
 http://defaultgen.com:3050/get.php?username=wolf528&password=7DYPg5tu4x&type=m3u_plus
+
+
+http://yourservpan.com:3050/get.php?username=madrid2255@gmail.com&password=NABvEfKE9L&type=m3u_plus
+http://yourservpan.com:3050/get.php?username=foolroom6@yahoo.com&password=4tCAcbMhNG&type=m3u_plus
+http://yourservpan.com:3050/get.php?username=GRANT1111&password=9kiubZ9UvX&type=m3u_plus
+http://yourservpan.com:3050/get.php?username=paporivera66@gmail.com&password=6egdjbEYgX&type=m3u_plus
+http://yourservpan.com:3050/get.php?username=jemel_waiters@yahoo.com&password=bPFTdFspMB&type=m3u_plus
+http://yourservpan.com:3050/get.php?username=total&password=aNXa8Vn7XL&type=m3u_plus

@@ -38,6 +38,14 @@
 00:1A:79:4D:00:5B=http://spacextv.live:8080/c/=,
 00:1A:79:BD:23:CE=http://spacextv.live:8080/c/=,
 00:1A:79:AA:A9:CD=http://spacextv.live:8080/c/=,
+00:1A:79:BA:D5:E1=http://spacextv.live:8080/c=,
+00:1A:79:EE:2E:E4=http://spacextv.live:8080/c=,
+00:1A:79:B5:59:ED=http://spacextv.live:8080/c=,
+00:1A:79:3E:46:D3=http://spacextv.live:8080/c=,
+00:1A:79:3A:C5:79=http://spacextv.live:8080/c=,
+00:1A:79:A4:C8:AC=http://spacextv.live:8080/c=,
+00:1A:79:50:E0:04=http://spacextv.live:8080/c=,
+00:1A:79:01:98:FB=http://spacextv.live:8080/c=,
 
 
 00:1A:79:77:84:03=http://oceanstream.me/c/=,
@@ -134,20 +142,3 @@
 00:1A:79:FF:04:E0=http://tv.premiumplus.tv/c=,
 00:1A:79:FF:D8:B4=http://tv.premiumplus.tv/c=,
 
-TEST
-
-00:1A:79:BA:D5:E1=http://spacextv.live:8080/c=,
-00:1A:79:EE:2E:E4=http://spacextv.live:8080/c=,
-00:1A:79:B5:59:ED=http://spacextv.live:8080/c=,
-00:1A:79:3E:46:D3=http://spacextv.live:8080/c=,
-00:1A:79:3A:C5:79=http://spacextv.live:8080/c=,
-00:1A:79:A4:C8:AC=http://spacextv.live:8080/c=,
-00:1A:79:50:E0:04=http://spacextv.live:8080/c=,
-00:1A:79:01:98:FB=http://spacextv.live:8080/c=,
-
-
-00:1A:79:C1:BA:26=http://hdmiclub.online:8080/c=,
-00:1A:79:C2:10:28=http://hdmiclub.online:8080/c=,
-00:1A:79:BB:D2:63=http://hdmiclub.online:8080/c=,
-00:1A:79:0E:82:83=http://hdmiclub.online:8080/c=,
-00:1A:79:C0:D6:14=http://hdmiclub.online:8080/c=,

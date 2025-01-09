@@ -243,7 +243,7 @@ TEST
 00:1A:79:BF:7A:3E=http://90309-fri.ott-cdn.me/c/=,
 00:1A:79:A1:FC:B0=http://90309-fri.ott-cdn.me/c/=,
 00:1A:79:C3:94:FA=http://90309-fri.ott-cdn.me/c/=,
-Expired on : February 14, 2025, 12:00 am
+
 00:1A:79:AF:7F:8E=http://90309-fri.ott-cdn.me/c/=,
 00:1A:79:36:58:D2=http://90309-fri.ott-cdn.me/c/=,
 

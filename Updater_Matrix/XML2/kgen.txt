@@ -149,35 +149,3 @@
 
 
 TEST
-
-
-
-
-
-
-
-
-
-
-00:1A:79:35:35:66=http://z.zcatt.cc/c/=,
-00:1A:79:B6:76:F0=http://z.zcatt.cc/c/=,
-00:1A:79:89:7A:6B=http://z.zcatt.cc/c/=,
-00:1A:79:4A:8B:C9=http://z.zcatt.cc/c/=,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-00:1A:79:A6:A0:0Dhttp://p1.uiop.tv/c/=,
-00:1A:79:45:32:90http://p1.uiop.tv/c/=,
-00:1A:79:4F:69:93http://p1.uiop.tv/c/=,

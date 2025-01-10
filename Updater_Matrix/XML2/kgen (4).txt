@@ -533,6 +533,10 @@
 00:1A:79:BB:D2:63=http://hdmiclub.online:8080/c=,
 00:1A:79:0E:82:83=http://hdmiclub.online:8080/c=,
 00:1A:79:C0:D6:14=http://hdmiclub.online:8080/c=,
+00:1A:79:CC:F6:26=http://hdmiclub.online:8080/c=,
+00:1A:79:D2:A6:46=http://hdmiclub.online:8080/c=,
+
+
 
 
 00:1A:79:96:E6:46=http://90309-fri.ott-cdn.me/c/=,

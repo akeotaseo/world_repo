@@ -259,6 +259,7 @@ https://smart2.iptv-on.com.123tv.to:8080/get.php?username=&password=&type=m3u_pl
 https://supersonictv.live:8080/get.php?username=388863&password=786470&type=m3u_plus
 https://ultra-latino.com:8080/get.php?username=Flacotv@73W&password=PERCXZ@@95&type=m3u_plus
 https://ultra-premium-pro.xyz:8080/get.php?username=56934067472wspztv&password=140721ztv&type=m3u_plus
+http://world.marvelhd.eu:8000/get.php?username=mFjFXHso3E&password=tGIz9a8m25&type=m3u_plus
 
 
 
@@ -671,9 +672,73 @@ http://ipx.center:80/get.php?username=zG65W74PBf&password=g0MeLCrjYm&type=m3u_pl
 http://ipx.center:80/get.php?username=zlgURIxCPU&password=ACYb5m88zt&type=m3u_plus&output=m3u8
 http://ipx.center:80/get.php?username=zrZEhwwh&password=kyLzA3pqB4&type=m3u_plus&output=m3u8
 
+
+
+
 http://stb.iphd.tv:80/get.php?username=&password=&type=m3u_plus&output=m3u8
 
 
+
+
+http://51.81.67.130:8080/get.php?username=ArianLatino&password=EEtduxpDYqNh&type=m3u
+http://51.81.67.130:8080/get.php?username=FELIPEMORENO&password=PUCRX&type=m3u
+http://51.81.67.130:8080/get.php?username=Granav30&password=ZPETU@@2&type=m3u
+http://51.81.67.130:8080/get.php?username=L@190.-qaA&password=QPYUN@@9a&type=m3u
+http://51.81.67.130:8080/get.php?username=MagdielCampos02&password=DQPAZ&type=m3u
+http://66.7845369.xyz/get.php?username=strdp13.8ytb&password=Xmyta13.8.22&type=m3u
+http://canal-pro.xyz:8080/get.php?username=76bace97ga23pa88&password=37wepe98maze34&type=m3u
+http://cdn1host.online:8080/get.php?username=carlosbermudez&password=oZLRHZHL0z&type=m3u
+http://cdn1host.online:8080/get.php?username=coachj88&password=N93DPKS9pJ&type=m3u
+http://cdn1host.online:8080/get.php?username=korrigan17&password=25AUFBdqOi&type=m3u
+http://cdn1host.online:8080/get.php?username=venomj&password=EmoOmOskzq&type=m3u
+http://eu.sibertv.org:2086/get.php?username=siber6168&password=aGT17Mc3&type=m3u
+http://euro.ckviptv.de:5000/get.php?username=d8naerYB&password=dP5zQMp&type=m3u
+http://hagdfnt.mexamo.xyz/get.php?username=5853303266&password=9B554BCC&output=ts&type=m3u
+http://karabas7.dyndns.org:2052/get.php?username=4587fahtih5478&password=15012023&type=m3u
+http://petralive.xyz:8080/series/cigdem9505/fdXgHhUBMh3Fm/298182.mkv
+http://pnxip.dynu.net/get.php?username=new_PNXE063&password=j486q7db&type=m3u
+http://server10.maxcdn.link:2052/get.php?username=fw67&password=1006&type=m3u
+http://smart4k.org:2082/get.php?username=Moabdul&password=FD56jA39BmKF&type=m3u
+http://spacetvplay.com:8080/get.php?username=Martinportillo&password=GRBZP&type=m3u
+http://spacetvplay.com:8080/get.php?username=miralatin2243&password=JJKTU&type=m3u
+http://sstb.xyz/get.php?username=cosimo3f&password=Qwert&type=m3u
+
+
+
+
+http://wpbn.vpnp.xyz:80/get.php?username=4LU3UPQJDN&password=57HjW4rxRT&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=540053&password=060922&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=C24PM9DXUN&password=MRQec7fchu&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Fabi723BA&password=Aeeyawtya121A&type=m3u_plusф
+http://wpbn.vpnp.xyz:80/get.php?username=GK33GC7UJ9&password=ejDf7dWw49H&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=J42V5T5UQF&password=686fvb960552&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Luis0928D&password=Atefymffd121&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Luis817B&password=Aafwtypdm121&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Pin1020Z&password=Atetdwwwd121&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Pippo_exchange&password=HkglUT56Dfg&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Romerito2k24&password=Adrianin2K24&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Rosen820ZF&password=Aadmffted123&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Simo815B&password=Akayapwkk122&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=StafanBayerMunchen&password=KAC@fGPT6Pu&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=TAE29HKUWX&password=aVwFJXJuf5R&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=Vince418D&password=Akddyatam121&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=W2KPEVWXCF&password=K3bQfVCAhVm&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=germ813B&passwordф=Aafdtkama123&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=he56369&password=Mc6anXHTmHj9&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=hu310877&password=PcVgypRGn9r&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=ja38976&password=uKHuyJath5A&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=me102691&password=WQK@CsCsATk&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=me122582&password=vueBVChqxu&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=me821215&password=HSh9uV@bxTJ&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=mi121317&password=Y@y4mny7RT&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=mi25463&password=F3X@V5tufJ&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=mi314151&password=6MGf@E@949uN&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=te41760&password=CFeKFKMkKT&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=te425319&password=y5cv95EerAV&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=te817470&password=4r4VxsCg4h&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=te824377&password=vAr7WBa8jnae&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=vi221678&password=PYVrQn7KAp&type=m3u_plus
+http://wpbn.vpnp.xyz:80/get.php?username=wa1124797&password=@x8SKYr6mM&type=m3u_plus
 
 
 

@@ -155,11 +155,3 @@
 
 TEST
 
-00:1A:79:C8:28:C4=http://stb.iphd.tv/c/=,
-00:1A:79:37:1B:99=http://stb.iphd.tv/c/=,
-00:1A:79:A9:D3:C9=http://stb.iphd.tv/c/=,
-00:1A:79:25:74:DF=http://stb.iphd.tv/c/=,
-00:1A:79:4C:C4:CF=http://stb.iphd.tv/c/=,
-00:1A:79:6A:13:91=http://stb.iphd.tv/c/=,
-00:1A:79:C4:98:7C=http://stb.iphd.tv/c/=,
-00:1A:79:C3:1F:32=http://stb.iphd.tv/c/=,

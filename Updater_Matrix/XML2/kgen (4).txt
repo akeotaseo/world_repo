@@ -617,3 +617,8 @@
 00:1A:79:00:59:0D=http://line.protv.cc:80/c/=,
 00:1A:79:00:59:4D=http://line.protv.cc:80/c/=,
 00:1A:79:00:56:16=http://line.protv.cc:80/c/=,
+
+
+
+
+OFF?

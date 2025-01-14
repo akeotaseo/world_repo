@@ -619,6 +619,41 @@
 00:1A:79:00:56:16=http://line.protv.cc:80/c/=,
 
 
+00:1A:79:5C:E8:6F=http://apksmart.dino.ws/c/=,
+00:1A:79:7D:E1:01=http://apksmart.dino.ws/c/=,
+00:1A:79:8B:2A:91=http://apksmart.dino.ws/c/=,
+00:1A:79:B5:9C:30=http://apksmart.dino.ws/c/=,
+00:1A:79:B5:F7:D7=http://apksmart.dino.ws/c/=,
+
+
+00:1A:79:07:C2:94=http://mag.ukhd.tv/c/=,
+00:1A:79:13:6F:14=http://mag.ukhd.tv/c/=,
+00:1A:79:1D:7F:22=http://mag.ukhd.tv/c/=,
+00:1A:79:2C:9F:0A=http://mag.ukhd.tv/c/=,
+00:1A:79:36:07:20=http://mag.ukhd.tv/c/=,
+00:1A:79:55:69:CE=http://mag.ukhd.tv/c/=,
+00:1A:79:7B:9D:09=http://mag.ukhd.tv/c/=,
+00:1A:79:7C:0F:65=http://mag.ukhd.tv/c/=,
+00:1A:79:A1:86:80=http://mag.ukhd.tv/c/=,
+00:1A:79:C8:16:12=http://mag.ukhd.tv/c/=,
+00:1A:79:D5:9F:EB=http://mag.ukhd.tv/c/=,
+
+
+00:1A:79:D0:F1:32=http://fzahtv.com/c/=,
+00:1A:79:28:D6:9A=http://fzahtv.com/c/=,
+00:1A:79:AF:13:F7=http://fzahtv.com/c/=,
+00:1A:79:BA:A4:9E=http://fzahtv.com/c/=,
+00:1A:79:00:45:B4=http://fzahtv.com/c/=,
+00:1A:79:01:BF:CB=http://fzahtv.com/c/=,
+00:1A:79:50:E1:68=http://fzahtv.com/c/=,
+00:1A:79:05:F5:41=http://fzahtv.com/c/=,
+00:1A:79:9E:C0:64=http://fzahtv.com/c/=,
+00:1A:79:6E:0E:E5=http://fzahtv.com/c/=,
+00:1A:79:00:15:EB=http://fzahtv.com/c/=,
+00:1A:79:F1:EB:A4=http://fzahtv.com/c/=,
+00:1A:79:7F:3F:6A=http://fzahtv.com/c/=,
+
+
 
 
 OFF?

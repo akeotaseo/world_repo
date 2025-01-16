@@ -637,6 +637,10 @@
 00:1A:79:A1:86:80=http://mag.ukhd.tv/c/=,
 00:1A:79:C8:16:12=http://mag.ukhd.tv/c/=,
 00:1A:79:D5:9F:EB=http://mag.ukhd.tv/c/=,
+00:1A:79:73:3F:D7=http://mag.ukhd.tv/c/=,
+00:1A:79:bd:ba:40=http://mag.ukhd.tv/c/=,
+
+
 
 
 00:1A:79:D0:F1:32=http://fzahtv.com/c/=,

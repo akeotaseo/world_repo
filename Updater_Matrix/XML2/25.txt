@@ -1,7 +1,3 @@
-http://00001111.dynahost.ovh:80/get.php?username=111234304487&password=419595882917&type=m3u_plus
-http://01012022.com:6464/get.php?username=mehmetboz&password=bpaJo1uzcW&type=m3u_plus&output=mpegts
-http://01012024.com:3800/get.php?username=tarik3774df4m&password=jpbESc3myG&type=m3u_plus&output=ts
-http://01rmz.ramx34.win:8080/get.php?username=ibrahimugur27&password=Ugur160622&type=m3u_plus
 http://0924tvlink.xyz:8080/get.php?username=nAz9tnRhkp&password=kz4hqYgg1p&type=m3u_plus&output=ts
 http://0924tvlink.xyz:8080/get.php?username=qEwbH7h5MjFn33&password=cquz91gmF3&type=m3u_plus&output=ts
 http://0pentv.space:8080/get.php?username=4917624739081UWEwhatsapp&password=li2h4X1RdUXOIm3F63uTzx6I9frs4V&type=m3u_plus

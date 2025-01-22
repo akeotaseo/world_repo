@@ -1156,6 +1156,35 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
   </extension>
 </addon>
 
+<addon id="plugin.video.club.pornky.free"
+version="0.9.14"
+name="pornky.club (free)"
+provider-name="fr33p0rt">
+<requires>
+  <import addon="script.module.requests" />
+  <import addon="script.module.beautifulsoup4" />
+  <import addon="script.module.six"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+  <platform>all</platform>
+  <summary lang="en">pornky.club</summary>
+  <description lang="en_GB">pornky.club video plugin for Kodi.</description>
+  <disclaimer lang="en_GB">License GPLv3. Software is provided 'as is' without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of fitness for a purpose, or the warranty of non-infringement.</disclaimer>
+  <description lang="cs_CZ">pornky.club video plugin pro Kodi.</description>
+  <disclaimer lang="cs_CZ">Licence GPLv3. Software je poskytován „tak, jak je“, bez jakékoli záruky, ať výslovné nebo předpokládané, včetně, ale nikoli výhradně, předpokládaných záruk způsobilosti pro určitý účel nebo záruky neporušení práv.</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <email>fr33p0rt@protonmail.com</email>
+  <news>Fix to follow website change again</news>
+</extension>
+</addon>
+
 <addon id="plugin.video.co.bellesa.free"
        version="0.0.8"
        name="bellesa.co (free)"

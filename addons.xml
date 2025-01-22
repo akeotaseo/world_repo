@@ -165,7 +165,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2023.2.30" provider-name="Slam, Diggz|HSK-FIX">
+<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2023.2.31" provider-name="Jon Bovi, Slamious, Diggz">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.future"/>
@@ -179,8 +179,8 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary>A music streaming Collection.</summary>
-        <description>Diggz MP3 Streams Kodi 19 conversion by Slam</description>
-        <news>2021.0.4 - Fixed Settings, 2021.0.3 - Bugfixes. Enjoy!</news>
+        <description>MP3 Streams Kodi 19+ conversion by Slamious</description>
+        <news>2021.0.4 - Fixed Settings, 2021.0.3 - Bugfixes, 2023.2.31 - Bugfixes. Enjoy!</news>
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
@@ -690,7 +690,7 @@ Use this to organize your Favourites.
 
 </addon>
 
-<addon id="plugin.video.90phuttv" version="1.0.10" name="90PhutTV" provider-name="hoaivnpt">
+<addon id="plugin.video.90phuttv" version="1.0.12" name="90PhutTV" provider-name="hoaivnpt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -709,14 +709,12 @@ Use this to organize your Favourites.
   </assets>
   <news>1. Ver 1.0.1: Tập làm addon kodi.
 2. Ver 1.0.2: Auto Update.
-3. Ver 1.0.3: Get contents by Python.
-4. Ver 1.0.4: Fix update.
-5. Ver 1.0.5: Add replay item.
-6. Ver 1.0.6: Complete items.
-7. Ver 1.0.7: Fix bugs.
+...................
 8. Ver 1.0.8: Fix Highlights.
 9. Ver 1.0.9: Add Vebotv.
-10. Fix update
+10. Ver 1.0.10: Fix update.
+11. Ver 1.0.11: Fix link.
+12. Ver 1.0.12: Fix ThapcamTV.
   </news>
 </extension>
 </addon>
@@ -901,6 +899,29 @@ https://github.com/Vashiel/repository.adulthideout
         <icon>resources/icon.png</icon>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.avdb" name="AVDB" version="0.1.2" provider-name="avdb">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests"/>
+		<import addon="inputstream.adaptive" version="20.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="vi">avdb</description>
+        <disclaimer lang="vi">avdb</disclaimer>
+        <summary lang="vi">avdb</summary>
+		<language>vi</language>
+        <platform>all</platform>
+        <license>GPL-2.0-or-later</license>
+        <assets>
+            <icon>icon.jpg</icon>
+			<fanart>icon.png</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.betatv" name="betatv" version="1.0.0" provider-name="lg">
@@ -3302,6 +3323,29 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
+<addon id="plugin.video.thethao" name="TheThao" version="0.0.1" provider-name="thethao">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests"/>
+		<import addon="inputstream.adaptive" version="20.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="vi">thethao</description>
+        <disclaimer lang="vi">thethao</disclaimer>
+        <summary lang="vi">thethao</summary>
+		<language>vi</language>
+        <platform>all</platform>
+        <license>GPL-2.0-or-later</license>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>icon.png</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.toolazy" name="Too Lazy" version="0.0.8" provider-name="zkte">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -3658,6 +3702,49 @@ provider-name="FrankAaro">
 	  <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.vnmedia" name="VN Media" version="5.8.0b" provider-name="mkendo">
+<requires>
+  <import addon="xbmc.python" version="3.0.1"/>
+  <import addon="script.module.codequick" version="1.1.8"/>
+  <import addon="script.module.beautifulsoup4" version="1.12.0"/>
+  <import addon="script.module.cloudscraperkd" version="1.2.68"/>
+  <import addon="script.module.resolveurl" version="5.1.110"/>
+  <import addon="script.module.pycryptodome" version="3.4.3"/>
+  <import addon="plugin.video.youtube" version="0.0.1"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="mkendo.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.service" library="service.py"/>
+<extension point="xbmc.addon.metadata">
+  <reuselanguageinvoker>true</reuselanguageinvoker>
+  <summary lang="vi_VN">VN Media Omega 4.7.0 cut</summary>
+  <description lang="vi_VN">Yêu cầu:
+  + Kodi 20 trở lên.
+  + Mở chế độ "Cập nhật các tiện ích từ Bất kỳ kho lưu trữ nào" bằng cách:
+    - Anh ngữ: Settings > System > Add-ons > Unknown sources > Any repositories
+    - Việt ngữ: Cài đặt > Hệ thống > Tiện ích > Không rõ nguồn gốc > Bất kỳ kho lưu trữ nào
+  </description>
+  <disclaimer lang="vi_VN">Nội dung được chia sẻ và lưu trữ bởi một ứng dụng bên thứ ba. VNM hoạt động giống như một công cụ thu thập tìm kiếm từ Internet. Chúng tôi không sở hữu, không lưu trữ nội dung này và sẽ không chịu trách nhiệm cho các vấn đề liên quan. Đề nghị khán giả cân nhắc nội dung khi sử dụng tài nguyên.</disclaimer>
+  <platform>all</platform>
+  <language>vi</language>
+  <license>GPL-2.0-or-later</license>
+  <assets>
+    <icon>resources/icon.png</icon>
+    <fanart>resources/fanart.png</fanart>
+  </assets>
+  <news>Yêu cầu:
+  + Kodi 20 trở lên.
+  + Mở chế độ "Cập nhật các tiện ích từ Bất kỳ kho lưu trữ nào" bằng cách:
+    - Anh ngữ: Settings > System > Add-ons > Unknown sources > Any repositories
+    - Việt ngữ: Cài đặt > Hệ thống > Tiện ích > Không rõ nguồn gốc > Bất kỳ kho lưu trữ nào
+
+Nội dung được chia sẻ và lưu trữ bởi một ứng dụng bên thứ ba. VNM hoạt động giống như một công cụ thu thập tìm kiếm từ Internet.
+Chúng tôi không sở hữu, không lưu trữ nội dung này và sẽ không chịu trách nhiệm cho các vấn đề liên quan. Đề nghị khán giả cân nhắc nội dung khi sử dụng tài nguyên.
+</news>
+</extension>
 </addon>
 
 <addon id="plugin.video.vukovarusrcu" name="[B][I][COLOR red]VUKOVAR U SRCU[/COLOR][/I][/B]" version="0.1.0+matrix.1" provider-name="ZTBH">
@@ -4351,6 +4438,29 @@ v0.1.0
   </extension>
 </addon>
 
+<addon id="script.module.cloudscraperkd" name="CloudScraper KODI" version="1.2.71" provider-name="mkendo">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.9.2"/>
+	<import addon="script.module.requests-toolbelt" version="0.9.1"/>
+	<import addon="script.module.pyparsing" version="2.4.7"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.python.pluginsource" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">cloudscraper</summary>
+    <description lang="en_gb">cloudscraper</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
 <addon id="script.module.codequick" name="CodeQuick" provider-name="willforde, mkendo" version="1.2.0">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
@@ -4567,6 +4677,27 @@ v0.1.0
     <license>GNU AGPL</license>
     <website>https://github.com/flyingcircusio/pycountry</website>
     <source>https://github.com/flyingcircusio/pycountry/tree/main/src/pycountry</source>
+  </extension>
+</addon>
+
+<addon id="script.module.requests-toolbelt" name="Requests Toolbelt" version="1.0.0" provider-name="mkendo">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+	<import addon="script.module.requests" version="2.9.2"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.python.pluginsource" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">requests-toolbelt</summary>
+    <description lang="en_gb">requests-toolbelt</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
   </extension>
 </addon>
 

@@ -3013,6 +3013,32 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.sc19
     </extension>
 </addon>
 
+<addon id="plugin.video.sportscentral" name="Sports Central" version="0.1.5" provider-name="X">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.beautifulsoup4"/>
+		<import addon="plugin.video.youtube"/>
+		<import addon="script.module.resolveurl"/>
+		<import addon="inputstream.ffmpegdirect"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Sports</summary>
+		<description lang="en_GB">Sports</description>
+		<platform>all</platform>
+		<license>GPL-3.0-or-later</license>
+		<website></website>
+		<source></source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 ﻿<addon id="plugin.video.sportstreams" name="Sport Streams" provider-name="waladir" version="1.0.8">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

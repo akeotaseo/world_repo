@@ -1766,13 +1766,16 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.iptvxc" name="[B][COLOR red]XCUI Streams[/B][/COLOR]" version="3.1.5" provider-name="[B][COLOR orange]Fire TV Guru[/B][/COLOR]">
+<addon id="plugin.video.iptvxc" name="[B][COLOR red]XCUI Streams[/B][/COLOR]" version="3.1.7" provider-name="[B][COLOR orange]Fire TV Guru[/B][/COLOR]">
+	<requires>
+		<import addon="script.module.requests" version="2.27.1"/>
+	</requires>
   <extension point="xbmc.python.pluginsource"
 			library="default.py">
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">[COLOR red]An IPTV addon written to work with XC and XCUI for Kodi 19 only[/COLOR] </summary>
+	<summary lang="en">[COLOR red]An IPTV addon written to work with XC and XCUI for Kodi 19+[/COLOR] </summary>
 	<language>en</language>
 	<description lang="en">[COLOR red]This addon does not supply nor provide any illegal content[/COLOR]</description>
 	<platform>all</platform>

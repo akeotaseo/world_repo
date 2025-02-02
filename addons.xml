@@ -1875,10 +1875,9 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.2" provider-name="Kodi Karaoke">
+<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.6" provider-name="mrfixit2001">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="plugin.video.youtube" version="0.0.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>

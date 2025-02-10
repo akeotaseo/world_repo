@@ -299,7 +299,9 @@
 00:1A:79:D0:27:22=http://d.tvdark.eu/c/=,
 00:1A:79:5D:5B:6B=http://d.tvdark.eu/c/=,
 00:1A:79:0E:39:29=http://d.tvdark.eu/c/=,
-
+00:1A:79:83:9F:F7=http://d.tvdark.eu/c/=,
+00:1A:79:7C:4F:46=http://d.tvdark.eu/c/=,
+00:1A:79:36:8F:51=http://d.tvdark.eu/c/=,
 
 
 
@@ -606,42 +608,6 @@
 00:1A:79:fb:0b:8f=http://tv.psmarters.xyz:8080/c/=,
 
 
-TEST
-
-
-
-00:1A:79:13:28:49=http://proxy.watchtv.best/c/=,
-00:1A:79:22:40:BF=http://proxy.watchtv.best/c/=,
-00:1A:79:2E:7F:25=http://proxy.watchtv.best/c/=,
-00:1A:79:46:37:2D=http://proxy.watchtv.best/c/=,
-00:1A:79:4A:F9:48=http://proxy.watchtv.best/c/=,
-00:1A:79:54:CA:4A=http://proxy.watchtv.best/c/=,
-00:1A:79:60:D3:59=http://proxy.watchtv.best/c/=,
-00:1A:79:73:C2:42=http://proxy.watchtv.best/c/=,
-00:1A:79:75:63:44=http://proxy.watchtv.best/c/=,
-00:1A:79:77:82:B7=http://proxy.watchtv.best/c/=,
-00:1A:79:77:84:03=http://proxy.watchtv.best/c/=,
-00:1A:79:79:9B:CE=http://proxy.watchtv.best/c/=,
-00:1A:79:7A:44:3C=http://proxy.watchtv.best/c/=,
-00:1A:79:B5:10:D1=http://proxy.watchtv.best/c/=,
-00:1A:79:B5:D7:0B=http://proxy.watchtv.best/c/=,
-00:1A:79:C1:2C:FF=http://proxy.watchtv.best/c/=,
-00:1A:79:C4:31:8B=http://proxy.watchtv.best/c/=,
-00:1A:79:CB:86:95=http://proxy.watchtv.best/c/=,
-00:1A:79:D3:B1:CA=http://proxy.watchtv.best/c/=,
-00:1A:79:D4:DC:6B=http://proxy.watchtv.best/c/=,
-00:1A:79:D5:4C:A4=http://proxy.watchtv.best/c/=,
-00:1A:79:F9:71:37=http://proxy.watchtv.best/c/=,
-00:1A:79:FF:04:E0=http://proxy.watchtv.best/c/=,
-
-
-
-
-
-
-
-
-
 
 
 00:1a:79:ab:4f:3b=http://clientsportals.net:8080/c/=,
@@ -658,32 +624,12 @@ TEST
 
 
 
-
-
-
-
-
 00:1A:79:19:21:2d=http://vipzeus4k.xyz:8080/c/=,
 00:1A:79:ba:d4:64=http://vipzeus4k.xyz:8080/c/=,
 00:1A:79:6b:bb:cc=http://vipzeus4k.xyz:8080/c/=,
 00:1A:79:c2:7e:88=http://vipzeus4k.xyz:8080/c/=,
 00:1A:79:bb:35:d6=http://vipzeus4k.xyz:8080/c/=,
 00:1A:79:bd:1d:c9=http://vipzeus4k.xyz:8080/c/=,
-
-
-
-
-
-
-
-00:1A:79:01:6F:4C=http://mag.marsweb.co:80/c/=,
-
-
-
-
-00:1A:79:83:9F:F7=http://d.tvdark.eu/c/=,
-00:1A:79:7C:4F:46=http://d.tvdark.eu/c/=,
-00:1A:79:36:8F:51=http://d.tvdark.eu/c/=,
 
 
 
@@ -701,96 +647,10 @@ TEST
 
 
 
-00:1A:79:BC:E8:B3=http://m.devtv.biz/c/=,
-00:1A:79:BC:E8:DE=http://m.devtv.biz/c/=,
-00:1A:79:BC:E8:D7=http://m.devtv.biz/c/=,
-00:1A:79:4E:B8:8E=http://m.devtv.biz/c/=,
-00:1A:79:BC:E8:E1=http://m.devtv.biz/c/=,
-00:1A:79:14:79:02=http://m.devtv.biz/c/=,
-
-
-
-
-
-
-
-00:1A:79:00:D0:80=http://x.bittensor.nexus/c/=,
-00:1A:79:00:CD:F6=http://x.bittensor.nexus/c/=,
-00:1A:79:00:B1:C2=http://x.bittensor.nexus/c/=,
-00:1A:79:00:AD:35=http://x.bittensor.nexus/c/=,
-00:1A:79:00:A2:C1=http://x.bittensor.nexus/c/=,
-00:1A:79:00:9A:67=http://x.bittensor.nexus/c/=,
-00:1A:79:00:99:2A=http://x.bittensor.nexus/c/=,
-00:1A:79:00:97:7E=http://x.bittensor.nexus/c/=,
-00:1A:79:00:95:1A=http://x.bittensor.nexus/c/=,
-00:1A:79:00:94:E2=http://x.bittensor.nexus/c/=,
-00:1A:79:00:90:84=http://x.bittensor.nexus/c/=,
-00:1A:79:00:81:A6=http://x.bittensor.nexus/c/=,
-00:1A:79:00:66:1D=http://x.bittensor.nexus/c/=,
-00:1A:79:00:58:42=http://x.bittensor.nexus/c/=,
-00:1A:79:00:57:09=http://x.bittensor.nexus/c/=,
-00:1A:79:00:54:E1=http://x.bittensor.nexus/c/=,
-00:1A:79:00:4C:B2=http://x.bittensor.nexus/c/=,
-00:1A:79:00:4A:42=http://x.bittensor.nexus/c/=,
-00:1A:79:00:39:0F=http://x.bittensor.nexus/c/=,
-00:1A:79:00:2F:7C=http://x.bittensor.nexus/c/=,v
-00:1A:79:00:29:77=http://x.bittensor.nexus/c/=,
-00:1A:79:00:24:AD=http://x.bittensor.nexus/c/=,
-
-
-
-
-
-
-
 00:1A:79:28:1F:9E=http://edge.19741977.network/c/=,
 00:1A:79:32:9E:0D=http://edge.19741977.network/c/=,
 00:1A:79:91:D3:74=http://edge.19741977.network/c/=,
 00:1A:79:A9:1F:0F=http://edge.19741977.network/c/=,
 
 
-
-
-
-00:1A:79:07:C0:06=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:23:8E:11=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:2B:E7:F7=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:5D:CD:FD=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:69:8F:20=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:A3:F4:22=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:AA:AD:60=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:AD:B0:EE=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:B2:5B:0B=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:B6:74:D7=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:BA:B6:EF=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:C7:0A:8A=http://s16.fjoker.xyz:8080/c/=,
-00:1A:79:D5:EA:1F=http://s16.fjoker.xyz:8080/c/=,
-
-
-
-
-
-
-
-
-
-00:1A:79:50:3A:D4=http://tv.cloudcdn.me/c/=,
-00:1A:79:FC:69:43=http://tv.cloudcdn.me/c/=,
-00:1A:79:2F:B1:12=http://tv.cloudcdn.me/c/=,
-00:1A:79:A4:26:02=http://tv.cloudcdn.me/c/=,
-00:1A:79:F4:4D:99=http://tv.cloudcdn.me/c/=,
-00:1A:79:07:1D:D8=http://tv.cloudcdn.me/c/=,
-00:1A:79:A8:9C:32=http://tv.cloudcdn.me/c/=,
-00:1A:79:0A:92:99=http://tv.cloudcdn.me/c/=,
-00:1A:79:AB:DF:AB=http://tv.cloudcdn.me/c/=,
-00:1A:79:07:45:32=http://tv.cloudcdn.me/c/=,
-00:1A:79:0E:F7:2B=http://tv.cloudcdn.me/c/=,
-00:1A:79:D5:40:80=http://tv.cloudcdn.me/c/=,
-00:1A:79:06:EF:86=http://tv.cloudcdn.me/c/=,
-00:1A:79:50:3A:D4=http://tv.cloudcdn.me/c/=,
-00:1A:79:40:26:17=http://tv.cloudcdn.me/c/=,
-
-
-
-
-
+TEST

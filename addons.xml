@@ -690,7 +690,7 @@ Use this to organize your Favourites.
 
 </addon>
 
-<addon id="plugin.video.90phuttv" version="1.0.12" name="90PhutTV" provider-name="hoaivnpt">
+<addon id="plugin.video.90phuttv" version="1.0.13" name="90PhutTV" provider-name="hoaivnpt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -715,6 +715,7 @@ Use this to organize your Favourites.
 10. Ver 1.0.10: Fix update.
 11. Ver 1.0.11: Fix link.
 12. Ver 1.0.12: Fix ThapcamTV.
+13. Ver 1.0.13: Fix Referer.
   </news>
 </extension>
 </addon>

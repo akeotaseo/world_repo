@@ -690,7 +690,7 @@ Use this to organize your Favourites.
 
 </addon>
 
-<addon id="plugin.video.90phuttv" version="1.0.13" name="90PhutTV" provider-name="hoaivnpt">
+<addon id="plugin.video.90phuttv" version="1.0.18" name="90PhutTV" provider-name="hoaivnpt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -707,15 +707,7 @@ Use this to organize your Favourites.
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>1. Ver 1.0.1: Tập làm addon kodi.
-2. Ver 1.0.2: Auto Update.
-...................
-8. Ver 1.0.8: Fix Highlights.
-9. Ver 1.0.9: Add Vebotv.
-10. Ver 1.0.10: Fix update.
-11. Ver 1.0.11: Fix link.
-12. Ver 1.0.12: Fix ThapcamTV.
-13. Ver 1.0.13: Fix Referer.
+  <news>Ver 1.0.18: Sửa lỗi ThapCam (24/02/2025).
   </news>
 </extension>
 </addon>

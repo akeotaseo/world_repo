@@ -690,7 +690,7 @@ Use this to organize your Favourites.
 
 </addon>
 
-<addon id="plugin.video.90phuttv" version="1.0.18" name="90PhutTV" provider-name="hoaivnpt">
+<addon id="plugin.video.90phuttv" version="1.0.19" name="90PhutTV" provider-name="hoaivnpt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -707,7 +707,7 @@ Use this to organize your Favourites.
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>Ver 1.0.18: Sửa lỗi ThapCam (24/02/2025).
+  <news>Ver 1.0.19: Sửa lỗi ThapCam (26/02/2025).
   </news>
 </extension>
 </addon>

@@ -980,34 +980,6 @@ https://github.com/Vashiel/repository.adulthideout
     </extension>
 </addon>
 
-<addon id="plugin.video.blueballs"
-	   name="[COLOR blue]Blue Balls[/COLOR]"
-	   version="1.9"
-	   provider-name="[COLOR orange]Twisted Nutz[/COLOR]">
-  <requires>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension library="resources/modules/" point="xbmc.python.module" />
-  <extension library="resources/sources/" point="xbmc.python.module" />
-  <extension library="resources/" point="xbmc.python.module" />
-  <extension point="xbmc.addon.metadata">
-	<reuselanguageinvoker>true</reuselanguageinvoker>
-    <summary lang="en">Kodi 18+ Addon</summary>
-    <description lang="en">[COLOR orange]A Bit Of Porn For Your Enjoyment[/COLOR]</description>
-
-    <platform>all</platform>
-	<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-
-</addon>
-
 <addon id="plugin.video.bnwmovie19" name="Black and White Movies" version="420.1.0" provider-name="Anonymous">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
@@ -3530,38 +3502,6 @@ provider-name="FrankAaro">
       <icon>icon.png</icon>
     </assets>
   </extension>
-</addon>
-
-<addon id="plugin.video.twistedtv" name="[COLOR orange]Twisted TV[/COLOR]" version="1.0" provider-name="[COLOR orange]Twisted Nutz[/COLOR]">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0" />
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests" optional="true"/>
-		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-		<import addon="script.module.youtube.dl" optional="true"/>
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.dateutil" optional="true" />
-		<import addon="script.module.resolveurl" optional="true"/>
-		<import addon="script.module.urlresolver" optional="true"/>
-		<import addon="script.module.cloudscraper" optional="true"/>
-		<import addon="script.module.inputstreamhelper" optional="true"/>
-		<import addon="script.module.slproxy" optional="true"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-
-	<extension point="xbmc.addon.metadata">
-		<summary>Twisted 247 Tv</summary>
-		<description>
-		</description>
-		<platform>all</platform>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.video.uiiumovies" name="uiiumovies - XXX" version="0.3.1" provider-name="xxxxx">

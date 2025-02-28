@@ -1118,23 +1118,7 @@ TEST
 
 
 
-00:1a:79:bb:46:98=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1A:79:72:AB:A4=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:c3:2d:d5=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:c7:0a:e1=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:ba:25:0e=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1A:79:63:55:5b=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:7b:cf:6d=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1A:79:9E:A6:6B=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:51:05:b9=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:4d:3b:ff=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:c0:8a:d8=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:66:8c:96=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1A:79:7d:55:88=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:cb:a0:2e=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:cb:14:14=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1a:79:14:67:7e=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
-00:1A:79:26:5e:4a=http://llllllllliosdaiiii1iiiiiiiii.funtogether.xyz:8080/c/=,
+
 
 
 
@@ -1207,39 +1191,8 @@ TEST
 
 
 
-00:1A:79:57:B2:58=http://mutant.arrox.top:80/c/=,
-00:1A:79:92:4E:CF=http://mutant.arrox.top:80/c/=,
-00:1A:79:4C:73:AD=http://mutant.arrox.top:80/c/=,
-00:1A:79:18:E1:6C=http://mutant.arrox.top:80/c/=,
-00:1A:79:4F:F6:81=http://mutant.arrox.top:80/c/=,
-00:1A:79:51:4C:5B=http://mutant.arrox.top:80/c/=,
-00:1A:79:6E:2E:E9=http://mutant.arrox.top:80/c/=,
-00:1A:79:40:60:9B=http://mutant.arrox.top:80/c/=,
-00:1A:79:8B:08:A0=http://mutant.arrox.top:80/c/=,
-00:1A:79:31:75:E6=http://mutant.arrox.top:80/c/=,
-00:1A:79:0E:B4:A2=http://mutant.arrox.top:80/c/=,
-00:1A:79:FB:A4:E7=http://mutant.arrox.top:80/c/=,
-00:1A:79:BB:E9:36=http://mutant.arrox.top:80/c/=,
-00:1A:79:7B:7A:1C=http://mutant.arrox.top:80/c/=,
-00:1A:79:43:2B:76=http://mutant.arrox.top:80/c/=,
-00:1A:79:30:BC:6C=http://mutant.arrox.top:80/c/=,
-00:1A:79:A6:4F:87=http://mutant.arrox.top:80/c/=,
-00:1A:79:FE:67:EA=http://mutant.arrox.top:80/c/=,
-00:1A:79:00:2C:13=http://mutant.arrox.top:80/c/=,
-00:1A:79:BF:FC:13=http://mutant.arrox.top:80/c/=,
 
 
-00:1A:79:AA:6B:9B=http://nks24.com/c/=,
-00:1A:79:AF:F9:F5=http://nks24.com/c/=,
-00:1A:79:4D:03:0B=http://nks24.com:8080/c/=,
-00:1A:79:6B:08:DE=http://nks24.com:8080/c/=,
-00:1A:79:07:BD:65=http://nks24.com:8080/c/=,
-00:1A:79:4D:03:4E=http://nks24.com:8080/c/=,
-00:1A:79:A3:B7:88=http://nks24.com:8080/c/=,
-00:1A:79:4B:AA:0A=http://nks24.com:8080/c/=,
-00:1A:79:41:3A:5D=http://nks24.com:8080/c/=,
-00:1A:79:5E:84:00=http://nks24.com:8080/c/=,
-00:1A:79:10:DF:F6=http://nks24.com:8080/c/=,
 
 
 

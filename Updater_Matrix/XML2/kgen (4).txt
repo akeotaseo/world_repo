@@ -150,6 +150,8 @@
 00:1A:79:53:63:E2=http://tv.premiumplus.tv:80/c/=,
 
 
+00:1A:79:C0:E9:9C=http://line.iptvwings.com/c/=,
+
 00:1A:79:EF:AA:F5=http://line.iptvwings.com/c/=,
 00:1A:79:B6:6F:17=http://line.iptvwings.com/c/=,
 00:1A:79:7F:16:EB=http://line.iptvwings.com/c/=,

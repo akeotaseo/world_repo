@@ -1232,22 +1232,6 @@ https://romanihd.xyz:443/get.php?username=ValericaCorozel&password=ke5SnqKTPM7TR
 
 
 
-http://tv14s.xyz:8080/get.php?username=XJ9NU3&password=250290&type=M3u
-http://tv14s.xyz:8080/get.php?username=Xwwgr5&password=633284&type=M3u
-http://tv14s.xyz:8080/get.php?username=x5av3p&password=632979&type=M3u
-http://tv14s.xyz:8080/get.php?username=x5xrz0&password=944877&type=M3u
-http://tv14s.xyz:8080/get.php?username=xawsb0&password=958398&type=M3u
-http://tv14s.xyz:8080/get.php?username=xuqhb7&password=499446&type=M3u
-http://tv14s.xyz:8080/get.php?username=y2wuwwf&password=9999197&type=M3u
-http://tv14s.xyz:8080/get.php?username=yolandawallace1101@gmail.com&Password=yolandawallace1101@2022&type=M3u
-http://tv14s.xyz:8080/get.php?username=yolandawarren5@gmail.com&Password=yolandawarren5@2023&type=M3u
-http://tv14s.xyz:8080/get.php?username=ypfng3G80x&password=jkzjjjjjjjjdqe5l&type=M3u
-http://tv14s.xyz:8080/get.php?username=yrccd5&password=639552&type=M3u
-http://tv14s.xyz:8080/get.php?username=yx6fpf&password=668098&type=M3u
-http://tv14s.xyz:8080/get.php?username=zacslife@gmail.com&Password=bcts8mewbe&type=M3u
-http://tv14s.xyz:8080/get.php?username=zcj8bg&password=214917&type=M3u
-http://tv14s.xyz:8080/get.php?username=zf67WG&PASSWORD=JADAKT&TYPE=M3U
-http://tv14s.xyz:8080/get.php?username=ztv4aw&password=988321&type=M3u
 
 
 
@@ -1278,3 +1262,24 @@ http://rafav1.zapto.org:8008/get.php?username=Ioananutzu&password=b5HFuRZ7Jq&typ
 http://stb.iphd.tv/get.php?username=c0:23:8d:96:8e:12&password=mjwyOaGo&type=m3u_plus&output=ts
 http://tv.tvdark.eu/get.php?username=ErhanOrhan1&password=dKRcmSpN&type=m3u_plus&output=ts
 http://tv1.site:8080/get.php?username=turgaydur&password=HErQa9SpST&type=m3u_plus&output=mpegts
+
+
+
+
+
+http://tv14s.xyz:8080/get.php?username=XJ9NU3&password=250290&type=m3u
+http://tv14s.xyz:8080/get.php?username=Xwwgr5&password=633284&type=m3u
+http://tv14s.xyz:8080/get.php?username=x5av3p&password=632979&type=m3u
+http://tv14s.xyz:8080/get.php?username=x5xrz0&password=944877&type=m3u
+http://tv14s.xyz:8080/get.php?username=xawsb0&password=958398&type=m3u
+http://tv14s.xyz:8080/get.php?username=xuqhb7&password=499446&type=m3u
+http://tv14s.xyz:8080/get.php?username=y2wuwwf&password=9999197&type=m3u
+http://tv14s.xyz:8080/get.php?username=yolandawallace1101@gmail.com&Password=yolandawallace1101@2022&type=m3u
+http://tv14s.xyz:8080/get.php?username=yolandawarren5@gmail.com&Password=yolandawarren5@2023&type=m3u
+http://tv14s.xyz:8080/get.php?username=ypfng3G80x&password=jkzjjjjjjjjdqe5l&type=m3u
+http://tv14s.xyz:8080/get.php?username=yrccd5&password=639552&type=m3u
+http://tv14s.xyz:8080/get.php?username=yx6fpf&password=668098&type=m3u
+http://tv14s.xyz:8080/get.php?username=zacslife@gmail.com&Password=bcts8mewbe&type=m3u
+http://tv14s.xyz:8080/get.php?username=zcj8bg&password=214917&type=m3u
+http://tv14s.xyz:8080/get.php?username=zf67WG&password=JADAKT&type=m3u
+http://tv14s.xyz:8080/get.php?username=ztv4aw&password=988321&type=m3u

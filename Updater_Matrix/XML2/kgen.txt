@@ -647,22 +647,30 @@
 
 
 
-00:1A:79:28:1F:9E=http://edge.19741977.network/c/=,
-00:1A:79:32:9E:0D=http://edge.19741977.network/c/=,
-00:1A:79:91:D3:74=http://edge.19741977.network/c/=,
-00:1A:79:A9:1F:0F=http://edge.19741977.network/c/=,
-
-
-TEST
 
 
 
 
 
+00:1A:79:24:1A:F7=http://line.tee-ott.com/c/=,
+00:1A:79:B4:F0:A1=http://line.tee-ott.com/c/=,
+00:1A:79:71:47:73=http://line.tee-ott.com/c/=,
+00:1A:79:71:0C:2E=http://line.tee-ott.com/c/=,
+00:1A:79:03:AE:A7=http://line.tee-ott.com/c/=,
+00:1A:79:B4:F0:91=http://line.tee-ott.com/c/=,
+00:1A:79:62:05:46=http://line.tee-ott.com/c/=,
+00:1A:79:70:8E:88=http://line.tee-ott.com/c/=,
+00:1A:79:47:D4:95=http://line.tee-ott.com/c/=,
+00:1A:79:B2:77:6E=http://line.tee-ott.com/c/=,
+00:1A:79:46:C8:D6=http://line.tee-ott.com/c/=,
+00:1A:79:0C:DD:5A=http://line.tee-ott.com/c/=,
+00:1A:79:5E:DC:94=http://line.tee-ott.com/c/=,
+00:1A:79:B4:F0:8F=http://line.tee-ott.com/c/=,
+00:1A:79:24:1A:B9=http://line.tee-ott.com/c/=,
+00:1A:79:B4:E8:5A=http://line.tee-ott.com/c/=,
+00:1A:79:B4:F0:7A=http://line.tee-ott.com/c/=,
 
 
-00:1A:79:4E:CC:EC=http://z.zcatt.cc/stalker_portal/c/=,
-00:1A:79:9B:DA:53=http://z.zcatt.cc/stalker_portal/c/=,
 
 
 00:1A:79:00:1C:FE=http://fzahtv.com/c/=,
@@ -717,84 +725,6 @@ TEST
 
 
 
-00:1A:79:03:94:B6=http://45.139.122.199:8080/c/=,
-00:1A:79:04:71:64=http://45.139.122.199:8080/c/=,
-00:1A:79:0C:A8:3A=http://45.139.122.199:8080/c/=,
-00:1A:79:0F:51:C8=http://45.139.122.199:8080/c/=,
-00:1A:79:33:6C:9E=http://45.139.122.199:8080/c/=,
-00:1A:79:33:D0:C6=http://45.139.122.199:8080/c/=,
-00:1A:79:38:41:5B=http://45.139.122.199:8080/c/=,
-00:1A:79:4D:E7:5F=http://45.139.122.199:8080/c/=,
-00:1A:79:4F:0F:CB=http://45.139.122.199:8080/c/=,
-00:1A:79:4F:18:EE=http://45.139.122.199:8080/c/=,
-00:1A:79:4F:CB:01=http://45.139.122.199:8080/c/=,
-00:1A:79:55:E2:E5=http://45.139.122.199:8080/c/=,
-00:1A:79:56:98:E6=http://45.139.122.199:8080/c/=,
-00:1A:79:8E:2D:A6=http://45.139.122.199:8080/c/=,
-00:1A:79:99:CB:54=http://45.139.122.199:8080/c/=,
-00:1A:79:A5:DB:91=http://45.139.122.199:8080/c/=,
-00:1A:79:A9:1C:B0=http://45.139.122.199:8080/c/=,
-00:1A:79:A9:F3:A7=http://45.139.122.199:8080/c/=,
-00:1A:79:AB:B7:8F=http://45.139.122.199:8080/c/=,
-00:1A:79:AE:64:4C=http://45.139.122.199:8080/c/=,
-00:1A:79:AE:69:C4=http://45.139.122.199:8080/c/=,
-00:1A:79:AE:D6:45=http://45.139.122.199:8080/c/=,
-00:1A:79:AF:7D:CA=http://45.139.122.199:8080/c/=,
-00:1A:79:B0:92:74=http://45.139.122.199:8080/c/=,
-00:1A:79:B0:AB:15=http://45.139.122.199:8080/c/=,
-00:1A:79:B2:46:BF=http://45.139.122.199:8080/c/=,
-00:1A:79:B4:45:84=http://45.139.122.199:8080/c/=,
-00:1A:79:B4:52:DA=http://45.139.122.199:8080/c/=,
-00:1A:79:B5:19:8D=http://45.139.122.199:8080/c/=,
-00:1A:79:B6:53:14=http://45.139.122.199:8080/c/=,
-00:1A:79:B7:7C:D5=http://45.139.122.199:8080/c/=,
-00:1A:79:BA:AA:46=http://45.139.122.199:8080/c/=,
-00:1A:79:BB:ED:8B=http://45.139.122.199:8080/c/=,
-00:1A:79:BC:2C:0C=http://45.139.122.199:8080/c/=,
-00:1A:79:BD:B5:B8=http://45.139.122.199:8080/c/=,
-00:1A:79:BE:62:7D=http://45.139.122.199:8080/c/=,
-00:1A:79:BF:A8:3A=http://45.139.122.199:8080/c/=,
-00:1A:79:BF:CE:80=http://45.139.122.199:8080/c/=,
-00:1A:79:BF:EA:1C=http://45.139.122.199:8080/c/=,
-00:1A:79:C0:09:14=http://45.139.122.199:8080/c/=,
-00:1A:79:C0:0B:A2=http://45.139.122.199:8080/c/=,
-00:1A:79:C0:8E:E0=http://45.139.122.199:8080/c/=,
-00:1A:79:C1:D5:EE=http://45.139.122.199:8080/c/=,
-00:1A:79:C3:14:14=http://45.139.122.199:8080/c/=,
-00:1A:79:C3:29:37=http://45.139.122.199:8080/c/=,
-00:1A:79:C4:29:55=http://45.139.122.199:8080/c/=,
-00:1A:79:C5:B1:FB=http://45.139.122.199:8080/c/=,
-00:1A:79:C7:80:8C=http://45.139.122.199:8080/c/=,
-00:1A:79:CC:E2:CF=http://45.139.122.199:8080/c/=,
-00:1A:79:CC:FE:C9=http://45.139.122.199:8080/c/=,
-00:1A:79:CF:24:E6=http://45.139.122.199:8080/c/=,
-00:1A:79:D0:26:C0=http://45.139.122.199:8080/c/=,
-00:1A:79:D0:DF:0E=http://45.139.122.199:8080/c/=,
-00:1A:79:D1:EF:7D=http://45.139.122.199:8080/c/=,
-00:1A:79:D2:93:51=http://45.139.122.199:8080/c/=,
-00:1A:79:D2:FE:5E=http://45.139.122.199:8080/c/=,
-00:1A:79:F6:A6:DB=http://45.139.122.199:8080/c/=,
-00:1A:79:FD:C0:F1=http://45.139.122.199:8080/c/=,
-
-
-
-00:1A:79:F5:00:DF=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:4A=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:17=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:56=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:57=http://testdi.proxytx.cloud/c/=,
-00:1A:79:37:2A:01=http://testdi.proxytx.cloud/c/=,
-00:1A:79:70:87:F8=http://testdi.proxytx.cloud/c/=,
-00:1A:79:70:87:C8=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:41=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:DA=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:C8=http://testdi.proxytx.cloud/c/=,
-00:1A:79:91:7A:5F=http://testdi.proxytx.cloud/c/=,
-00:1A:79:37:2A:2E=http://testdi.proxytx.cloud/c/=,
-00:1A:79:70:87:D7=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:6A=http://testdi.proxytx.cloud/c/=,
-00:1A:79:F5:00:54=http://testdi.proxytx.cloud/c/=,
-
 
 00:1A:79:2C:60:44=http://genlive.online/c/=,
 00:1A:79:20:3F:C2=http://genlive.online/c/=,
@@ -813,16 +743,6 @@ TEST
 
 
 
-00:1A:79:44:BF:96=http://kotopro.ottc.pro:80/c/=,
-
-00:1A:79:8A:38:5C=http://main.light-ott.net/c/=,
-
-00:1A:79:C7:F7:A7=http://34mix.com:8080/c/=,
-
-00:1A:79:4B:9F:EB=http://m.devtv.biz:80/c/=,
-
-00:1A:79:AB:10:EC=http://ix.kingtv.pw:80/c=,
-
 
 00:1A:79:00:00:00=http://king-box.club/c/=,
 00:1A:79:7E:00:EC=http://king-box.club/c/=,
@@ -840,54 +760,12 @@ TEST
 00:1a:79:ea:8e:52=http://king-box.club/c/=,
 
 
-00:1A:79:BE:D9:5D=http://line.trx-ott.com/c/=,
-00:1A:79:81:F5:32=http://line.trx-ott.com/c/=,
-00:1A:79:81:F5:2B=http://line.trx-ott.com/c/=,
-00:1A:79:BE:D9:5C=http://line.trx-ott.com/c/=,
-00:1A:79:4A:99:9E=http://line.trx-ott.com/c/=,
-00:1A:79:D5:10:16=http://line.trx-ott.com/c/=,
-00:1A:79:E7:A8:1B=http://line.trx-ott.com/c/=,
-00:1A:79:B5:B6:92=http://line.trx-ott.com/c/=,
-00:1A:79:D5:10:07=http://line.trx-ott.com/c/=,
-00:1A:79:C5:10:6D=http://line.trx-ott.com/c/=,
-00:1A:79:50:DC:13=http://line.trx-ott.com/c/=,
-00:1A:79:72:86:4E=http://line.trx-ott.com/c/=,
-00:1A:79:D5:10:AE=http://line.trx-ott.com/c/=,
 
 
-00:1A:79:9A:7C:7D=http://starshare.live/c/=,
-00:1A:79:0B:6C:33=http://starshare.live/c/=,
-00:1A:79:A4:C8:CE=http://starshare.live/c/=,
-00:1A:79:0F:DA:F1=http://starshare.live/c/=,
-00:1A:79:42:67:9B=http://starshare.live/c/=,
-00:1A:79:09:C9:9B=http://starshare.live/c/=,
-
-
-00:1A:79:AD:03:11=http://speed-gaz.xyz:8080/c/=,
-00:1A:79:B6:74:15=http://speed-gaz.xyz:8080/c/=,
-00:1A:79:AE:9A:6E=http://speed-gaz.xyz:8080/c/=,
-00:1A:79:C6:24:A5=http://speed-gaz.xyz:8080/c/=,
-00:1A:79:C8:0E:B4=http://speed-gaz.xyz:8080/c/=,
-00:1A:79:C1:BB:23=http://speed-gaz.xyz:8080/c/=,
-00:1A:79:BD:37:91=http://speed-gaz.xyz:8080/c/=,
-
-
-
-00:1A:79:E5:88:C5=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:D0:2F=http://tkosportz.live:25461/c/=,
-00:1A:79:E5:DF:44=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:C6:8B=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:4B:71=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:D2:B9=http://tkosportz.live:25461/c/=,
-00:1A:79:E5:88:CC=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:06:C6=http://tkosportz.live:25461/c/=,
-00:1A:79:E5:FE:DE=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:4E:EC=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:52:01=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:CC:8F=http://tkosportz.live:25461/c/=,
-00:1A:79:E6:47:B4=http://tkosportz.live:25461/c/=,
-
-
+00:1A:79:28:1F:9E=http://edge.19741977.network/c/=,
+00:1A:79:32:9E:0D=http://edge.19741977.network/c/=,
+00:1A:79:91:D3:74=http://edge.19741977.network/c/=,
+00:1A:79:A9:1F:0F=http://edge.19741977.network/c/=,
 00:1A:79:CB:8A:50=http://edge.19741977.network/c/=,
 00:1A:79:DD:2F:BA=http://edge.19741977.network/c/=,
 00:1A:79:8B:26:BC=http://edge.19741977.network/c/=,
@@ -902,11 +780,65 @@ TEST
 
 
 
+
+TEST
+
+
+
+
+
+
+
+00:1A:79:4E:CC:EC=http://z.zcatt.cc/stalker_portal/c/=,
+00:1A:79:9B:DA:53=http://z.zcatt.cc/stalker_portal/c/=,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00:1A:79:44:BF:96=http://kotopro.ottc.pro:80/c/=,
+
+00:1A:79:8A:38:5C=http://main.light-ott.net/c/=,
+
+00:1A:79:C7:F7:A7=http://34mix.com:8080/c/=,
+
+00:1A:79:4B:9F:EB=http://m.devtv.biz:80/c/=,
+
+00:1A:79:AB:10:EC=http://ix.kingtv.pw:80/c=,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 00:1A:79:00:32:A2=http://45.137.206.80:26085/stalker_portal/c/=,
 
 00:1A:79:33:8B:CA=http://edge.bz:8080/c/=,
 
-=http://Infinityiptvstreams.one:8080/c/=,
+
 00:1A:79:3E:C6:4B=http://Infinityiptvstreams.one:8080/c/=,
 00:1A:79:5F:79:1E=http://Infinityiptvstreams.one:8080/c/=,
 00:1A:79:0B:F0:A8=http://Infinityiptvstreams.one:8080/c/=,
@@ -1098,23 +1030,7 @@ TEST
 00:1A:79:8B:37:F8=http://login.newborntv.info/c/=,
 
 
-00:1A:79:24:1A:F7=http://line.tee-ott.com/c/=,
-00:1A:79:B4:F0:A1=http://line.tee-ott.com/c/=,
-00:1A:79:71:47:73=http://line.tee-ott.com/c/=,
-00:1A:79:71:0C:2E=http://line.tee-ott.com/c/=,
-00:1A:79:03:AE:A7=http://line.tee-ott.com/c/=,
-00:1A:79:B4:F0:91=http://line.tee-ott.com/c/=,
-00:1A:79:62:05:46=http://line.tee-ott.com/c/=,
-00:1A:79:70:8E:88=http://line.tee-ott.com/c/=,
-00:1A:79:47:D4:95=http://line.tee-ott.com/c/=,
-00:1A:79:B2:77:6E=http://line.tee-ott.com/c/=,
-00:1A:79:46:C8:D6=http://line.tee-ott.com/c/=,
-00:1A:79:0C:DD:5A=http://line.tee-ott.com/c/=,
-00:1A:79:5E:DC:94=http://line.tee-ott.com/c/=,
-00:1A:79:B4:F0:8F=http://line.tee-ott.com/c/=,
-00:1A:79:24:1A:B9=http://line.tee-ott.com/c/=,
-00:1A:79:B4:E8:5A=http://line.tee-ott.com/c/=,
-00:1A:79:B4:F0:7A=http://line.tee-ott.com/c/=,
+
 
 
 

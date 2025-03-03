@@ -1,4 +1,4 @@
-http://01rmz.ramx34.win:8080/get.php?username=ali.sezgin19&password=V35Po4sYmW3EVB&type=m3u2
+http://01rmz.ramx34.win:8080/get.php?username=ali.sezgin19&password=V35Po4sYmW3EVB&type=m3u
 http://0589.eu/get.php?username=723147&password=507243&type=m3u
 http://0924tvlink.xyz:8080/get.php?username=nAz9tnRhkp&password=kz4hqYgg1p&type=m3u_plus&output=ts
 http://0924tvlink.xyz:8080/get.php?username=qEwbH7h5MjFn33&password=cquz91gmF3&type=m3u_plus&output=ts

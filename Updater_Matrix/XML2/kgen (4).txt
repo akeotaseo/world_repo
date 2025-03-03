@@ -190,7 +190,7 @@
 00:1a:79:c6:a7:91=http://line.clear-ocean.link:80/c/=,
 00:1a:79:19:47:da=http://line.clear-ocean.link:80/c/=,
 00:1a:79:79:6c:f6=http://line.clear-ocean.link:80/c/=,
-00:1a:79:b2:8b:8b=http://zenlink.link/c/=,
+00:1a:79:b2:8b:8b==,
 00:1a:79:b0:5d:c9=http://zenlink.link/c/=,
 00:1a:79:bc:07:08=http://zenlink.link/c/=,
 00:1a:79:a1:c9:59=http://zenlink.link/c/=,

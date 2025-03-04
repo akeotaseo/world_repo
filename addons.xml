@@ -3130,6 +3130,29 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.2.3" provider-name="thapcam">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests"/>
+		<import addon="inputstream.adaptive" version="20.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="vi">thapcam</description>
+        <disclaimer lang="vi">thapcam</disclaimer>
+        <summary lang="vi">thapcam</summary>
+		<language>vi</language>
+        <platform>all</platform>
+        <license>GPL-2.0-or-later</license>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>icon.png</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.That_Banned_Channel"
 version="1.0.1"
 name="That Banned Channel"

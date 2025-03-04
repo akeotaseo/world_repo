@@ -3293,7 +3293,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.thethao" name="TheThao" version="0.0.1" provider-name="thethao">
+<addon id="plugin.video.thethao" name="TheThao" version="0.0.4" provider-name="thethao">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

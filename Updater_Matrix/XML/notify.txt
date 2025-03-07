@@ -15,6 +15,9 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
 - [B]Τελευταία ενημέρωση 07 Μαρτίου  2025:[/B]
+- Διαγραφή  [COLOR blue]BalkanTV Client[/COLOR]
+- Διαγραφή  [COLOR blue]Plugin[/COLOR][COLOR yellow]Streaming[/COLOR]
+- Διαγραφή  Senku
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
@@ -27,7 +30,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 
 - [B]Ενημέρωση 24 Ιανουαρίου 2025:[/B]
-- Προσθήκη [COLOR blue]BalkanTV Client[/COLOR]
+- Προσθήκη
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

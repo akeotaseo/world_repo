@@ -879,3 +879,5 @@ TEST
 00:1A:79:50:EE:76=http://androstv.xyz:8080/c/=,
 00:1A:79:90:D3:46=http://androstv.xyz:8080/c/=,
 00:1A:79:AB:60:ED=http://androstv.xyz:8080/c/=,
+00:1A:79:01:6D:65=http://androstv.xyz:8080/c/=,
+00:1A:79:01:75:64=http://androstv.xyz:8080/c/=,

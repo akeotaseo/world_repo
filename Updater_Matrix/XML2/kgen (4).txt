@@ -1333,3 +1333,8 @@
 00:1A:79:cb:5a:65=http://tvkijken.xyz:8080/c/=,
 00:1A:79:cd:f2:dc=http://tvkijken.xyz:8080/c/=,
 00:1A:79:c3:cd:98=http://tvkijken.xyz:8080/c/=,
+00:1A:79:50:EE:76=http://androstv.xyz:8080/c/=,
+00:1A:79:90:D3:46=http://androstv.xyz:8080/c/=,
+00:1A:79:AB:60:ED=http://androstv.xyz:8080/c/=,
+00:1A:79:01:6D:65=http://androstv.xyz:8080/c/=,
+00:1A:79:01:75:64=http://androstv.xyz:8080/c/=,

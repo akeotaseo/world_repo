@@ -875,4 +875,16 @@
 00:1A:79:52:65:FD=http://alexiptv.ddns.me:8080/c/=,
 TEST
 
-
+00:1A:79:A2:65:83=http://wiki-ott.org:8789/c/=,
+00:1A:79:A1:62:57=http://wiki-ott.org:8789/c/=,
+00:1A:79:AE:3E:87=http://wiki-ott.org:8789/c/=,
+00:1A:79:AC:12: D3=http://wiki-ott.org:8789/c/=,
+00:1A:79:A6:20:F1=http://wiki-ott.org:8789/c/=,
+00:1A:79:AE:20:51=http://wiki-ott.org:8789/c/=,
+00:1A:79:AE:6B:28=http://wiki-ott.org:8789/c/=,
+00:1A:79:A1:3A:1B=http://wiki-ott.org:8789/c/=,
+00:1A:79:A4:23:B8=http://wiki-ott.org:8789/c/=,
+00:1A:79:82:13:6E=http://wiki-ott.org:8789/c/=,
+00:1A:79:D0:C6:9E=http://wiki-ott.org:8789/c/=,
+00:1A:79:A5:43:11=http://wiki-ott.org:8789/c/=,
+00:1A:79:DF:16:E8=http://wiki-ott.org:8789/c/=,

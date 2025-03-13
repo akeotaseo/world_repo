@@ -3086,7 +3086,7 @@ v1.0.9 (14.8.2024)
 	<provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-    <summary lang="en">Take Room</summary>
+    <summary lang="en">TAKE ROOM</summary>
     <description></description>
     <platform>all</platform>
 	<assets>

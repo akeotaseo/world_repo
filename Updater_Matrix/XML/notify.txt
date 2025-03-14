@@ -14,7 +14,14 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 11 Μαρτίου  2025:[/B]
+- [B]Τελευταία ενημέρωση 14 Μαρτίου  2025:
+- Διαγραφή του [COLOR goldenrod]Free99[/COLOR]
+- Συντόμευση του πρόσθετου [/B][COLOR silver]Scrapee[/COLOR][/B] στην κατηγορία [B]MOVIES & TV[/B]
+- Αλλαγές/διορθώσεις/προσθήκες στο Skin
+- Διάφορες αλλαγές/διορθώσεις/προσθήκες
+
+
+- [B]Eνημέρωση 11 Μαρτίου  2025:[/B]
 - Διαγραφή  [COLOR blue]BalkanTV Client[/COLOR]
 - Διαγραφή  [COLOR blue]Plugin[/COLOR][COLOR yellow]Streaming[/COLOR]
 - Διαγραφή  Senku

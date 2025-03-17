@@ -14,7 +14,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 14 Μαρτίου  2025:
+- [B]Τελευταία ενημέρωση 18 Μαρτίου  2025:
 - Διαγραφή του [COLOR goldenrod]Free99[/COLOR]
 - Προσθήκη του πρόσθετου [B][COLOR silver]Scrapee[/COLOR][/B] στην κατηγορία [B]MOVIES & TV[/B]
 - Προσθήκες url λιστών στο [B][COLOR cornflowerblue]IPTV Simple Client[/COLOR][/B]

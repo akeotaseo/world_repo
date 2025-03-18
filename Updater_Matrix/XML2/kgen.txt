@@ -896,13 +896,12 @@
 00:1A:79:EE:14:CF=http://line.iptvgoat.com:80/c/=,
 00:1A:79:BF:62:4A=http://line.iptvgoat.com:80/c/=,
 
-
+00:1A:79:6E:2A:9B=http://pars01.com:8080/c/=,
+00:1A:79:05:A4:1F=http://pars01.com:8080/c/=,
+00:1A:79:4D:00:4B=http://pars01.com:8080/c/=,
+00:1A:79:4D:00:C2=http://pars01.com:8080/c/=,
 
 TEST
 
 
 
-00:1A:79:6E:2A:9B=http://pars01.com:8080/c/=,
-00:1A:79:05:A4:1F=http://pars01.com:8080/c/=,
-00:1A:79:4D:00:4B=http://pars01.com:8080/c/=,
-00:1A:79:4D:00:C2=http://pars01.com:8080/c/=,

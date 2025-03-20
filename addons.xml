@@ -894,7 +894,7 @@ https://github.com/Vashiel/repository.adulthideout
   </extension>
 </addon>
 
-<addon id="plugin.video.avdb" name="AVDB" version="0.1.3" provider-name="avdb">
+<addon id="plugin.video.avdb" name="AVDB" version="0.1.4" provider-name="avdb">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -3130,7 +3130,7 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.3.4" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.3.5" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

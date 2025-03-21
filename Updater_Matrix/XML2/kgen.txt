@@ -904,45 +904,21 @@
 00:1A:79:4D:00:4B=http://pars01.com:8080/c/=,
 00:1A:79:4D:00:C2=http://pars01.com:8080/c/=,
 
-TEST
-
-
-00:1A:79:57:9A:7B-http://drk.yasar.tv/c/-,
-00:1A:79:95:4C:7E-http://drk.yasar.tv/c/-,
-00:1A:79:A5:D8:94-http://drk.yasar.tv/c/-,
-00:1A:79:BA:8E:80-http://drk.yasar.tv/c/-,
-00:1A:79:BC:7F:1F-http://drk.yasar.tv/c/-,
-00:1A:79:C0:5F:1D-http://drk.yasar.tv/c/-,
-00:1A:79:C3:B5:B7-http://drk.yasar.tv/c/-,
-00:1A:79:FB:0C:11-http://drk.yasar.tv/c/-,
-
-
-
-00:1A:79:46:FD:4F=http://line.dino.ws/c/=,
-00:1A:79:81:73:34=http://line.dino.ws/c/=,
-
-
+00:1A:79:57:9A:7B=http://drk.yasar.tv/c/-,
+00:1A:79:95:4C:7E=http://drk.yasar.tv/c/-,
+00:1A:79:A5:D8:94=http://drk.yasar.tv/c/-,
+00:1A:79:BA:8E:80=http://drk.yasar.tv/c/-,
+00:1A:79:BC:7F:1F=http://drk.yasar.tv/c/-,
+00:1A:79:C0:5F:1D=http://drk.yasar.tv/c/-,
+00:1A:79:C3:B5:B7=http://drk.yasar.tv/c/-,
+00:1A:79:FB:0C:11=http://drk.yasar.tv/c/-,
 
 00:1A:79:5E:7C:CA=http://portal.entertainmentxl.com:8080/c/=,
 00:1A:79:99:F0:A7=http://portal.entertainmentxl.com:8080/c/=,
 00:1A:79:D0:07:79=http://portal.entertainmentxl.com:8080/c/=,
 00:1A:79:4B:43:6C=http://portal.entertainmentxl.com:8080/c/=,
 
-
-
-00:1A:79:C4:41:AB=http://iptvworld.ml:2095/c/=,
-00:1A:79:D1:AC:7E=http://iptvworld.ml:2095/c/=,
-00:1A:79:B8:83:CA=http://iptvworld.ml:2095/c/=,
-00:1A:79:C3:14:42=http://iptvworld.ml:2095/c/=,
-00:1A:79:63:E2:54=http://iptvworld.ml:2095/c/=,
-00:1A:79:B7:1A:AF=http://iptvworld.ml:2095/c/=,
-00:1A:79:AD:17:59=http://iptvworld.ml:2095/c/=,
-00:1A:79:D2:9B:C2=http://iptvworld.ml:2095/c/=,
-00:1A:79:54:4F:2E=http://iptvworld.ml:2095/c/=,
-00:1A:79:BA:32:41=http://iptvworld.ml:2095/c/=,
-00:1A:79:AA:BC:53=http://iptvworld.ml:2095/c/=,
-
-
+TEST
 
 00:1A:79:D4:A3:23=http://globaltv1.net:8080/c/=,
 

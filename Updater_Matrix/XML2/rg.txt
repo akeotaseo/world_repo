@@ -159,5 +159,29 @@ http://pfsv.io/get.php?username=veraluciaaraujogarcia&password=13v05a20g22&type=
 http://pfsv.io/get.php?username=yoshimura&password=yoshimura2019&type=m3u_plus
 http://pfsv.io/get.php?username=zc1746&password=rg3833&type=m3u_plus
 
-
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0125171344631670&password=3e05afe95a9e&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP015461716544346007&password=4e92077241cc&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01550171507596676&password=28362e52cc52&type=m3u_p
+http://vipyxyzapi.xyz:8080/get.php?username=VIP017171311535167&password=1dbee649afb2&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01886172364581393&password=23597d82cc54&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0114170787642353&password=59e3ad06cbca&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0116171006641956&password=d8671ce5d5bf&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0119169562544700&password=71695625447479&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01208172344091993&password=43a5d1e0d77c&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0129168337622202&password=41683376222&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01324171563172078&password=78b41d1d952c&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0134171542692464&password=91715426924492&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0141171275254966&password=680b7da696c4&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01570171615117280&password=df411f34cb9e&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0157168698345306&password=71701231716743&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0159169712267900&password=61697122679429&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01660172450270395&password=43c15655dee1&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01692172409465594&password=7aed79afe539&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01837171889396585&password=30360b81ff29&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0188169099617407&password=e6417a7e53b4&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0188172104522789&password=bf866174043c&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01931713181985006&password=bbd872d15dc7&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP0195169721148900&password=31697211489157&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01968171740988082&password=b36d999b0401&type=m3u_plus
+http://vipyxyzapi.xyz:8080/get.php?username=VIP01995172157730791&password=82e8a1e97c79&type=m3u_plus
 

@@ -1,5 +1,5 @@
 
-
+off
 http://pro.lsscover.cc:8080/get.php?username=S2Uz4xpr8xPA&password=dnBqsjtnJ3YC&type=m3u_plus
 http://pro.lsscover.cc:8080/get.php?username=Pipoww62471&password=6194620&type=m3u_plus
 http://pro.lsscover.cc:8080/get.php?username=Claudine52449&password=52449Claudine&type=m3u_plus
@@ -28,7 +28,7 @@ http://pro.lsscover.cc:8080/get.php?username=5RWPGnAs7B&password=JADza5WhSN&type
 http://pro.lsscover.cc:8080/get.php?username=Eddie31203C&password=6VKXwFhtpM55&type=m3u_plus
 
 
-
+---------------------
 http://defaultgen.com:3050/get.php?username=ClayFost912&password=rhutmwjVeC&type=m3u_plus
 http://defaultgen.com:3050/get.php?username=MauriceIrby283&password=WYSBw8J6M8&type=m3u_plus
 http://defaultgen.com:3050/get.php?username=Mediatv2205&password=v7GNVZz7PB&type=m3u_plus
@@ -68,7 +68,7 @@ http://defaultgen.com:3050/get.php?username=wolf528&password=7DYPg5tu4x&type=m3u
 
 -----------------------------------------------------------------
 
-
+BR
 http://pfsv.io/get.php?username=19230708&password=92857693&type=m3u_plus
 http://pfsv.io/get.php?username=2223060&password=78647&type=m3u_plus
 http://pfsv.io/get.php?username=5886674797&password=65697&type=m3u_plus
@@ -158,7 +158,8 @@ http://pfsv.io/get.php?username=thomaz&password=thomaz&type=m3u_plus
 http://pfsv.io/get.php?username=veraluciaaraujogarcia&password=13v05a20g22&type=m3u_plus
 http://pfsv.io/get.php?username=yoshimura&password=yoshimura2019&type=m3u_plus
 http://pfsv.io/get.php?username=zc1746&password=rg3833&type=m3u_plus
-
+---------------------------------------------
+GR
 http://vipyxyzapi.xyz:8080/get.php?username=VIP0125171344631670&password=3e05afe95a9e&type=m3u_plus
 http://vipyxyzapi.xyz:8080/get.php?username=VIP015461716544346007&password=4e92077241cc&type=m3u_plus
 http://vipyxyzapi.xyz:8080/get.php?username=VIP01550171507596676&password=28362e52cc52&type=m3u_p

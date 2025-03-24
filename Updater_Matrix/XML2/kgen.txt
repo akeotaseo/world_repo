@@ -900,3 +900,43 @@ TEST
 
 
 
+00:1A:79:7D:C2:57=http://tv.dino-code.site/c/=,
+00:1A:79:B3:96:EA=http://tv.dino-code.site/c/=,
+00:1A:79:19:48:55=http://tv.dino-code.site/c/=,
+00:1A:79:33:22:C2=http://tv.dino-code.site/c/=,
+00:1A:79:5A:F5:FE=http://tv.dino-code.site/c/=,
+00:1A:79:27:0F:1C=http://tv.dino-code.site/c/=,
+00:1A:79:52:D1:F1=http://tv.dino-code.site/c/=,
+
+00:1A:79:AB:5F:2D=http://king.viviotv.xyz/c/=,
+00:1A:79:C9:A1:7F=http://king.viviotv.xyz/c/=,
+00:1A:79:C4:87:7C=http://king.viviotv.xyz/c/=,
+00:1A:79:7C:1E:F2=http://king.viviotv.xyz/c/=,
+00:1A:79:72:B0:95=http://king.viviotv.xyz/c/=,
+
+00:1A:79:C4:74:4B=http://recreativa.tecnologiashd.com:8080/c/=,
+00:1A:79:AB:3D:73=http://recreativa.tecnologiashd.com:8080/c/=,
+00:1A:79:59:3C:D8=http://recreativa.tecnologiashd.com:8080/c/=,
+00:1A:79:BB:C9:3B=http://recreativa.tecnologiashd.com:8080/c/=,
+00:1A:79:BD:11:70=http://recreativa.tecnologiashd.com:8080/c/=,
+
+00:1A:79:BE:87:09=http://pera-on.cyou:8080/c/=,
+00:1A:79:B7:7A:E7=http://pera-on.cyou:8080/c/=,
+
+00:1A:79:2C:5F:27=http://genlive.online/c/=,
+00:1A:79:48:87:CB=http://genlive.online/c/=,
+00:1A:79:CD:17:00=http://genlive.online/c/=,
+00:1A:79:47:96:DC=http://genlive.online/c/=,
+00:1A:79:37:05:FE=http://genlive.online/c/=,
+00:1A:79:C8:77:8C=http://genlive.online/c/=,
+
+00:1A:79:20:C6:40=http://line.powerdino.com/c/=,
+00:1A:79:E5:B4:7E=http://line.powerdino.com/c/=,
+
+00:1A:79:C3:B8:ED=http://testdi.proxytx.cloud/c/=,
+00:1A:79:97:59:A3=http://testdi.proxytx.cloud/c/=,
+00:1A:79:C6:B5:16=http://testdi.proxytx.cloud/c/=,
+00:1A:79:7B:82:36=http://testdi.proxytx.cloud/c/=,
+00:1A:79:C3:B8:ED=http://testdi.proxytx.cloud/c/=,
+00:1A:79:B4:EC:26=http://testdi.proxytx.cloud/c/=,
+00:1A:79:BC:F3:12=http://testdi.proxytx.cloud/c/=,

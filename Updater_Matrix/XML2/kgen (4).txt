@@ -436,6 +436,7 @@
 00:1A:79:4E:90:B9=http://trex.8kott.xyz/c/=,
 00:1A:79:E7:A9:0B=http://trex.8kott.xyz/c/=,
 00:1A:79:B5:6E:45=http://trex.8kott.xyz/c/=,
+00:1a:79:bb:c7:b0=http://iptvswiss.com.123tv.to:8080/c/=,
 00:1A:79:6E:38:4A=http://iptvswiss.com.123tv.to:8080/c/=,
 00:1A:79:49:D7:47=http://iptvswiss.com.123tv.to:8080/c/=,
 00:1A:79:BD:50:70=http://iptvswiss.com.123tv.to:8080/c/=,

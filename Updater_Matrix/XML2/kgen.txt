@@ -471,6 +471,12 @@
 00:1A:79:E8:3B:8E=http://fzahtv.com/c/=,
 00:1A:79:F5:0B:CF=http://fzahtv.com/c/=,
 
+00:1A:79:2C:5F:27=http://genlive.online/c/=,
+00:1A:79:48:87:CB=http://genlive.online/c/=,
+00:1A:79:CD:17:00=http://genlive.online/c/=,
+00:1A:79:47:96:DC=http://genlive.online/c/=,
+00:1A:79:37:05:FE=http://genlive.online/c/=,
+00:1A:79:C8:77:8C=http://genlive.online/c/=,
 00:1A:79:37:05:FE=http://genlive.online/c/=,
 00:1A:79:C8:77:8C=http://genlive.online/c/=,
 00:1A:79:D5:69:E5=http://genlive.online/c/=,
@@ -923,20 +929,12 @@ TEST
 00:1A:79:BE:87:09=http://pera-on.cyou:8080/c/=,
 00:1A:79:B7:7A:E7=http://pera-on.cyou:8080/c/=,
 
-00:1A:79:2C:5F:27=http://genlive.online/c/=,
-00:1A:79:48:87:CB=http://genlive.online/c/=,
-00:1A:79:CD:17:00=http://genlive.online/c/=,
-00:1A:79:47:96:DC=http://genlive.online/c/=,
-00:1A:79:37:05:FE=http://genlive.online/c/=,
-00:1A:79:C8:77:8C=http://genlive.online/c/=,
 
 00:1A:79:20:C6:40=http://line.powerdino.com/c/=,
 00:1A:79:E5:B4:7E=http://line.powerdino.com/c/=,
 
-00:1A:79:C3:B8:ED=http://testdi.proxytx.cloud/c/=,
-00:1A:79:97:59:A3=http://testdi.proxytx.cloud/c/=,
-00:1A:79:C6:B5:16=http://testdi.proxytx.cloud/c/=,
-00:1A:79:7B:82:36=http://testdi.proxytx.cloud/c/=,
-00:1A:79:C3:B8:ED=http://testdi.proxytx.cloud/c/=,
-00:1A:79:B4:EC:26=http://testdi.proxytx.cloud/c/=,
-00:1A:79:BC:F3:12=http://testdi.proxytx.cloud/c/=,
+
+
+
+
+

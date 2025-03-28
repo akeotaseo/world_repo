@@ -3557,15 +3557,6 @@ http://casaip.tv:8000/get.php?username=ajxmafpesj&password=fvn6gdtbzh&type=m3u_p
 http://catali.mine.nu:33000/get.php?username=claciobanu041018&password=a4e1huScLu&type=m3u_plus
 http://cazintv.com/get.php?username=562.MehoArifovic&password=DWliSs8gdil&type=m3u_plus
 http://cazintv.com/get.php?username=Edin_Rustic&password=D3ssL0k20X&type=m3u_plus
-http://cbrlig.com:8080/c/get.php?username=MJt54HkWSeUT&password=7w0BJY6lBm&type=m3u_plus
-http://cbrlig.com:8080/c/get.php?username=MJt54HkWSeUT&password=QrRj3jKKSW&type=m3u_plus
-http://cbrlig.com:8080/c/get.php?username=cPSFrUW7&password=RZgGinaUmc&type=m3u_plus
-http://cbrlig.com:8080/c/get.php?username=ykTRFa65XZXA&password=hWz5OHBDVq&type=m3u_plus
-http://cbrlig.com:8080/c/get.php?username=ykTRFa65XZXA&password=oZZqJqvB3a&type=m3u_plus
-http://cbrlig.com:8080/get.php?username=aNK9RYqA&password=tSL9FTHIsW&type=m3u_plus
-http://cbrlig.com:8080/get.php?username=cwWfqNSq&password=qHmJOOx8gw&type=m3u_plus
-http://cbrlig.com:8080/get.php?username=gBcYcmAj&password=vthJkxk95D&type=m3u_plus
-http://cbrlig.com:8080/get.php?username=sogro-marco-fama&password=mPJuG6zpdU&type=m3u_plus
 http://cccfff.gleeze.com:8080/get.php?username=DraganZafirovski2&password=Ggqb8Eb8x4&type=m3u_plus
 http://cciptv.es/get.php?username=ALEXRODRIGUEZ1214&password=SHH8Z857wd&type=m3u_plus
 http://cctvsmarteurope.info/get.php?username=5c:c1:d7:23:c5:a2&password=5c:c1:d7:23:c5:a2Bzjsjs&type=m3u_plus
@@ -7364,7 +7355,6 @@ http://muguratv.hdstreams.site:8000/get.php?username=PatrascAdrian-Anglia-x2&pas
 http://mulero.in:8080/get.php?username=Castellon&password=250883&type=m3u_plus
 http://multiextrem.live:8080/get.php?username=jonathan2024&password=jonathan2024&type=m3u_plus
 http://mundopre.site:2082/get.php?username=EKhjJvJzH3Ue&password=E4byva8yFMXV&type=m3u_plus
-
 http://mvply55.xyz:8000/get.php?username=zekicandan3455&password=oN6r5upr3S&type=m3u_plus
 http://mwev72nr.org:80/get.php?username=11957461&password=325605Ma&type=m3u_plus
 http://mxxplus.com:80/get.php?username=cagatay.eginc&password=10.09.2023&type=m3u_plus
@@ -8838,6 +8828,7 @@ http://sdmx.vip:80/get.php?username=F4PLAYDF&password=3BVz78VTs8kC&type=m3u_plus
 http://seasharks.win:8080/get.php?username=Mistreanu.Daniel&password=V6AFy7UZvTUy&type=m3u_plus
 http://seasharks.win:8080/get.php?username=dorelcretumag&password=LspjJTSkuZTA&type=m3u_plus
 http://secureproxy.myhdtv.xyz:25461/get.php?username=mariogeniale12@gmail.com&password=o1r4xxbtixkroopbxjvb&type=m3u_plus
+http://seeedf.ro:80/get.php?username=v639zYPoBJyeQglgSxqn1iE3pz7gHN&password=hoNnbTcr3GJf1L7JrM5lbKBthHcbUc&type=m3u_plus
 http://selcuk.tv:8000/get.php?username=Ramazana9d2&password=2VkoqrmLS8&type=m3u_plus
 http://ser.dida01.eu/get.php?username=Barbaros.oren&password=06.12.2022&type=m3u_plus
 http://sergiuv1.ddns.net:8008/get.php?username=GabrielaAdrianaCreanga&password=duMaJtw4Mz&type=m3u_plus
@@ -10025,7 +10016,6 @@ http://topsecret.theonetop.live:8080/get.php?username=josedaniel123vip&password=
 http://topteamtv.dyndns.org:25461/get.php?username=SaverinoSalvatore&password=YLt6jnvDRo&type=m3u_plus
 http://toptvtelevizija.co:80/get.php?username=DejanMladen&password=7XZcXS2z3Y&type=m3u_plus
 http://toptvtelevizija.co:80/get.php?username=DejanMladen&password=7XZcXS2z3Y&type=m3u_plus&output=mpegtsh
-ttp://sm769.ffyfsex.xyz:80/get.php?username=mi313204&password=JTnJjwvft8&type=m3u_plus
 http://toptvtelevizija.co:80/get.php?username=Dimic319NET&password=T3LvusgpanrK6Tf&type=m3u_plus
 http://totalplex.site:8080/get.php?username=Ruben661&password=BwApYPT9gt&type=m3u_plus
 http://totalplex.site:8080/get.php?username=XajS8VdCsz&password=8q5U9Eqndt&type=m3u_plus
@@ -11392,10 +11382,4 @@ https://zbac2.azureedge.net/get.php?username=oomrt&password=05076357360&type=m3u
 https://zxc-cdn.com:443/get.php?username=CozmaIonut&password=7xFiP06LNIrWggKdRbP78Wu&type=m3u_plus
 https://zxc-cdn.com:443/get.php?username=CurelaruAdrian&password=cPyqCDd3js81g9KWypAEpKCD&type=m3u_plus
 https://zxc-cdn.com:443/get.php?username=DanielCristian&password=qXU9zw9w78JSwJJpD9s8W8pP&type=m3u_plus
-========================
-http://cbrlig.com:8080/get.php?username=aNK9RYqA&password=Pq6W5P1UTg&type=m3u_plus
-http://cbrlig.com:8080/get.php?username=e6hX5eFT&password=mZRD5Grv5u&type=m3u_plus
-http://seeedf.ro:80/get.php?username=v639zYPoBJyeQglgSxqn1iE3pz7gHN&password=hoNnbTcr3GJf1L7JrM5lbKBthHcbUc&type=m3u_plus
-http://veng.deluxebox.cc:80/get.php?username=sami@isvicre1&password=77756453421&type=m3u_plus
-http://mv4.cdn-dtv.com/get.php?username=hichamyazami_029075&password=B6dEmQsO&type=m3u_plus
-http://re.stv3pz.net/get.php?username=salahdmt_224810&password=qoP6Quky&type=m3u_plus
+ttp://sm769.ffyfsex.xyz:80/get.php?username=mi313204&password=JTnJjwvft8&type=m3u_plus

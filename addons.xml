@@ -1409,6 +1409,33 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	</extension>
 </addon>
 
+<addon id="plugin.video.duffyou" name="Duff You" version="0.2.1" provider-name="La Taberna">
+    <requires>
+        <import addon="script.module.six" version="1.11.0" />
+        <import addon="script.module.simplecache" />
+        <import addon="script.module.inputstreamhelper" version="0.5.0" />
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="libs/plugin.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.python.module" library="libs" />
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">You are tired of Youtube apikeys? And watching the videos on the platform as maximum quality only up to 720p? [CR] Well, it's over! From our bar we present a new YouTube addon, where no APIKEY is needed, nor is there any kind of restriction to watch the videos at the highest quality offered, 720p, 1080p, 2K and 4K![CR]All this and much more plus...</description>
+        <description lang="es">Hasta las narices de las apikeys de YouTube? Y de ver como calidad máxima los videos de la plataforma solo hasta 720p?[CR]Pues se acabó! Desde nuestra taberna os presentamos un nuevo addon de YouTube, donde no hace falta APIKEY alguna, ni tampoco hay ningún tipo de restricción para ver los videos a la máxima calidad ofrecida, 720p, 1080p, 2K y 4K![CR]Todo esto y mucho mas...</description>
+        <disclaimer lang="en">This is free [COLOR red][B]software[/B][/COLOR][CR][COLOR red][B]But it is not allowed[/B][/COLOR] to be distributed pre-installed on any type of device nor its total or partial inclusion in any software and/or hardware package for which the end user must [COLOR red][B]pay or make a donation[/B][/COLOR], for its acquisition, for its use or for receiving assistance.[CR]If you believe that any of these rules is not being followed, please contact us.</disclaimer>
+        <disclaimer lang="es">Este es un software [COLOR red][B]gratuito[/B][/COLOR][CR][COLOR red][B]Pero no se permite[/B][/COLOR] su distribuición preinstalada en ningún tipo de dispositivo ni tampoco su inclusión total o parcial en cualquier paquete de software y/o hardware por el que el usuario final deba [COLOR red][B]pagar o hacer una donación[/B][/COLOR], por su adquisición, por su uso o por recibir asistencia.[CR]Si cree que alguna de estas normas no se está cumpliendo póngase en contacto con nosotros.</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.jpg</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <license>[B]Este es un software gratuito[/B]</license>
+        <news>- Añadida opción de reproducción externa de playlists[CR]- Correcciones menores
+        </news>
+    </extension>
+</addon>
+
 <addon id="plugin.video.empflix" name="Empflix" version="2.1.1" provider-name="xbmc-adult">
     <requires>
         <!-- Commenting xbmc.python allows install on all versions of Kodi -->

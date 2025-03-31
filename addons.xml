@@ -1839,7 +1839,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.8" provider-name="mrfixit2001">
+<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.0.9" provider-name="mrfixit2001">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>

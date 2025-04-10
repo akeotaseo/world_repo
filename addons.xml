@@ -2800,7 +2800,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.8.0" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.8.1" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -2822,10 +2822,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
 		</assets>
-		<news>- v1.8.0 - Change url resolving from REGEX to JSON, Add subtitle support, Add current year to livestreams
+		<news>- v1.8.1 - sanitise m3u8 files better
+- v1.8.0 - Change url resolving from REGEX to JSON, Add subtitle support, Add current year to livestreams
 - v1.7.4 - Fix User and Channel Search
-- v1.7.3 - Add option to view title on one line
-- v1.7.2 - Fix following REGEX for titles</news>
+- v1.7.3 - Add option to view title on one line</news>
 	</extension>
 </addon>
 

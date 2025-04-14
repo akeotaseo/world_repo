@@ -14,7 +14,10 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 27 Μαρτίου  2025:
+- [B]Τελευταία ενημέρωση 14 Απριλίου 2025:[/B]
+- Διάφορες αλλαγές/διορθώσεις
+
+- [B]Eνημέρωση 17 Μαρτίου 2025:[/B]
 - Διαγραφή του [COLOR goldenrod]Free99[/COLOR]
 - Προσθήκη του πρόσθετου [B][COLOR silver]Scrapee[/COLOR][/B] στην κατηγορία [B]MOVIES & TV[/B]
 - Προσθήκες url λιστών στο [B][COLOR cornflowerblue]IPTV Simple Client[/COLOR][/B]
@@ -22,7 +25,6 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 - Προσθήκη του [B][COLOR gold]Playlist Loader World[/COLOR][/B] στην κατηγορία [B]WORLD/B]
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
-
 
 - [B]Eνημέρωση 11 Μαρτίου  2025:[/B]
 - Διαγραφή  [COLOR blue]BalkanTV Client[/COLOR]

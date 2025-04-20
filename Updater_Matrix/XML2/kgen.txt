@@ -661,19 +661,6 @@
 00:1A:79:A2:FE:54=http://focusmag.eu01.live:8080/c/=,
 00:1A:79:0F:4A:9F=http://focusmag.eu01.live:8080/c/=,
 
-00:1A:79:0A:44:23=http://107.189.14.168:8080/c/=,
-00:1A:79:0D:A7:25=http://107.189.14.168:8080/c/=,
-00:1A:79:01:5A:1D=http://107.189.14.168:8080/c/=,
-00:1A:79:0F:5C:E0=http://107.189.14.168:8080/c/=,
-00:1A:79:55:AF:FA=http://107.189.14.168:8080/c/=,
-00:1A:79:BE:D1:9E=http://107.189.14.168:8080/c/=,
-00:1A:79:6C:EF:03=http://107.189.14.168:8080/c/=,
-00:1A:79:3F:41:68=http://107.189.14.168:8080/c/=,
-00:1A:79:AE:6F:9D=http://107.189.14.168:8080/c/=,
-00:1A:79:A6:09:C7=http://107.189.14.168:8080/c/=,
-00:1A:79:B3:2A:BF=http://107.189.14.168:8080/c/=,
-00:1A:79:0D:62:E9=http://107.189.14.168:8080/c/=,
-00:1A:79:6E:BC:03=http://107.189.14.168:8080/c/=,
 
 00:1A:79:64:39:CD=http://ggddnss2.com:8080/c/=,
 00:1A:79:23:4F:A6=http://ggddnss2.com:8080/c/=,
@@ -900,6 +887,26 @@
 00:1A:79:D0:07:79=http://portal.entertainmentxl.com:8080/c/=,
 00:1A:79:4B:43:6C=http://portal.entertainmentxl.com:8080/c/=,
 
+00:1A:79:A4:2F:D5=http://proxy.plus55.xyz/c/=,
+00:1A:79:C2:0F:15=http://proxy.plus55.xyz/c/=,
+00:1A:79:C3:C3:B5=http://proxy.plus55.xyz/c/=,
+00:1A:79:74:A4:5D=http://proxy.plus55.xyz/c/=,
+00:1A:79:E4:80:CB=http://proxy.plus55.xyz/c/=,
+00:1A:79:7E:7E:41=http://proxy.plus55.xyz/c/=,
+00:1A:79:2F:24:79=http://proxy.plus55.xyz/c/=,
+00:1A:79:AB:30:A4=http://proxy.plus55.xyz/c/=,
+00:1A:79:AB:CD:DC=http://proxy.plus55.xyz/c/=,
+00:1A:79:94:1F:A7=http://proxy.plus55.xyz/c/=,
+00:1A:79:85:ED:04=http://proxy.plus55.xyz/c/=,
+00:1A:79:C5:C9:FB=http://proxy.plus55.xyz/c/=,
+00:1A:79:C4:4F:B2=http://proxy.plus55.xyz/c/=,
+
+00:1A:79:13:54:EF=http://restream.globaltv1.net:8080/c/=,
+00:1A:79:08:4B:DE=http://restream.globaltv1.net:8080/c/=,
+00:1A:79:4D:02:D9=http://restream.globaltv1.net:8080/c/=,
+00:1A:79:10:E0:FD=http://restream.globaltv1.net:8080/c/=,
+
+
 TEST
 
 00:1A:79:D4:A3:23=http://globaltv1.net:8080/c/=,
@@ -936,82 +943,26 @@ TEST
 
 ------------------------------------------------------
 
-00:1A:79:13:54:EF=http://restream.globaltv1.net:8080/c/=,
-00:1A:79:08:4B:DE=http://restream.globaltv1.net:8080/c/=,
-00:1A:79:4D:02:D9=http://restream.globaltv1.net:8080/c/=,
-00:1A:79:10:E0:FD=http://restream.globaltv1.net:8080/c/=,
-
-
-
-
-00:1A:79:A4:2F:D5=http://proxy.plus55.xyz/c/=,
-00:1A:79:C2:0F:15=http://proxy.plus55.xyz/c/=,
-00:1A:79:C3:C3:B5=http://proxy.plus55.xyz/c/=,
-00:1A:79:74:A4:5D=http://proxy.plus55.xyz/c/=,
-00:1A:79:E4:80:CB=http://proxy.plus55.xyz/c/=,
-00:1A:79:7E:7E:41=http://proxy.plus55.xyz/c/=,
-00:1A:79:2F:24:79=http://proxy.plus55.xyz/c/=,
-00:1A:79:AB:30:A4=http://proxy.plus55.xyz/c/=,
-00:1A:79:AB:CD:DC=http://proxy.plus55.xyz/c/=,
-00:1A:79:94:1F:A7=http://proxy.plus55.xyz/c/=,
-00:1A:79:85:ED:04=http://proxy.plus55.xyz/c/=,
-00:1A:79:C5:C9:FB=http://proxy.plus55.xyz/c/=,
-00:1A:79:C4:4F:B2=http://proxy.plus55.xyz/c/=,
-
-
-
-
-00:1A:79:5F:C9:A2=http://107.189.14.168:8080/c/=,
-00:1A:79:5F:60:A7=http://107.189.14.168:8080/c/=,
-00:1A:79:46:E3:87=http://107.189.14.168:8080/c/=,
-
-
-
-
-00:1A:79:d1:92:52=http://extremaiptv.com:8080/c/=,
-00:1A:79:bf:e6:85=http://extremaiptv.com:8080/c/=,
-00:1A:79:6f:0e:2a=http://extremaiptv.com:8080/c/=,
-00:1A:79:a5:a1:95=http://extremaiptv.com:8080/c/=,
-00:1A:79:b3:a8:22=http://extremaiptv.com:8080/c/=,
-00:1A:79:99:02:96=http://extremaiptv.com:8080/c/=,
-00:1A:79:7a:f0:11=http://extremaiptv.com:8080/c/=,
-00:1A:79:b5:58:22=http://extremaiptv.com:8080/c/=,
-00:1A:79:04:06:f4=http://extremaiptv.com:8080/c/=,
-00:1A:79:a7:c6:e5=http://extremaiptv.com:8080/c/=,
-00:1A:79:21:02:b3=http://extremaiptv.com:8080/c/=,
-00:1A:79:a7:b7:4f=http://extremaiptv.com:8080/c/=,
-00:1A:79:ae:a7:99=http://extremaiptv.com:8080/c/=,
-00:1A:79:c6:b7:9a=http://extremaiptv.com:8080/c/=,
-00:1A:79:44:83:66=http://extremaiptv.com:8080/c/=,
-00:1A:79:d6:76:bb=http://extremaiptv.com:8080/c/=,
 
 
 
 
 
-00:1A:79:26:E4:07=http://107.189.14.168:8080/c/=,
-00:1A:79:43:3E:FC=http://107.189.14.168:8080/c/=,
-00:1A:79:3D:E4:B7=http://107.189.14.168:8080/c/=,
 
 
 
 
-00:1A:79:BB:C5:F1=http://cbr.selfip.org:8080/c/=,
-00:1A:79:B1:6C:27=http://cbr.selfip.org:8080/c/=,
-00:1A:79:AF:58:66=http://cbr.selfip.org:8080/c/=,
-00:1A:79:62:A4:FD=http://cbr.selfip.org:8080/c/=,
-00:1A:79:A1:88:DB=http://cbr.selfip.org:8080/c/=,
 
 
 
-00:1A:79:B7:38:BD=http://m1-max.dns-speedy.com/c/=,
-00:1A:79:6B:3F:BF=http://m1-max.dns-speedy.com/c/=,
-00:1A:79:03:03:34=http://m1-max.dns-speedy.com/c/=,
-00:1A:79:C6:8B:50=http://m1-max.dns-speedy.com/c/=,
-00:1A:79:9C:24:9B=http://m1-max.dns-speedy.com/c/=,
-00:1A:79:C0:40:63=http://m1-max.dns-speedy.com/c/=,
-00:1A:79:A6:05:6B=http://m1-max.dns-speedy.com/c/=,
-00:1A:79:30:4F:4E=http://m1-max.dns-speedy.com/c/=,
+
+
+
+
+
+
+
+
 
 
 

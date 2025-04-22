@@ -942,27 +942,32 @@ TEST
 
 
 ------------------------------------------------------
+00:1Α:79:F1:B6:1E=http://line.iptvgoat.com:80/c/=,
+00:1Α:79:3D:3D:30=http://line.iptvgoat.com:80/c/=,
+00:1Α:79:63:39:DD=http://line.iptvgoat.com:80/c/=,
+00:1Α:79:EE:14:cf=http://line.iptvgoat.com:80/c/=,
+00:1Α:79:BF:62:4A=http://line.iptvgoat.com:80/c/=,
 
 
+00:1Α:79:07:10:4F=http://trex.8kott.xyz:80/c/=,
 
 
+00:1Α:79:B9:75:50=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:4F=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:2A=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:38=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:56=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:47=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:58=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:46=http://celticdream.net:80/c/=,
+00:1Α:79:B9:75:43=http://celticdream.net:80/c/=,
 
 
+00:1Α:79:51:B0:0030=http://cxz.orannge.net/c/=,
+00:1Α:79:31:7Α:8D18=http://cxz.orannge.net/c/=,
+00:1Α:79:02:B3:1A31=http://cxz.orannge.net/c/=,
+00:1Α:79:02:B3:0623=http://cxz.orannge.net/c/=,
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+00:1Α:79:19:2C:09=http://danatv.tv.streamtv.to:8080/c/=,
 

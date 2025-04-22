@@ -14,7 +14,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 17 Απριλίου 2025:[/B]
+- [B]Τελευταία ενημέρωση 22 Απριλίου 2025:[/B]
 - Διάφορες αλλαγές/διορθώσεις
 
 - [B]Eνημέρωση 17 Μαρτίου 2025:[/B]

@@ -10356,7 +10356,7 @@ http://trixlist.xyz/get.php?username=gynlopbz&password=F1h0aZ3tt9&type=m3u_plus
 http://trsat.ddns.us:80/get.php?username=64:1c:ae:1f:97:ca&password=RHsSBLfBG7&type=m3u_plus
 http://trsat.nl:80/get.php?username=d0d003af1e3b&password=FmsbLngxQl&type=m3u_plus
 http://ts1.cdn-dtv.com:2082/get.php?username=anif2020_356689&password=qtWLl1SO&type=m3u_plus
-http://ttp://pro.lsscover.cc:8080/get.php?username=Dav51410G&password=G51410Dav&type=m3u_plus
+
 http://tufino.visio86.me:8000/get.php?username=architettofelice&password=UcGgrq94iV&type=m3u_plus
 http://tuna.iptv67.com:8000/get.php?username=frsdoefObaba&password=DHZZjqpNpL&type=m3u_plus
 http://tunkaiptv.org:8000/get.php?username=Muratbel&password=uiYrqRu44TsK&type=m3u_plus
@@ -11558,7 +11558,7 @@ http://ymjghjkl81x.prekston.it/get.php?username=tvrotta&password=nohdmi&type=m3u
 http://yo_me_he_pedido_la_camiseta_de_Olmo.spa.iscaja.me:25461/get.php?username=ObO8rVkIDz&password=552155305595&type=m3u_plus
 http://yolospeed.pro/get.php?username=37b522252e&password=74db867d2e1b&type=m3u_plus
 http://your-gsub.com/get.php?username=c9c1d38425&password=d29d451467&type=m3u_plus
-http://yourservpan.com:3050/get.php?username=fischercorey@aol.com&password=Ud63vq9JMW&type=m3u_plus
+
 http://ytr32.shop:8080/get.php?username=UnsalYeni&password=75zGCGMqsUbvHN&type=m3u_plus
 http://yu5986.com/get.php?username=562284026&password=8515825&type=m3u_plus
 http://yu5986.com/get.php?username=723488668&password=g261x1795H&type=m3u_plus

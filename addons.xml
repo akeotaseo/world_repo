@@ -1758,7 +1758,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.iptvxc" name="[B][COLOR red]XCUI Streams[/B][/COLOR]" version="3.1.7" provider-name="[B][COLOR orange]Fire TV Guru[/B][/COLOR]">
+<addon id="plugin.video.iptvxc" name="[B][COLOR blue]XCUI Streams[/B][/COLOR]" version="3.1.8" provider-name="[B][COLOR orange]Fire TV[/B][/COLOR]">
 	<requires>
 		<import addon="script.module.requests" version="2.27.1"/>
 	</requires>
@@ -1767,9 +1767,9 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">[COLOR red]An IPTV addon written to work with XC and XCUI for Kodi 19+[/COLOR] </summary>
+	<summary lang="en">[COLOR blue]An IPTV addon written to work with XC and XCUI for Kodi 19+[/COLOR] </summary>
 	<language>en</language>
-	<description lang="en">[COLOR red]This addon does not supply nor provide any illegal content[/COLOR]</description>
+	<description lang="en">[COLOR blue]This addon does not supply nor provide any illegal content[/COLOR]</description>
 	<platform>all</platform>
 	<assets>
 		<icon>icon.png</icon>
@@ -2901,6 +2901,28 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.sc19
         <screenshot></screenshot>
     </assets>
   </extension>
+</addon>
+
+<addon id="plugin.video.sosac.ph" name="Sosáč" provider-name="Blue ClouDragon" version="2.0.0">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.common.plugin.cache" version="2.5.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource" provides="video">
+        <provides>video</provides>
+    </extension>
+    <extension library="service.py" point="xbmc.service"  start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">sosac.tv</summary>
+        <summary lang="cs">sosac.tv</summary>
+        <description lang="en">Watch online movies and tv shows from www.sosac.tv.</description>
+        <description lang="cs">Sledujte online filmy a serialy z www.sosac.tv.</description>
+        <platform>all</platform>
+        <source>https://github.com/BlueClouDragon/plugin.video.sosac.ph</source>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.12a" provider-name="mbebe">

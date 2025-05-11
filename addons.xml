@@ -1057,7 +1057,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
-<addon id="plugin.video.cb20" version="2.2.1" name="CB20" provider-name="aitschti">
+<addon id="plugin.video.cb20" version="2.2.3" name="CB20" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <!-- Other dependencies -->
@@ -1085,8 +1085,8 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb20
         <summary lang="de_DE">Chaturbate für Kodi 20+</summary>
         <description lang="en_GB">Chaturbate streaming for Kodi 20+</description>
         <description lang="de_DE">Chaturbate streaming für Kodi 20+</description>
-        <disclaimer lang="en_GB">(c) 2024 aitschti</disclaimer>
-        <disclaimer lang="de_DE">(c) 2024 aitschti</disclaimer>
+        <disclaimer lang="en_GB">(c) 2025 aitschti</disclaimer>
+        <disclaimer lang="de_DE">(c) 2025 aitschti</disclaimer>
         <reuselanguageinvoker>false</reuselanguageinvoker>
     </extension>
 </addon>
@@ -2121,7 +2121,7 @@ AVISO LEGAL:
 </addon>
 
 <addon
-	id="plugin.video.macvod" version="1.993" name="[COLORyellow]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo|233">
+	id="plugin.video.macvod" version="1.995" name="[COLORyellow]XC MAC M3U[/COLOR]" provider-name="1x|iNKuBo|bee">
 <requires>
     	<import addon="script.module.resolveurl"/>
 	    <import addon="script.module.requests"/>
@@ -2827,7 +2827,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 	</extension>
 </addon>
 
-<addon id="plugin.video.sc19" version="1.5.2" name="SC19" provider-name="aitschti">
+<addon id="plugin.video.sc19" version="1.5.4" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="inputstream.ffmpegdirect" version="19.0.0"/>

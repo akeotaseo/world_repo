@@ -53,7 +53,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.audio.dashradio" name="Litt Live Radio" version="421.3" provider-name="Diggz">
+<addon id="plugin.audio.dashradio" name="Litt Live Radio" version="421.4" provider-name="Diggz">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
 </requires>
@@ -61,7 +61,7 @@
   <provides>audio</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-    <summary lang="en">Dash Radio</summary>
+    <summary lang="en">LITT Live Radio</summary>
     <description lang="en">Litt Live (stylized as LITT Live, formerly Dash Radio) is a digital radio broadcasting platform with over 80 radio stations. These stations are curated by DJs, radio personalities, musicians, etc. The platform includes partner stations curated by Snoop Dogg, Kylie Jenner, Lil Wayne, Tech N9ne, Borgore, B-Real of Cypress Hill, and others. Dash Radio has no subscription fees and is commercial-free.
 
 </description>
@@ -691,7 +691,7 @@ Use this to organize your Favourites.
 
 </addon>
 
-<addon id="plugin.video.90phuttv" version="1.0.19" name="90PhutTV" provider-name="hoaivnpt">
+<addon id="plugin.video.90phuttv" version="1.0.22" name="90PhutTV" provider-name="hoaivnpt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -708,7 +708,7 @@ Use this to organize your Favourites.
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>Ver 1.0.19: Sửa lỗi ThapCam (26/02/2025).
+  <news>Ver 1.0.22: Sửa lỗi 90phut (04/5/2025).
   </news>
 </extension>
 </addon>

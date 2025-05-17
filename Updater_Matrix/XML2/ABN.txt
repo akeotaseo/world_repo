@@ -46,6 +46,8 @@ http://Supersonictv.live:8080/get.php?username=gsaletv3&password=3334477663&type
 http://Supersonictv.live:8080/get.php?username=michaelpineda&password=8633038626&type=m3u_plus
 http://Supersonictv.live:8080/get.php?username=mike1990&password=mike1990&type=m3u_plus
 http://Supersonictv.live:8080/get.php?username=romeodj&password=9995566449&type=m3u_plus
+http://supersonictv.live:8080/get.php?username=002687&password=568000&type=m3u_plus
+http://supersonictv.live:8080/get.php?username=003192&password=793121&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=005318&password=859619&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=007107&password=741821&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=008494&password=736802&type=m3u_plus
@@ -54,11 +56,10 @@ http://supersonictv.live:8080/get.php?username=011821&password=487753&type=m3u_p
 http://supersonictv.live:8080/get.php?username=017449&password=980968&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=018901&password=680414&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=019598&password=376306&type=m3u_plus
-http://supersonictv.live:8080/get.php?username=003192&password=793121&type=m3u_plus
-http://supersonictv.live:8080/get.php?username=wintertv88&password=8884455668&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=021244&password=969706&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=021723&password=685836&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=023474&password=748706&type=m3u_plus
+http://supersonictv.live:8080/get.php?username=024018&password=680547&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=024571&password=046424&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=031990&password=186258&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=035367&password=593758&type=m3u_plus
@@ -102,6 +103,7 @@ http://supersonictv.live:8080/get.php?username=138393&password=562921&type=m3u_p
 http://supersonictv.live:8080/get.php?username=139151&password=530779&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=139229&password=Ferocko126$&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=140304&password=158686&type=m3u_plus
+http://supersonictv.live:8080/get.php?username=143301&password=041880&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=144264&password=661943&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=144792&password=709686&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=147198&password=551401&type=m3u_plus
@@ -267,6 +269,7 @@ http://supersonictv.live:8080/get.php?username=457622&password=635533&type=m3u_p
 http://supersonictv.live:8080/get.php?username=458011&password=677260&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=458676&password=855836&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=460325&password=123999&type=m3u_plus
+http://supersonictv.live:8080/get.php?username=463186&password=631978&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=468375&password=064772&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=470329&password=375727&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=470748&password=297942&type=m3u_plus
@@ -435,7 +438,6 @@ http://supersonictv.live:8080/get.php?username=758245&password=342333&type=m3u_p
 http://supersonictv.live:8080/get.php?username=765721&password=484589&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=767495&password=113534&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=770420&password=743195&type=m3u_plus
-http://supersonictv.live:8080/get.php?username=002687&password=568000&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=770821&password=628442&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=770886&password=002371&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=771235&password=786060&type=m3u_plus
@@ -765,9 +767,9 @@ http://supersonictv.live:8080/get.php?username=teresawalker&password=8506761508&
 http://supersonictv.live:8080/get.php?username=trinity3r1&password=trinity3r1&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=tsmashum172&password=silver@1667&type=m3u_plus
 http://supersonictv.live:8080/get.php?username=wiggstim14&password=Vancleef&type=m3u_plus
-http://supersonictv.live:8080/get.php?username=024018&password=680547&type=m3u_plus
-http://supersonictv.live:8080/get.php?username=143301&password=041880&type=m3u_plus
-http://supersonictv.live:8080/get.php?username=463186&password=631978&type=m3u_plus
+http://supersonictv.live:8080/get.php?username=wintertv88&password=8884455668&type=m3u_plus
+
+
 http://kstv.us:8080/get.php?username=0AxFgNRPu3&password=6206718915&type=m3u_plus
 http://kstv.us:8080/get.php?username=0QR26P0xZE&password=3697382114&type=m3u_plus&output=m3u8
 http://kstv.us:8080/get.php?username=1234&password=1234&type=m3u_plus&output=m3u8

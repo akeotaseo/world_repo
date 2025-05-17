@@ -417,4 +417,23 @@ http://cm1.portaltv.info:777/get.php?username=SamedSallahu&password=Sa1773MEd81&
 http://cm1.portaltv.info:777/get.php?username=ValonSelimi&password=SUz8KDPyJsf&type=m3u_plus&output=ts
 http://cm1.portaltv.info:777/get.php?username=XhemajlAlija&password=EvtIsnNN3b&type=m3u_plus&output=ts
 
+http://iptv.darktv.eu/get.php?username=Arifkoc&password=y3qPO3Ffmg0f&type=m3u_plus&output=ts
+http://iptv.darktv.eu/get.php?username=MeralAbla2024&password=dFC1umF5&type=m3u_plus&output=mpegts
+http://iptv.darktv.eu/get.php?username=NecatiKaraduman&password=mz63hpax0i&type=m3u&output=ts
+http://iptv.darktv.eu:25461/get.php?username=9BhPrQbeKq&password=SdjcQcYDZ7zz&type=m3u_plus&output=ts
+http://iptv.darktv.eu:25461/get.php?username=Hiki.....&password=Cf2eyzkm&type=m3u_plus
+http://iptv.darktv.eu:25461/get.php?username=Nuranbircan2&password=b8ZNNPfc&type=m3u_plus&output=ts
+http://iptv.darktv.eu:25461/get.php?username=terzimizoguz&password=r9MT2fjD&type=m3u_plus&output=ts
+http://iptv.darktv.eu:80/get.php?username=MuratCetinHaci&password=hYp1Ngoc&type=m3u&output=ts&type=m3u8
+http://iptv.darktv.in/get.php?username=Selahattinyalap&password=sdmwsuer&type=m3u_plus&output=ts
+http://iptv.darktv.in/get.php?username=serhatkoc&password=pT617KU&type=m3u_plus&output=ts
+
+
+http://lunar.pm:8080/get.php?username=2052023680&password=mvpQrGT27dkS&type=m3u_plus
+http://lunar.pm:8080/get.php?username=ALVIN&password=9gJbtWskzsJS&type=m3u_plus
+http://lunar.pm:8080/get.php?username=Christina&password=Anthony&type=m3u_plus
+http://lunar.pm:8080/get.php?username=MSJANICE2&password=TX3TQXoEzN&type=m3u_plus
+http://lunar.pm:8080/get.php?username=RandyJ2&password=randy&type=m3u
+http://lunar.pm:8080/get.php?username=Troy.Boyd2&password=demRECuVw9&type=m3u_plus
+http://lunar.pm:8080/get.php?username=sL8e5eYd0$&password=ADfcrPeF3cT5&type=m3u_plus
 

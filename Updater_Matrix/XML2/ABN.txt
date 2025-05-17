@@ -205,3 +205,20 @@ http://dns.1888gyn.click:8080/get.php?username=sergiocaetano1961&password=10M@rc
 http://dns.1888gyn.click:8080/get.php?username=thay123&password=thay123&type=m3u_plus
 http://dns.1888gyn.click:8080/get.php?username=Wagnersc&password=Wagjovi22&type=m3u_plus
 
+http://mu3241218.oknirvana.club:8880/get.php?username=6mk150004&password=18315958&type=m3u&output=ts&type=xmltv
+http://mu3241218.oknirvana.club:8880/get.php?username=6mx040001&password=14998981&type=m3u&output=ts&type=xmltv
+http://mu3241218.oknirvana.club:8880/get.php?username=AZ12M3D074&password=GpWZ6JkAZZ&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=AZ12M3D074&password=GpWZ6JkAZZ&type=m3u&output=ts&type=xmltv
+http://mu3241218.oknirvana.club:8880/get.php?username=D12m4043&password=75722689&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=D12m4043&password=75722689&type=m3u&output=ts&type=xmltv
+http://mu3241218.oknirvana.club:8880/get.php?username=D12m4048&password=75724689&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=D12m4049&password=75724633&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=D12m4386&password=60388773&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=D12m4386&password=60388773&type=m3u&output=ts&type=m3u8
+http://mu3241218.oknirvana.club:8880/get.php?username=D12m4690&password=49465831&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=DAALM9789&password=vsjbHNJFqF&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=DAANM2832&password=eVzNWeaGuA&type=m3u&output=ts&type=xmltv
+http://mu3241218.oknirvana.club:8880/get.php?username=DAANM2906&password=XvnPzx6AsF&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=DAANM3044&password=5YR8wMMrVP&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=JH12M3D295&password=4F9pNVKqjj&type=m3u&output=ts
+http://mu3241218.oknirvana.club:8880/get.php?username=jack-iptv&password=jack-inic98559717&type=m3u&output=ts

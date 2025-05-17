@@ -408,3 +408,13 @@ http://voxp2p.live/get.php?username=690224&password=fu@sionp2@&type=m3u_plu
 http://voxp2p.live/get.php?username=717704&password=fu@sionp2@&type=m3u_plu
 http://voxp2p.live/get.php?username=752238&password=fu@sionp2@&type=m3u_plu
 http://voxp2p.live/get.php?username=jhonatanfelipe&password=253976bra&type=m3u_plu
+
+
+http://cm1.portaltv.info:777/get.php?username=BekimMustafa&password=sd3fsdfddde&type=m3u_plus&output=ts
+http://cm1.portaltv.info:777/get.php?username=BurimRashiti&password=WzeYrLtkN1sfgag&type=m3u_plus&output=ts
+http://cm1.portaltv.info:777/get.php?username=IsmetSyla&password=a5a4f1a56sf02&type=m3u_plus&output=ts
+http://cm1.portaltv.info:777/get.php?username=SamedSallahu&password=Sa1773MEd81&type=m3u_plus&output=ts
+http://cm1.portaltv.info:777/get.php?username=ValonSelimi&password=SUz8KDPyJsf&type=m3u_plus&output=ts
+http://cm1.portaltv.info:777/get.php?username=XhemajlAlija&password=EvtIsnNN3b&type=m3u_plus&output=ts
+
+

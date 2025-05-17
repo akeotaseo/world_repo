@@ -973,8 +973,6 @@ TEST
 
 
 
-
-
 00:1Α:8F:53:72:A4:CD:0A=http://netiptv.eu:80/c/=,
 00:1Α:85:2E:84:3F:0B:EF=http://netiptv.eu:80/c/=,
 00:1Α:8B:F6:FF:EC:7E:DE=http://netiptv.eu:80/c/=,

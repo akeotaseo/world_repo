@@ -971,3 +971,20 @@ TEST
 
 00:1Α:79:19:2C:09=http://danatv.tv.streamtv.to:8080/c/=,
 
+
+
+
+
+BS:25:8F:53:72:A4:CD:0A=http://netiptv.eu:80/getMacData/c/=,
+BS:25:85:2E:84:3F:0B:EF=http://netiptv.eu:80/getMacData/c/=,
+BS:25:8B:F6:FF:EC:7E:DE=http://netiptv.eu:80/getMacData/c/=,
+BS:25:C4:B9:0F:BF:3B:7E=http://netiptv.eu:80/getMacData/c/=,
+BS:25:3E:94:E6:4F:64:13=http://netiptv.eu:80/getMacData/c/=,
+BS:25:A0:F0:3E:8B:94:19=http://netiptv.eu:80/getMacData/c/=,
+BS:25:F1:C2:C5:BF:8F:AC=http://netiptv.eu:80/getMacData/c/=,
+BS:25:74:4D:3A:FC:DA:E0=http://netiptv.eu:80/getMacData/c/=,
+BS:25:69:9C:A9:00:2B:72=http://netiptv.eu:80/getMacData/c/=,
+BS:25:4F:E1:F3:A5:74:55=http://netiptv.eu:80/getMacData/c/=,
+BS:25:B6:98:7A:3E:B9:1E=http://netiptv.eu:80/getMacData/c/=,
+BS:25:91:9E:B7:DF:C3:30=http://netiptv.eu:80/getMacData/c/=,
+

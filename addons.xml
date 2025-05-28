@@ -587,7 +587,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.program.sports" name="Diggz Sports Browser " version="420.2" provider-name="Diggz, JewBMX">
+<addon id="plugin.program.sports" name="Diggz Sports Browser " version="420.3" provider-name="Diggz, JewBMX">
     <requires>
         <import addon="script.module.kodi-six" />
     </requires>
@@ -1379,7 +1379,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
   </extension>
 </addon>
 
-<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.7e" provider-name="Jon Snow">
+<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.7f" provider-name="Jon Snow">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
 		<import addon="script.module.beautifulsoup4" version="3.2.1"/>
@@ -4820,7 +4820,7 @@ v0.1.0
 
 <addon id="script.sites"
   name="script sites"
-  version="19.5b"
+  version="19.5c"
   provider-name="ML Gb">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

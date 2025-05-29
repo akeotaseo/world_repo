@@ -1379,7 +1379,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
   </extension>
 </addon>
 
-<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.7f" provider-name="Jon Snow">
+<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.8" provider-name="Jon Snow">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
 		<import addon="script.module.beautifulsoup4" version="3.2.1"/>

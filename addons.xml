@@ -587,7 +587,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.program.sports" name="Diggz Sports Browser " version="420.3" provider-name="Diggz, JewBMX">
+<addon id="plugin.program.sports" name="Diggz Sports Browser " version="420.4" provider-name="Diggz, JewBMX">
     <requires>
         <import addon="script.module.kodi-six" />
     </requires>

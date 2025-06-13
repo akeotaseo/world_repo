@@ -2343,7 +2343,7 @@ provider-name="MyCamTV">
 </extension>
 </addon>
 
-<addon id="plugin.video.myiptvpro" name="  [B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.3a" provider-name="A Great Person">
+<addon id="plugin.video.myiptvpro" name="  [B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.4" provider-name="A Great Person">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.six" />

@@ -4,6 +4,7 @@
 00:1A:79:D7:1F:15=http://iptv.darktv.in/c/=,
 00:1A:79:39:2C:DD=http://iptv.darktv.in/c/=,
 00:1A:79:C3:1E:75=http://iptv.darktv.in/c/=,
+00:1A:79:68:ED:B1=http://iptv.darktv.in/c/=,
 00:1A:79:2D:74:FA=http://iptv.darktv.in/c/=,
 00:1A:79:A4:2F:47=http://iptv.darktv.in/c/=,
 00:1A:79:16:33:08=http://iptv.darktv.in/c/=,
@@ -202,6 +203,7 @@
 00:1a:79:b5:8a:06=http://zenlink.link/c/=,
 00:1a:79:ba:0e:70=http://zenlink.link/c/=,
 00:1a:79:b6:5a:a2=http://zenlink.link/c/=,
+
 
 00:1a:79:b2:8b:8b=http://zenlink.link/c/=,
 00:1a:79:b0:5d:c9=http://zenlink.link/c/=,

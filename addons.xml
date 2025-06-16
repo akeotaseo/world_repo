@@ -1057,11 +1057,12 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.cb19
     </extension>
 </addon>
 
-<addon id="plugin.video.cb20" version="2.2.3" name="CB20" provider-name="aitschti">
+<addon id="plugin.video.cb20" version="2.2.4" name="CB20" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <!-- Other dependencies -->
         <import addon="inputstream.ffmpegdirect" version="20.0.0"/>
+        <import addon="inputstream.adaptive" version="20.0.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>

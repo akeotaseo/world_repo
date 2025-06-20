@@ -3177,7 +3177,7 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.4.3" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.4.4" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -4384,7 +4384,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="script.module.cloudscraper" name="CloudScraper2" version="1.2.60" provider-name="venomous">
+<addon id="script.module.cloudscraper" name="CloudScraper2" version="1.2.66" provider-name="venomous">
   <requires>
     <!-- <import addon="xbmc.python" version="3.0.0"/> -->
     <import addon="script.module.requests" />
@@ -4755,7 +4755,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="script.module.youtube.dl" name="youtube-dl Control" version="23.04.01+matrix.1" provider-name="ytdl-org,ruuk,sy6sy2,wwark">
+<addon id="script.module.youtube.dl" name="youtube-dl Control" version="25.05.18+matrix.1" provider-name="ytdl-org,ruuk,sy6sy2,wwark">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.addon.signals" version="0.0.5+matrix.1"/>

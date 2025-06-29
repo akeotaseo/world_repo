@@ -1868,23 +1868,6 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
   </extension>
 </addon>
 
-<addon id="plugin.video.kodikaraoke" name="Kodi Karaoke Free" version="1.1.0" provider-name="mrfixit2001">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Search and Play Karaoke Videos for FREE</summary>
-    <description lang="en">Search and Play Karaoke Videos for FREE</description>
-    <platform>all</platform>
-    <assets>
-        <icon>icon.png</icon>
-    </assets>
-  </extension>
-</addon>
-
 <addon id="plugin.video.kodispaintv" name="[COLOR red]Kodi[/COLOR][COLOR yellow]Spain[/COLOR][COLOR red]Tv[/COLOR]" version="3.4.0" provider-name="joheos11">
 	<requires>
 		<import addon="script.module.six" />

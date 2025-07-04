@@ -740,7 +740,7 @@ Use this to organize your Favourites.
   </extension>
 </addon>
 
-<addon id="plugin.video.acestream_channels" version="1.0.0" name="AceStream Channels" provider-name="Gunter25">
+<addon id="plugin.video.acestream_channels" version="1.2.2" name="AceStream Channels" provider-name="Gunter25">
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
     </extension>

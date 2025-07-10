@@ -2183,18 +2183,20 @@ AVISO LEGAL:
   </extension>
 </addon>
 
-<addon id="plugin.video.mlbtv2" name="MLB.TV 2" version="2020.10.8+matrix.1" provider-name="eracknaphobia">
+<addon id="plugin.video.mlbtv" name="MLB.TV®" version="2025.7.9+matrix.1" provider-name="eracknaphobia, tonywagner">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.pytz" />
         <import addon="script.module.beautifulsoup4" />
         <import addon="script.module.requests" />
-        <import addon="inputstream.adaptive" optional="true"/>
+        <import addon="inputstream.adaptive"/>
         <import addon="script.module.kodi-six" />
+        <import addon="script.module.dateutil" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
+    <extension point="xbmc.service" library="service.py" />
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en_GB">Watch live and archived games
@@ -2204,15 +2206,17 @@ AVISO LEGAL:
         </description>
         <disclaimer lang="en_GB">Requires an MLB.tv account</disclaimer>
         <news>
-            - Matrix compatibility updates
-            - Code clean up
+            - updated Big Inning schedule
+            - fix for disable captions option
+            - fix and improvements for play all recaps option
+            - support for stream finder
         </news>
         <language>en</language>
         <platform>all</platform>
         <license>GPL-2.0-or-later</license>
         <forum>https://forum.kodi.tv/showthread.php?tid=262745</forum>
         <website>https://www.mlb.com/live-stream-games</website>
-        <source>https://github.com/eracknaphobia/plugin.video.mlbtv2</source>
+        <source>https://github.com/eracknaphobia/plugin.video.mlbtv</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -3161,7 +3165,7 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.4.6" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.4.7" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

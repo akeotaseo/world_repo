@@ -79,8 +79,6 @@
 00:1A:79:21:21:6D=http://d.tvdark.eu/c/=,
 00:1A:79:6F:4F:41=http://d.tvdark.eu/c/=,
 
-
-
 00:1A:79:07:bd:75=http://tv.psmarters.xyz:8080/c/=,
 00:1A:79:07:c0:59=http://tv.psmarters.xyz:8080/c/=,
 00:1A:79:10:df:a2=http://tv.psmarters.xyz:8080/c/=,
@@ -1567,10 +1565,6 @@
 00:1A:79:F9:C1:DC=http://line.linewings.com:80/c/=,
 00:1A:79:FB:17:42=http://line.linewings.com:80/c/=,
 
-
-
-
-
 00:1A:79:0C:DD:51=http://tv.premiumplus.tv/c/=,
 00:1A:79:9D:CB:46=http://tv.premiumplus.tv/c/=,
 00:1A:79:5F:17:14=http://tv.premiumplus.tv/c/=,
@@ -1603,14 +1597,12 @@
 00:1A:79:FA:06:B8=http://tv.premiumplus.tv/c/=,
 00:1A:79:78:42:EF=http://tv.premiumplus.tv/c/=,
 
-
 00:1A:79:04:9B:9B=http://neptunpro24.xyz:8080/c/=,
 00:1a:79:b0:e6:05=http://neptunpro24.xyz:8080/c/=,
 00:1A:79:5B:F0:13=http://neptunpro24.xyz:8080/c/=,
 00:1a:79:36:a7:9e=http://neptunpro24.xyz:8080/c/=,
 00:1A:79:0C:E2:06=http://neptunpro24.xyz:8080/c/=,
 00:1a:79:A7:2F:AA=http://neptunpro24.xyz:8080/c/=,
-
 
 00:1A:79:25:6B:2F=http://95781-black.cloud-ott.me/c/=,
 00:1A:79:CA:32:EA=http://95781-black.cloud-ott.me/c/=,
@@ -1649,7 +1641,6 @@
 00:1A:79:00:05:40=http://95781-black.cloud-ott.me/c/=,
 00:1A:79:05:CA:5A=http://95781-black.cloud-ott.me/c/=,
 
-
 00:1A:79:3D:A7:41=http://line.trx-ott.com/c/=,
 00:1A:79:66:61:25=http://line.trx-ott.com/c/=,
 00:1A:79:BD:C7:ED=http://line.trx-ott.com/c/=,
@@ -1659,7 +1650,6 @@
 00:1A:79:BE:D9:5C=http://line.trx-ott.com/c/=,
 00:1A:79:D5:10:16=http://line.trx-ott.com/c/=,
 00:1A:79:D5:10:07=http://line.trx-ott.com/c/=,
-
 
 00:1A:79:7B:A3:BF=http://line.greatstar.me/c/=,
 00:1A:79:17:18:3D=http://line.greatstar.me/c/=,
@@ -1682,7 +1672,54 @@
 00:1A:79:3C:D3:FB=http://line.greatstar.me/c/=,
 00:1A:79:AB:EB:A7=http://line.greatstar.me/c/=,
 
+00:1a:79:51:45:55=http://ultra-box.club/c/=,
+00:1a:79:58:1c:9a=http://ultra-box.club/c/=,
+00:1a:79:5a:eb:87=http://ultra-box.club/c/=,
+00:1a:79:50:34:a0=http://ultra-box.club/c/=,
 
+00:1a:79:ad:5c:2c=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:af:6b:39=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:5d:e7:df=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:47:53:f0=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:ad:35:4f=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:2a:d2:b1=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:ae:41:3d=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:b7:bd:66=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:18:0f:61=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:31:ee:32=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:dc:ed:82=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:85:de:d6=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:4e:41:f3=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:4f:64:f3=http://ip.king-cobra.eu:8080/c/=,
+00:1a:79:b6:33:fe=http://ip.king-cobra.eu:8080/c/=,
+
+00:1A:79:AC:5F:6E=http://besttv.club:8080/c/=,
+00:1a:79:cd:0f:ea=http://besttv.club:8080/c/=,
+00:1a:79:b0:a0:8f=http://besttv.club:8080/c/=,
+00:1a:79:68:f3:cd=http://besttv.club:8080/c/=,
+00:1a:79:40:82:96=http://besttv.club:8080/c/=,
+00:1a:79:ab:5d:74=http://besttv.club:8080/c/=,
+00:1a:79:55:ee:d9=http://besttv.club:8080/c/=,
+
+00:1A:79:AD:86:41=http://xc-clubtv.xyz:8080/=,
+00:1A:79:BC:EF:29=http://xc-clubtv.xyz:8080/=,
+00:1A:79:D3:4A:69=http://xc-clubtv.xyz:8080/=,
+00:1A:79:08:ED:C9=http://xc-clubtv.xyz:8080/=,
+00:1A:79:B6:4F:16=http://xc-clubtv.xyz:8080/=,
+00:1A:79:44:AF:7A=http://xc-clubtv.xyz:8080/=,
+00:1A:79:08:EF:74=http://xc-clubtv.xyz:8080/=,
+00:1A:79:4D:04:32=http://xc-clubtv.xyz:8080/=,
+00:1A:79:C7:04:54=http://xc-clubtv.xyz:8080/=,
+00:1A:79:A5:97:3E=http://xc-clubtv.xyz:8080/=,
+00:1A:79:10:40:26=http://xc-clubtv.xyz:8080/=,
+00:1A:79:4E:39:66=http://xc-clubtv.xyz:8080/=,
+00:1A:79:6E:2C:B3=http://xc-clubtv.xyz:8080/=,
+00:1A:79:57:59:7B=http://xc-clubtv.xyz:8080/=,
+00:1A:79:66:8C:49=http://xc-clubtv.xyz:8080/=,
+00:1A:79:A3:07:4E=http://xc-clubtv.xyz:8080/=,
+00:1A:79:37:8C:BD=http://xc-clubtv.xyz:8080/=,
+00:1A:79:4C:92:48=http://xc-clubtv.xyz:8080/=,
+00:1A:79:0D:39:B8=http://xc-clubtv.xyz:8080/=,
 
 TEST
 00:1Α:79:F1:B6:1E=http://line.iptvgoat.com:80/c/=,
@@ -1690,6 +1727,8 @@ TEST
 00:1Α:79:63:39:DD=http://line.iptvgoat.com:80/c/=,
 00:1Α:79:EE:14:cf=http://line.iptvgoat.com:80/c/=,
 00:1Α:79:BF:62:4A=http://line.iptvgoat.com:80/c/=,
+
+
 
 ------------------------------------------------------
 

@@ -1459,7 +1459,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.4+matrix.1" provider-name="realvito">
+<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.5+matrix.1" provider-name="realvito">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.27.0"/>
@@ -1504,11 +1504,10 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR orangered]Version 2.3.4+matrix.1  (04.07.2025)[/COLOR][/B]
-- fixed: Fast keine Ordner in der Startübersicht vorhanden (Quelltext verändert)
-- fixed: Die Rubrik = 'NEWS – TICKER' kann nicht geöffnet werden (ResponseError: too many redirects)
-- optimized: Zusätzliche Metadaten-Abfrage an die neue API.v7.3 für einzelne Beiträge angepasst
-- optimized: Nicht lesbare oder unerwünschte Sondersymbole/Texte im erweiterten Plot entfernt
+[B][COLOR orangered]Version 2.3.5+matrix.1  (19.07.2025)[/COLOR][/B]
+- fixed: Die Rubrik = 'Extra-Berichterstattung' fehlt in der Startübersicht
+- fixed: Die Unterordner in der zweiten Ansicht sind nicht korrekt unter den Kategorien platziert
+- added: Rubrik = 'Featured' in der zweiten Ansicht (wenn vorhanden)
 		</news>
 	</extension>
 </addon>

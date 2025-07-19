@@ -41,3 +41,4 @@ http://yshoots.com/get.php?username=Tariq&password=1234&type=m3u_plus
 http://lukatv.net:8080/get.php?username=wasim123&password=123456&type=m3u_plus
 http://mnbh26815.site:80/get.php?username=walid1234&password=1122334455&type=m3u_plus
 http://filex.me:8080/get.php?username=989898&password=989898&type=m3u_plus&output=m3u8
+http://vlue.life/get.php?username=abd8&password=abd8&type=m3u&output=ts

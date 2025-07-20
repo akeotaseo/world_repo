@@ -3374,6 +3374,29 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
+<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.2.7" provider-name="truyenhinh">
+    <requires>
+        <import addon="xbmc.python" version="3.0.1"/>
+		<import addon="script.module.requests"/>
+		<import addon="inputstream.adaptive" version="20.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="vi">truyenhinh</description>
+        <disclaimer lang="vi">truyenhinh</disclaimer>
+        <summary lang="vi">truyenhinh</summary>
+		<language>vi</language>
+        <platform>all</platform>
+        <license>GPL-2.0-or-later</license>
+        <assets>
+            <icon>icon.png</icon>
+			<fanart>icon.png</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.tvlive" name="[B][COLOR mediumslateblue]TV Live Streams[/B][/COLOR]" version="3.1.2" provider-name="[B][COLOR mediumslateblue]The Hood[/B][/COLOR]">
   <extension point="xbmc.python.pluginsource"
 			library="default.py">

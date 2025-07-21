@@ -1567,3 +1567,9 @@
 00:1A:79:2d:5f:fb=http://vpn.modetv.ink:80/c/=,
 00:1A:79:24:3d:8f=http://vpn.modetv.ink:80/c/=,
 00:1A:79:bc:51:a7=http://vpn.modetv.ink:80/c/=,
+
+
+00:1A:79:80:D4:91=http://zatvstream.xyz:80/c/=,
+00:1A:79:20:14:C3=http://zatvstream.xyz:80/c/=,
+00:1A:79:8A:4F:B5=http://zatvstream.xyz:80/c/=,
+00:1A:79:39:37:34=http://zatvstream.xyz:80/c/=,

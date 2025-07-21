@@ -42,12 +42,16 @@ http://filex.me:8080/get.php?username=989898&password=989898&type=m3u_plus&outpu
 http://vlue.life/get.php?username=abd8&password=abd8&type=m3u&output=ts
 
 ==================20-7
+http://173.212.193.243:8080/get.php?username=mo3ad222&password=mo3ad222&type=m3u_plus&output=ts
+http://alexyatvcasa.xyz:8080/get.php?username=juancito98&password=4nc8UXcxeG38&type=m3u&output=ts
 http://lunar.pm:8080/get.php?username=2053567187&password=jDVhKP3RQKUM&type=m3u_plus
 http://m3u.pott.tv:8080/get.php?username=8238409485355969&password=8238409485355969&type=m3u_plus
+http://restream-live.realiptv.to:8080/get.php?username=Davenport&password=c9074e1fb0&type=m3u_plus
+http://familyplus.me:8080/get.php?username=31157239161739&password=38287411848054&type=m3u&output=ts
+
 
 http://cord-cutter.net:8080/get.php?username=30550113&password=30550113&type=m3u
 http://cord-cutter.net:8080/get.php?username=5ZK2w7aJNy&password=J3ddWZD9Ww&type=m3u
-http://familyplus.me:8080/get.php?username=31157239161739&password=38287411848054&type=m3u&output=ts
 http://fortv.cc:8080/get.php?username=9545921596&password=bitarrandall@aol.com&type=m3u
 http://fortv.cc:8080/get.php?username=clarkcheryl6@aol.com&password=clarkcheryl6@2022&type=m3u
 http://fortv.cc:8080/get.php?username=gZjGn4&password=149804&type=m3u
@@ -65,6 +69,9 @@ http://playtv44.com:8080/get.php?username=984997624&password=142536&type=m3u
 http://playtv44.com:8080/get.php?username=985694656&password=123456&type=m3u
 http://playtv44.com:8080/get.php?username=forrego870&password=123123&type=m3u
 http://playtv44.com:8080/get.php?username=ovallejos654&password=123123&type=m3u
+http://xcloudcine.xyz:80/get.php?username=164777470&password=118468323&type=m3u_plus
+http://xcloudcine.xyz:80/get.php?username=Eumesmo&password=rieffelsnow1234&type=m3u_plus
+http://xcloudcine.xyz:80/get.php?username=Guilherme12345&password=Guilherme12345&type=m3u_plus
 http://xxip25.top:8080/get.php?username=20DKn6&password=055490&type=m3u
 http://xxip25.top:8080/get.php?username=25220837&password=51659469&type=m3u
 http://xxip25.top:8080/get.php?username=36136040&password=29438954&type=m3u

@@ -1721,7 +1721,6 @@
 00:1A:79:4C:92:48=http://xc-clubtv.xyz:8080/=,
 00:1A:79:0D:39:B8=http://xc-clubtv.xyz:8080/=,
 
-00:1A:79:ab:52:7d=http://tvip.zeroonemac.xyz:8080/c/=,
 00:1A:79:1A:01:87=http://tvip.zeroonemac.xyz:8080/c/=,
 00:1A:79:13:59:b3=http://tvip.zeroonemac.xyz:8080/c/=,
 00:1A:79:19:29:51=http://tvip.zeroonemac.xyz:8080/c/=,
@@ -1739,4 +1738,56 @@ TEST
 
 
 ------------------------------------------------------
+00:1A:79:B7:48:59=http://www.fonziptv.com:8080/c/=,
+00:1A:79:B6:3C:D1=http://www.fonziptv.com:8080/c/=,
+00:1A:79:AE:40:A5=http://www.fonziptv.com:8080/c/=,
+00:1A:79:AF:83:94=http://www.fonziptv.com:8080/c/=,
+00:1A:79:A5:C7:5E=http://www.fonziptv.com:8080/c/=,
 
+
+00:1A:79:80:D4:91=http://zatvstream.xyz:80/c/=,
+00:1A:79:20:14:C3=http://zatvstream.xyz:80/c/=,
+00:1A:79:8A:4F:B5=http://zatvstream.xyz:80/c/=,
+00:1A:79:39:37:34=http://zatvstream.xyz:80/c/=,
+
+
+00:1A:79:4D:07:07=http://prixon.abcott.me:80/c/=,
+00:1A:79:8C:B6:6C=http://prixon.abcott.me:80/c/=,
+00:1A:79:45:96:EA=http://prixon.abcott.me:80/c/=,
+00:1A:79:E8:1E:C6=http://prixon.abcott.me:80/c/=,
+00:1A:79:B3:01:EB=http://prixon.abcott.me:80/c/=,
+
+
+00:1A:79:C4:DB:04=http://dino10.noahtv.online/c/=,
+
+
+00:1a:79:cb:a0:2e=http://tron.streamtv.to:8080/c/=,
+00:1a:79:bf:90:98=http://tron.streamtv.to:8080/c/=,
+
+
+00:1A:79:22:21:71=http://germanytv.net:8080/c/=,
+00:1A:79:90:48:ee=http://germanytv.net:8080/c/=,
+
+
+00:1a:79:a3:25:58=http://ghosttv.art:80/c/=,
+00:1a:79:14:0c:05=http://ghosttv.art:80/c/=,
+00:1a:79:b6:fc:66=http://ghosttv.art:80/c/=,
+00:1a:79:2c:f1:72=http://ghosttv.art:80/c/=,
+00:1a:79:a1:d2:f3=http://ghosttv.art:80/c/=,
+00:1a:79:a6:22:34=http://ghosttv.art:80/c/=,
+00:1a:79:63:55:37=http://ghosttv.art:80/c/=,
+00:1a:79:01:68:73=http://ghosttv.art:80/c/=,
+00:1a:79:05:61:19=http://ghosttv.art:80/c/=,
+00:1a:79:96:42:9f=http://ghosttv.art:80/c/=,
+00:1a:79:76:eb:7e=http://ghosttv.art:80/c/=,
+00:1a:79:a3:25:58=http://ghosttv.art:80/c/=,
+00:1a:79:14:0c:05=http://ghosttv.art:80/c/=,
+00:1a:79:b6:fc:66=http://ghosttv.art:80/c/=,
+00:1a:79:2c:f1:72=http://ghosttv.art:80/c/=,
+00:1a:79:a1:d2:f3=http://ghosttv.art:80/c/=,
+00:1a:79:a6:22:34=http://ghosttv.art:80/c/=,
+00:1a:79:63:55:37=http://ghosttv.art:80/c/=,
+00:1a:79:01:68:73=http://ghosttv.art:80/c/=,
+00:1a:79:05:61:19=http://ghosttv.art:80/c/=,
+00:1a:79:96:42:9f=http://ghosttv.art:80/c/=,
+00:1a:79:76:eb:7e=http://ghosttv.art:80/c/=,

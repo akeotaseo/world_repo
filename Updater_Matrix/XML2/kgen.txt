@@ -1587,11 +1587,3 @@ TEST
 
 
 ------------------------------------------------------
-
-
-
-00:1A:79:4D:07:07=http://prixon.abcott.me:80/c/=,
-00:1A:79:8C:B6:6C=http://prixon.abcott.me:80/c/=,
-00:1A:79:45:96:EA=http://prixon.abcott.me:80/c/=,
-00:1A:79:E8:1E:C6=http://prixon.abcott.me:80/c/=,
-00:1A:79:Β3:01:EB=http://prixon.abcott.me:80/c/=,

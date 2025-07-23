@@ -93,3 +93,9 @@ http://xxip25.top:8080/get.php?username=Vaughn&password=Vaughn1234&type=m3u
 http://xxip25.top:8080/get.php?username=aJnU4W&password=549261&type=m3u
 http://xxip25.top:8080/get.php?username=kr5jUB&password=791079&type=m3u
 http://yshoots.com:80/get.php?username=668511975a22225&password=2292263423&type=m3u
+==================23-7
+http://kstv.us/get.php?username=rajsimran&password=8340963549&type=m3u_plus
+http://kstv.us/get.php?username=16dnb11&password=8515161846&type=m3u_plus
+http://kstv.us/get.php?username=g9YXFMjVBE&password=5270830168&type=m3u_plus
+http://kstv.us/get.php?username=dZ9K18x9U0&password=1203323168&type=m3u_plus
+http://kstv.us/get.php?username=mzJ6WNMJZE&password=20852084891&type=m3u_plus

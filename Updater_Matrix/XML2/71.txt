@@ -1,5 +1,4 @@
 ﻿http://esuntv.com:88/get.php?username=H5ZQBYDAHN&password=IZHUvQavLULexEA&output=ts&type=m3u_plus
-
 http://esprowking.xyz:8080/get.php?username=es3371739717111003&password=46af6b8ec7be&type=m3u_plus
 http://esprowking.xyz:8080/get.php?username=es1641738304790002&password=f4b87d4cb7b3&type=m3u_plus
 https://rokimilos.site:8443/get.php?username=javierpalomo&password=javierpalomo&type=m3u_plus
@@ -19,3 +18,5 @@ http://89.47.232.165:8080/get.php?username=FeliciaLilianaFata&password=bQcnJH5Ty
 http://89.47.232.165:8080/get.php?username=gina_mihaela&password=2HShgQH8Fg&type=m3u_plus&output=ts
 http://bansecure.servep2p.com:8080/get.php?username=40756078797&password=JK6J3F3GH6H&type=m3u_plus
 http://dragonstar.pro:8080/get.php?username=Cristi.ferar&password=crp8rF6TW4&type=m3u_plus&output=m3u8
+http://001122.io:2095/get.php?username=samikhlifi2024&password=netsamikhalifitv&type=m3u_plus
+http://bmpremium.net:8080/get.php?username=SvenJoch&password=vBdW2f6apJ&type=m3u_plus

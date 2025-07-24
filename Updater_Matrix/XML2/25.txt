@@ -27,7 +27,6 @@ http://tkosportz.live:25461/get.php?username=verniceb8152&password=8152&type=m3u
 http://majestictv.info:25461/get.php?username=66665&password=66665&type=m3u&output=mpegts
 http://showplustv.pro:80/get.php?username=Ahmedelmoraly22&password=2140100&type=m3u&output=mpegts
 http://1.sltv.pw:8080/get.php?username=HnZoRuzkcN&password=hh5tkhLRjr&type=m3u_plus
-
 ==================19-7
 http://530329729559.cdn-eag.com:8080/get.php?username=02092021iptv&password=pwqopprrct&type=m3u_plus
 http://line.iptv-4k.cc/get.php?username=AD1137&password=498545&output=ts&type=m3u_plus
@@ -99,3 +98,6 @@ http://kstv.us/get.php?username=16dnb11&password=8515161846&type=m3u_plus
 http://kstv.us/get.php?username=g9YXFMjVBE&password=5270830168&type=m3u_plus
 http://kstv.us/get.php?username=dZ9K18x9U0&password=1203323168&type=m3u_plus
 http://kstv.us/get.php?username=mzJ6WNMJZE&password=20852084891&type=m3u_plus
+http://nodns1.top:8080/get.php?username=8311740995740690&password=7742721af260&type=m3u_plus
+http://dream4k.co:80/get.php?username=tni5znb1y3&password=q2lspqsb3i&type=m3u_plus&output=ts
+http://dream4k.co:80/get.php?username=3821836150904941&password=3cpvazya3j&type=m3u_plus&output=ts

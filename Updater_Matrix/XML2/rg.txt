@@ -1,5 +1,3 @@
-
-
 http://161.123.116.21:80/get.php?username=121255&password=121255&type=m3u_plus
 http://161.123.116.21:80/get.php?username=Arek&password=Arek123&type=m3u_plus
 http://161.123.116.21:80/get.php?username=Collins&password=Collins1234&type=m3u_plus

@@ -98,6 +98,7 @@ http://kstv.us:8080/get.php?username=weNYA63Use&password=6106171507&type=m3u_plu
 http://kstv.us:8080/get.php?username=wsMud3Rf4V&password=00664869463&type=m3u_plus
 http://kstv.us:8080/get.php?username=yavAY5StC4&password=5292522775&type=m3u_plus
 -------------------------------------
+
 http://cord-cutter.net:8080/get.php?username=100974831&password=100974831&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=13851097&password=13851097&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=19174796&password=19174796&type=m3u_plus
@@ -131,12 +132,9 @@ http://cord-cutter.net:8080/get.php?username=linda@randell&password=075@570&type
 http://cord-cutter.net:8080/get.php?username=masony027@gmail.com&password=tNpjhe5ZAb&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=nCqH8t&password=631017&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=rod@man&password=rod@2022&type=m3u_plus
+http://cord-cutter.net:8080/get.php?username=uh4BeE&password=493375&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=vNay0H&password=219352&type=m3u_plus
-
------------------------------------
 http://cord-cutter.net:8080/get.php?username=vPXg5wgOO5&password=MiWovJX2OV&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=vbR3Dh&password=284644&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=wU5V9D&password=075036&type=m3u_plus
-
 http://cord-cutter.net:8080/get.php?username=yue8B3X&password=QY1HumT&type=m3u_plus
 

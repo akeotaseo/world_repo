@@ -1625,3 +1625,9 @@
 
 TEST
 
+00:1A:79:00:63:E7=http://mymag.tv:8080/c/=,
+00:1A:79:AE:2B:8E=http://mymag.tv:8080/c/=,
+00:1A:79:52:4B:F1=http://mymag.tv:8080/c/=,
+00:1A:79:6E:51:A8=http://mymag.tv:8080/c/=,
+00:1A:79:24:75:D8=http://mymag.tv:8080/c/=,
+00:1A:79:00:63:E7=http://mymag.tv:8080/c/=,

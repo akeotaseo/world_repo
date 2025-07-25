@@ -27,7 +27,7 @@ http://tkosportz.live:25461/get.php?username=verniceb8152&password=8152&type=m3u
 http://majestictv.info:25461/get.php?username=66665&password=66665&type=m3u&output=mpegts
 http://showplustv.pro:80/get.php?username=Ahmedelmoraly22&password=2140100&type=m3u&output=mpegts
 http://1.sltv.pw:8080/get.php?username=HnZoRuzkcN&password=hh5tkhLRjr&type=m3u_plus
-==================19-7
+==================19-7-25
 http://530329729559.cdn-eag.com:8080/get.php?username=02092021iptv&password=pwqopprrct&type=m3u_plus
 http://line.iptv-4k.cc/get.php?username=AD1137&password=498545&output=ts&type=m3u_plus
 http://sa.savpn.xyz/get.php?username=karim1&password=karim2023&type=m3u_plus
@@ -39,7 +39,7 @@ http://lukatv.net:8080/get.php?username=wasim123&password=123456&type=m3u_plus
 http://mnbh26815.site:80/get.php?username=walid1234&password=1122334455&type=m3u_plus
 http://filex.me:8080/get.php?username=989898&password=989898&type=m3u_plus&output=m3u8
 http://vlue.life/get.php?username=abd8&password=abd8&type=m3u&output=ts
-==================20-7
+==================20-7-25
 http://161.123.116.21:80/get.php?username=Arek&password=Arek123&type=m3u&output=ts
 http://161.123.116.21:80/get.php?username=ash12345678&password=ash12345678&type=m3u&output=ts
 http://173.212.193.243:8080/get.php?username=mo3ad222&password=mo3ad222&type=m3u_plus&output=ts

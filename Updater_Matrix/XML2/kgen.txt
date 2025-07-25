@@ -1579,13 +1579,6 @@
 00:1a:79:96:42:9f=http://ghosttv.art:80/c/=,
 00:1a:79:76:eb:7e=http://ghosttv.art:80/c/=,
 
-
-TEST
-
-00:1A:79:22:21:71=http://germanytv.net:8080/c/=,
-00:1A:79:90:48:ee=http://germanytv.net:8080/c/=,
-
-
 00:1A:79:6e:87:57=http://sup-4k.org:80/c/=,
 00:1A:79:40:53:f0=http://sup-4k.org:80/c/=,
 00:1A:79:05:15:8d=http://sup-4k.org:80/c/=,
@@ -1598,11 +1591,12 @@ TEST
 00:1A:79:c5:f5:d7=http://sup-4k.org:80/c/=,
 00:1A:79:59:14:26=http://sup-4k.org:80/c/=,
 
-00:1A:79:4B:91:05=http://download.best-ott.me:80/c/=,
-00:1A:79:7D:B7:36=http://download.best-ott.me:80/c/=,
-00:1A:79:7E:02:48=http://download.best-ott.me:80/c/=,
-00:1A:79:C6:38:04=http://download.best-ott.me:80/c/=,
-00:1A:79:77:D9:A7=http://download.best-ott.me:80/c/=,
-00:1A:79:AB:BA:88=http://download.best-ott.me:80/c/=,
-00:1A:79:6A:80:24=http://download.best-ott.me:80/c/=,
-00:1A:79:BA:8F:11=http://download.best-ott.me:80/c/=,
+
+TEST
+
+00:1A:79:22:21:71=http://germanytv.net:8080/c/=,
+00:1A:79:90:48:ee=http://germanytv.net:8080/c/=,
+
+
+
+

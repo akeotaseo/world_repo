@@ -1496,3 +1496,22 @@ http://x.cliente.tech:8080/xmltv.php?username=luisporto&password=5551995839730
 http://x.cliente.tech:8080/xmltv.php?username=P4KPj84gFR&password=Sw2GMx2WWP
 http://x.cliente.tech:8080/xmltv.php?username=roselenecl&password=99962cl3685
 http://x.cliente.tech:8080/xmltv.php?username=Sobrinhogerson&password=947737578
+
+iPTV ROMANiA==================21/25-7-25
+http://199.115.193.39:8008/get.php?username=Vasile_gociu&password=f6eA4P3P&type=m3u_plus
+http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
+http://89.36.95.204:8080/get.php?username=Laurentiu83&password=rSElkwxUeDL0pZuaIjUXCgxvugQyBR&type=m3u
+http://89.36.95.204:8080/get.php?username=Nuti.Rohia&password=Wvlue2MyLL9YPyALza8FyEe4c9TPJY&type=m3u
+http://89.36.95.204:8080/get.php?username=fdSNvO3M0sxl1oVbcXfd2CUDFSCLg01&password=wwL76k9MS9ID7FMxMHHmhkNbqdbpG3&type=m3u
+http://app-dre.consulenzaservizi.info:8080/get.php?username=Personal@cstr2024W&password=nvVeKWKe6R@3W&type=m3u_plus
+http://besstavb.fans:8000/get.php?username=Stefan_voicu&password=c331swTG&type=m3u_plus
+http://csdragon2.xsho3solutions.com/get.php?username=cesareangelo&password=NDorYkbb7V&type=m3u_plus
+http://hd.x28gvn.xyz:80/get.php?username=Serefdayan532&password=S18102021D&type=m3u_plus
+http://line.4k-soy.cc:80/get.php?username=MFKFU1AMPJ&password=ZHYVPIISCC&type=m3u_plus
+http://line.cristiprogrametv.com:80/get.php?username=tiptop15&password=LKYDINQT7V&output=ts&type=m3u_plus&output=ts
+http://live.loltv.xyz:8080/get.php?username=salvagomez&password=jVIdFuB1MK&type=m3u_plus
+http://mnbh26815.site:80/get.php?username=walid1234&password=1122334455&type=m3u_plus
+http://pizzadelamunte.teuiticaprostu.store/get.php?username=filipcorina&password=13f85a1102066c6c&type=m3u_plus&output=ts
+http://portalprtv.com:2052/get.php?username=DanBaclea&password=WMbdyMSGlk&type=m3u_plus
+http://vip-acasatv.online:25461/get.php?username=B3TfNwF2TM&password=8090253113&type=m3u_plus
+http://z2.sonic4k.xyz:2052/get.php?username=277&password=98564574&type=m3u_plus

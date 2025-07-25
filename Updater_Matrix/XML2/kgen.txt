@@ -1596,7 +1596,20 @@ TEST
 
 00:1A:79:22:21:71=http://germanytv.net:8080/c/=,
 00:1A:79:90:48:ee=http://germanytv.net:8080/c/=,
+00:1A:79:14:6B:98=http://germanytv.net:8080/c/=,
+00:1A:79:4D:02:FE=http://germanytv.net:8080/c/=,
+00:1A:79:13:50:FE=http://germanytv.net:8080/c/=,
 
 
+
+00 1A:79:BD:7C:49=http://tuga2022.ddns.net:8080/c/=,
+00:1A:79:D5:70:D5=http://tuga2022.ddns.net:8080/c/=,
+00:1A:79:CF:1A:EC=http://tuga2022.ddns.net:8080/c/=,
+
+
+00:1A:79:14:E1:01=http://avare.kingtv.pw:80/c/=,
+00:1A:79:77:00:0A=http://avare.kingtv.pw:80/c/=,
+00:1A:79:14:E1:09=http://avare.kingtv.pw:80/c/=,
+00:1A:79:14:E1:53=http://avare.kingtv.pw:80/c/=,
 
 

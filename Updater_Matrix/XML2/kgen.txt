@@ -1623,12 +1623,14 @@
 00:1a:79:7c:6e:86=http://egaletv.cc:80/c/=,
 00:1a:79:82:3a:a2=http://egaletv.cc:80/c/=,
 
-TEST
-
-
 00:1A:79:00:63:E7=http://mymag.tv:8080/c/=,
 00:1A:79:AE:2B:8E=http://mymag.tv:8080/c/=,
 00:1A:79:52:4B:F1=http://mymag.tv:8080/c/=,
 00:1A:79:6E:51:A8=http://mymag.tv:8080/c/=,
 00:1A:79:24:75:D8=http://mymag.tv:8080/c/=,
 00:1A:79:00:63:E7=http://mymag.tv:8080/c/=,
+
+TEST
+
+
+

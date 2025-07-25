@@ -3,6 +3,8 @@ http://116342296971.d4ktv.info:80/get.php?username=ab21548_167502&password=MX0Th
 http://116342296971.d4ktv.info:80/get.php?username=pufgm3yvzs&password=9d4kjtpsy2&type=m3u
 http://4kplus.info:80/get.php?username=3846664447317539&password=2prjy1ullz&type=m3u
 http://4kplus.info:80/get.php?username=CRSV1231_782569&password=X8cQpre2&type=m3u
+http://4k.nxdns6.com:8080/get.php?username=88qMVServet&password=7SnSXg6Magt8&type=m3u_plus
+http://4k.nxdns6.com:8080/get.php?username=Ahmet.genc&password=Gat9qMGfetAF&type=m3u_plus
 http://asmuysvip659as9r6s9.rdgtvbii.club:8080/get.php?username=Mihdi3547&password=85849aser5&type=m3u
 http://dream4k.co:8080/get.php?username=zv9uxorwdgh&password=gqpb3w3rhb&type=m3u
 http://dreamtv22.info:25461/get.php?username=7775&password=7775&type=m3u&output=mpegts
@@ -101,3 +103,6 @@ http://kstv.us/get.php?username=mzJ6WNMJZE&password=20852084891&type=m3u_plus
 http://nodns1.top:8080/get.php?username=8311740995740690&password=7742721af260&type=m3u_plus
 http://dream4k.co:80/get.php?username=tni5znb1y3&password=q2lspqsb3i&type=m3u_plus&output=ts
 http://dream4k.co:80/get.php?username=3821836150904941&password=3cpvazya3j&type=m3u_plus&output=ts
+==================25-7
+http://royalibox.com/get.php?username=mounir_193977&password=9OnwsiJg&type=m3u_plus
+http://sabta.dfqz.cc:8080/get.php?username=Rachidabiudadl&password=n23wrsb3v3&type=m3u_plus&output=mpegts

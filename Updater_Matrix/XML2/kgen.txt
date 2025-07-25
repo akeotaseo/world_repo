@@ -1601,7 +1601,6 @@ TEST
 00:1A:79:13:50:FE=http://germanytv.net:8080/c/=,
 
 
-
 00 1A:79:BD:7C:49=http://tuga2022.ddns.net:8080/c/=,
 00:1A:79:D5:70:D5=http://tuga2022.ddns.net:8080/c/=,
 00:1A:79:CF:1A:EC=http://tuga2022.ddns.net:8080/c/=,
@@ -1613,3 +1612,14 @@ TEST
 00:1A:79:14:E1:53=http://avare.kingtv.pw:80/c/=,
 
 
+00:1a:79:c6:42:7c=http://egaletv.cc:80/c/=,
+00:1a:79:47:b1:27=http://egaletv.cc:80/c/=,
+00:1a:79:74:ca:ec=http://egaletv.cc:80/c/=,
+00:1a:79:75:27:b4=http://egaletv.cc:80/c/=,
+00:1a:79:5e:86:f3=http://egaletv.cc:80/c/=,
+00:1a:79:35:89:35=http://egaletv.cc:80/c/=,
+00:1a:79:08:e8:0c=http://egaletv.cc:80/c/=,
+00:1a:79:c3:ab:c9=http://egaletv.cc:80/c/=,
+00:1a:79:d0:58:5e=http://egaletv.cc:80/c/=,
+00:1a:79:7c:6e:86=http://egaletv.cc:80/c/=,
+00:1a:79:82:3a:a2=http://egaletv.cc:80/c/=,

@@ -1591,6 +1591,10 @@
 00:1A:79:c5:f5:d7=http://sup-4k.org:80/c/=,
 00:1A:79:59:14:26=http://sup-4k.org:80/c/=,
 
+00 1A:79:BD:7C:49=http://tuga2022.ddns.net:8080/c/=,
+00:1A:79:D5:70:D5=http://tuga2022.ddns.net:8080/c/=,
+00:1A:79:CF:1A:EC=http://tuga2022.ddns.net:8080/c/=,
+
 
 TEST
 
@@ -1601,9 +1605,7 @@ TEST
 00:1A:79:13:50:FE=http://germanytv.net:8080/c/=,
 
 
-00 1A:79:BD:7C:49=http://tuga2022.ddns.net:8080/c/=,
-00:1A:79:D5:70:D5=http://tuga2022.ddns.net:8080/c/=,
-00:1A:79:CF:1A:EC=http://tuga2022.ddns.net:8080/c/=,
+
 
 
 00:1A:79:14:E1:01=http://avare.kingtv.pw:80/c/=,

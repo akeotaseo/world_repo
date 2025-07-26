@@ -1310,15 +1310,10 @@
 00:1A:79:4D:02:FE=http://germanytv.net:8080/c/=,
 00:1A:79:13:50:FE=http://germanytv.net:8080/c/=,
 
-
-
-
-
 00:1A:79:14:E1:01=http://avare.kingtv.pw:80/c/=,
 00:1A:79:77:00:0A=http://avare.kingtv.pw:80/c/=,
 00:1A:79:14:E1:09=http://avare.kingtv.pw:80/c/=,
 00:1A:79:14:E1:53=http://avare.kingtv.pw:80/c/=,
-
 
 00:1a:79:c6:42:7c=http://egaletv.cc:80/c/=,
 00:1a:79:47:b1:27=http://egaletv.cc:80/c/=,

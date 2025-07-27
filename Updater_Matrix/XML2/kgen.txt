@@ -1386,3 +1386,16 @@ TEST
 00:1A:79:01:71:38=http://dream4k.org:80/c/=,
 00:1A:79:a9:72:c9=http://dream4k.org:80/c/=,
 
+
+00:1A:79:6e:87:57=http://sup-4k.org:80/c/=,
+00:1A:79:40:53:f0=http://sup-4k.org:80/c/=,
+00:1A:79:05:15:8d=http://sup-4k.org:80/c/=,
+00:1A:79:05:15:8d=http://sup-4k.org:80/c/=,
+00:1A:79:05:15:8d=http://sup-4k.org:80/c/=,
+00:1A:79:d2:2d:a8=http://sup-4k.org:80/c/=,
+00:1A:79:b5:23:04=http://sup-4k.org:80/c/=,
+00:1A:79:ad:2a:0a=http://sup-4k.org:80/c/=,
+00:1A:79:68:51:33=http://sup-4k.org:80/c/=,
+00:1A:79:a9:ba:5b=http://sup-4k.org:80/c/=,
+00:1A:79:c5:f5:d7=http://sup-4k.org:80/c/=,
+00:1A:79:59:14:26=http://sup-4k.org:80/c/=,

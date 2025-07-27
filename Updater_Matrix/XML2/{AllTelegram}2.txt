@@ -1613,7 +1613,7 @@ http://sosbr.org:80/get.php?username=Xvn6jh&password=6gU1Bj&type=m3u_plus&output
 http://sosbr.org:80/get.php?username=zp5wNV&password=n5UV8E&type=m3u_plus&output=ts
 
 
-iPTV ROMANiA==================21/25-7-25
+iPTV ROMANiA==================21/25-7-26
 http://199.115.193.39:8008/get.php?username=Vasile_gociu&password=f6eA4P3P&type=m3u_plus
 http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
 http://89.36.95.204:8080/get.php?username=Laurentiu83&password=rSElkwxUeDL0pZuaIjUXCgxvugQyBR&type=m3u
@@ -1635,3 +1635,11 @@ http://rahali44.xyz/get.php?username=KTCMNKZ6MPTH91B&password=QRD5vlRLOw&type=m3
 http://nrvmobil.com:8080/get.php?username=syd1238&password=syd.1411&type=m3u_plus
 http://pinksmiles.org/get.php?username=HodeaCumnataWA24&password=Nj1f6kFUkJ&type=m3u_plus
 http://pinksmiles.org/get.php?username=Dyg8D1G86t1&password=zdGASfi17n1&type=m3u_plus
+http://boski.streamtv.to:8080/get.php?username=2fzp9BZgtl&password=Pl7NFMedhk&type=m3u_plus&output=ts
+http://boski.streamtv.to:8080/get.php?username=sebekonetedytamr&password=G9mlwHvKUR&type=m3u_plus&output=ts
+http://boski.streamtv.to:8080/get.php?username=KreshnikIlazi&password=CNjsUneb9P&type=m3u_plus&output=ts
+http://pinksmiles.org:80/get.php?username=Csabi1233&password=MGCbtCn8k7&type=m3u_plus&output=ts
+http://magentalive.eu:8080/get.php?username=IcfWMXNEKnVuvAgGXmPV33OqX51pZI&password=GKZeAfYsNbnoPCkSjMaS62tMOrBIh9&type=m3u_plus
+http://vizyon.live:8880/get.php?username=Ionutchiriac&password=XcFmQngneX&type=m3u_plus&output=ts
+http://5stars-data.cam:8080/get.php?username=ciprianstoica&password=nZUVyQmQ6sc4&type=m3u_plus&output=ts
+http://erol@pstutoriale.co:8080/get.php?username=Robert_Rogoz&password=c1YqukSCqC&type=m3u_plus&output=ts

@@ -1406,3 +1406,20 @@
 
 TEST
 
+00:1A:79:00:00:00=http://ringo4532.xyz:80/c/=,
+00:1A:79:00:14:88=http://ringo4532.xyz:80/c/=,
+00:1A:79:03:0F:6D=http://ringo4532.xyz:80/c/=,
+00:1A:79:2B:82:26=http://ringo4532.xyz:80/c/=,
+00:1A:79:34:36:61=http://ringo4532.xyz:80/c/=,
+00:1A:79:36:33:30=http://ringo4532.xyz:80/c/=,
+00:1A:79:58:48:AC=http://ringo4532.xyz:80/c/=,
+00:1A:79:5E:BD:40=http://ringo4532.xyz:80/c/=,
+00:1A:79:A1:F8:E5=http://ringo4532.xyz:80/c/=,
+00:1A:79:A2:64:B4=http://ringo4532.xyz:80/c/=, 
+00:1A:79:A6:01:A6=http://ringo4532.xyz:80/c/=, 
+00:1A:79:A6:23:91=http://ringo4532.xyz:80/c/=, 
+00:1A:79:AC:C9:B3=http://ringo4532.xyz:80/c/=,
+00:1A:79:B0:A7:3B=http://ringo4532.xyz:80/c/=,
+00:1A:79:B5:23:58=http://ringo4532.xyz:80/c/=,
+00:1A:79:B9:F1:93=http://ringo4532.xyz:80/c/=,
+00:1A:79:C3:08:47=http://ringo4532.xyz:80/c/=,

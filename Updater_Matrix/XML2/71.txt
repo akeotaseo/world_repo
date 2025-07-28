@@ -1,4 +1,6 @@
-﻿http://esuntv.com:88/get.php?username=H5ZQBYDAHN&password=IZHUvQavLULexEA&output=ts&type=m3u_plus
+﻿
+http://ugeen.live:8080/get.php?username=exskypeleoshare-jordansat4u&password=50&type=m3u
+http://esuntv.com:88/get.php?username=H5ZQBYDAHN&password=IZHUvQavLULexEA&output=ts&type=m3u_plus
 http://esprowking.xyz:8080/get.php?username=es3371739717111003&password=46af6b8ec7be&type=m3u_plus
 http://esprowking.xyz:8080/get.php?username=es1641738304790002&password=f4b87d4cb7b3&type=m3u_plus
 https://rokimilos.site:8443/get.php?username=javierpalomo&password=javierpalomo&type=m3u_plus

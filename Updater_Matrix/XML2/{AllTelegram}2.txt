@@ -1667,6 +1667,8 @@ http://romania4k.ddns.net:8008/get.php?username=Paul_Mateiuc&password=fwKTZXHQ&t
 http://emakarter.ddns.net:8008/get.php?username=Afteni-marius&password=h5S1mhUH1Z&type=m3u_plus
 http://4kplus.info:80/get.php?username=mdriss_252152&password=ShkFtmFy&type=m3u_plus
 http://4ksmart.me/get.php?username=544048816491&password=902236726023&type=m3u_plus&output=ts
+http://emakarter.ddns.net:8008/get.php?username=Afteni-marius&password=h5S1mhUH1Z&type=m3u_plus
+http://open.secretsofsibiu.ro:8080/get.php?username=Ioanin_Gheorghe&password=ZblU9iQ6rmNECaoESjBj7z2EgRg9CE&type=m3u_plus
 
 
 ALBA-LIFE-TV==================28-7-25

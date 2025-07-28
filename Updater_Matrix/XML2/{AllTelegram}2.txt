@@ -1628,7 +1628,7 @@ http://sosbr.org:80/get.php?username=Xvn6jh&password=6gU1Bj&type=m3u_plus&output
 http://sosbr.org:80/get.php?username=zp5wNV&password=n5UV8E&type=m3u_plus&output=ts
 
 
-iPTV ROMANiA==================21/28-7-26
+iPTV ROMANiA==================21/28-7-25
 http://[COLOR orange]iPTV ROMANiA/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://199.115.193.39:8008/get.php?username=Vasile_gociu&password=f6eA4P3P&type=m3u_plus
 http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
@@ -1669,7 +1669,7 @@ http://4kplus.info:80/get.php?username=mdriss_252152&password=ShkFtmFy&type=m3u_
 http://4ksmart.me/get.php?username=544048816491&password=902236726023&type=m3u_plus&output=ts
 
 
-ALBA-LIFE-TV==================28-7-26
+ALBA-LIFE-TV==================28-7-25
 http://[COLOR orange]ALBA-LIFE-TV/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://sarehdtv.xyz:8080/get.php?username=eminekale&password=kaleemine&type=m3u_plus
 http://sarehdtv.xyz:8080/get.php?username=30012025de&password=s4uTYuMx2q&type=m3u_plus

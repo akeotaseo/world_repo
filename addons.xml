@@ -895,7 +895,7 @@ https://github.com/Vashiel/repository.adulthideout
   </extension>
 </addon>
 
-<addon id="plugin.video.avdb" name="AVDB" version="0.1.6" provider-name="avdb">
+<addon id="plugin.video.avdb" name="AVDB" version="0.1.7" provider-name="avdb">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -1459,7 +1459,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.5+matrix.1" provider-name="realvito">
+<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.6+matrix.1" provider-name="realvito">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.27.0"/>
@@ -1470,27 +1470,27 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="de_DE">Videoportal von EURONEWS</summary>
-		<description lang="de_DE">euronews bietet eine einzigartige Perspektive auf das Weltgeschehen. euronews gibt Menschen die Möglichkeit, sich eine eigene Meinung zu bilden, indem sachliche Analysen und eine Vielzahl von Standpunkten dargestellt werden.[CR]euronews Weltnachrichten täglich 24 Stunden gibt es in 12 versch. Ausgaben auf Arabisch, Englisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Persisch, Portugiesisch, Russisch, Spanisch und Türkisch.</description>
+		<description lang="de_DE">Euronews bietet eine einzigartige Perspektive auf das Weltgeschehen. Euronews gibt Menschen die Möglichkeit, sich eine eigene Meinung zu bilden, indem sachliche Analysen und eine Vielzahl von Standpunkten dargestellt werden.[CR]Euronews-Weltnachrichten täglich 24 Stunden gibt es in 12 versch. Ausgaben auf Arabisch, Englisch, Französisch, Deutsch, Griechisch, Ungarisch, Italienisch, Persisch, Portugiesisch, Russisch, Spanisch und Türkisch.</description>
 		<disclaimer lang="de_DE">Die von diesem Addon dargestellten Inhalte werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Anbietern des Inhalts.</disclaimer>
 		<summary lang="en_GB">Videoportal of EURONEWS</summary>
-		<description lang="en_GB">euronews offers a unique perspective on world affairs. euronews gives people the opportunity to form their own opinion, by presenting factual analysis and a variety of viewpoints.[CR]euronews World news daily 24 hours are available in 12 different editions in Arabic, English, French, German, Greek, Hungarian, Italian, Persian, Portuguese, Russian, Spanish and Turkish.</description>
+		<description lang="en_GB">Euronews offers a unique perspective on world affairs. Euronews gives people the opportunity to form their own opinion, by presenting factual analysis and a variety of viewpoints.[CR]Euronews-World-News daily 24 hours are available in 12 different editions in Arabic, English, French, German, Greek, Hungarian, Italian, Persian, Portuguese, Russian, Spanish and Turkish.</description>
 		<disclaimer lang="en_GB">The content displayed by this Addon is not hosted or distributed by the creators of the Addon, nor do the creators have any affiliation with the providers of the content.</disclaimer>
 		<summary lang="el_GR">Τηλεοπτική πύλη EURONEWS</summary>
-		<description lang="el_GR">Το euronews προσφέρει μια μοναδική προοπτική στις παγκόσμιες υποθέσεις. Το euronews δίνει στους ανθρώπους την ευκαιρία να διαμορφώσουν τη δική τους γνώμη, παρουσιάζοντας πραγματικές αναλύσεις και ποικίλες απόψεις.[CR]euronews World news καθημερινά 24 ώρες είναι διαθέσιμα σε 12 διαφορετικές εκδόσεις το Αραβικά, Αγγλικά, Γαλλικά, Γερμανικά, Ελληνικά, Ουγγρικά, Ιταλικά, Περσικά, Πορτογαλικά, Ρωσικά, Ισπανικά και Τουρκικά.</description>
+		<description lang="el_GR">Το Euronews προσφέρει μια μοναδική προοπτική στις παγκόσμιες υποθέσεις. Το Euronews δίνει στους ανθρώπους την ευκαιρία να διαμορφώσουν τη δική τους γνώμη, παρουσιάζοντας πραγματικές αναλύσεις και ποικίλες απόψεις.[CR]Euronews World news καθημερινά 24 ώρες είναι διαθέσιμα σε 12 διαφορετικές εκδόσεις το Αραβικά, Αγγλικά, Γαλλικά, Γερμανικά, Ελληνικά, Ουγγρικά, Ιταλικά, Περσικά, Πορτογαλικά, Ρωσικά, Ισπανικά και Τουρκικά.</description>
 		<summary lang="es_ES">Videoportal de EURONEWS</summary>
-		<description lang="es_ES">euronews ofrece una perspectiva única de los asuntos mundiales. euronews brinda a las personas la oportunidad de formarse su propia opinión, presentando un análisis de hechos y una variedad de puntos de vista.[CR]euronews Las noticias mundiales de 24 horas están disponibles en 12 ediciones diferentes en Árabe, Inglés, Francés, Alemán, Griego, Húngaro, Italiano, Persa, Portugués, Ruso, Español y Turco.</description>
+		<description lang="es_ES">Euronews ofrece una perspectiva única de los asuntos mundiales. Euronews brinda a las personas la oportunidad de formarse su propia opinión, presentando un análisis de hechos y una variedad de puntos de vista.[CR]Euronews Las noticias mundiales de 24 horas están disponibles en 12 ediciones diferentes en Árabe, Inglés, Francés, Alemán, Griego, Húngaro, Italiano, Persa, Portugués, Ruso, Español y Turco.</description>
 		<summary lang="fr_FR">Vidéoportail d'EURONEWS</summary>
-		<description lang="fr_FR">euronews offre une perspective unique sur les affaires mondiales. euronews donne aux gens la possibilité de se forger leur propre opinion, en présentant une analyse factuelle et une variété de points de vue.[CR]euronews World news 24 heures sur 24 est disponible en 12 éditions différentes en Arabe, Anglais, Français, Allemand, Grecque, Hongrois, Italien, Persan, Portugais, Russe, Espagnol et Turc.</description>
+		<description lang="fr_FR">Euronews offre une perspective unique sur les affaires mondiales. Euronews donne aux gens la possibilité de se forger leur propre opinion, en présentant une analyse factuelle et une variété de points de vue.[CR]Euronews World news 24 heures sur 24 est disponible en 12 éditions différentes en Arabe, Anglais, Français, Allemand, Grecque, Hongrois, Italien, Persan, Portugais, Russe, Espagnol et Turc.</description>
 		<summary lang="hu_HU">Az EURONEWS videoportálja</summary>
-		<description lang="hu_HU">Az euronews egyedülálló perspektívát kínál a világügyekkel kapcsolatban. Az euronews lehetőséget ad az embereknek arra, hogy véleményüket formálják, bemutatva tényszerű elemzéseket és különféle szempontokat.[CR]Az euronews napi 24 órás világhírek 12 különféle kiadásban érhetők el Arab, Angol, Francia, Német, Görög, Magyar, Olasz, Perzsa, Portugál, Orosz, Spanyol és Török.</description>
+		<description lang="hu_HU">Az Euronews egyedülálló perspektívát kínál a világügyekkel kapcsolatban. Az Euronews lehetőséget ad az embereknek arra, hogy véleményüket formálják, bemutatva tényszerű elemzéseket és különféle szempontokat.[CR]Az Euronews napi 24 órás világhírek 12 különféle kiadásban érhetők el Arab, Angol, Francia, Német, Görög, Magyar, Olasz, Perzsa, Portugál, Orosz, Spanyol és Török.</description>
 		<summary lang="it_IT">Videoportale di EURONEWS</summary>
-		<description lang="it_IT">euronews offre una prospettiva unica sugli affari del mondo. euronews offre alle persone l'opportunità di esprimere la propria opinione, presentando analisi fattuali e una varietà di punti di vista.[CR]euronews Notizie dal mondo ogni giorno 24 ore sono disponibili in 12 diverse edizioni in Arabo, Inglese, Francese, Tedesco, Greco, Ungherese, Italiano, Persiano, Portoghese, Russo, Spagnolo e Turco.</description>
+		<description lang="it_IT">Euronews offre una prospettiva unica sugli affari del mondo. Euronews offre alle persone l'opportunità di esprimere la propria opinione, presentando analisi fattuali e una varietà di punti di vista.[CR]Euronews Notizie dal mondo ogni giorno 24 ore sono disponibili in 12 diverse edizioni in Arabo, Inglese, Francese, Tedesco, Greco, Ungherese, Italiano, Persiano, Portoghese, Russo, Spagnolo e Turco.</description>
 		<summary lang="pt_PT">Videoportal da EURONEWS</summary>
-		<description lang="pt_PT">A euronews oferece uma perspectiva única dos assuntos mundiais. A euronews oferece às pessoas a oportunidade de formar sua própria opinião, apresentando análises factuais e vários pontos de vista.[CR]euronews As notícias mundiais diariamente 24 horas estão disponíveis em 12 edições diferentes em Árabe, Inglês, Francês, Alemão, Grego, Húngaro, Italiano, Persa, Português, Russo, Espanhol e Turco.</description>
+		<description lang="pt_PT">A Euronews oferece uma perspectiva única dos assuntos mundiais. A Euronews oferece às pessoas a oportunidade de formar sua própria opinião, apresentando análises factuais e vários pontos de vista.[CR]Euronews As notícias mundiais diariamente 24 horas estão disponíveis em 12 edições diferentes em Árabe, Inglês, Francês, Alemão, Grego, Húngaro, Italiano, Persa, Português, Russo, Espanhol e Turco.</description>
 		<summary lang="ru_RU">Видеопортал EURONEWS</summary>
-		<description lang="ru_RU">Евроньюс предлагает уникальный взгляд на мировые дела. euronews дает людям возможность сформировать собственное мнение, представив фактологический анализ и различные точки зрения.[CR]euronews Мировые новости ежедневно 24 часа доступны в 12 различных выпусках в Арабский, Английский, Французский, Немецкий, Греческий, Венгерский, Итальянский, Персидский, Португальский, Русский, Испанский и Турецкий.</description>
+		<description lang="ru_RU">Евроньюс предлагает уникальный взгляд на мировые дела. Euronews дает людям возможность сформировать собственное мнение, представив фактологический анализ и различные точки зрения.[CR]Euronews Мировые новости ежедневно 24 часа доступны в 12 различных выпусках в Арабский, Английский, Французский, Немецкий, Греческий, Венгерский, Итальянский, Персидский, Португальский, Русский, Испанский и Турецкий.</description>
 		<summary lang="tr_TR">EURONEWS video portalı</summary>
-		<description lang="tr_TR">euronews, dünya meselelerine benzersiz bir bakış açısı sunuyor. euronews, gerçeklere yönelik analizler ve çeşitli bakış açıları sunarak insanlara kendi fikirlerini oluşturma fırsatı verir.[CR]euronews Dünya haberleri her gün 24 saat içinde 12 farklı sayıda Arapça, İngilizce, Fransızca, Almanca, Yunanca, Macarca, İtalyanca, Farsça, Portekizce, Rusça, İspanyolca ve Türkçe.</description>
+		<description lang="tr_TR">Euronews, dünya meselelerine benzersiz bir bakış açısı sunuyor. Euronews, gerçeklere yönelik analizler ve çeşitli bakış açıları sunarak insanlara kendi fikirlerini oluşturma fırsatı verir.[CR]Euronews Dünya haberleri her gün 24 saat içinde 12 farklı sayıda Arapça, İngilizce, Fransızca, Almanca, Yunanca, Macarca, İtalyanca, Farsça, Portekizce, Rusça, İspanyolca ve Türkçe.</description>
 		<language></language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
@@ -1504,10 +1504,11 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR orangered]Version 2.3.5+matrix.1  (19.07.2025)[/COLOR][/B]
-- fixed: Die Rubrik = 'Extra-Berichterstattung' fehlt in der Startübersicht
-- fixed: Die Unterordner in der zweiten Ansicht sind nicht korrekt unter den Kategorien platziert
-- added: Rubrik = 'Featured' in der zweiten Ansicht (wenn vorhanden)
+[B][COLOR orangered]Version 2.3.6+matrix.1  (27.07.2025)[/COLOR][/B]
+- fixed: Alle Unterordner in der zweiten Ansicht zeigen keine Beiträge mehr an (die Funktionen der Euronews-Webseite sind hauptsächlich nur noch in JAVA-Script)
+- added: Rubrik = 'ALLE PROGRAMME' im Startmenü
+- removed: Rubrik = 'Extra-Berichterstattung' (in der Android-App/-API nicht vorhanden)
+- comment: * Da Euronews in der Webversion sämtliche Weiterleitungen jetzt nur noch per JAVA-Script tätigt, übernimmt das Addon nur noch die Haupt-/Unter-Kategorien von der Webseite und alles weitere wird über die Android-API abgefragt ! *
 		</news>
 	</extension>
 </addon>
@@ -3164,7 +3165,7 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.4.8" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.4.9" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -3327,7 +3328,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.thethao" name="TheThao" version="0.0.6" provider-name="thethao">
+<addon id="plugin.video.thethao" name="TheThao" version="0.0.7" provider-name="thethao">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -3374,7 +3375,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.2.9" provider-name="truyenhinh">
+<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.3.0" provider-name="truyenhinh">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

@@ -1406,4 +1406,6 @@
 
 TEST
 
-
+00:1A:79:9E:88:84=http://iptv.kingtv.tv/c/=,
+00:1A:79:9E:88:78=http://iptv.kingtv.tv/c/=,
+00:1A:79:9E:88:81=http://iptv.kingtv.tv/c/=,

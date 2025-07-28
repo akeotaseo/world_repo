@@ -1643,3 +1643,9 @@ http://magentalive.eu:8080/get.php?username=IcfWMXNEKnVuvAgGXmPV33OqX51pZI&passw
 http://vizyon.live:8880/get.php?username=Ionutchiriac&password=XcFmQngneX&type=m3u_plus&output=ts
 http://5stars-data.cam:8080/get.php?username=ciprianstoica&password=nZUVyQmQ6sc4&type=m3u_plus&output=ts
 http://erol@pstutoriale.co:8080/get.php?username=Robert_Rogoz&password=c1YqukSCqC&type=m3u_plus&output=ts
+http://anamariaprodan.servebeer.com:8000/get.php?username=Cucu_Gheorghe&password=hEb6puFe&type=m3u_plus
+http://anamariaprodan.servebeer.com:8000/get.php?username=Nicoleta_Patrascioiu&password=aP4zAUr6u4&type=m3u_plus
+http://open.secretsofsibiu.ro:8080/get.php?username=AN223298&password=X0aCKiiOWK&type=m3u_plus
+http://open.secretsofsibiu.ro:8080/get.php?username=4k71JhRNA6FSV5OwE2v4b66RMEgdvp&password=MMpLv4VUKrkUr3LOAqZX5VLtXRzcD3&type=m3u_plus
+http://romania4k.ddns.net:8008/get.php?username=Paul_Mateiuc&password=fwKTZXHQ&type=m3u_plus
+http://emakarter.ddns.net:8008/get.php?username=Afteni-marius&password=h5S1mhUH1Z&type=m3u_plus

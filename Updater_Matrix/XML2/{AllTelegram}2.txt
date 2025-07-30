@@ -1596,7 +1596,7 @@ http://x.cliente.tech:8080/xmltv.php?username=gUKDjzF2&password=nsXMK2Nv
 http://x.cliente.tech:8080/xmltv.php?username=luan01k0Df&password=HcRt5s
 http://x.cliente.tech:8080/xmltv.php?username=luisporto&password=5551995839730
 http://x.cliente.tech:8080/xmltv.php?username=roselenecl&password=99962cl3685
-iPTV ROMANiA==================21/28-7-25
+iPTV ROMANiA==================July-25
 http://[COLOR orange]iPTV ROMANiA/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
 http://89.36.95.204:8080/get.php?username=Laurentiu83&password=rSElkwxUeDL0pZuaIjUXCgxvugQyBR&type=m3u
@@ -1635,7 +1635,8 @@ http://emakarter.ddns.net:8008/get.php?username=Afteni-marius&password=h5S1mhUH1
 http://4kplus.info:80/get.php?username=mdriss_252152&password=ShkFtmFy&type=m3u_plus
 http://4ksmart.me/get.php?username=544048816491&password=902236726023&type=m3u_plus&output=ts
 http://open.secretsofsibiu.ro:8080/get.php?username=Ioanin_Gheorghe&password=ZblU9iQ6rmNECaoESjBj7z2EgRg9CE&type=m3u_plus
-ALBA-LIFE-TV==================28-7-25
+http://replaitv.vipserver.store:8000/get.php?username=Cecilia_Balan_bal134&password=Qazwsx@123&type=m3u_plus
+ALBA-LIFE-TV==================July-25
 http://[COLOR orange]ALBA-LIFE-TV/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://sarehdtv.xyz:8080/get.php?username=eminekale&password=kaleemine&type=m3u_plus
 http://sarehdtv.xyz:8080/get.php?username=30012025de&password=s4uTYuMx2q&type=m3u_plus
@@ -1721,3 +1722,11 @@ http://new.tryv24.shop:2082/get.php?username=ZENOUTI24_273015&password=ZoyE5Iho&
 http://onlyfans.buzz:8080/get.php?username=Gabriel-Lucian-Tegian&password=oMpsLIdrZ3&type=m3u_plus
 http://otthome.xyz:8080/get.php?username=Remus_Oance&password=fSujZynG3h&type=m3u_plus
 http://pamporea.xyz:8080/get.php?username=AN227436&password=F5bfP3499iuRxKmm7pb2HjDZKITFDj&type=m3u_plus
+http://crystal.ottc.pro:80/get.php?username=XRSGRRWWMY&password=XV5WKTZZQP&type=m3u&output=ts
+http://cm1.portaltv.info:777/get.php?username=agadanmiku&password=pa1zsNGU8H&type=m3u&output=ts
+http://7le.pro:8080/get.php?username=HyrrLlugagjia&password=2142da755c&type=m3u_plus
+http://4k.nxdns6.com:8080/get.php?username=Ahmet.genc&password=Gat9qMGfetAF&type=m3u
+http://200.26.188.66:80/get.php?username=sknym3Zn&password=btQFPRh&type=m3u_plus&output=m3u8
+http://2024.cdngold.pro/get.php?username=28174063718810&password=115323111773&type=m3u&output=ts
+http://xyza.ltd:25461/get.php?username=Tracy&password=Taylor&type=m3u_plus
+http://65618-mercy.ott-tx.com:80/get.php?username=991d23891e2a&password=faf1d32fda86&type=m3u_plus

@@ -895,7 +895,7 @@ https://github.com/Vashiel/repository.adulthideout
   </extension>
 </addon>
 
-<addon id="plugin.video.avdb" name="AVDB" version="0.1.7" provider-name="avdb">
+<addon id="plugin.video.avdb" name="AVDB" version="0.1.8" provider-name="avdb">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

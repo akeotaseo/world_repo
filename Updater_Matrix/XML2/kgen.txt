@@ -1491,4 +1491,4 @@
 July-25
 TEST
 
-00:1A:79:9a:22:aa=http://[COLOR orange]www July-25[/COLOR]/c/=,
+[COLOR orange]00:1A:79:9a:22:aa=http://www July-25/c/=,[/COLOR]

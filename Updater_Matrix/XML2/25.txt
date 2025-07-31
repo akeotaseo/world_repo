@@ -170,5 +170,5 @@ http://server.shamelforu.com:8080/get.php?username=44:5c:e9:11:87:44&password=M6
 http://eagle2024.xyz/get.php?username=d0:d0:03:55:72:9d:&password=cmc6sx2iio&type=m3u
 http://top102856-4k.org:8080/get.php?username=abderahimkangoo201&password=pk6o5g2s9o&type=m3u
 http://116342296971.d4ktv.info:80/get.php?username=Zak11_087512&password=jK5jaike&type=m3u_plus
-[][]http://116342296971.d4ktv.info:80/get.php?username=Yaya112_870999&password=uL2al3Km&type=m3u_plus
+http://116342296971.d4ktv.info:80/get.php?username=Yaya112_870999&password=uL2al3Km&type=m3u_plus
 ==================30-7

@@ -1472,7 +1472,11 @@
 00:1A:79:13:52:DF=http://tvip.zeroonemac.xyz:8080/c/=,
 
 
-TEST
+00:1A:79:10:DF:88=http://ix.kingtv.pw/c/=,
+00:1A:79:9E:88:06=http://ix.kingtv.pw/c/=,
+00:1A:79:9E:86:09=http://ix.kingtv.pw/c/=,
+00:1A:79:AF:34:AC=http://ix.kingtv.pw/c/=,
+00:1A:79:9E:88:EB=http://ix.kingtv.pw/c/=,
 
 00:1A:79:EF:1C:8F=http://ip.sltv.be:8080/c/=,
 00:1a:79:6a:3e:91=http://ip.sltv.be:8080/c/=,
@@ -1480,35 +1484,11 @@ TEST
 00:1A:79:75:2F:EB=http://ip.sltv.be:8080/c/=,
 00:1A:79:36:6F:E8=http://ip.sltv.be:8080/c/=,
 
-00:1A:79:10:DF:88=http://ix.kingtv.pw/c/=,
-00:1A:79:9E:88:06=http://ix.kingtv.pw/c/=,
-00:1A:79:9E:86:09=http://ix.kingtv.pw/c/=,
-00:1A:79:AF:34:AC=http://ix.kingtv.pw/c/=,
-00:1A:79:9E:88:EB=http://ix.kingtv.pw/c/=,
 
 00:1A:79:3e: bf:29=http://tv-ks.top:80/c/=,
 00:1A:79:9a:22:aa=http://tv-ks.top:80/c/=,
-00:1A:79:88:e1:ee=http://tv-ks.top:80/c/=,
 
-00:1A:79:0B:16:72=http://dragoniptv.de:80/c/=,
-00:1A:79:05:F6:FB=http://dragoniptv.de:80/c/=,
-00:1A:79:0B:65:C1=http://dragoniptv.de:80/c/=,
-00:1A:79:0B:BD:9B=http://dragoniptv.de:80/c/=,
-00:1A:79:05:ED:75=http://dragoniptv.de:80/c/=,
-00:1A:79:05:ED:87=http://dragoniptv.de:80/c/=,
-00:1A:79:05:ED:91=http://dragoniptv.de:80/c/=,
-00:1A:79:05:ED:9E=http://dragoniptv.de:80/c/=,
-00:1A:79:05:F5:F5=http://dragoniptv.de:80/c/=,
-00:1A:79:05:F5:F6=http://dragoniptv.de:80/c/=,
-00:1A:79:05:F5:FD=http://dragoniptv.de:80/c/=,
-00:1A:79:05:F6:D8=http://dragoniptv.de:80/c/=,
-00:1A:79:05:F6:DB=http://dragoniptv.de:80/c/=,
-00:1A:79:05:E6:BD=http://dragoniptv.de:80/c/=,
-00:1A:79:05:E8:A3=http://dragoniptv.de:80/c/=,
-00:1A:79:05:E8:B7=http://dragoniptv.de:80/c/=,
-00:1A:79:05:E8:BB=http://dragoniptv.de:80/c/=,
-00:1A:79:05:EC:1D=http://dragoniptv.de:80/c/=,
-00:1A:79:05:EC:25=http://dragoniptv.de:80/c/=,
-00:1A:79:05:E0:CF=http://dragoniptv.de:80/c/=,
-00:1A:79:05:E0:D3=http://dragoniptv.de:80/c/=,
-00:1A:79:05:E3:CB=http://dragoniptv.de:80/c/=,
+July-25
+TEST
+
+00:1A:79:9a:22:aa=http://[COLOR orange]www July-25/c/=,

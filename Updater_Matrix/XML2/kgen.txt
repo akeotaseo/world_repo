@@ -1489,6 +1489,3 @@
 00:1A:79:9a:22:aa=http://tv-ks.top:80/c/=,
 
 July-25
-TEST
-
-00:1A:79:aa:aa:aa=[COLOR orange]http://www.July:25/c/=,[/COLOR]

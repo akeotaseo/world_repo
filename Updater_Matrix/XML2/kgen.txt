@@ -1485,7 +1485,7 @@
 00:1A:79:36:6F:E8=http://ip.sltv.be:8080/c/=,
 
 
-00:1A:79:3e: bf:29=http://tv-ks.top:80/c/=,
+00:1A:79:3e:bf:29=http://tv-ks.top:80/c/=,
 00:1A:79:9a:22:aa=http://tv-ks.top:80/c/=,
 
 July-25

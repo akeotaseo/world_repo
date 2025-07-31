@@ -1,4 +1,5 @@
 http://[COLOR orange]IPTV FREE/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
+http://[COLOR orange]IPTV FREE/get.php?username=Julyc&password=25[/COLOR]&type=m3u
 
 http://1.sltv.pw:8080/get.php?username=HnZoRuzkcN&password=hh5tkhLRjr&type=m3u_plus
 http://116342296971.d4ktv.info:80/get.php?username=34567890764432&password=qkgsqs4q1x&type=m3u

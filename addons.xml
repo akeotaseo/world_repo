@@ -2340,29 +2340,28 @@ provider-name="MyCamTV">
 </extension>
 </addon>
 
-<addon id="plugin.video.myiptvpro" name=" [B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.4b" provider-name="A Great Person">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0" />
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests" optional="true"/>
-		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-		<import addon="script.module.youtube.dl" optional="true"/>
-		<import addon="plugin.video.youtube" optional="true" />
-		<import addon="script.module.dateutil" optional="true" />
-		<import addon="script.module.resolveurl" optional="true"/>
-		<import addon="script.module.urlresolver" optional="true"/>
-		<import addon="script.module.cloudscraper" optional="true"/>
-		<import addon="script.module.inputstreamhelper" optional="true"/>
-		<import addon="script.module.slproxy" optional="true"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
+<addon id="plugin.video.myiptvpro" name="[B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.5" provider-name="A Great Person">
+    <requires>
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+        <import addon="script.module.requests" optional="true"/>
+        <import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+        <import addon="script.module.youtube.dl" optional="true"/>
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.dateutil" optional="true" />
+        <import addon="script.module.resolveurl" optional="true"/>
+        <import addon="script.module.urlresolver" optional="true"/>
+        <import addon="script.module.cloudscraper" optional="true"/>
+        <import addon="script.module.inputstreamhelper" optional="true"/>
+        <import addon="script.module.slproxy" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
 
-	<extension point="xbmc.addon.metadata">
-		<summary>MY IPTV PRO - forked from livestreamspro</summary>
-		<description>
+    <extension point="xbmc.addon.metadata">
+        <summary>livestreamspro- shamelessly forked from livestreams but added many things</summary>
+        <description>
 (MY IPTV PRO - forked from livestreamspro)
 In addition to what livestreams allowed you to do, you can now,
 1. call regex in regex,
@@ -3336,7 +3335,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.thethao" name="TheThao" version="0.0.7" provider-name="thethao">
+<addon id="plugin.video.thethao" name="TheThao" version="0.0.8" provider-name="thethao">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

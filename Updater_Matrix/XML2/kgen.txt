@@ -124,7 +124,6 @@
 00:1A:79:B8:92:4D=http://line.protv.cc/c/=,
 00:1A:79:B8:EC:18=http://line.protv.cc/c/=,
 
-
 00:1A:79:00:2B:F5=http://weaseltv.live/c/=,
 00:1A:79:21:09:54=http://weaseltv.live/c/=,
 00:1A:79:22:02:0D=http://weaseltv.live/c/=,
@@ -163,7 +162,6 @@
 00:1A:79:FB:17:E7=http://weaseltv.live/c/=,
 00:1A:79:FB:5F:79=http://weaseltv.live/c/=,
 
-
 00:1A:79:ba:d4:29=http://elit4kiptv.info:8080/c/=,
 00:1A:79:b1:a9:17=http://elit4kiptv.info:8080/c/=,
 00:1A:79:6d:87:4b=http://elit4kiptv.info:8080/c/=,
@@ -179,7 +177,6 @@
 00:1A:79:11:2f:59=http://elit4kiptv.info:8080/c/=,
 00:1A:79:af:39:b3=http://elit4kiptv.info:8080/c/=,
 
-
 00:1A:79:3a:8d:54=http://zippy.streamtv.to:8080/c/=,
 00:1A:79:49:d5:57=http://zippy.streamtv.to:8080/c/=,
 00:1A:79:50:EE:05=http://zippy.streamtv.to:8080/c/=,
@@ -188,7 +185,6 @@
 00:1A:79:B9:08:F7=http://zippy.streamtv.to:8080/c/=,
 00:1A:79:aa:83:92=http://zippy.streamtv.to:8080/c/=,
 00:1A:79:e2:98:79=http://zippy.streamtv.to:8080/c/=,
-
 
 00:1A:79:AD:93:1F=http://iptv.darktv.nl:25461/c/=,
 00:1A:79:46:10:60=http://iptv.darktv.nl:25461/c/=,

@@ -2340,28 +2340,29 @@ provider-name="MyCamTV">
 </extension>
 </addon>
 
-<addon id="plugin.video.myiptvpro" name="[B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.5" provider-name="A Great Person">
-    <requires>
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-        <import addon="script.module.requests" optional="true"/>
-        <import addon="script.module.websocket" version="0.50.0"  optional="true"/>
-        <import addon="script.module.youtube.dl" optional="true"/>
-        <import addon="plugin.video.youtube" optional="true" />
-        <import addon="script.module.dateutil" optional="true" />
-        <import addon="script.module.resolveurl" optional="true"/>
-        <import addon="script.module.urlresolver" optional="true"/>
-        <import addon="script.module.cloudscraper" optional="true"/>
-        <import addon="script.module.inputstreamhelper" optional="true"/>
-        <import addon="script.module.slproxy" optional="true"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
+<addon id="plugin.video.myiptvpro" name="[B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.5a" provider-name="A Great Person - gujal - GB">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.six" />
+		<import addon="script.module.kodi-six" />
+		<import addon="script.module.requests" optional="true"/>
+		<import addon="script.module.websocket" version="0.50.0"  optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.dateutil" optional="true" />
+		<import addon="script.module.resolveurl" optional="true"/>
+		<import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.cloudscraper" optional="true"/>
+		<import addon="script.module.inputstreamhelper" optional="true"/>
+		<import addon="script.module.slproxy" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
 
-    <extension point="xbmc.addon.metadata">
-        <summary>livestreamspro- shamelessly forked from livestreams but added many things</summary>
-        <description>
+	<extension point="xbmc.addon.metadata">
+		<summary>MY IPTV PRO - forked from livestreamspro</summary>
+		<description>
 (MY IPTV PRO - forked from livestreamspro)
 In addition to what livestreams allowed you to do, you can now,
 1. call regex in regex,
@@ -4335,6 +4336,31 @@ v0.1.0
       <screenshot>resources/screenshot002.jpg</screenshot>
     </assets>
   </extension>
+</addon>
+
+<addon id="script.module.accountmgr" version="2.6.7" name="Account Manager" provider-name="Zaxxon709">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.requests" version="2.19.1" />
+            	<import addon="script.module.acctview" version="2.4.8" />
+	</requires>
+	<extension point="xbmc.service" library="lib/startup.py" start="startup" />
+	<extension point="xbmc.python.script" library="lib/default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<reuselanguageinvoker>false</reuselanguageinvoker>
+		<summary lang="en">Account Manager</summary>
+		<description>Manage your Trakt, Debrid, Torbox, Easy Debrid, OffCloud, Easynews, FilePursuit and Metadata logins</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<disclaimer lang="en">The author is not responsible for the use of this addon. [CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.png</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="script.module.addon.common"

@@ -44,7 +44,7 @@
 00:1A:79:D8:7F:C7=http://mag.diamondma.club:80/c/=,
 00:1A:79:C4:43:E8=http://mag.diamondma.club:80/c/=,
 00:1A:79:00:03:2C=http://mag.diamondma.club:80/c/=,
-[COLOR orange]00:1a:79:b2:8b:92=http://zenlink.link/c/=,[/COLOR]
+00:1a:79:b2:8b:92=http://zenlink.link/c/=,
 00:1a:79:bd:35:f7=http://zenlink.link/c/=,
 00:1a:79:a9:ec:5e=http://zenlink.link/c/=,
 00:1a:79:aa:cc:0d=http://zenlink.link/c/=,

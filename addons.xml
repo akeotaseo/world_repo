@@ -2340,9 +2340,8 @@ provider-name="MyCamTV">
 </extension>
 </addon>
 
-<addon id="plugin.video.myiptvpro" name="[B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.5c" provider-name="A Great Person - gujal - GB">
+<addon id="plugin.video.myiptvpro" name="[B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.6" provider-name="A Great Person - gujal - GB">
 	<requires>
-		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />
 		<import addon="script.module.requests" optional="true"/>
@@ -2861,7 +2860,7 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.sc19
     </extension>
 </addon>
 
-<addon id="plugin.video.seirsanduk.r1" name="SEIRSANDUK R1" version="4.2.0" provider-name="zynobg [at] gmail.com">
+<addon id="plugin.video.seirsanduk.r1" name="SEIRSANDUK R1" version="4.4.0" provider-name="VodenoFF [at] gmail.com">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.xbmcswift2" version="1.1.1" />
@@ -2871,15 +2870,15 @@ All changes on GitHub: https://github.com/aitschti/plugin.video.sc19
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB"></summary>
-    <description lang="en_GB">www.SEIRSANDUK.com</description>
+    <description lang="en_GB">www.SEIRSANDUK.eu</description>
     <disclaimer lang="en_GB"></disclaimer>
     <language>en</language> <!-- the language of the videos or other content the plugin provides, may be omitted in case the addon does not provide any content -->
     <platform>all</platform>
     <license>GPL-3.0</license>
     <forum></forum> <!-- may be omitted  -->
-    <website>http://www.SEIRSANDUK.com</website> <!-- the url of the website that contains the videos (or the official website of your plugin). May be omitted.  -->
-    <email>zinobg@gmail.com</email> <!-- may be left omitted  -->
-    <source>http://github.com/zinobg/plugin.video.seirsanduk.r1</source>
+    <website>https://www.SEIRSANDUK.eu</website> <!-- the url of the website that contains the videos (or the official website of your plugin). May be omitted.  -->
+    <email>freshboybg@gmail.com</email> <!-- may be left omitted  -->
+    <source>http://github.com/vodenoff/plugin.video.seirsanduk-r1</source>
     <news>v4.1.1 (02/03/2020)
 			- Using another way of playing channels with xbmcswift2 plugin.
 			- TV channels open with one click

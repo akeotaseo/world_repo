@@ -8,13 +8,11 @@ http://1tv41.icu:8080/get.php?username=Nhophan2000@yahoo.com&password=Nhophan200
 http://1tv41.icu:8080/get.php?username=bo1904706@gmail.com&password=b7QadZgQdW&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=cad96@verizon.net&password=cad96@2023&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=dJU0cG&password=143902&type=m3u_plus
-
 http://asterix-iptv.club:25461/get.php?username=0c43f947dfe6&password=BX6cd4v6xk4n&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=111AGH&password=mmL8CYmY9Y&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=200Markomat&password=f58fea53e68e8a15&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=24AvdoRacic&password=cVTuS8gHao&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=24BranislavRebic&password=MjP2vzfrLtu8&type=m3u_plus
-http://asterix-iptv.club:25461/get.php?username=24CailjJusufi2&password=c6H5mVyLeE&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=24DejanNevenkic&password=aHB2wd3td&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=24EdiZorko&password=ZT9ccXQGeN6h&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=24HarisMasterbasic&password=xNBJGjZuD752&type=m3u_plus

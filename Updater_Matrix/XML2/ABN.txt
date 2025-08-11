@@ -25,7 +25,6 @@ http://kstv.us:8080/get.php?username=Browns&password=9947629636&type=m3u_plus
 http://kstv.us:8080/get.php?username=CQb0QdQ60Q&password=9251873079&type=m3u_plus
 http://kstv.us:8080/get.php?username=Cooks11&password=2668729254&type=m3u_plus
 http://kstv.us:8080/get.php?username=DebbieKnox1212&password=3198167397&type=m3u_plus
-http://kstv.us:8080/get.php?username=Eddiem12&password=1234&type=m3u_plus
 http://kstv.us:8080/get.php?username=FSs1yZSJV4&password=7540470033&type=m3u_plus
 http://kstv.us:8080/get.php?username=Jerez416&password=8092110438&type=m3u_plus
 http://kstv.us:8080/get.php?username=Jfiguer150&password=2645265353&type=m3u_plus

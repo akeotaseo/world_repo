@@ -2797,7 +2797,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.9.0" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.9.1" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -3733,30 +3733,6 @@ v0.1.0
   </assets>
   <reuselanguageinvoker>true</reuselanguageinvoker>
 </extension>
-</addon>
-
-<addon id="plugin.video.wedotv" name="WeDoTV" version="0.1.2" provider-name="azzy9">
-	<requires>
-		<import addon="script.module.requests"/>
-		<import addon="script.module.six"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">WeDoTV</summary>
-		<description lang="en_GB">This addon allows you watch Movies and TV Series from WeDoTV</description>
-		<language>uk</language>
-		<platform>all</platform>
-		<license>GPL-3.0-only</license>
-		<news>v0.1.2 - Remove the limit for move that limited it to 500
-	- Clean code
-	- Add validation data was being returned before it was being looped</news>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.video.wod" name="WOD" version="0.4" provider-name="">

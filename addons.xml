@@ -3173,7 +3173,7 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.5.2" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.5.3" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -3383,7 +3383,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.3.4" provider-name="truyenhinh">
+<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.3.5" provider-name="truyenhinh">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

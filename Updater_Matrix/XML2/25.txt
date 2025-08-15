@@ -109,6 +109,7 @@ http://xxip25.top:8080/get.php?username=kr5jUB&password=791079&type=m3u
 http://xxip25.top:8080/get.php?username=n2xCxU&password=098316&type=m3u_plus
 http://yshoots.com:80/get.php?username=668511975a22225&password=2292263423&type=m3u
 http://yshoots.com:80/get.php?username=arab1onea22225&password=1613967109&type=m3u_plus&output
+
 http://[COLOR orange]IPTV FREE/get.php?username=August&password=25[/COLOR]&type=m3u
 http://01020354.vpn-xtra.vip/get.php?username=6gi2up0jbb&password=dxu4mhmspq&type=m3u_plus
 http://1gotv.org:8080/get.php?username=4668241086179314&password=4668241086179314&type=m3u_plus&output=m3u8

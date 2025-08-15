@@ -134,7 +134,6 @@ http://cord-cutter.net:8080/get.php?username=57481177&password=36483231&type=m3u
 http://cord-cutter.net:8080/get.php?username=57981440&password=57981440&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=58217006&password=58217006&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=5CyNuP&password=906121&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=5ZK2w7aJNy&password=J3ddWZD9Ww&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=6149750569&password=andre319@live.com&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=62233102&password=81768339&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=66925345&password=66925345&type=m3u_plus
@@ -296,7 +295,6 @@ http://xxip25.top:8080/get.php?username=13KpN5&password=160160&type=m3u_plus
 http://xxip25.top:8080/get.php?username=142624118&password=142624118&type=m3u_plus
 http://xxip25.top:8080/get.php?username=1yNyea&password=123956&type=m3u
 http://xxip25.top:8080/get.php?username=1yNyea&password=123956&type=m3u_plus
-http://xxip25.top:8080/get.php?username=20DKn6&password=055490&type=m3u
 http://xxip25.top:8080/get.php?username=25220837&password=51659469&type=m3u
 http://xxip25.top:8080/get.php?username=36136040&password=29438954&type=m3u
 http://xxip25.top:8080/get.php?username=49457200&password=49457200&type=m3u_plus

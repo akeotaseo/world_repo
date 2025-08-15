@@ -132,7 +132,6 @@ http://cord-cutter.net:8080/get.php?username=57481177&password=36483231&type=m3u
 http://cord-cutter.net:8080/get.php?username=57981440&password=57981440&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=58217006&password=58217006&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=5CyNuP&password=906121&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=5ZK2w7aJNy&password=J3ddWZD9Ww&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=6149750569&password=andre319@live.com&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=62233102&password=81768339&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=66925345&password=66925345&type=m3u_plus

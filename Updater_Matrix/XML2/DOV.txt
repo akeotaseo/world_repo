@@ -4,7 +4,6 @@ http://xxip25.top:8080/get.php?username=13KpN5&password=160160&type=m3u_plus
 http://xxip25.top:8080/get.php?username=142624118&password=142624118&type=m3u_plus
 http://xxip25.top:8080/get.php?username=1yNyea&password=123956&type=m3u
 http://xxip25.top:8080/get.php?username=1yNyea&password=123956&type=m3u_plus
-http://xxip25.top:8080/get.php?username=20DKn6&password=055490&type=m3u
 http://xxip25.top:8080/get.php?username=25220837&password=51659469&type=m3u
 http://xxip25.top:8080/get.php?username=36136040&password=29438954&type=m3u
 http://xxip25.top:8080/get.php?username=49457200&password=49457200&type=m3u_plus

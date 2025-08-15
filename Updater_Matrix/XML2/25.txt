@@ -1,4 +1,4 @@
-http://[COLOR orange]IPTV FREE/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
+http://[COLOR blue]IPTV FREE/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://[COLOR orange]IPTV FREE/get.php?username=July&password=25[/COLOR]&type=m3u
 
 http://1.sltv.pw:8080/get.php?username=HnZoRuzkcN&password=hh5tkhLRjr&type=m3u_plus
@@ -179,3 +179,6 @@ http://yshoots.com:80/get.php?username=668511975a22225&password=2292263423&type=
 http://yshoots.com:80/get.php?username=arab1onea22225&password=1613967109&type=m3u_plus&output
 http://zaintv.xyz:8080/get.php?username=17220288896839&password=321167855237&type=m3u
 http://zaintv.xyz:8080/get.php?username=197719771977&password=197719771977&type=m3u_plus&output=m3u8
+
+http://[COLOR orange]IPTV FREE/get.php?username=August&password=25[/COLOR]&type=m3u
+

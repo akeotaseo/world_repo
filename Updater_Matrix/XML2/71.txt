@@ -8,14 +8,12 @@ http://bestavb.top:8008/get.php?username=Cosmin_oltean&password=ahFPbGQ&type=m3u
 http://bmpremium.net:8080/get.php?username=SvenJoch&password=vBdW2f6apJ&type=m3u_plus
 http://dragonstar.pro:8080/get.php?username=Cristi.ferar&password=crp8rF6TW4&type=m3u_plus&output=m3u8
 http://esfamous.top:8080/get.php?username=es6371740503456005&password=d4637ee60784&type=m3u_plus
-http://esprowking.xyz:8080/get.php?username=es3371739717111003&password=46af6b8ec7be&type=m3u_plus
 http://esuntv.com:88/get.php?username=H5ZQBYDAHN&password=IZHUvQavLULexEA&output=ts&type=m3u_plus
 http://jabawalkies.club:8080/get.php?username=CK001&password=uK94pjken6&type=m3u_plus
 http://jabawalkies.club:8080/get.php?username=Hgxgw4dj22&password=efs65nGvwT&type=m3u_plus
 http://jabawalkies.club:8080/get.php?username=georgeinlaws44&password=weatherwind33&type=m3u_plus
 http://premiumvipzone.com:8080/get.php?username=FeliciaLilianaFata&password=bQcnJH5Tyh&type=m3u_plus&output=ts
 http://romania4k.ddns.net:8008/get.php?username=Loredana_Novac&password=wbhDkyRtwwPgaQr&type=m3u_plus&output=m3u8
-http://ua-iptv.com:8080/get.php?username=Redhorsebar&password=101818Pt&type=m3u_plus
 http://ugeen.live:8080/get.php?username=exskypeleoshare-jordansat4u&password=50&type=m3u
 http://xplatinmedia.com:8080/get.php?username=@JKDpros&password=2jLwS6gtxZ2a&type=m3u_plus
 http://xplatinmedia.com:8080/get.php?username=@JoshVPN2&password=J16MdNXRnruVdCK3MIUfDqp03t&type=m3u_plus

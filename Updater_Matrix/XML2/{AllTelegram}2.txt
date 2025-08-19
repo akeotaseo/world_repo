@@ -2688,7 +2688,7 @@ http://x.cliente.tech:8080/get.php?username=gUKDjzF2&password=nsXMK2Nv&type=m3u_
 http://x.cliente.tech:8080/get.php?username=luan01k0Df&password=HcRt5s&type=m3u_plus&output=ts
 http://x.cliente.tech:8080/get.php?username=luisporto&password=5551995839730&type=m3u_plus&output=ts
 http://x.cliente.tech:8080/get.php?username=roselenecl&password=99962cl3685&type=m3u_plus&output=ts
-iPTV ROMANiA==================July-25
+iPTV ROMANiA / IPTV Romania==================July-25
 http://[COLOR orange]iPTV ROMANiA/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
 http://4ksmart.me/get.php?username=544048816491&password=902236726023&type=m3u_plus&output=ts

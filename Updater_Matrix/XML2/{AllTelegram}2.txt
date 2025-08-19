@@ -2717,7 +2717,6 @@ http://replaitv.vipserver.store:8000/get.php?username=Cecilia_Balan_bal134&passw
 http://vip-acasatv.online:25461/get.php?username=B3TfNwF2TM&password=8090253113&type=m3u_plus
 http://vizyon.live:8880/get.php?username=Ionutchiriac&password=XcFmQngneX&type=m3u_plus&output=ts
 http://z2.sonic4k.xyz:2052/get.php?username=277&password=98564574&type=m3u_plus
-
 ALBA-LIFE-TV==================July-25
 http://[COLOR orange]ALBA-LIFE-TV/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://[COLOR orange]ALBA-LIFE-TV/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u

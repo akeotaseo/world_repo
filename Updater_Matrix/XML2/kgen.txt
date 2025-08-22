@@ -1538,20 +1538,3 @@
 
 
 TEST
-00:1A:79:2C:9F:A0=http://mag.alpha.may:80/c/=,
-00::1A:79:A:7A:44=http://mag.alpha.may:80/c/=,
-00::1A:79:A:7A:44=http://mag.alpha.may:80/c/=,
-00:1A:79:78:8B:D8=http://mag.alpha.may:80/c/=,
-00:1A:79:BF:8D:58=http://mag.alpha.may:80/c/=,
-00:1A:79:5D:3A:68=http://mag.alpha.may:80/c/=,
-00:1A:79:A6:63:8A=http://mag.alpha.may:80/c/=,
-00:1A:79:7C:D1:D5=http://mag.alpha.may:80/c/=,
-00:1A:79:Ad:0D:70=http://mag.alpha.may:80/c/=,
-00:1A:79:17:8A:5F=http://mag.alpha.may:80/c/=,
-00:1A:79:CA:2F:92=http://mag.alpha.may:80/c/=,
-00:1a:79:00:0a:A7=http://mag.alpha.may:80/c/=,
-00:1A:79:77:A6:1B=http://mag.alpha.may:80/c/=,
-00:1A:79:83:8F:BF=http://mag.alpha.may:80/c/=,
-00:1A:79:4F:84:0D=http://mag.alpha.may:80/c/=,
-00:1A:79:5A:0F:7F=http://mag.alpha.may:80/c/=,
-00:1A:79:CD:00:C9=http://mag.alpha.may:80/c/=,

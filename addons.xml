@@ -691,7 +691,7 @@ Use this to organize your Favourites.
 
 </addon>
 
-<addon id="plugin.video.90phuttv" version="1.0.22" name="90PhutTV" provider-name="hoaivnpt">
+<addon id="plugin.video.90phuttv" version="1.0.24" name="90PhutTV" provider-name="hoaivnpt">
 <requires>
   <import addon="xbmc.python" version="3.0.1"/>
   <import addon="script.module.requests"/>
@@ -708,7 +708,7 @@ Use this to organize your Favourites.
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>Ver 1.0.22: Sửa lỗi 90phut (04/5/2025).
+  <news>Ver 1.0.24: Sửa lỗi RakhoiTV (16/8/2025).
   </news>
 </extension>
 </addon>
@@ -895,7 +895,7 @@ https://github.com/Vashiel/repository.adulthideout
   </extension>
 </addon>
 
-<addon id="plugin.video.avdb" name="AVDB" version="0.1.9" provider-name="avdb">
+<addon id="plugin.video.avdb" name="AVDB" version="0.2.0" provider-name="avdb">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -3173,7 +3173,7 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.5.6" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.5.8" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -3336,7 +3336,7 @@ provider-name="FrankAaro">
     </extension>
 </addon>
 
-<addon id="plugin.video.thethao" name="TheThao" version="0.0.9" provider-name="thethao">
+<addon id="plugin.video.thethao" name="TheThao" version="0.1.0" provider-name="thethao">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>
@@ -3383,7 +3383,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.3.6" provider-name="truyenhinh">
+<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.3.7" provider-name="truyenhinh">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

@@ -1535,31 +1535,26 @@
 00:1A:79:a3:da:90=http://cf123-eg4k.xyz:80/c/=,
 00:1A:79:3a:49:b8=http://cf123-eg4k.xyz:80/c/=,
 
+00:1A:79:82:31:4C=http://technologycloud.eu/c/=,
+00:1A:79:24:7D:A8=http://technologycloud.eu/c/=,
+00:1A:79:24:7D:1E=http://technologycloud.eu/c/=,
+00:1A:79:24:7D:77=http://technologycloud.eu/c/=,
+00:1A:79:4E:C5:5C=http://technologycloud.eu/c/=,
+00:1A:79:BE:48:8C=http://technologycloud.eu/c/=,
+00:1A:79:BC:5E:EC=http://technologycloud.eu/c/=,
+00:1A:79:BC:5E:CC=http://technologycloud.eu/c/=,
+00:1A:79:24:7D:A6=http://technologycloud.eu/c/=,
+00:1A:79:E0:14:84=http://technologycloud.eu/c/=,
+00:1A:79:24:7D:E8=http://technologycloud.eu/c/=,
+
+
+
 
 
 TEST
 
 
 
-00:1A:79:14:66:0A=http://iptv.darktv.eu/c/=,
-00:1A:79:51:37:59=http://iptv.darktv.eu/c/=,
-00:1A:79:51:37:80=http://iptv.darktv.eu/c/=,
-00:1A:79:A2:88:84=http://iptv.darktv.eu/c/=,
-00:1A:79:AA:0F:B6=http://iptv.darktv.eu/c/=,
-00:1A:79:03:0B:47=http://iptv.darktv.eu/c/=,
-00:1A:79:14:66:18=http://iptv.darktv.eu/c/=,
-00:1A:79:97:E6:2B=http://iptv.darktv.eu/c/=,
-00:1A:79:0E:1F:E1=http://iptv.darktv.eu/c/=,
-00:1A:79:03:0B:61=http://iptv.darktv.eu/c/=,
-00:1A:79:51:37:13=http://iptv.darktv.eu/c/=,
-00:1A:79:17:12:64=http://iptv.darktv.eu/c/=,
-00:1A:79:14:66:17=http://iptv.darktv.eu/c/=,
-00:1A:79:14:66:19=http://iptv.darktv.eu/c/=,
-00:1A:79:14:66:16=http://iptv.darktv.eu/c/=,
-00:1A:79:14:66:12=http://iptv.darktv.eu/c/=,
-00:1A:79:97:E6:AA=http://iptv.darktv.eu/c/=,
-00:1A:79:14:66:1A=http://iptv.darktv.eu/c/=,
-00:1A:79:3A:1D:A0=http://iptv.darktv.eu/c/=,
 
 
 
@@ -1644,17 +1639,6 @@ TEST
 
 
 
-00:1A:79:82:31:4C=http://technologycloud.eu/c/=,
-00:1A:79:24:7D:A8=http://technologycloud.eu/c/=,
-00:1A:79:24:7D:1E=http://technologycloud.eu/c/=,
-00:1A:79:24:7D:77=http://technologycloud.eu/c/=,
-00:1A:79:4E:C5:5C=http://technologycloud.eu/c/=,
-00:1A:79:BE:48:8C=http://technologycloud.eu/c/=,
-00:1A:79:BC:5E:EC=http://technologycloud.eu/c/=,
-00:1A:79:BC:5E:CC=http://technologycloud.eu/c/=,
-00:1A:79:24:7D:A6=http://technologycloud.eu/c/=,
-00:1A:79:E0:14:84=http://technologycloud.eu/c/=,
-00:1A:79:24:7D:E8=http://technologycloud.eu/c/=,
 
 
 

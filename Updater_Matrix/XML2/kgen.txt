@@ -1547,60 +1547,6 @@
 00:1A:79:E0:14:84=http://technologycloud.eu/c/=,
 00:1A:79:24:7D:E8=http://technologycloud.eu/c/=,
 
-
-
-
-
-TEST
-
-
-
-
-
-
-
-
-
-00:1A:79:5F:F7:F2=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:B7:85:63=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:4A:3A:0B=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:C1:9F:F4=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:C2:B0:19=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:D0:28:3F=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:B6:CF:C7=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:6E:A6:DF=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:C1:19:97=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:17:76:71=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:76:27:56=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:B1:FC:03=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:A4:CC:C3=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:30:07:F9=http://tv.premiumplus.tv:80/c/=,
-00:1A:79:D8:A1:C4=http://tv.premiumplus.tv:80/c/=,
-
-
-
-
-
-
-00:1A:79:AC:17:C0=http://es.magtr.cc/c/=,
-00:1A:79:69:5D:12=http://es.magtr.cc/c/=,
-00:1A:79:A5:55:B6=http://es.magtr.cc/c/=,
-00:1A:79:AC:70:79=http://es.magtr.cc/c/=,
-00:1A:79:AC:70:79=http://es.magtr.cc/c/=,
-00:1A:79:A7:4B:D4=http://es.magtr.cc/c/=,
-00:1A:79:A5:52:DE=http://es.magtr.cc/c/=,
-00:1A:79:58:90:52=http://es.magtr.cc/c/=,
-00:1A:79:AC:70:B1=http://es.magtr.cc/c/=,
-00:1A:79:AC:70:B1=http://es.magtr.cc/c/=,
-00:1A:79:AC:70:34=http://es.magtr.cc/c/=,
-00:1A:79:AC:70:34=http://es.magtr.cc/c/=,
-00:1A:79:C3:4E:D7=http://es.magtr.cc/c/=,
-00:1A:79:AC:17:93=http://es.magtr.cc/c/=,
-00:1A:79:AC:17:C3=http://es.magtr.cc/c/=,
-
-
-
-
 00:1A:79:78:EB:5F=http://ffg.gogo8k.me:80/c/=,
 00:1A:79:81:23:9B=http://ffg.gogo8k.me:80/c/=,
 00:1A:79:CC:C6:DC=http://ffg.gogo8k.me:80/c/=,
@@ -1616,17 +1562,7 @@ TEST
 
 
 
-
-
-
-
-
-
-00:1A:79:E6:B4:01=http://line.vueott.com/c/=,
-00:1A:79:BC:5E:72=http://line.vueott.com/c/=,
-00:1A:79:BC:5E:DB=http://line.vueott.com/c/=,
-00:1A:79:BC:5E:A4=http://line.vueott.com/c/=,
-00:1A:79:BC:5E:45=http://line.vueott.com/c/=,
+TEST
 
 
 
@@ -1652,21 +1588,34 @@ TEST
 
 
 
-00:1a:79:b3:b4:a7=http://mag.ukhd.tv:80/c/=,
-00:1a:79:0b:20:e3=http://mag.ukhd.tv:80/c/=,
-00:1a:79:7c:7f:1a=http://mag.ukhd.tv:80/c/=,
-00:1a:79:d7:3e:50=http://mag.ukhd.tv:80/c/=,
-00:1a:79:51:69:c1=http://mag.ukhd.tv:80/c/=,
-00:1a:79:9e:f7:6e=http://mag.ukhd.tv:80/c/=,
-00:1a:79:31:88:3e=http://mag.ukhd.tv:80/c/=,
-00:1a:79:21:0f:a0=http://mag.ukhd.tv:80/c/=,
-00:1a:79:c4:1e:27=http://mag.ukhd.tv:80/c/=,
-00:1a:79:c0:07:1f=http://mag.ukhd.tv:80/c/=,
-00:1a:79:b6:7f:cc=http://mag.ukhd.tv:80/c/=,
-00:1a:79:4b:b2:55=http://mag.ukhd.tv:80/c/=,
-00:1A:79:57:8F:11=http://mag.ukhd.tv:80/c/=,
-00:1A:79:4C:11:17=http://mag.ukhd.tv:80/c/=,
-00:1a:79:ae:88:13=http://mag.ukhd.tv:80/c/=,
-00:1a:79:73:1f:16=http://mag.ukhd.tv:80/c/=,
-00:1a:79:cd:f2:7c=http://mag.ukhd.tv:80/c/=,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

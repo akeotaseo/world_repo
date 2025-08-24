@@ -3383,7 +3383,7 @@ provider-name="FrankAaro">
   </extension>
 </addon>
 
-<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.3.7" provider-name="truyenhinh">
+<addon id="plugin.video.truyenhinh" name="TRUYENHINH" version="0.3.8" provider-name="truyenhinh">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

@@ -391,7 +391,6 @@ http://cord-cutter.net:8080/get.php?username=vPXg5wgOO5&password=MiWovJX2OV&type
 http://cord-cutter.net:8080/get.php?username=wU5V9D&password=075036&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=yue8B3X&password=QY1HumT&type=m3u_plus
 DOV==================
-http://[COLOR orange]DOV/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://xxip25.top:8080/get.php?username=01764462&password=93751020&type=m3u_plus
 http://xxip25.top:8080/get.php?username=05223279&password=34022928&type=m3u_plus
 http://xxip25.top:8080/get.php?username=13KpN5&password=160160&type=m3u_plus

@@ -1,4 +1,3 @@
-http://xxip25.top:8080/get.php?username=01764462&password=93751020&type=m3u_plus
 http://xxip25.top:8080/get.php?username=05223279&password=34022928&type=m3u_plus
 http://xxip25.top:8080/get.php?username=13KpN5&password=160160&type=m3u_plus
 http://xxip25.top:8080/get.php?username=142624118&password=142624118&type=m3u_plus

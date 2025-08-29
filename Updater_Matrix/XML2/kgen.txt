@@ -1584,7 +1584,7 @@
 00:1A:79:D2:1F:C9=http://fuego-iptv.net/c/=,
 00:1A:79:A8:AF:FD=http://fuego-iptv.net/c/=,
 00:1A:79:18:12:52=http://fuego-iptv.net/c/=,
-        
+
 
 
 TEST

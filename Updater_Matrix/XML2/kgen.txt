@@ -1559,12 +1559,6 @@
 00:1A:79:66:0A:C7=http://ffg.gogo8k.me:80/c/=,
 00:1A:79:08:FA:0D=http://ffg.gogo8k.me:80/c/=,
 
-
-
-
-TEST
-
-
 00:1A:79:D2:1F:17=http://fuego-iptv.net/c/=,
 00:1A:79:D2:1F:35=http://fuego-iptv.net/c/=,
 00:1A:79:6B:39:33=http://fuego-iptv.net/c/=,
@@ -1591,3 +1585,7 @@ TEST
 00:1A:79:A8:AF:FD=http://fuego-iptv.net/c/=,
 00:1A:79:18:12:52=http://fuego-iptv.net/c/=,
         
+
+
+TEST
+

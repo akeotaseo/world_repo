@@ -1563,4 +1563,31 @@
 
 
 TEST
+
+
+00:1A:79:D2:1F:17=http://fuego-iptv.net/c/=,
+00:1A:79:D2:1F:35=http://fuego-iptv.net/c/=,
+00:1A:79:6B:39:33=http://fuego-iptv.net/c/=,
+00:1A:79:1D:0C:F8=http://fuego-iptv.net/c/=,
+00:1A:79:D2:1F:3A=http://fuego-iptv.net/c/=,
+00:1A:79:F5:63:3C=http://fuego-iptv.net/c/=,
+00:1A:79:18:12:D0=http://fuego-iptv.net/c/=,
+00:1A:79:D2:1F:2C=http://fuego-iptv.net/c/=,
+00:1A:79:4E:54:58=http://fuego-iptv.net/c/=,
+00:1A:79:1C:05:BF=http://fuego-iptv.net/c/=,
+00:1A:79:45:17:D5=http://fuego-iptv.net/c/=,
+00:1A:79:D2:1F:1D=http://fuego-iptv.net/c/=,
+00:1A:79:A5:CA:CF=http://fuego-iptv.net/c/=,
+00:1A:79:03:AE:74=http://fuego-iptv.net/c/=,
+00:1A:79:A2:C4:A6=http://fuego-iptv.net/c/=,
+00:1A:79:D2:1F:33=http://fuego-iptv.net/c/=,
+00:1A:79:06:BA:47=http://fuego-iptv.net/c/=,
+00:1A:79:F7:4E:65=http://fuego-iptv.net/c/=,
+00:1A:79:B4:3D:09=http://fuego-iptv.net/c/=,
+00:1A:79:B0:AC:F9=http://fuego-iptv.net/c/=,
+00:1A:79:D2:1F:76=http://fuego-iptv.net/c/=,
+00:1A:79:A1:F7:58=http://fuego-iptv.net/c/=,
+00:1A:79:D2:1F:C9=http://fuego-iptv.net/c/=,
+00:1A:79:A8:AF:FD=http://fuego-iptv.net/c/=,
+00:1A:79:18:12:52=http://fuego-iptv.net/c/=,
         

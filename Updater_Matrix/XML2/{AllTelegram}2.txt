@@ -1,10 +1,10 @@
 ANB==================
-http://[COLOR orange]ANB/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://kstv.us/get.php?username=16dnb11&password=8515161846&type=m3u_plus
 http://kstv.us/get.php?username=dZ9K18x9U0&password=1203323168&type=m3u_plus
 http://kstv.us/get.php?username=g9YXFMjVBE&password=5270830168&type=m3u_plus
 http://kstv.us/get.php?username=mzJ6WNMJZE&password=20852084891&type=m3u_plus
 http://kstv.us/get.php?username=rajsimran&password=8340963549&type=m3u_plus
+http://kstv.us:8080/get.php?username=p2NuH0rjWw&password=45035275294&type=m3u_plus
 http://kstv.us:80/get.php?username=20072007&password=1177852272&type=m3u&output=mpegts
 http://kstv.us:80/get.php?username=Amoah22&password=7887531266&type=m3u&output=mpegts
 http://kstv.us:80/get.php?username=eliasp4351&password=0099223067&type=m3u&output=mpegts
@@ -450,7 +450,6 @@ http://xxip25.top:8080/get.php?username=thalwax@gmail.com&password=thalwax@2023&
 http://xxip25.top:8080/get.php?username=vettezr@sccoast.net&password=AyxnfrBhRR&type=m3u_plus
 http://xxip25.top:8080/get.php?username=zC3Eby&password=245776&type=m3u_plus
 x==================
-http://[COLOR orange]x/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://xc.adultiptv.net:80/get.php?username=0046687&password=8329255&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=05183314248&password=fe5nasUk&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=0poc1bw0&password=k880zsln&type=m3u_plus
@@ -487,7 +486,6 @@ http://xc.adultiptv.net:80/get.php?username=marcosantonio276&password=73883689&t
 http://xc.adultiptv.net:80/get.php?username=nilton966&password=nilton771149&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=tvsandra&password=718J27K3&type=m3u_plus
 rg==================
-http://[COLOR orange]rg/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://161.123.116.21:80/get.php?username=121255&password=121255&type=m3u_plus
 http://161.123.116.21:80/get.php?username=Arek&password=Arek123&type=m3u_plus
 http://161.123.116.21:80/get.php?username=Collins&password=Collins1234&type=m3u_plus
@@ -582,7 +580,6 @@ http://reis64.com:2086/get.php?username=ugursuthaserstrxxxx1&password=e9ju9dt&ty
 http://reis64.com:2086/get.php?username=uwebabo123&password=Y8672Inf4b&type=m3u_plus
 http://reis64.com:2086/get.php?username=yedambcrk2&password=Das515asdfgsdgfv&type=m3u_plus
 71==================
-http://[COLOR orange]71/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://001122.io:2095/get.php?username=samikhlifi2024&password=netsamikhalifitv&type=m3u_plus
 http://89.47.232.165:8080/get.php?username=Dinca_traian&password=qx31JAPqrE&type=m3u_plus
 http://89.47.232.165:8080/get.php?username=FeliciaLilianaFata&password=bQcnJH5Tyh&type=m3u_plus
@@ -609,7 +606,6 @@ http://xxip43.top:8080/get.php?username=70579078&password=70579078&type=m3u_plus
 http://xxip43.top:8080/get.php?username=Anaimaldonado24gmail.com&password=9hOIM0AFwi&type=m3u_plus
 http://xxip43.top:8080/get.php?username=mario.degregorio11@gmail.com&password=xQ22KbDGZ8&type=m3u_plus
 OLD=================={AllTelegram}2
-http://[COLOR orange]OLD/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://1tv41.icu:8080/get.php?username=53892204&password=53892204&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=7KAjSp&password=337204&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=89598921&password=89598921&type=m3u_plus
@@ -1335,7 +1331,6 @@ http://tvmate.icu:8080/get.php?username=valerie@fage&password=490@094&type=m3u_p
 http://tvmate.icu:8080/get.php?username=will646mald@netzero.net&password=will646mald@2022&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=xWP0a5&password=674148&type=m3u_plus
 GRUPO FOREVER==================
-http://[COLOR orange]GRUPO FOREVER/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://bananadoce.online:80/get.php?username=000876111&password=213156589090&type=m3u_plus&output=ts
 http://bananadoce.online:80/get.php?username=000987443611&password=213156589090&type=m3u_plus&output=ts
 http://bananadoce.online:80/get.php?username=24999191808&password=a999191808a&type=m3u_plus&output=ts
@@ -2805,7 +2800,6 @@ http://x.cliente.tech:8080/get.php?username=luan01k0Df&password=HcRt5s&type=m3u_
 http://x.cliente.tech:8080/get.php?username=luisporto&password=5551995839730&type=m3u_plus&output=ts
 http://x.cliente.tech:8080/get.php?username=roselenecl&password=99962cl3685&type=m3u_plus&output=ts
 iPTV ROMANiA / IPTV Romania==================
-http://[COLOR orange]iPTV ROMANiA/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
 http://2015487.v3d.rent:2082/get.php?username=HAMIDO2024_954360&password=jD2am6G0&type=m3u&output=ts
 http://4ksmart.me/get.php?username=544048816491&password=902236726023&type=m3u_plus&output=ts
@@ -2847,30 +2841,55 @@ http://vip-acasatv.online:25461/get.php?username=B3TfNwF2TM&password=8090253113&
 http://vizyon.live:8880/get.php?username=Ionutchiriac&password=XcFmQngneX&type=m3u_plus&output=ts
 http://z2.sonic4k.xyz:2052/get.php?username=277&password=98564574&type=m3u_plus
 ALBA-LIFE-TV==================
-http://[COLOR orange]ALBA-LIFE-TV/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
-http://200.26.188.66:80/get.php?username=sknym3Zn&password=btQFPRh&type=m3u_plus&output=m3u8
-http://2024.cdngold.pro/get.php?username=28174063718810&password=115323111773&type=m3u&output=ts
-http://4k.nxdns6.com:8080/get.php?username=Ahmet.genc&password=Gat9qMGfetAF&type=m3u
-http://65618-mercy.ott-tx.com:80/get.php?username=991d23891e2a&password=faf1d32fda86&type=m3u_plus
-http://7le.pro:8080/get.php?username=HyrrLlugagjia&password=2142da755c&type=m3u_plus
-http://bestavb.top:8008/get.php?username=Florentina@Sandor&password=rgJ2qH4x4k&type=m3u_plus
-http://better1.info:8000/get.php?username=andrei_alexandru&password=m7e4e3yN&type=m3u_plus
-http://cakes54851.cdngold.me/get.php?username=9b4be5e75316&password=2b00018b4d&type=m3u_plus
-http://cdn-smart.sbs:8080/get.php?username=Pop-Aurel&password=daWaq5YecnWP&type=m3u_plus
-http://cm1.portaltv.info:777/get.php?username=agadanmiku&password=pa1zsNGU8H&type=m3u&output=ts
+http://116342296971.d4ktv.info/get.php?username=Zak11_087512&password=jK5jaike&type=m3u_plus
+http://116342296971.d4ktv.info:80/get.php?username=Yaya112_870999&password=uL2al3Km&type=m3u_plus
+http://116342296971.d4ktv.info:80/get.php?username=Zak11_087512&password=jK5jaike&type=m3u_plus
+http://116342296971.d4ktv.info:80/get.php?username=pufgm3yvzs&password=9d4kjtpsy2&type=m3u
+http://12k-service.com:8080/get.php?username=YDDMDFKN_560221&password=YEgFzYr1&type=m3u_plus
+http://12k-service.com:8080/get.php?username=phooria2_kamal&password=brte7l8l0d&type=m3u_plus
+http://12k-service.com:8080/get.php?username=r8f22pqn8f&password=hbwffzgvil&type=m3u_plus
+http://admin.macacoataca.shop:8080/get.php?username=joaocruz&password=934100993&type=m3u_plus
+http://admin.macacoataca.shop:8080/get.php?username=josemiguelcastelobranco&password=01062022&type=m3u_plus
+http://balkan.iptelevizija.com:8080/get.php?username=drazenzupanic&password=195THuijb5&type=m3u_plus
+http://black.caosxs.cc:8080/get.php?username=nErysu8q&password=cbRY6tM&type=m3u_plus
+http://cistakosuza.petica.info/get.php?username=Nenad236&password=Pk5FXC&type=m3u_plus
 http://cmskos.bekaks.net:777/get.php?username=EndritKrasniqi&password=RzADgoutTD&type=m3u_plus
-http://crystal.ottc.pro:80/get.php?username=XRSGRRWWMY&password=XV5WKTZZQP&type=m3u&output=ts
-http://ginafelea.ddns.net:8008/get.php?username=Draghiceanu-Razvan&password=66819811&type=m3u_plus
-http://innovationtv.eu:80/get.php?username=Daniel2023&password=2023Daniel&type=m3u&output=ts
-http://innovationtv.eu:80/get.php?username=Tidwell&password=Tidwell&type=m3u&output=ts
-http://mediaiptv.tv/get.php?username=palestina:2813&password=D:IT2nL:H2l2mm&type=m3u_plus
-http://onlyfans.buzz:8080/get.php?username=Gabriel-Lucian-Tegian&password=oMpsLIdrZ3&type=m3u_plus
-http://pamporea.xyz:8080/get.php?username=AN227436&password=F5bfP3499iuRxKmm7pb2HjDZKITFDj&type=m3u_plus
+http://cmskos.bekaks.net:777/get.php?username=PetritHamza&password=gxS3R2LBdO&type=m3u
+http://dmtn-tv.com:8080/get.php?username=6323fza0503&password=xzFMrVcwrw&type=m3u_plus
+http://etvapp.tv:8080/get.php?username=2321567062&password=8080502242&type=m3u_plus&output=ts
+http://euromkmt.xyz:8080/get.php?username=N2wNVFrVMgDx&password=8BETPejkPMEE&type=m3u_plus&output=ts
+http://euromkmt.xyz:8080/get.php?username=P8-7fwAJz9Q&password=WSnedTZVWv3h&type=m3u_plus&output=ts
+http://euromkmt.xyz:8080/get.php?username=bbq3vR6FRGbk&password=kknUQhNd72Sv&type=m3u_plus&output=ts
+http://fooootball.online:8080/get.php?username=EgeCfb62LtBY&password=pYK63hu9ewtv&type=m3u&output=mpegts
+http://front-main.eagle-4k.me:80/get.php?username=m7t7u5p96o&password=g4xb6pbb1r&type=m3u
+http://ktm42.xyz:2052/get.php?username=127724920095&password=6825614f49b07.36108&type=m3u
+http://line.hello-ott.xyz/get.php?username=jCp4YyMfXc&password=nowo2O4ogJ&output=ts&type=m3u
+http://line.iptv-4k.cc/get.php?username=AD1137&password=498545&output=ts&type=m3u
+http://line.iptv-4k.cc/get.php?username=AD1137&password=498545&output=ts&type=m3u_plus
+http://livasubat27.xyz:80/get.php?username=cansucu&password=p2nzvNukWX&type=m3u
+http://matrix1974.dyndns.org:58500/get.php?username=franco372catalanonew&password=cambiatadacon470catalano&type=m3u_plus
+http://mytvstream.net:8080/get.php?username=986555&password=745625&type=m3u_plus
+http://open.anume.tv:8080/get.php?username=AN226624&password=3jpymHph92RY1i9zmpaHPL73vnCIA9&type=m3u
+http://open.secretsofsibiu.ro:8080/get.php?username=AN2211991&password=R2gw2QEBaEGw03kuPVJ9VO0Zw59ATO&type=m3u
+http://reddevils.biz:8000/get.php?username=pelivan@za@dubai&password=HywGAoRa7LhDseRt54321J&type=m3u_plus
+http://redworld.pro:8880/get.php?username=DigitalService227d&password=13581723&type=m3u
+http://sf.my202501.vip:2082/get.php?username=sfy24_426792&password=ZYlCQxGY&type=m3u_plus
+http://speranza.visio86.me:80/get.php?username=Francofioccola&password=e2dWYtUtP6&type=m3u_plus&output=m3u8
+http://speranza.visio86.me:80/get.php?username=Primario&password=Primariopalummiello&type=m3u_plus&output=m3u8
+http://speranza.visio86.me:80/get.php?username=exemeccanico&password=160123&type=m3u_plus&output=m3u8
+http://speranza.visio86.me:80/get.php?username=gamba12&password=041221&type=m3u_plus&output=m3u8 🇮🇹🇮🇹
+http://speranza.visio86.me:80/get.php?username=gianpar&password=zontecstamp&type=m3u_plus&output=m3u8
+http://ssliste.simpsongroups.com:80/get.php?username=najlaemir&password=XCQ2HnAVMM&type=m3u_plus&output=mpegts
+http://stb.euiptv.live:8080/get.php?username=Bezold&password=pC5KKU5&type=m3u
+http://svet-tv.top:8080/get.php?username=x3NV3RHG5w5X&password=VNy6HrJFEWaA&type=m3u_plus
+http://t666-st.us/get.php?username=aseban1234&password=y0lca4yp&type=m3u_plus
+http://touroboxv4.redemais.click/get.php?username=188311667&password=875369528&type=m3u_plus
+http://tv.proyectox.vip:8080/get.php?username=Oreste&password=d84409be7beb&type=m3u_plus
+http://ultra-premium-pro.xyz:8080/get.php?username=990126381tv&password=sd23mk233&type=m3u
+http://world-service.us:8080/get.php?username=vitobruno&password=frediluca&type=m3u
+http://xxip9.top:8080/get.php?username=joeymajor72@gmail.com&password=wxh2Hs7wPh&type=m3u
 http://xyza.ltd:25461/get.php?username=Tracy&password=Taylor&type=m3u_plus
-
-
 INFINITE=======================
-http://[COLOR orange]INFINITE/get.php?username=Xc-No test&password=Telegram[/COLOR]&type=m3u
 http://stklatino.dynns.com:2082/get.php?username=0909matu&password=202020&type=m3u_plus
 http://stklatino.dynns.com:2082/get.php?username=18453042634wspztv&password=100421ztv&type=m3u_plus
 http://stklatino.dynns.com:2082/get.php?username=800j65&password=404040&type=m3u_plus
@@ -2958,4 +2977,3 @@ http://tv.zapping.life:8080/get.php?username=usuariocanales497&password=404dd54f
 http://tv.zapping.life:8080/get.php?username=vizuetecarlos1&password=dvjxrWM7by&type=m3u_plus
 http://tv.zapping.life:8080/get.php?username=willmerm&password=ChfdQwKl9b&type=m3u_plus
 http://tv.zapping.life:8080/get.php?username=yadiyram2&password=F58rM7NQlM&type=m3u_plus
-

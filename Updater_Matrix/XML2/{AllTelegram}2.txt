@@ -4,7 +4,6 @@ http://kstv.us/get.php?username=dZ9K18x9U0&password=1203323168&type=m3u_plus
 http://kstv.us/get.php?username=g9YXFMjVBE&password=5270830168&type=m3u_plus
 http://kstv.us/get.php?username=mzJ6WNMJZE&password=20852084891&type=m3u_plus
 http://kstv.us/get.php?username=rajsimran&password=8340963549&type=m3u_plus
-http://kstv.us:8080/get.php?username=p2NuH0rjWw&password=45035275294&type=m3u_plus
 http://kstv.us:80/get.php?username=20072007&password=1177852272&type=m3u&output=mpegts
 http://kstv.us:80/get.php?username=Amoah22&password=7887531266&type=m3u&output=mpegts
 http://kstv.us:80/get.php?username=eliasp4351&password=0099223067&type=m3u&output=mpegts
@@ -165,6 +164,7 @@ http://kstv.us:8080/get.php?username=n9UN7BynvF&password=9797863255&type=m3u_plu
 http://kstv.us:8080/get.php?username=nTWrX1Dx4H&password=1663544936&type=m3u_plus
 http://kstv.us:8080/get.php?username=newboy&password=2familys&type=m3u_plus
 http://kstv.us:8080/get.php?username=oooveedai&password=7402310848&type=m3u_plus
+http://kstv.us:8080/get.php?username=p2NuH0rjWw&password=45035275294&type=m3u_plus
 http://kstv.us:8080/get.php?username=pdpv38DNVr&password=0949989823&type=m3u_plus
 http://kstv.us:8080/get.php?username=pubPPn3kY7&password=9190645106&type=m3u_plus
 http://kstv.us:8080/get.php?username=pvdDk8yxu0&password=1808779353&type=m3u_plus
@@ -298,6 +298,7 @@ http://cord-cutter.net:8080/get.php?username=Sustainable2@ogbtv.com&password=052
 http://cord-cutter.net:8080/get.php?username=Taylorc&password=Taylorc123&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=Test&password=Test&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=UsH92x&password=970835&type=m3u_plus
+http://cord-cutter.net:8080/get.php?username=VM121620&password=69866675215&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=WzD7qQ&password=424962&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=YR5GXy&password=051679&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=YT6bvC&password=100111&type=m3u_plus
@@ -390,6 +391,7 @@ http://cord-cutter.net:8080/get.php?username=vNay0H&password=219352&type=m3u_plu
 http://cord-cutter.net:8080/get.php?username=vPXg5wgOO5&password=MiWovJX2OV&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=wU5V9D&password=075036&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=yue8B3X&password=QY1HumT&type=m3u_plus
+
 DOV==================
 http://xxip25.top:8080/get.php?username=01764462&password=93751020&type=m3u_plus
 http://xxip25.top:8080/get.php?username=05223279&password=34022928&type=m3u_plus

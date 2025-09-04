@@ -10,6 +10,7 @@ http://12k-service.com:8080/get.php?username=phooria2_kamal&password=brte7l8l0d&
 http://161.123.116.21:80/get.php?username=Arek&password=Arek123&type=m3u&output=ts
 http://161.123.116.21:80/get.php?username=ash12345678&password=ash12345678&type=m3u&output=ts
 http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
+http://31.mhpro1.xyz/get.php?username=3948125400&password=0076468105&type=m3u
 http://37.49.228.245/get.php?username=74cbf75a0151&password=uE49MYNXB&type=m3u&output=mpegts
 http://4kplus.info/get.php?username=mdriss_252152&password=ShkFtmFy&type=m3u_plus
 http://4kplus.info:80/get.php?username=3846664447317539&password=2prjy1ullz&type=m3u
@@ -21,7 +22,6 @@ http://89.36.95.204:8080/get.php?username=Laurentiu83&password=rSElkwxUeDL0pZuaI
 http://89.36.95.204:8080/get.php?username=Nuti.Rohia&password=Wvlue2MyLL9YPyALza8FyEe4c9TPJY&type=m3u
 http://8uhd.com:80/get.php?username=11006613&password=515129635592&type=m3u_plus&output=m3u8
 http://8uhd.com:80/get.php?username=1474441&password=384615641166&type=m3u&output=mpegts
-http://[COLORblue]IPTVFREE/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://anamariaprodan.servebeer.com:8000/get.php?username=Cucu_Gheorghe&password=hEb6puFe&type=m3u_plus
 http://anamariaprodan.servebeer.com:8000/get.php?username=Nicoleta_Patrascioiu&password=aP4zAUr6u4&type=m3u_plus
 http://app-plus.live:80/get.php?username=02092021iptv&password=pwqopprrct&type=m3u

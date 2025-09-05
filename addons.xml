@@ -189,22 +189,22 @@
     </extension>
 </addon>
 
-<addon id="plugin.audio.radio_de_light" name="Radio.de light" provider-name="Publish3r" version="1.0.1w">
+<addon id="plugin.audio.radio_de_light" name="Radio.de light" provider-name="Publish3r" version="1.0.2">
   <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.requests" />
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" version="2.18.4"/>
   </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
+  <extension library="addon.py" point="xbmc.python.pluginsource">
     <provides>audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="de_DE">Radio.de light</summary>
-    <description lang="de_DE">Radiostreams von https://www.radio.de</description>
-    <language>de</language>
     <platform>all</platform>
+    <summary lang="en">Online radio and podcasts</summary>
+    <description>Add-on to access broadcast streams provided by Radio.de.</description>
+    <disclaimer>This add-on is not endorsed, certified or otherwise approved in any way by Radio.de. Use at your own risk.</disclaimer>
     <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
 </addon>

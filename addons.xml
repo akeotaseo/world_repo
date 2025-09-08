@@ -1965,7 +1965,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon id="plugin.video.latinsports" name="Latin Sports" version="1.0.6" provider-name="Gigoro">
+<addon id="plugin.video.latinsports" name="Latin Sports" version="1.0.7" provider-name="Gigoro">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.dateutil" />
@@ -1989,6 +1989,7 @@ No se acepta ninguna responsabilidad por el uso de este addon.
       <screenshot>resources/images/screenshot-1.jpg</screenshot>
       <screenshot>resources/images/screenshot-2.jpg</screenshot>
     </assets>
+    <news>1.0.7 Se añade el canal tv por internet, se corrige el canal futbol libre HD</news>
     <news>1.0.6 Se añade el canal Futbol libre HD</news>
     <news>1.0.5 Se Se corrige la reprodución de algunos canales en la opción de agenda deportiva para tucanaldeportivo.org</news>
     <news>1.0.4 Se añade opcion de agenda deportiva para tucanaldeportivo.org</news>

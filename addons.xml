@@ -3024,23 +3024,22 @@ v1.0.9 (14.8.2024)
   </extension>
 </addon>
 
-<addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.6+matrix.1" provider-name="realvito (inspired by L0RE)">
+<addon id="plugin.video.spotitube" name="You(T) Musicbox" version="3.0.8+matrix.1" provider-name="realvito (inspired by L0RE)">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.requests" version="2.22.0+matrix.1"/>
-		<import addon="script.common.plugin.cache" version="2.6.2+matrix.1"/>
+		<import addon="script.module.requests" version="2.27.0"/>
 		<import addon="plugin.video.youtube" version="6.8.1+matrix.1"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video audio</provides>
+		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="de_DE">Chartplayer für Musikvideos</summary>
 		<summary lang="en_GB">Chartplayer for Musicvideos</summary>
-		<description lang="de_DE">Musiktitel aus verschiedenen Quellen z.B. Beatport, Billboard, iTunes, Officialcharts etc. auswählen und das entsprechende Video über YouTube abspielen.[CR][CR]Für mehr Informationen zu allen Neuerungen siehe - CHANGELOG.[CR]     TEST IT AND LIKE IT</description>
-		<description lang="en_GB">Select music titles from various sources e.g. Beatport, Billboard, iTunes, Officialcharts etc. and play the corresponding video via YouTube.[CR][CR]For more information about all new features see - CHANGELOG.[CR]     TEST IT AND LIKE IT</description>
+		<description lang="de_DE">Musiktitel aus verschiedenen Quellen und Charts z.B. Beatport, Billboard, Officialcharts, Shazam etc. auswählen und das entsprechende Video automatisch auf YouTube suchen und über das YouTube-Addon abspielen.[CR][CR]     TEST IT AND LIKE IT</description>
+		<description lang="en_GB">Select music titles from various sources and charts e.g. Beatport, Billboard, Officialcharts, Shazam etc. and automatically search for the corresponding video on YouTube and play it via the YouTube-Addon.[CR][CR]     TEST IT AND LIKE IT</description>
 		<disclaimer lang="de_DE">Die von diesem Addon dargestellten Inhalte werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Anbietern des Inhalts.</disclaimer>
-		<disclaimer lang="en_GB">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
+		<disclaimer lang="en_GB">The content displayed by this Addon is not hosted or distributed by the creators of the Addon, nor do the creators have any affiliation with the providers of the content.</disclaimer>
 		<language></language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
@@ -3054,17 +3053,13 @@ v1.0.9 (14.8.2024)
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR orangered]Version 3.0.6+matrix.1  (16.09.2023)[/COLOR][/B]
-- fixed: 'ONCE AGAIN' all Folder under "Beatport" generate Errors (TypeError: object of type 'NoneType' has no len())
-- fixed: 'ONCE AGAIN' all Folder under "Official Charts" generate Errors (IndexError: list index out of range)
-- fixed: Sometimes 'Search on Deezer' generate Error if special character or german Umlaut in keyword
-
-[B][COLOR orangered]Version 3.0.5+matrix.1  (03.09.2023)[/COLOR][/B]
-- fixed: all Folder under "Beatport" are empty (new Website)
-- fixed: all "Billboard" Charts by Country and added some new Countries
-- fixed: all Folder under "Official Charts" generate Errors (Website-Structure changes)
-- added: Hide additional information (blue font) in the title (settings)
-- optimized: Code cleanup
+[B][COLOR orangered]Version 3.0.8+matrix.1  (22.06.2025)[/COLOR][/B]
+- fixed: 'OfficialCharts UK' sometimes the artist is not found and an error occurs
+- added: Category = AppleMusic with some lists to choose from
+- removed: Category = iTunes (Api switched off)
+- removed: Category = Spotify (The Public-Categories of the Api are no longer freely available)
+- optimized: Removed dependency and cache of webpages with 'script.common.plugin.cache'
+- comment: * Due to various changes to the 'settings', these are automatically reset when the Addon is started for the first time and the YouTube-API-KEY must be entered again ! *
 		</news>
 	</extension>
 </addon>

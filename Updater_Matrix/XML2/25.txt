@@ -22,7 +22,6 @@ http://89.36.95.204:8080/get.php?username=Laurentiu83&password=rSElkwxUeDL0pZuaI
 http://89.36.95.204:8080/get.php?username=Nuti.Rohia&password=Wvlue2MyLL9YPyALza8FyEe4c9TPJY&type=m3u
 http://8uhd.com:80/get.php?username=11006613&password=515129635592&type=m3u_plus&output=m3u8
 http://8uhd.com:80/get.php?username=1474441&password=384615641166&type=m3u&output=mpegts
-http://[COLORblue]IPTVFREE/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://anamariaprodan.servebeer.com:8000/get.php?username=Cucu_Gheorghe&password=hEb6puFe&type=m3u_plus
 http://anamariaprodan.servebeer.com:8000/get.php?username=Nicoleta_Patrascioiu&password=aP4zAUr6u4&type=m3u_plus
 http://app-plus.live:80/get.php?username=02092021iptv&password=pwqopprrct&type=m3u

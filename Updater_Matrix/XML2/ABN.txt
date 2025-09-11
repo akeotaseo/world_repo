@@ -1,9 +1,7 @@
 http://kstv.us/get.php?username=16dnb11&password=8515161846&type=m3u_plus
 http://kstv.us/get.php?username=dZ9K18x9U0&password=1203323168&type=m3u_plus
-http://kstv.us/get.php?username=g9YXFMjVBE&password=5270830168&type=m3u_plus
 http://kstv.us/get.php?username=mzJ6WNMJZE&password=20852084891&type=m3u_plus
 http://kstv.us/get.php?username=rajsimran&password=8340963549&type=m3u_plus
-http://kstv.us:80/get.php?username=20072007&password=1177852272&type=m3u&output=mpegts
 http://kstv.us:80/get.php?username=Amoah22&password=7887531266&type=m3u&output=mpegts
 http://kstv.us:80/get.php?username=eliasp4351&password=0099223067&type=m3u&output=mpegts
 http://kstv.us:8080/get.php?username=0AxFgNRPu3&password=6206718915&type=m3u_plus

@@ -538,13 +538,10 @@ http://lunar.pm:8080/get.php?username=RandyJ2&password=randy&type=m3u
 http://lunar.pm:8080/get.php?username=Troy.Boyd2&password=demRECuVw9&type=m3u_plus
 http://lunar.pm:8080/get.php?username=sL8e5eYd0$&password=ADfcrPeF3cT5&type=m3u_plus
 http://reis64.com:2086/get.php?username=Andre123&password=Andre123&type=m3u_plus
-http://reis64.com:2086/get.php?username=Aslankraft&password=yIRqZomtaI&type=m3u_plus
-http://reis64.com:2086/get.php?username=Elvan64&password=DYvTZP5vGB&type=m3u_plus
 http://reis64.com:2086/get.php?username=Huseyinbaba59&password=jjhxP9vu2Z&type=m3u_plus
 http://reis64.com:2086/get.php?username=MalteZP8754&password=WEbAp6XsKz&type=m3u_plus
 http://reis64.com:2086/get.php?username=Mehmet_Ay&password=pfIO59CCx5&type=m3u_plus
 http://reis64.com:2086/get.php?username=Ozlemkeser78&password=H70UYG6ZIh&type=m3u_plus
-http://reis64.com:2086/get.php?username=P1HULK99&password=IjNawTMilZ&type=m3u_plus
 http://reis64.com:2086/get.php?username=Sadikdutar67&password=9rzNIj1LXk&type=m3u_plus
 http://reis64.com:2086/get.php?username=ademkirsehir&password=IWcDwk8H6T&type=m3u_plus
 http://reis64.com:2086/get.php?username=angelo01&password=R1dIr4DP&type=m3u_plus
@@ -558,7 +555,6 @@ http://reis64.com:2086/get.php?username=hdiptv2587&password=bFArKGW&type=m3u_plu
 http://reis64.com:2086/get.php?username=hdiptv2639&password=t3jd5rY&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv3217&password=qYZCr9E&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv5261&password=09092019&type=m3u_plus
-http://reis64.com:2086/get.php?username=hdiptv5647&password=kZFw9Bq&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv5733&password=Eip9Tunnx7&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv8838&password=new5ifGbUS&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv9088&password=30.09.2022&type=m3u_plus
@@ -573,12 +569,9 @@ http://reis64.com:2086/get.php?username=metpol9162ddxz&password=B8BsHOo8xZ&type=
 http://reis64.com:2086/get.php?username=nesimisenburo&password=SsNEiv50sB&type=m3u_plus
 http://reis64.com:2086/get.php?username=rumeysahus643564&password=4fh95bZDua&type=m3u_plus
 http://reis64.com:2086/get.php?username=sadettingulcicek2308&password=sadettin5555&type=m3u_plus
-http://reis64.com:2086/get.php?username=sametyildiz&password=210820200&type=m3u_plus
 http://reis64.com:2086/get.php?username=turgaytan&password=hPkZVVhsvb&type=m3u_plus
-http://reis64.com:2086/get.php?username=ug88ur&password=19ugur88&type=m3u_plus
 http://reis64.com:2086/get.php?username=ugursuthaserstrxxxx1&password=e9ju9dt&type=m3u_plus
 http://reis64.com:2086/get.php?username=uwebabo123&password=Y8672Inf4b&type=m3u_plus
-http://reis64.com:2086/get.php?username=yedambcrk2&password=Das515asdfgsdgfv&type=m3u_plus
 71==================
 http://001122.io:2095/get.php?username=samikhlifi2024&password=netsamikhalifitv&type=m3u_plus
 http://89.47.232.165:8080/get.php?username=Dinca_traian&password=qx31JAPqrE&type=m3u_plus

@@ -14,7 +14,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 15 Σεπτεμβρίου 2025:[/B]
+- [B]Τελευταία ενημέρωση 16 Σεπτεμβρίου 2025:[/B]
 - Προσθήκη του πρόσθετου [B][COLOR mediumslateblue]HUB[/COLOR][/B] --> διάδοχος του [COLOR crimson]MACVOD[/COLOR]
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
@@ -28,7 +28,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 - Προσθήκη του πρόσθετου [B][COLOR silver]Scrapee[/COLOR][/B] στην κατηγορία [B]MOVIES & TV[/B]
 - Προσθήκες url λιστών στο [B][COLOR cornflowerblue]IPTV Simple Client[/COLOR][/B]
   (Απενεργοποιημένες)
-- Προσθήκη του [B][COLOR gold]Playlist Loader World[/COLOR][/B] στην κατηγορία [B]WORLD/B]
+- Προσθήκη του [B][COLOR gold]Playlist Loader World[/COLOR][/B] στην κατηγορία [B]WORLD[/B]
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
@@ -43,12 +43,6 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 - [B]Eνημέρωση 26 Φεβρουαρίου  2025:[/B]
 - Διαγραφή [COLOR cornflowerblue]plugin.video.worldclient[/COLOR]
 - Προσθήκη [COLOR indigo]plugin.video.xcodes[/COLOR]
-- Αλλαγές/διορθώσεις/προσθήκες στο Skin
-- Διάφορες αλλαγές/διορθώσεις/προσθήκες
-
-
-- [B]Ενημέρωση 24 Ιανουαρίου 2025:[/B]
-- Προσθήκη
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
@@ -125,7 +119,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 - [B]Eνημέρωση 14 Νοεμβρίου 2023:[/B]
 - Προσθήκη συντομεύσεων [B]Live Sports[/B]
   [COLOR white](Daddylive & Live tv.sx)[/COLOR]
-  στο  [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]SPORTS[/COLOR]
+  στο[COLOR white] HOME MENU[/COLOR] στη κατηγορια [COLOR white]SPORTS[/COLOR]
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
  

@@ -2300,7 +2300,7 @@ provider-name="MyCamTV">
 </extension>
 </addon>
 
-<addon id="plugin.video.myiptvpro" name="[B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.7" provider-name="A Great Person - gujal - GB">
+<addon id="plugin.video.myiptvpro" name="[B][COLOR white]MY IPTV PRO[/COLOR][/B]" version="1.7a" provider-name="A Great Person - gujal - GB">
 	<requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />

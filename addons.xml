@@ -2784,10 +2784,10 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 	</extension>
 </addon>
 
-<addon id="plugin.video.sc19" version="1.5.4" name="SC19" provider-name="aitschti">
+<addon id="plugin.video.sc19" version="2.1.0" name="SC19" provider-name="aitschti">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="inputstream.ffmpegdirect" version="19.0.0"/>
+        <import addon="inputstream.ffmpegdirect" version="19.0.0" optional="true"/>
     </requires>
 
     <extension point="xbmc.python.pluginsource" library="addon.py">

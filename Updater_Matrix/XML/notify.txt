@@ -14,7 +14,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 20 Σεπτεμβρίου 2025:[/B]
+- [B]Τελευταία ενημέρωση 21 Σεπτεμβρίου 2025:[/B]
 - Δυνατότητα εγκατάστασης του πρόσθετου [B][COLOR mediumslateblue]HUB[/COLOR][/B] --> διάδοχος του [COLOR crimson]MACVOD[/COLOR] 
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

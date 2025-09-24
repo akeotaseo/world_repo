@@ -387,10 +387,8 @@ http://161.123.116.21:80/get.php?username=Steven321&password=Steven123&type=m3u_
 http://161.123.116.21:80/get.php?username=Talib&password=Talib123&type=m3u_plus
 http://161.123.116.21:80/get.php?username=addi123&password=addi123&type=m3u_plus
 http://161.123.116.21:80/get.php?username=ash12345678&password=ash12345678&type=m3u_plus
-http://161.123.116.21:80/get.php?username=ewnbw&password=MSzYMUx1to&type=m3u_plus
 http://161.123.116.21:80/get.php?username=juan&password=juan2&type=m3u_plus
 http://161.123.116.21:80/get.php?username=michael1&password=michael2&type=m3u_plus
-http://161.123.116.21:80/get.php?username=pajgk&password=luxvwNmFqj&type=m3u_plus
 http://161.123.116.21:80/get.php?username=rwypx&password=uhrwybxj&type=m3u_plus
 http://5startv.xyz:8080/get.php?username=AGILES&password=garQTCYC8hwT&type=m3u_plus
 http://5startv.xyz:8080/get.php?username=AlbertM23&password=2BMGQGhbGtpB&type=m3u_plus
@@ -410,7 +408,6 @@ http://5startv.xyz:8080/get.php?username=mmysicka&password=Joshua95&type=m3u_plu
 http://5startv.xyz:8080/get.php?username=phil&password=Thetimes22&type=m3u_plus
 http://5startv.xyz:8080/get.php?username=vhQ4ulc01G&password=l6k8pqWVEN&type=m3u_plus
 http://5startv.xyz:8080/get.php?username=yankee42&password=fourthree0&type=m3u_plus
-http://lunar.pm:8080/get.php?username=2052023680&password=mvpQrGT27dkS&type=m3u_plus
 http://lunar.pm:8080/get.php?username=ALVIN&password=9gJbtWskzsJS&type=m3u_plus
 http://lunar.pm:8080/get.php?username=MSJANICE2&password=TX3TQXoEzN&type=m3u_plus
 http://lunar.pm:8080/get.php?username=RandyJ2&password=randy&type=m3u
@@ -419,8 +416,6 @@ http://lunar.pm:8080/get.php?username=sL8e5eYd0$&password=ADfcrPeF3cT5&type=m3u_
 http://reis64.com:2086/get.php?username=Andre123&password=Andre123&type=m3u_plus
 http://reis64.com:2086/get.php?username=Huseyinbaba59&password=jjhxP9vu2Z&type=m3u_plus
 http://reis64.com:2086/get.php?username=MalteZP8754&password=WEbAp6XsKz&type=m3u_plus
-http://reis64.com:2086/get.php?username=Mehmet_Ay&password=pfIO59CCx5&type=m3u_plus
-http://reis64.com:2086/get.php?username=Ozlemkeser78&password=H70UYG6ZIh&type=m3u_plus
 http://reis64.com:2086/get.php?username=Sadikdutar67&password=9rzNIj1LXk&type=m3u_plus
 http://reis64.com:2086/get.php?username=ademkirsehir&password=IWcDwk8H6T&type=m3u_plus
 http://reis64.com:2086/get.php?username=angelo01&password=R1dIr4DP&type=m3u_plus
@@ -435,16 +430,13 @@ http://reis64.com:2086/get.php?username=hdiptv2639&password=t3jd5rY&type=m3u_plu
 http://reis64.com:2086/get.php?username=hdiptv3217&password=qYZCr9E&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv5261&password=09092019&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv5733&password=Eip9Tunnx7&type=m3u_plus
-http://reis64.com:2086/get.php?username=hdiptv8838&password=new5ifGbUS&type=m3u_plus
 http://reis64.com:2086/get.php?username=hdiptv9088&password=30.09.2022&type=m3u_plus
 http://reis64.com:2086/get.php?username=huseyinD031222&password=OAbpxrLeoS&type=m3u_plus
-http://reis64.com:2086/get.php?username=mehmtkara42xxx&password=170620244&type=m3u_plus
 http://reis64.com:2086/get.php?username=mersedes38farukömer3&password=Px60eS29HI&type=m3u_plus
 http://reis64.com:2086/get.php?username=mersedes38osmancorumx1&password=cxkNqEU&type=m3u_plus
 http://reis64.com:2086/get.php?username=metpol6342bchc&password=miTXUNs1oI&type=m3u_plus
 http://reis64.com:2086/get.php?username=metpol6474bckm&password=52dc95hk26&type=m3u_plus
 http://reis64.com:2086/get.php?username=metpol9133dzav&password=ERyED918q1&type=m3u_plus
-http://reis64.com:2086/get.php?username=metpol9162ddxz&password=B8BsHOo8xZ&type=m3u_plus
 http://reis64.com:2086/get.php?username=nesimisenburo&password=SsNEiv50sB&type=m3u_plus
 http://reis64.com:2086/get.php?username=rumeysahus643564&password=4fh95bZDua&type=m3u_plus
 http://reis64.com:2086/get.php?username=sadettingulcicek2308&password=sadettin5555&type=m3u_plus

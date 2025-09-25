@@ -14,7 +14,12 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 24 Σεπτεμβρίου 2025:[/B]
+- [B]Τελευταία ενημέρωση 25 Σεπτεμβρίου 2025:[/B]
+- Συντόμευση για αλαγή [I]Υπηρεσίας Καιρού[/I] στο [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]WEATHER[/COLOR]
+- Διάφορες αλλαγές/διορθώσεις/προσθήκες
+
+
+- [B]Τελευταία ενημέρωση 18 Σεπτεμβρίου 2025:[/B]
 - Δυνατότητα εγκατάστασης του πρόσθετου [B][COLOR mediumslateblue]HUB[/COLOR][/B] --> διάδοχος του [COLOR crimson]MACVOD[/COLOR] 
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
@@ -111,7 +116,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [B]Ενημέρωση 19 Νοεμβρίου 2023:[/B]
 - Προσθήκη συντομεύσεων [COLORcyan]fenix Mac[/COLOR] & [COLOR blue]World[/COLOR]client
-  στο  [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]ΚΑΝΑΛΙΑ[/COLOR]
+  στο [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]ΚΑΝΑΛΙΑ[/COLOR]
 - Αλλαγές/διορθώσεις/προσθήκες στο Skin
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

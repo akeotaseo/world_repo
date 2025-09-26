@@ -14,7 +14,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 25 Σεπτεμβρίου 2025:[/B]
+- [B]Τελευταία ενημέρωση 26 Σεπτεμβρίου 2025:[/B]
 - Συντόμευση για αλαγή [I]Υπηρεσίας Καιρού[/I] στο [COLOR white]HOME MENU[/COLOR] στη κατηγορια [COLOR white]WEATHER[/COLOR]
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 

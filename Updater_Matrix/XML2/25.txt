@@ -155,6 +155,7 @@ http://p1.proiptv.co:88/get.php?username=R87646765&password=PCBF1LZFVGKXGZ4&type
 http://p1.proiptv.co:88/get.php?username=R87646765&password=PCBF1LZFVGKXGZ4&type=m3u_plus
 http://panelguys.top:8080/get.php?username=H6Bx2f&password=535533&type=m3u&output=mpegts
 http://pedro00.net:88/get.php?username=BCHDGSH36365&password=Q3AQ5V6TKJ1P6ED&type=m3u
+http://pedro8k.world:88/get.php?username=U9ZGDLVRSY&password=G65NOCALQD&type=m3u_plus&output=ts
 http://pedro8k.world:88/get.php?username=YPXLHFIZI1&password=6LR3GQVOBP&type=m3u
 http://pizzadelamunte.teuiticaprostu.store/get.php?username=filipcorina&password=13f85a1102066c6c&type=m3u_plus&output=ts
 http://playtv44.com:8080/get.php?username=984997624&password=142536&type=m3u
@@ -201,6 +202,7 @@ http://top102856-4k.org:8080/get.php?username=abderahimkangoo201&password=pk6o5g
 http://top102856-4k.org:8080/get.php?username=abderahimkangoo201&password=pk6o5g2s9o&type=m3u_plus
 http://ts-1-dmtv.live:80/get.php?username=Mahmod2_210989&password=zJpBuUy8&type=m3u_plus
 http://tv-ks.top/get.php?username=lena&password=lena123&type=m3u_plus
+http://tv.proyectox.vip:8080/get.php?username=marvidela01&password=latinplus3742&type=m3u
 http://tv.zapping.life:8080/get.php?username=d4rioc8rt3&password=6ce283ead3e4&type=m3u_plus
 http://tv.zapping.life:8080/get.php?username=huvargas01&password=latinplus6485&type=m3u&output=mpegts
 http://tv.zapping.life:8080/get.php?username=huvargas01&password=latinplus6485&type=m3u_plus
@@ -212,6 +214,7 @@ http://tvhouse.live:80/get.php?username=6gi2up0jbb&password=dxu4mhmspq&type=m3u_
 http://tvmate.icu:8080/get.php?username=MySon@outlook.com&password=MySon8139&type=m3u
 http://tvmate.icu:8080/get.php?username=bigmo12r@aol.com&password=bigmo12r@2023&type=m3u
 http://tvrapide.com/get.php?username=ZANI69008&password=LAYNA69008&type=m3u
+http://v3-support.it.com:2082/get.php?username=yas012_738032&password=QkPA9wAz&type=m3u_plus&output=mpegts
 http://vip-acasatv.online:25461/get.php?username=B3TfNwF2TM&password=8090253113&type=m3u_plus
 http://vip.bmbtv.me:15000/get.php?username=U5J80WbxmR&password=M8v9Frpe8R&type=m3u&output=ts
 http://vip.sipderott4k.info:11220/get.php?username=FATMI&password=TAILLEUR&type=m3u

@@ -184,6 +184,7 @@ http://cord-cutter.net:8080/get.php?username=15564292&password=15564292&type=m3u
 http://cord-cutter.net:8080/get.php?username=19174796&password=19174796&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=2072900422&password=jmasterman504@gmail.com&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=2145165799&password=eddelley31@yahoo.com&type=m3u_plus
+http://cord-cutter.net:8080/get.php?username=30550113&password=30550113&type=m3u
 http://cord-cutter.net:8080/get.php?username=32ED4m&password=754887&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=33QbGv&password=014458&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=3525871345&password=durablevr@yahoo.com&type=m3u_plus
@@ -217,8 +218,10 @@ http://cord-cutter.net:8080/get.php?username=AHy3c7&password=745580&type=m3u_plu
 http://cord-cutter.net:8080/get.php?username=Aj1233&password=rgKq0U5CmV&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=BRIDGITS@YAHOO.COM&password=BRIDGITS@2022&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=BYS2dE&password=808078&type=m3u_plus
+http://cord-cutter.net:8080/get.php?username=DAFsm1&password=015993&type=m3u
 http://cord-cutter.net:8080/get.php?username=FCM2023!!&password=Coco2023$&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=JoanP@112&password=443@112&type=m3u_plus
+http://cord-cutter.net:8080/get.php?username=KB0cRT&password=666742&type=m3u
 http://cord-cutter.net:8080/get.php?username=KP@NMB3&password=14880&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=Karensylvia107&password=Karensylvia@107&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=Kendrickdeal@outlook.com&password=Kendrickdeal@2025&type=m3u_plus
@@ -269,6 +272,7 @@ http://cord-cutter.net:8080/get.php?username=nCqH8t&password=631017&type=m3u_plu
 http://cord-cutter.net:8080/get.php?username=p6A3N7&password=990168&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=p82pQD&password=764854&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=p9qQu1&password=372083&type=m3u_plus
+http://cord-cutter.net:8080/get.php?username=perk6211@yahoo.com&password=perk6211@2024&type=m3u
 http://cord-cutter.net:8080/get.php?username=ra_ryan75@yahoo.com&password=46299660&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=redstalliontg@yahoo.com&password=redstalliontg@2023&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=rockstone2771@yahoo.com&password=UN77CG3M68&type=m3u_plus

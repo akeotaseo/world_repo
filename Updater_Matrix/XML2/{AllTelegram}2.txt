@@ -705,7 +705,6 @@ http://tvmate.icu:8080/get.php?username=valerie@fage&password=490@094&type=m3u_p
 http://tvmate.icu:8080/get.php?username=will646mald@netzero.net&password=will646mald@2022&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=xWP0a5&password=674148&type=m3u_plus
 GRUPO FOREVER==================
-http://[COLOR orange]GRUPO FOREVER/get.php?username=Xc&password=Telegram[/COLOR]&type=m3u
 http://bananadoce.online:80/get.php?username=000876111&password=213156589090&type=m3u_plus&output=ts
 http://bananadoce.online:80/get.php?username=000987443611&password=213156589090&type=m3u_plus&output=ts
 http://bananadoce.online:80/get.php?username=24999191808&password=a999191808a&type=m3u_plus&output=ts

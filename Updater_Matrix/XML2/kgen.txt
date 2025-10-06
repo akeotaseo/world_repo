@@ -200,10 +200,6 @@
 00:1A:79:91:44:9F=http://iptv.darktv.nl:25461/c/=,
 00:1A:79:D9:44:5D=http://iptv.darktv.nl:25461/c/=,
 
-00:1A:79:64:31:35=http://alexiptv.ddns.me:8080/c/=,
-00:1A:79:62:D9:B9=http://alexiptv.ddns.me:8080/c/=,
-00:1A:79:52:65:FD=http://alexiptv.ddns.me:8080/c/=,
-
 00:1A:79:F1:B6:1E=http://line.iptvgoat.com:80/c/=,
 00:1A:79:3D:3D:30=http://line.iptvgoat.com:80/c/=,
 00:1A:79:63:39:DD=http://line.iptvgoat.com:80/c/=,

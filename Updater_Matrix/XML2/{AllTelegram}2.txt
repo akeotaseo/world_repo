@@ -1,8 +1,6 @@
 ANB==================
 http://kstv.us:8080/get.php?username=0AxFgNRPu3&password=6206718915&type=m3u_plus
 http://kstv.us:8080/get.php?username=0pbWDtzXSZ&password=3856499579&type=m3u_plus
-http://kstv.us:8080/get.php?username=1Moneyscable&password=3179399829&type=m3u_plus
-http://kstv.us:8080/get.php?username=1j8FquwUKJ&password=5685005043&type=m3u_plus
 http://kstv.us:8080/get.php?username=21MwYHZKbu&password=7266138964&type=m3u_plus
 http://kstv.us:8080/get.php?username=2S1tesbC3n&password=4095504481&type=m3u_plus
 http://kstv.us:8080/get.php?username=3Uu4btwdE1&password=2051589377&type=m3u_plus

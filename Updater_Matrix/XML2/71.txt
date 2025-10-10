@@ -3,6 +3,5 @@ http://xplatinmedia.com:8080/get.php?username=@JoshVPN2&password=J16MdNXRnruVdCK
 http://xplatinmedia.com:8080/get.php?username=@JustMerc_friend&password=sesmw2BXurGi9RJGx6Vnd&type=m3u_plus
 http://xplatinmedia.com:8080/get.php?username=@RickyPickering&password=Tg86Gk4gHHaMP6kDCN&type=m3u_plus
 http://xplatinmedia.com:8080/get.php?username=@mrmagicstars&password=JBJNHuFuV5&type=m3u_plus
-http://ip96.uk:8080/get.php?username=Ghosia104&password=pathan104&type=m3u_plus
 http://ip96.uk:8080/get.php?username=H645668DH&password=7565848DHY&type=m3u_plus
 http://ip96.uk:8080/get.php?username=patelnetiptv&password=TUxpd3YptKcg&type=m3u_plus

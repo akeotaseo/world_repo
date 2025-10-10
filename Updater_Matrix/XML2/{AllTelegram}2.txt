@@ -1050,7 +1050,6 @@ http://viphlvp.xyz:8080/get.php?username=VIP0196173273945592&password=1173273945
 http://viphlvp.xyz:8080/get.php?username=VIP019841728213896105&password=bd569d024d7b&type=m3u
 http://viphlvp.xyz:8080/get.php?username=VIP019881739027320332&password=c069055b514d&type=m3u
 http://viphlvp.xyz:8080/get.php?username=VIP019941754062550529&password=94c20694eacf&type=m3u
-
 xtremcodeclub=======================
 http://185.53.90.98:8080/get.php?username=ali767&password=xdmxwVZn82&type=m3u_plus
 http://185.53.90.98:8080/get.php?username=berk6775675823&password=nQ9MvSaXDVE2&type=m3u_plus

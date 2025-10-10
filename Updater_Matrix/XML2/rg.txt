@@ -22,7 +22,6 @@ http://161.123.116.21:80/get.php?username=addi123&password=addi123&type=m3u_plus
 http://161.123.116.21:80/get.php?username=ash12345678&password=ash12345678&type=m3u_plus
 http://161.123.116.21:80/get.php?username=juan&password=juan2&type=m3u_plus
 http://161.123.116.21:80/get.php?username=michael1&password=michael2&type=m3u_plus
-http://161.123.116.21:80/get.php?username=rwypx&password=uhrwybxj&type=m3u_plus
 http://5startv.xyz:8080/get.php?username=AGILES&password=garQTCYC8hwT&type=m3u_plus
 http://5startv.xyz:8080/get.php?username=AlbertM23&password=2BMGQGhbGtpB&type=m3u_plus
 http://5startv.xyz:8080/get.php?username=AramJ&password=234wer2da&type=m3u_plus

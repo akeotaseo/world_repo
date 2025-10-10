@@ -32,7 +32,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 
 - [B]Ενημέρωση 18 Σεπτεμβρίου 2025:[/B]
-- Δυνατότητα εγκατάστασης του πρόσθετου [B][COLOR mediumslateblue]HUB[/COLOR][/B][CR]διάδοχος του [COLOR crimson]MACVOD[/COLOR] 
+- Δυνατότητα εγκατάστασης του πρόσθετου [B][COLOR mediumslateblue]HUB[/COLOR][/B]--->διάδοχος του [COLOR crimson]MACVOD[/COLOR] 
 - Διάφορες αλλαγές/διορθώσεις/προσθήκες
 
 

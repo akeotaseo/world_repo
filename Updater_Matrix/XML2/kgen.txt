@@ -5,8 +5,8 @@
 00:1A:79:77:00:0A=http://avare.kingtv.pw:80/c/=,
 00:1A:79:14:E1:09=http://avare.kingtv.pw:80/c/=,
 
-00:1A:79:A0:E1:65=http://avare.kingtv.pw:80/c/=,
-00:1A:79:14:e1:0b=http://avare.kingtv.pw:80/c/=,
+00:1A:79:A0:E1:65=http://avare.kingtv.pw/c/=,
+00:1A:79:14:e1:0b=http://avare.kingtv.pw/c/=,
 
 
 

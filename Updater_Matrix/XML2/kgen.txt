@@ -637,11 +637,6 @@
 00:1A:79:91:44:9F=http://iptv.darktv.nl:25461/c/=,
 00:1A:79:D9:44:5D=http://iptv.darktv.nl:25461/c/=,
 
-00:1A:79:10:DF:88=http://ix.kingtv.pw/c/=,
-00:1A:79:9E:88:06=http://ix.kingtv.pw/c/=,
-00:1A:79:9E:86:09=http://ix.kingtv.pw/c/=,
-00:1A:79:9E:88:EB=http://ix.kingtv.pw/c/=,
-
 00:1A:79:02:5F:DE=http://line.linewings.com:80/c/=,
 00:1A:79:03:A6:FD=http://line.linewings.com:80/c/=,
 00:1A:79:04:4F:D0=http://line.linewings.com:80/c/=,
@@ -992,23 +987,6 @@
 00:1A:79:AE:40:A5=http://www.fonziptv.com:8080/c/=,
 00:1A:79:AF:83:94=http://www.fonziptv.com:8080/c/=,
 00:1A:79:A5:C7:5E=http://www.fonziptv.com:8080/c/=,
-
-00:1A:79:AD:86:41=http://xc-clubtv.xyz:8080/=,
-00:1A:79:BC:EF:29=http://xc-clubtv.xyz:8080/=,
-00:1A:79:D3:4A:69=http://xc-clubtv.xyz:8080/=,
-00:1A:79:08:ED:C9=http://xc-clubtv.xyz:8080/=,
-00:1A:79:B6:4F:16=http://xc-clubtv.xyz:8080/=,
-00:1A:79:44:AF:7A=http://xc-clubtv.xyz:8080/=,
-00:1A:79:4D:04:32=http://xc-clubtv.xyz:8080/=,
-00:1A:79:C7:04:54=http://xc-clubtv.xyz:8080/=,
-00:1A:79:A5:97:3E=http://xc-clubtv.xyz:8080/=,
-00:1A:79:4E:39:66=http://xc-clubtv.xyz:8080/=,
-00:1A:79:6E:2C:B3=http://xc-clubtv.xyz:8080/=,
-
-00:1A:79:66:8C:49=http://xc-clubtv.xyz:8080/=,
-00:1A:79:37:8C:BD=http://xc-clubtv.xyz:8080/=,
-00:1A:79:4C:92:48=http://xc-clubtv.xyz:8080/=,
-00:1A:79:0D:39:B8=http://xc-clubtv.xyz:8080/=,
 
 00:1A:79:3a:8d:54=http://zippy.streamtv.to:8080/c/=,
 00:1A:79:49:d5:57=http://zippy.streamtv.to:8080/c/=,

@@ -1,12 +1,15 @@
 00:1A:79:c2:e9:a6=http://alpha-2ott.me:80/c/=,
-00:1A:79:46:8b:81=http://alpha-2ott.me:80/c/=,
-00:1A:79:98:cd:b8=http://alpha-2ott.me:80/c/=,
-00:1A:79:B5:D7:0B=http://alpha-2ott.me:80/c/=,
-00:1A:79:b1:5d:fd=http://alpha-2ott.me:80/c/=,
-00:1A:79:40:69:d3=http://alpha-2ott.me:80/c/=,
 00:1A:79:3d:54:41=http://alpha-2ott.me:80/c/=,
-00:1A:79:0e:34:c8=http://alpha-2ott.me:80/c/=,
-00:1A:79:0E:18:13=http://alpha-2ott.me:80/c/=,
+
+00:1A:79:14:E1:01=http://avare.kingtv.pw:80/c/=,
+00:1A:79:77:00:0A=http://avare.kingtv.pw:80/c/=,
+00:1A:79:14:E1:09=http://avare.kingtv.pw:80/c/=,
+
+00:1A:79:A0:E1:65=http://avare.kingtv.pw:80/c/=,
+00:1A:79:14:e1:0b=http://avare.kingtv.pw:80/c/=,
+
+
+
 
 00:1A:79:01:6D:0B=http://kickersworld.com:8080/c/=,
 00:1A:79:01:71:8C=http://kickersworld.com:8080/c/=,
@@ -1096,9 +1099,6 @@
 00:1A:79:FF:04:3B=http://cam.access.ly:80/c/=,
 00:1A:79:FF:04:7A=http://cam.access.ly:80/c/=,
 
-00:1A:79:8E:C8:4E=http://app.xtv10.com/c/=,
-00:1A:79:52:43:50=http://app.xtv10.com/c/=,
-00:1A:79:86:33:F4=http://app.xtv10.com/c/=,
 
 00:1A:79:02:5F:DE=http://line.linewings.com:80/c/=,
 00:1A:79:03:A6:FD=http://line.linewings.com:80/c/=,
@@ -1302,13 +1302,9 @@
 00:1A:79:4D:02:FE=http://germanytv.net:8080/c/=,
 00:1A:79:13:50:FE=http://germanytv.net:8080/c/=,
 
-00:1A:79:14:E1:01=http://avare.kingtv.pw:80/c/=,
-00:1A:79:77:00:0A=http://avare.kingtv.pw:80/c/=,
-00:1A:79:14:E1:09=http://avare.kingtv.pw:80/c/=,
-00:1A:79:14:E1:53=http://avare.kingtv.pw:80/c/=,
 
-00:1A:79:A0:E1:65=http://avare.kingtv.pw/c/=,
-00:1A:79:14:e1:0b=http://avare.kingtv.pw/c/=,
+
+
 
 00:1a:79:c6:42:7c=http://egaletv.cc:80/c/=,
 00:1a:79:47:b1:27=http://egaletv.cc:80/c/=,

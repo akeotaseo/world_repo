@@ -14,7 +14,7 @@ World-[COLOR cornflowerblue]Omega[/COLOR] 21 [COLOR blue]Έκδοση Build 21.2
 
 - [COLOR orange]Προσθήκες-Διορθώσεις World Build Updater-Tools:[/COLOR] -
 
-- [B]Τελευταία ενημέρωση 15 Oκτωβρίου 2025:[/B]
+- [B]Τελευταία ενημέρωση 18 Oκτωβρίου 2025:[/B]
 - Επιλογή Απενεργοποίησης ΚΑΤΗΓΟΡΙΩΝ στο [COLOR white]HOME MENU[/COLOR]
 - Επιλογή Αλλαγής εμφάνισης του [COLOR white]HOME MENU[/COLOR]
   σε [B][COLOR blue]Movies & TV[/COLOR][/B] ή [B][COLOR lime]Sports[/COLOR][/B]

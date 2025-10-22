@@ -708,7 +708,6 @@ http://160451981011.cdn-fug.com:80/get.php?username=birtamtamfrance12425&passwor
 http://1nsel.com:8080/get.php?username=NarcisaBursuc&password=pQ9V6OSMal&type=m3u_plus&output=ts
 http://1nsel.com:8080/get.php?username=iftimie_ovidiu&password=ghkytsgfnxvi&type=m3u_plus&output=ts
 http://2.58.193.242/get.php?username=5zlRUGultX&password=yPxv75KATn&type=m3u:80&type=m3u8
-http://2015487.v3d.rent:2082/get.php?username=HAMIDO2024_954360&password=jD2am6G0&type=m3u&output=ts
 http://267982583018.cdn-fug.com:80/get.php?username=73m88ybvgfr&password=73m88ymsre&type=m3u_plus
 http://4.hdstreams.site:80/get.php?username=hankegabriela2022&password=Fbae63JjZTPV&type=m3u_plus&output=ts
 http://490087071383.cdn-eag.com:8080/get.php?username=mysnt_489056&password=fFx9TRzU&type=m3u_plus&output=ts
@@ -724,18 +723,15 @@ http://boski.streamtv.to:8080/get.php?username=2fzp9BZgtl&password=Pl7NFMedhk&ty
 http://boski.streamtv.to:8080/get.php?username=KreshnikIlazi&password=CNjsUneb9P&type=m3u_plus&output=ts
 http://boski.streamtv.to:8080/get.php?username=sebekonetedytamr&password=G9mlwHvKUR&type=m3u_plus&output=ts
 http://cloudytv.iptv.life:8000/get.php?username=andreilabont2023&password=QEPQUAGPaKRS&type=m3u_plus&output=ts
-http://csdragon2.xsho3solutions.com/get.php?username=cesareangelo&password=NDorYkbb7V&type=m3u_plus
 http://d4k4u.com/get.php?username=Yaya112_358573&password=x2t4Ix4J&type=m3u_plus
 http://eduvr.vip:8080/get.php?username=Cristian-iova&password=sJyN8WJ8hC&type=m3u
 http://emakarter.ddns.net:8008/get.php?username=Afteni-marius&password=h5S1mhUH1Z&type=m3u_plus
 http://g-med.xyz:25461/get.php?username=AlenViber_2tv&password=9AgfJaptrvZP&type=m3u&output=ts
 http://goldv3.me:2082/get.php?username=fuegoipsat439&password=0sxi3j6w3w&type=m3u_plus&output=ts
 http://home-playtv.com:8080/get.php?username=lchinchilla&password=QQAGR&type=m3u&output=ts
-http://k.unu.re:8080/get.php?username=AndreiSfait&password=gg35DpXMkN&type=m3u_plus&output=m3u8
 http://lidasromania.ddns.net:8080/get.php?username=valentin&password=valentin&type=m3u_plus&output=m3u8
 http://line.cristiprogrametv.com:80/get.php?username=tiptop15&password=LKYDINQT7V&output=ts&type=m3u_plus&output=ts
 http://open.secretsofsibiu.ro:8080/get.php?username=AN223298&password=X0aCKiiOWK&type=m3u_plus
-http://premiumvipzone.com:8080/get.php?username=AndreiSfait&password=gg35DpXMkN&type=m3u_plus&output=m3u8
 http://rahali44.xyz/get.php?username=KTCMNKZ6MPTH91B&password=QRD5vlRLOw&type=m3u_plus&output=mpegts
 http://tv.zapping.life:8080/get.php?username=d4rioc8rt3&password=6ce283ead3e4&type=m3u_plus
 http://tv.zapping.life:8080/get.php?username=huvargas01&password=latinplus6485&type=m3u_plus
@@ -743,7 +739,6 @@ http://tv.zapping.life:8080/get.php?username=mayleenfunez1&password=135535683598
 http://tv00.xyz/get.php?username=sO2ilZmkMr&password=tQVkiTKKJd&type=m3u&output=ts
 http://valorant.re:8008/get.php?username=cipriam@paunescu&password=b6nAtKduNX&type=m3u_plus
 http://vip-acasatv.online:25461/get.php?username=B3TfNwF2TM&password=8090253113&type=m3u_plus
-http://viphlvp.xyz:8080/get.php?username=VIP017311752920862518&password=9f59ee2a24ec&type=m3u_plus
 ALBA-LIFE-TV==================
 http://116342296971.d4ktv.info/get.php?username=Zak11_087512&password=jK5jaike&type=m3u_plus
 http://116342296971.d4ktv.info:80/get.php?username=Zak11_087512&password=jK5jaike&type=m3u_plus
@@ -767,7 +762,6 @@ http://open.secretsofsibiu.ro:8080/get.php?username=AN2211991&password=R2gw2QEBa
 http://reddevils.biz:8000/get.php?username=pelivan@za@dubai&password=HywGAoRa7LhDseRt54321J&type=m3u_plus
 http://redworld.pro:8880/get.php?username=DigitalService227d&password=13581723&type=m3u
 http://romania4k.ddns.net:8008/get.php?username=Loredana_Novac&password=wbhDkyRtwwPgaQr&type=m3u_plus&output=m3u8
-http://sf.my202501.vip:2082/get.php?username=sfy24_426792&password=ZYlCQxGY&type=m3u_plus
 http://ssliste.simpsongroups.com:80/get.php?username=najlaemir&password=XCQ2HnAVMM&type=m3u_plus&output=mpegts
 http://stb.euiptv.live:8080/get.php?username=Bezold&password=pC5KKU5&type=m3u
 http://ultra-premium-pro.xyz:8080/get.php?username=990126381tv&password=sd23mk233&type=m3u

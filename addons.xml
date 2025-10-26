@@ -2713,7 +2713,7 @@ http://www.ozbeceriksizler.com/forumdisplay.php?66-IPTV-Online-TV</description>
 </extension>
 </addon>
 
-<addon id="plugin.video.rumble" name="Rumble" version="1.9.1" provider-name="azzy9">
+<addon id="plugin.video.rumble" name="Rumble" version="1.9.2" provider-name="azzy9">
 	<requires>
 		<import addon="script.module.simplejson"/>
 		<import addon="script.module.requests"/>
@@ -3082,7 +3082,7 @@ v1.0.9 (14.8.2024)
 	</extension>
 </addon>
 
-<addon id="plugin.video.thapcam" name="ThapCam" version="0.6.7" provider-name="thapcam">
+<addon id="plugin.video.thapcam" name="ThapCam" version="0.6.8" provider-name="thapcam">
     <requires>
         <import addon="xbmc.python" version="3.0.1"/>
 		<import addon="script.module.requests"/>

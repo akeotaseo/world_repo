@@ -1965,12 +1965,13 @@ No se acepta ninguna responsabilidad por el uso de este addon.
 	</extension>
 </addon>
 
-<addon id="plugin.video.latinsports" name="Latin Sports" version="1.0.7" provider-name="Gigoro">
+<addon id="plugin.video.latinsports" name="Latin Sports" version="1.0.9" provider-name="Gigoro">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.dateutil" />
     <import addon="script.module.codequick" version="0.9.10" />
     <import addon="script.module.beautifulsoup4" version="4.0.0"/>
+    <import addon="script.module.simplejson"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>

@@ -575,7 +575,6 @@ http://fortv.cc:8080/get.php?username=DaFam@Dot.com&password=654321123456&type=m
 http://fortv.cc:8080/get.php?username=FY8p97R&password=mP4bscE&type=m3u_plus
 http://fortv.cc:8080/get.php?username=GgxK4Y&password=316544&type=m3u_plus
 http://fortv.cc:8080/get.php?username=Gizvid182@giz.com&password=1234@4321&type=m3u_plus
-http://fortv.cc:8080/get.php?username=Jennifersmith11171@icloud.com&password=Jennifersmith11171@2023&type=m3u_plus
 http://fortv.cc:8080/get.php?username=JfxHD66&password=8T39qyU&type=m3u_plus
 http://fortv.cc:8080/get.php?username=M0JPjK&password=877435&type=m3u_plus
 http://fortv.cc:8080/get.php?username=SxB4e5&password=149101&type=m3u_plus
@@ -598,9 +597,7 @@ http://fortv.cc:8080/get.php?username=murphy.brendanf@gmail.com&password=nRrkqdu
 http://fortv.cc:8080/get.php?username=p6A3N7&password=990168&type=m3u_plus
 http://fortv.cc:8080/get.php?username=rockstone2771@yahoo.com&password=UN77CG3M68&type=m3u_plus
 http://fortv.cc:8080/get.php?username=ronward&password=Navy&type=m3u_plus
-http://fortv.cc:8080/get.php?username=specialkga32@gmail.com&password=JLnk2mhSdj&type=m3u_plus
 http://fortv.cc:8080/get.php?username=tonygoins95@gmail.com&password=nHpR8BwyKF&type=m3u_plus
-http://fortv.cc:8080/get.php?username=v033BG&password=728458&type=m3u_plus
 http://fortv.cc:8080/get.php?username=vployngam@gmail.com&password=KgZFPE7vCq&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=103210723&password=103210723&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=1QAghG&password=992898&type=m3u_plus
@@ -618,7 +615,6 @@ http://tvmate.icu:8080/get.php?username=83163662&password=83163662&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=92325382&password=92325382&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=92992789&password=92992789&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=97165667&password=97165667&type=m3u_plus
-http://tvmate.icu:8080/get.php?username=AHy3c7&password=745580&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=Darrenshannon76@outlook.com&password=Darrenshannon76@2023&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=JasonKoehler&password=Koehler&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=Kim01&password=Kim01&type=m3u_plus
@@ -634,15 +630,13 @@ http://tvmate.icu:8080/get.php?username=bn80NG&password=909467&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=hH7Vv4s&password=Hf3s18P&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=k6fFPK&password=788484&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=larrylar@gmail.com&password=573@553&type=m3u_plus
-http://tvmate.icu:8080/get.php?username=rtv005&password=45786476&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=ryanwjholland@gmail.com&password=ryan@2023&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=tandphunt1@gmail.com&password=AAn4BJhH7f&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=tonygoins95@gmail.com&password=nHpR8BwyKF&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=trakilshia.simmons&password=TmJU5yNxAe&type=m3u_plus
-http://tvmate.icu:8080/get.php?username=tstevens34.t@gmail.com&password=jELXtJNhtN&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=vAqNz0&password=583937&type=m3u_plus
-http://tvmate.icu:8080/get.php?username=will646mald@netzero.net&password=will646mald@2022&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=xWP0a5&password=674148&type=m3u_plus
+
 GRUPO FOREVER==================
 http://btpan.net:80/get.php?username=11983083256danilo2&password=vfdklghj8541&type=m3u_plus&output=ts
 http://btpan.net:80/get.php?username=19991258415helio&password=jhbcvf43645&type=m3u_plus&output=ts

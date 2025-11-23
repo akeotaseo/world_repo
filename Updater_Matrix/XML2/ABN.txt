@@ -358,3 +358,8 @@ http://imaxplay.net:2082/get.php?username=miguel6anwat&password=GBSXB&type=m3u_p
 http://imaxplay.net:2082/get.php?username=pablocr0924&password=uRzKBFUsYC&type=m3u_plus
 http://imaxplay.net:2082/get.php?username=sgtpeppercr&password=5svFF1anF6&type=m3u_plus
 http://imaxplay.net:2082/get.php?username=userdiaz15&password=GRVVH&type=m3u_plus
+http://xxip9.top:8080/get.php?username=4YYrcEg&password=Z8bmyZb&type=m3u_plus&output=ts
+http://xxip9.top:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus&output=ts
+http://xxip9.top:8080/get.php?username=char@dot.com&password=char@14223&type=m3u_plus&output=ts
+http://xxip9.top:8080/get.php?username=phi@live.ca&password=phi@3574&type=m3u_plus&output=ts
+http://xxip9.top:8080/get.php?username=sm@synergyplangroup.ca&password=I0RfrFOHo5&type=m3u_plus&output=ts

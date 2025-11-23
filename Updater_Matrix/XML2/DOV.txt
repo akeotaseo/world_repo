@@ -1,16 +1,11 @@
 http://xxip25.top:8080/get.php?username=13KpN5&password=160160&type=m3u_plus
 http://xxip25.top:8080/get.php?username=142624118&password=142624118&type=m3u_plus
 http://xxip25.top:8080/get.php?username=1yNyea&password=123956&type=m3u
-http://xxip25.top:8080/get.php?username=1yNyea&password=123956&type=m3u_plus
-http://xxip25.top:8080/get.php?username=36136040&password=29438954&type=m3u
-http://xxip25.top:8080/get.php?username=49457200&password=49457200&type=m3u_plus
 http://xxip25.top:8080/get.php?username=5199813792&password=ltorres@cogeco.ca&type=m3u_plus
 http://xxip25.top:8080/get.php?username=59Rqzs&password=241851&type=m3u_plus
 http://xxip25.top:8080/get.php?username=69411388&password=69411388&type=m3u_plus
 http://xxip25.top:8080/get.php?username=85468216&password=20751659&type=m3u_plus
-http://xxip25.top:8080/get.php?username=901desi@cigarsmoke&password=3340108&type=m3u
 http://xxip25.top:8080/get.php?username=BenjaminRoque&password=Roque&type=m3u_plus
-http://xxip25.top:8080/get.php?username=DAFsm1&password=015993&type=m3u_plus
 http://xxip25.top:8080/get.php?username=DodgeRam&password=Mopar&type=m3u_plus
 http://xxip25.top:8080/get.php?username=E9572p&password=133120&type=m3u_plus
 http://xxip25.top:8080/get.php?username=FCM2023!!&password=Coco2023$&type=m3u_plus
@@ -30,7 +25,6 @@ http://xxip25.top:8080/get.php?username=jakewilliamsf13@yahoo.com&password=UzQ23
 http://xxip25.top:8080/get.php?username=k6fFPK&password=788484&type=m3u_plus
 http://xxip25.top:8080/get.php?username=kglauzon203@gmail.com&password=FTkOL6kb7d&type=m3u_plus
 http://xxip25.top:8080/get.php?username=kkjsims@aol.com&password=wH1qDzyPXg&type=m3u_plus
-http://xxip25.top:8080/get.php?username=kr5jUB&password=791079&type=m3u
 http://xxip25.top:8080/get.php?username=m1pA6E&password=285356&type=m3u_plus
 http://xxip25.top:8080/get.php?username=n2xCxU&password=098316&type=m3u_plus
 http://xxip25.top:8080/get.php?username=n7NX45&password=216258&type=m3u_plus
@@ -41,3 +35,4 @@ http://xxip25.top:8080/get.php?username=sandyq117@gmail.com&password=sandyq117@2
 http://xxip25.top:8080/get.php?username=supertech36515@dytechservices.com13&password=rHd7Gg8ttx&type=m3u_plus
 http://xxip25.top:8080/get.php?username=vettezr@sccoast.net&password=AyxnfrBhRR&type=m3u_plus
 http://xxip25.top:8080/get.php?username=zC3Eby&password=245776&type=m3u_plus
+

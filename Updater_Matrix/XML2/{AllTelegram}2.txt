@@ -585,7 +585,6 @@ http://tvmate.icu:8080/get.php?username=tonygoins95@gmail.com&password=nHpR8BwyK
 http://tvmate.icu:8080/get.php?username=trakilshia.simmons&password=TmJU5yNxAe&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=vAqNz0&password=583937&type=m3u_plus
 http://tvmate.icu:8080/get.php?username=xWP0a5&password=674148&type=m3u_plus
-
 GRUPO FOREVER==================
 http://btpan.net:80/get.php?username=11983083256danilo2&password=vfdklghj8541&type=m3u_plus&output=ts
 http://btpan.net:80/get.php?username=19991258415helio&password=jhbcvf43645&type=m3u_plus&output=ts

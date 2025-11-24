@@ -168,12 +168,10 @@ http://kstv.us:8080/get.php?username=wsMud3Rf4V&password=00664869463&type=m3u_pl
 http://kstv.us:8080/get.php?username=yavAY5StC4&password=5292522775&type=m3u_plus
 http://kstv.us:8080/get.php?username=zmKA87NYsu&password=7077025419&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=100974831&password=100974831&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=11928991&password=28670524&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=134152079&password=134152079&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=13851097&password=13851097&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=15564292&password=15564292&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=19174796&password=19174796&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=2072900422&password=jmasterman504@gmail.com&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=2145165799&password=eddelley31@yahoo.com&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=30550113&password=30550113&type=m3u
 http://cord-cutter.net:8080/get.php?username=32ED4m&password=754887&type=m3u_plus
@@ -185,8 +183,6 @@ http://cord-cutter.net:8080/get.php?username=53249578&password=53249578&type=m3u
 http://cord-cutter.net:8080/get.php?username=5702120689&password=surban408@comcast.net&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=58217006&password=58217006&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=6149750569&password=andre319@live.com&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=62233102&password=81768339&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=70453597&password=56651433&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=7656691303&password=chrisbolden765@icloud.com&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=7MArer2&password=382185&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=84839896&password=84839896&type=m3u_plus
@@ -197,9 +193,6 @@ http://cord-cutter.net:8080/get.php?username=94879108&password=94879108&type=m3u
 http://cord-cutter.net:8080/get.php?username=95549031&password=69361122&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=95992856&password=95992856&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=969478&password=759984&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=AHy3c7&password=745580&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=Aj1233&password=rgKq0U5CmV&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=DAFsm1&password=015993&type=m3u
 http://cord-cutter.net:8080/get.php?username=FCM2023!!&password=Coco2023$&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=KB0cRT&password=666742&type=m3u
 http://cord-cutter.net:8080/get.php?username=KP@NMB3&password=14880&type=m3u_plus
@@ -227,7 +220,6 @@ http://cord-cutter.net:8080/get.php?username=chez&password=Year1978&type=m3u_plu
 http://cord-cutter.net:8080/get.php?username=clarke@ogbtv.com&password=0605@2002&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=deadman1966@outlook.com&password=deadman1966@2023&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=etamez72@gmail.com&password=DLaxZLM0oX&type=m3u_plus
-http://cord-cutter.net:8080/get.php?username=genuinegr@outlook.com&password=mnJ4zvFT2h&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=gillessenack@gmail.com&password=gillessenack@2022&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=glendakbarnett@hotmail.com&password=L9EjPhJhv1&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=green&password=rocky&type=m3u_plus
@@ -361,5 +353,9 @@ http://imaxplay.net:2082/get.php?username=userdiaz15&password=GRVVH&type=m3u_plu
 http://xxip9.top:8080/get.php?username=4YYrcEg&password=Z8bmyZb&type=m3u_plus&output=ts
 http://xxip9.top:8080/get.php?username=canglobaltv3&password=globe1344&type=m3u_plus&output=ts
 http://xxip9.top:8080/get.php?username=char@dot.com&password=char@14223&type=m3u_plus&output=ts
+http://xxip9.top:8080/get.php?username=joeymajor72@gmail.com&password=wxh2Hs7wPh&type=m3u
 http://xxip9.top:8080/get.php?username=phi@live.ca&password=phi@3574&type=m3u_plus&output=ts
 http://xxip9.top:8080/get.php?username=sm@synergyplangroup.ca&password=I0RfrFOHo5&type=m3u_plus&output=ts
+http://xxip43.top:8080/get.php?username=70579078&password=70579078&type=m3u_plus
+http://xxip43.top:8080/get.php?username=Anaimaldonado24gmail.com&password=9hOIM0AFwi&type=m3u_plus
+http://xxip43.top:8080/get.php?username=mario.degregorio11@gmail.com&password=xQ22KbDGZ8&type=m3u_plus

@@ -7,3 +7,4 @@ http://ip96.uk:8080/get.php?username=H645668DH&password=7565848DHY&type=m3u_plus
 http://tv.iptv-chal.net:2052/get.php?username=38633241&password=92643634&type=m3u_plus
 http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
 http://tvpromas.com:2082/get.php?username=ChinosxArto20255&password=5DSMqGwvfaPb&type=m3u_plus
+http://unable24503.cdngold.me/get.php?username=e4fa92a167&password=1c6e5b169d&type=m3u_plus

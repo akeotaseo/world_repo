@@ -64,5 +64,7 @@ http://tv.zapping.life:8080/get.php?username=huvargas01&password=latinplus6485&t
 http://tv.zapping.life:8080/get.php?username=mayleenfunez1&password=135535683598&type=m3u
 http://tvmate.icu:8080/get.php?username=MySon@outlook.com&password=MySon8139&type=m3u
 http://tvmerkezi4.org:8080/get.php?username=uHNJRyH3&password=f3DKt4U8&type=m3u_plus
+http://uzay.pro:8080/get.php?username=nekimahmuhti&password=kXFVECGoUE&type=m3u_plus
 http://v3-support.it.com:2082/get.php?username=yas012_738032&password=QkPA9wAz&type=m3u_plus&output=mpegts
 http://vip-acasatv.online:25461/get.php?username=B3TfNwF2TM&password=8090253113&type=m3u_plus
+http://xplatinproject.com:8080/get.php?username=AB&password=8ecSmk93b3mLQncuEzwuSxdbS6LUnp&type=m3u_plus

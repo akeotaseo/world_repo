@@ -67,4 +67,6 @@ http://tvmerkezi4.org:8080/get.php?username=uHNJRyH3&password=f3DKt4U8&type=m3u_
 http://uzay.pro:8080/get.php?username=nekimahmuhti&password=kXFVECGoUE&type=m3u_plus
 http://v3-support.it.com:2082/get.php?username=yas012_738032&password=QkPA9wAz&type=m3u_plus&output=mpegts
 http://vip-acasatv.online:25461/get.php?username=B3TfNwF2TM&password=8090253113&type=m3u_plus
+http://vipvodme.top:8080/get.php?username=FR0297173627735442&password=81736277354424&type=m3u_plus
+http://vipvodme.top:8080/get.php?username=fr4531745766178004&password=aae43934ed42&type=m3u_plus
 http://xplatinproject.com:8080/get.php?username=AB&password=8ecSmk93b3mLQncuEzwuSxdbS6LUnp&type=m3u_plus

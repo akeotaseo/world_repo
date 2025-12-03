@@ -8,3 +8,6 @@ http://tv.iptv-chal.net:2052/get.php?username=38633241&password=92643634&type=m3
 http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
 http://tvpromas.com:2082/get.php?username=ChinosxArto20255&password=5DSMqGwvfaPb&type=m3u_plus
 http://unable24503.cdngold.me/get.php?username=e4fa92a167&password=1c6e5b169d&type=m3u_plus
+http://vippccjuzfa.top:8080/get.php?username=VIP0101738583823328&password=2ccdcd9c9d26&type=m3u_plus
+http://vippccjuzfa.top:8080/get.php?username=VIP012441738222392323&password=3e37cef2de07&type=m3u_plus
+http://vippccjuzfa.top:8080/get.php?username=VIP0162174808749167&password=71748087491094&type=m3u_plus

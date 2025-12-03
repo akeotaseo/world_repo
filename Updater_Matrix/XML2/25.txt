@@ -43,12 +43,16 @@ http://lobitv65.xyz:8080/get.php?username=mhm7555&password=mhm..m2&type=m3u_plus
 http://lobitv65.xyz:8080/get.php?username=mrt6662&password=bf62ee76bcbdf37f&type=m3u_plus
 http://lobitv65.xyz:8080/get.php?username=srf7837&password=afda41fa1a81e97c&type=m3u_plus
 http://lobitv65.xyz:8080/get.php?username=syf2660&password=syf0xy&type=m3u_plus
+http://nocable.cc:8080/get.php?username=6327226605&password=5066227236&type=m3u_plus
 http://nocable.cc:8080/get.php?username=7MArer2&password=382185&type=m3u
 http://nocable.cc:8080/get.php?username=86413334&password=86413334&type=m3u
 http://nocable.cc:8080/get.php?username=9313090115&password=ramsey.missy89@gmail.com&type=m3u
 http://nocable.cc:8080/get.php?username=95549031&password=69361122&type=m3u
+http://nocable.cc:8080/get.php?username=GeS691&password=717013&type=m3u_plus
+http://nocable.cc:8080/get.php?username=VM121630&password=9021612489&type=m3u_plus
 http://nocable.cc:8080/get.php?username=little-lise@hotmail.com&password=XsfTkf8rn1&type=m3u
 http://nocable.cc:8080/get.php?username=shellewpa@gmail.com&password=zKqbiF22gK&type=m3u
+http://nocable.cc:8080/get.php?username=xS46SD&password=400771&type=m3u_plus
 http://open.secretsofsibiu.ro:8080/get.php?username=AN223298&password=X0aCKiiOWK&type=m3u_plus
 http://predator007.com:8080/get.php?username=Klejdi_Gjini_IT&password=kfzKuFst7&type=m3u_plus&output=mpegts
 http://proxy.tomsijerry.xyz:8080/get.php?username=_bianca_ionas&password=bczFDertgB&type=m3u_plus

@@ -15,6 +15,11 @@ http://161.123.116.21:80/get.php?username=Steven321&password=Steven123&type=m3u_
 http://161.123.116.21:80/get.php?username=addi123&password=addi123&type=m3u_plus
 http://161.123.116.21:80/get.php?username=ash12345678&password=ash12345678&type=m3u_plus
 http://161.123.116.21:80/get.php?username=michael1&password=michael2&type=m3u_plus
+http://reis64.com/get.php?username=Metpol9311nvch&password=0SQnAZCHle&type=m3u_plus
+http://reis64.com/get.php?username=awQZx2020cB&password=2024ghaQw&type=m3u_plus
+http://reis64.com/get.php?username=batserkanzeyneloglu&password=tZ71Wnb&type=m3u_plus
+http://reis64.com/get.php?username=hasanozcelik&password=ptOlr430I6&type=m3u_plus
+http://reis64.com/get.php?username=hdiptv3217&password=qYZCr9E&type=m3u_plus
 http://reis64.com:2086/get.php?username=MalteZP8754&password=WEbAp6XsKz&type=m3u_plus
 http://reis64.com:2086/get.php?username=angelo01&password=R1dIr4DP&type=m3u_plus
 http://reis64.com:2086/get.php?username=askerhasan&password=281120233&type=m3u_plus

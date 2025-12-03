@@ -4696,7 +4696,7 @@ v0.1.0
 
 <addon id="script.sites"
   name="script sites"
-  version="19.5c"
+  version="19.5d"
   provider-name="ML Gb">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>

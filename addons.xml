@@ -1429,7 +1429,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.7+matrix.1" provider-name="realvito">
+<addon id="plugin.video.euronews_com" name="euronews.com" version="2.3.8+matrix.1" provider-name="realvito">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.27.0"/>
@@ -1476,17 +1476,8 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
-[B][COLOR orangered]Version 2.3.7+matrix.1  (30.07.2025)[/COLOR][/B]
-- added: Neue Bilder mit Text im Ordner 'ALLE PROGRAMME'
-- added: Rubrik = 'ALLE VIDEOS' im Ordner 'ALLE PROGRAMME' (auf der Webseite gelistet unter Videos)
-- added: Sprache = 'Polnisch' als Auswahl und Übersetzung
-- comment: * Durch das Hinzufügen der Sprache 'Polnisch' haben sich die Zuordnungen in den Einstellungen des Addons verändert, daher müssen diese beim ersten Start nach dem Update neu gesetzt werden ! *
-
-[B][COLOR orangered]Version 2.3.6+matrix.1  (27.07.2025)[/COLOR][/B]
-- fixed: Alle Unterordner in der zweiten Ansicht zeigen keine Beiträge mehr an (die Funktionen der Euronews-Webseite sind hauptsächlich nur noch in JAVA-Script)
-- added: Rubrik = 'ALLE PROGRAMME' im Startmenü
-- removed: Rubrik = 'Extra-Berichterstattung' (in der Android-App/-API nicht vorhanden)
-- comment: * Da Euronews in der Webversion sämtliche Weiterleitungen jetzt nur noch per JAVA-Script tätigt, übernimmt das Addon nur noch die Haupt-/Unter-Kategorien von der Webseite und alles weitere wird über die Android-API abgefragt ! *
+[B][COLOR orangered]Version 2.3.8+matrix.1  (02.11.2025)[/COLOR][/B]
+- fixed: YouTube-Url-Check zur Überprüfung ob YouTube-ID abspielbar ist (Neue Url)
 		</news>
 	</extension>
 </addon>

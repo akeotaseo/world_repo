@@ -33,17 +33,3 @@ http://xc.adultiptv.net:80/get.php?username=lucasgadelha&password=18645EH8&type=
 http://xc.adultiptv.net:80/get.php?username=marcosantonio276&password=73883689&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=nilton966&password=nilton771149&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=tvsandra&password=718J27K3&type=m3u_plus
-http://flyxjoy.sbs:80/get.php?username=David1&password=123456&type=m3u_plus&output=ts
-http://flyxjoy.sbs:80/get.php?username=marcelo47&password=4799104120&type=m3u_plus&output=ts
-http://fsplay.top:80/get.php?username=51038798&password=98632378&type=m3u_plus&output=ts
-http://fsplay.top:80/get.php?username=74762504&password=45736614&type=m3u_plus&output=ts
-http://fsplay.top:80/get.php?username=DJ1HX3A4Az&password=pHPT2dsTIP&type=m3u_plus&output=ts
-http://fsplay.top:80/get.php?username=Ronaldo&password=Ronaldo&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=269292359&password=347543126&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=522664168&password=923666644&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=524005288&password=695769019&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=592248818&password=922522091&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=597961&password=259443&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=598960693&password=631181575&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=778077298&password=049201965&type=m3u_plus&output=ts
-https://tvsuper.top/get.php?username=827475486&password=075360853&type=m3u_plus&output=ts

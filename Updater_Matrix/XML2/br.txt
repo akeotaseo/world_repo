@@ -118,7 +118,6 @@ http://dns.empscf.com.br/get.php?username=6373489&password=Ri6373&type=m3u_plus&
 http://dns.empscf.com.br/get.php?username=Eduardotarga&password=JIbwMXgMgM&type=m3u_plus&output=ts
 http://dns.empscf.com.br/get.php?username=PsdcQDZ2&password=3mRFnjcq&type=m3u_plus&output=ts
 http://dns.empscf.com.br/get.php?username=edmxt2&password=XD3UO1aZgw&type=m3u_plus&output=ts
-http://dnscine.top:80/get.php?username=853134&password=622158&type=m3u_plus
 http://dnscine.top:80/get.php?username=8587779794&password=2311542193&type=m3u_plus
 http://dnscine.top:80/get.php?username=873737836&password=352182131&type=m3u_plus
 http://dnscine.top:80/get.php?username=874236631&password=848512848&type=m3u_plus

@@ -38,3 +38,8 @@ http://z01.shop/get.php?username=123456789&password=987654321&type=m3u_plus&outp
 http://z01.shop/get.php?username=212121&password=212121&type=m3u_plus&output=ts
 http://z01.shop/get.php?username=antonio321&password=antonio321&type=m3u_plus&output=ts
 http://z01.shop/get.php?username=marcelo123&password=marcelo123&type=m3u_plus&output=ts
+http://server.iptvxxx.net/get.php?username=1473527&password=123456&type=m3u_plus
+http://server.iptvxxx.net/get.php?username=68479652&password=74541442&type=m3u_plus
+http://server.iptvxxx.net/get.php?username=69754975051451&password=449697152519&type=m3u_plus
+http://server.iptvxxx.net/get.php?username=987942270&password=5nru5batq5c&type=m3u_plus
+http://server.iptvxxx.net/get.php?username=9909639&password=4401805&type=m3u_plus

@@ -33,3 +33,8 @@ http://xc.adultiptv.net:80/get.php?username=lucasgadelha&password=18645EH8&type=
 http://xc.adultiptv.net:80/get.php?username=marcosantonio276&password=73883689&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=nilton966&password=nilton771149&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=tvsandra&password=718J27K3&type=m3u_plus
+http://z01.shop/get.php?username=09423508&password=51709437&type=m3u_plus&output=ts
+http://z01.shop/get.php?username=123456789&password=987654321&type=m3u_plus&output=ts
+http://z01.shop/get.php?username=212121&password=212121&type=m3u_plus&output=ts
+http://z01.shop/get.php?username=antonio321&password=antonio321&type=m3u_plus&output=ts
+http://z01.shop/get.php?username=marcelo123&password=marcelo123&type=m3u_plus&output=ts

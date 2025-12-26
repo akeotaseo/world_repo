@@ -1071,3 +1071,9 @@ A0:BB:3E:E4:82:F2=http://stb.vooiptv.com:80/c/=,
 
 
 TEST
+00:1A:79:00:12:C9=http://klaratv.com:80/c/=,
+00:1A:79:00:1B:7C=http://klaratv.com:80/c/=,
+00:1A:79:00:21:82=http://klaratv.com:80/c/=,
+00:1A:79:00:25:fa=http://klaratv.com:80/c/=,
+00:1A:79:00:26:60=http://klaratv.com:80/c/=,
+00:1A:79:00:3B:0A=http://klaratv.com:80/c/=,

@@ -9,11 +9,15 @@ http://fortv.cc:8080/get.php?username=clarkcheryl6@aol.com&password=clarkcheryl6
 http://fortv.cc:8080/get.php?username=tpmcdonald79@hotmail.com&password=031@130&type=m3u
 http://goldenpro.xyz/get.php?username=51GYZ3Q&password=G0N5T14&type=m3u
 http://goldenpro.xyz:80/get.php?username=51GYZ3Q&password=G0N5T14&type=m3u_plus&output=m3u8
+http://goldtv.lat:80/get.php?username=Rossygf7&password=76C5d2r3w78U&type=m3u_plus
+http://goldtv.lat:80/get.php?username=SantiagoTN2024&password=kVcMxs8bTVUX&type=m3u_plus
+http://goldtv.lat:80/get.php?username=usuario12NAL&password=DNqEaU7bmW&type=m3u_plus
 http://higherpro.xyz:8080/get.php?username=Raquel1209&password=Comicheo1221&type=m3u
 http://ipc.proipciptv.com:8000/get.php?username=325465uz&password=tz4552415&type=m3u_plus
 http://jbdtgpmr.eldervpn.xyz/get.php?username=7X5MV8KJ&password=NVRZ3FSM&type=m3u_plus
 http://jbdtgpmr.eldervpn.xyz:80/get.php?username=7X5MV8KJ&password=NVRZ3FSM&type=m3u
 http://jbdtgpmr.eldervpn.xyz:80/get.php?username=7X5MV8KJ&password=NVRZ3FSM&type=m3u_plus
+http://kytv.xyz//get.php?username=brendan1&password=brendan1&type=m3u_plus
 http://lobitv65.xyz:8080/get.php?username=mhm7555&password=mhm..m2&type=m3u_plus
 http://lobitv65.xyz:8080/get.php?username=mrt6662&password=bf62ee76bcbdf37f&type=m3u_plus
 http://lobitv65.xyz:8080/get.php?username=srf7837&password=afda41fa1a81e97c&type=m3u_plus

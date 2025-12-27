@@ -1245,6 +1245,7 @@ http://vmi1839636.contaboserver.net:2082/get.php?username=azcolom406&password=49
 http://vmi1839636.contaboserver.net:2082/get.php?username=palma89&password=202020&type=m3u_plus
 http://vmi1839636.contaboserver.net:2082/get.php?username=patqw28&password=tricio07&type=m3u_plus
 SGD=======================
+http://1.dn-loukos.com/get.php?username=e4ad984958&password=o5uphjsfej&type=m3u_plus&output=m3u8
 http://1.dn-loukos.com:80/get.php?username=2b2da27e43&password=9e19da20416a&type=m3u_plus
 http://1.dn-loukos.com:80/get.php?username=387e7278f9&password=f46707d6513b&type=m3u_plus
 http://1.dn-loukos.com:80/get.php?username=4ada68d8f1&password=568851ce1e4b&type=m3u_plus

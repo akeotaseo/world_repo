@@ -1685,3 +1685,8 @@ A0:BB:3E:E4:82:F2=http://stb.vooiptv.com:80/c/=,
 
 
 TEST
+00:1A:79:00:00:00=http://main.light-ott.net/c/=,
+00:1A:79:00:01:01=http://main.light-ott.net/c/=,
+00:1A:79:00:04:50=http://main.light-ott.net/c/=,
+00:1A:79:00:11:22=http://main.light-ott.net/c/=,
+00:1A:79:00:22:D1=http://main.light-ott.net/c/=,

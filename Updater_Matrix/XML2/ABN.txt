@@ -1,12 +1,6 @@
-http://kstv.us:8080/get.php?username=0AxFgNRPu3&password=6206718915&type=m3u_plus
 http://kstv.us:8080/get.php?username=0pbWDtzXSZ&password=3856499579&type=m3u_plus
-http://kstv.us:8080/get.php?username=2S1tesbC3n&password=4095504481&type=m3u_plus
-http://kstv.us:8080/get.php?username=3Uu4btwdE1&password=2051589377&type=m3u_plus
 http://kstv.us:8080/get.php?username=45hQ11dQpa&password=1679644069&type=m3u_plus
-http://kstv.us:8080/get.php?username=46G8KzUhSp&password=4848259315&type=m3u_plus
-http://kstv.us:8080/get.php?username=4Kpr2cX8tB&password=5395888024&type=m3u_plus
 http://kstv.us:8080/get.php?username=7Uaq8fkGnf&password=5776344159&type=m3u_plus
-http://kstv.us:8080/get.php?username=7dv03rCWAT&password=7272586310&type=m3u_plus
 http://kstv.us:8080/get.php?username=973shop&password=1408639254&type=m3u_plus
 http://kstv.us:8080/get.php?username=9c8Fb91Trp&password=2889716577&type=m3u_plus
 http://kstv.us:8080/get.php?username=9zjXXUYaE6&password=7034193319&type=m3u_plus
@@ -19,9 +13,7 @@ http://kstv.us:8080/get.php?username=BCQjs2QEQW&password=3805454023&type=m3u_plu
 http://kstv.us:8080/get.php?username=Bmac0922&password=45114980049&type=m3u_plus
 http://kstv.us:8080/get.php?username=CXfyD1xtnk&password=20061985&type=m3u_plus
 http://kstv.us:8080/get.php?username=Cooks11&password=2668729254&type=m3u_plus
-http://kstv.us:8080/get.php?username=DBeverly&password=2290061890&type=m3u_plus
 http://kstv.us:8080/get.php?username=DSantana651&password=74375140513&type=m3u_plus
-http://kstv.us:8080/get.php?username=DebbieKnox1212&password=3198167397&type=m3u_plus
 http://kstv.us:8080/get.php?username=DomsFireStick&password=43759841237&type=m3u_plus
 http://kstv.us:8080/get.php?username=E2KcWEuHZb&password=48828197671&type=m3u_plus
 http://kstv.us:8080/get.php?username=Elmworth78&password=30084463659&type=m3u_plus
@@ -73,7 +65,6 @@ http://kstv.us:8080/get.php?username=WFNeeley&password=7659239413&type=m3u_plus
 http://kstv.us:8080/get.php?username=WalterDavis&password=BellaRylie11$&type=m3u_plus
 http://kstv.us:8080/get.php?username=WeaponX&password=Dawkins22&type=m3u_plus
 http://kstv.us:8080/get.php?username=XDY2MyED0p&password=0855736343&type=m3u_plus
-http://kstv.us:8080/get.php?username=YF7MDDvrKy&password=86396395676&type=m3u_plus
 http://kstv.us:8080/get.php?username=YNGCeeZ&password=0001918538&type=m3u_plus
 http://kstv.us:8080/get.php?username=Ydf1wQJKN4&password=7557914355&type=m3u_plus
 http://kstv.us:8080/get.php?username=Z500NyrhP3&password=1773598486&type=m3u_plus
@@ -106,7 +97,6 @@ http://kstv.us:8080/get.php?username=james1971&password=5834987068&type=m3u_plus
 http://kstv.us:8080/get.php?username=jdmndnB5fT&password=8370026530&type=m3u_plus
 http://kstv.us:8080/get.php?username=jreedy23&password=5292894955&type=m3u_plus
 http://kstv.us:8080/get.php?username=kamara0609&password=8129196277&type=m3u_plus
-http://kstv.us:8080/get.php?username=kerra&password=4175560237&type=m3u_plus
 http://kstv.us:8080/get.php?username=kingkong&password=2016656025&type=m3u_plus
 http://kstv.us:8080/get.php?username=ks9jzHwZce&password=8251731225&type=m3u_plus
 http://kstv.us:8080/get.php?username=kyvsav2tYt&password=6676920103&type=m3u_plus
@@ -151,7 +141,6 @@ http://kstv.us:8080/get.php?username=vaSS84RMXg&password=7800232344&type=m3u_plu
 http://kstv.us:8080/get.php?username=wAb3jbj69C&password=9162847236&type=m3u_plus
 http://kstv.us:8080/get.php?username=wZm3Gkr8Xw&password=9768105088&type=m3u_plus
 http://kstv.us:8080/get.php?username=weNYA63Use&password=6106171507&type=m3u_plus
-http://kstv.us:8080/get.php?username=wsMud3Rf4V&password=00664869463&type=m3u_plus
 http://kstv.us:8080/get.php?username=yavAY5StC4&password=5292522775&type=m3u_plus
 http://kstv.us:8080/get.php?username=zmKA87NYsu&password=7077025419&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=100974831&password=100974831&type=m3u_plus
@@ -324,19 +313,15 @@ http://imaxplay.net:2082/get.php?username=userdiaz15&password=GRVVH&type=m3u_plu
 http://xxip43.top:8080/get.php?username=70579078&password=70579078&type=m3u_plus
 http://xxip43.top:8080/get.php?username=Anaimaldonado24gmail.com&password=9hOIM0AFwi&type=m3u_plus
 http://xxip43.top:8080/get.php?username=mario.degregorio11@gmail.com&password=xQ22KbDGZ8&type=m3u_plus
-http://zorrohunter.com:8080/get.php?username=0Muswg7rtQ&password=67113557406&type=m3u_plus
-http://zorrohunter.com:8080/get.php?username=4aAZGZgPFH&password=Cassie1234!!!&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=6mq3aVtcCH&password=3615231689&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=84QH4XAAMR&password=3525541888&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=98xFWe8zpJ&password=3063987185&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=AhsUqBm9Qz&password=6282278187&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=Alberth57587&password=7778524095&type=m3u_plus
-http://zorrohunter.com:8080/get.php?username=Amoah22&password=7887531266&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=Crunchfit1&password=5372762020&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=HRXc5tVQ3z&password=7710343396&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=JYTXaezK5r&password=23467799&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=LundunNeal&password=3025794008&type=m3u_plus
-http://zorrohunter.com:8080/get.php?username=Q0TFwARTMu&password=9882397099&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=R0eFX8D3rq&password=45259678484&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=VHVMqd0j8c&password=5645744300&type=m3u_plus
 http://zorrohunter.com:8080/get.php?username=W1yNE0XM2u&password=2829256011&type=m3u_plus
@@ -350,7 +335,6 @@ http://zorrohunter.com:8080/get.php?username=wmT5cMVHUw&password=9370790608&type
 http://1tv41.icu:8080/get.php?username=4Zf4e3&password=722909&type=m3u
 http://1tv41.icu:8080/get.php?username=53892204&password=53892204&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=5WfjcA&password=242699&type=m3u
-http://1tv41.icu:8080/get.php?username=7KAjSp&password=337204&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=9013346454&password=Marconorman.60@gmail.com&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=99391000&password=99391000&type=m3u
 http://1tv41.icu:8080/get.php?username=Dj8p2K&password=309688&type=m3u_plus

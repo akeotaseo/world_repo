@@ -3714,7 +3714,7 @@ v0.1.0
   </extension>
 </addon>
 
-<addon id="plugin.video.xxx" name="XVideos" version="2024.09.17" provider-name="Me">
+<addon id="plugin.video.xxx" name="XVideos" version="2025.11.10" provider-name="Me">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>

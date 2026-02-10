@@ -3,9 +3,5 @@ http://xplatinmedia.com:8080/get.php?username=@JoshVPN2&password=J16MdNXRnruVdCK
 http://xplatinmedia.com:8080/get.php?username=@JustMerc_friend&password=sesmw2BXurGi9RJGx6Vnd&type=m3u_plus
 http://xplatinmedia.com:8080/get.php?username=@RickyPickering&password=Tg86Gk4gHHaMP6kDCN&type=m3u_plus
 http://xplatinmedia.com:8080/get.php?username=@mrmagicstars&password=JBJNHuFuV5&type=m3u_plus
-http://ip96.uk:8080/get.php?username=H645668DH&password=7565848DHY&type=m3u_plus
 http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
 http://tvpromas.com:2082/get.php?username=ChinosxArto20255&password=5DSMqGwvfaPb&type=m3u_plus
-http://vippccjuzfa.top:8080/get.php?username=VIP0101738583823328&password=2ccdcd9c9d26&type=m3u_plus
-http://vippccjuzfa.top:8080/get.php?username=VIP012441738222392323&password=3e37cef2de07&type=m3u_plus
-http://vippccjuzfa.top:8080/get.php?username=VIP0162174808749167&password=71748087491094&type=m3u_plus

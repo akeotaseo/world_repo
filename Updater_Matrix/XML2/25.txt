@@ -5,7 +5,6 @@ http://5stars-data.cam:8080/get.php?username=bogdanflorincescu&password=appevo04
 http://apx-me.com:8880/get.php?username=live%3Apersian_share&password=Hs6guU9ziF&type=m3u_plus
 http://boski.streamtv.to:8080/get.php?username=2fzp9BZgtl&password=Pl7NFMedhk&type=m3u_plus&output=ts
 http://clientportal-worldiptv.club:8080/get.php?username=a2HbYeBm5E3a&password=D86xHY1hP6Ze&type=m3u_plus
-http://dhoomtv.xyz:80/get.php?username=8zpo3GsVY7&password=beneficial2concern&type=m3u
 http://duopro.xyz:83/get.php?username=niK23K022&password=9567135126&type=m3u
 http://fomo.re:80/get.php?username=48rwR1XU4aADToYc&password=KhFcZBamcPosUfqR&type=m3u&output=mpegts
 http://fortv.cc:8080/get.php?username=9545921596&password=bitarrandall@aol.com&type=m3u

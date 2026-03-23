@@ -822,7 +822,6 @@ http://boski.streamtv.to:8080/get.php?username=2fzp9BZgtl&password=Pl7NFMedhk&ty
 http://line.cristiprogrametv.com:80/get.php?username=tiptop15&password=LKYDINQT7V&output=ts&type=m3u_plus&output=ts
 http://tv.zapping.life:8080/get.php?username=d4rioc8rt3&password=6ce283ead3e4&type=m3u_plus
 http://tv.zapping.life:8080/get.php?username=mayleenfunez1&password=135535683598&type=m3u
-
 ALBA-LIFE-TV==================
 http://balkan.iptelevizija.com:8080/get.php?username=drazenzupanic&password=195THuijb5&type=m3u_plus
 http://mytvstream.net:8080/get.php?username=986555&password=745625&type=m3u_plus

@@ -24,6 +24,7 @@ http://nocable.cc:8080/get.php?username=rmfhp8AMcM&password=wtjDKG3aRv&type=m3u
 http://nocable.cc:8080/get.php?username=shellewpa@gmail.com&password=zKqbiF22gK&type=m3u
 http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
 http://proxy.tomsijerry.xyz:8080/get.php?username=_bianca_ionas&password=bczFDertgB&type=m3u_plus
+http://reis64.com:2086/get.php?username=nesimisenburo&password=SsNEiv50sB&type=m3u_plus
 http://servx.pro/player_api.php?username=asaidahmed2&password=8mas64786a&type=m3u_plus
 http://tvpromas.com:2082/get.php?username=ChinosxArto20255&password=5DSMqGwvfaPb&type=m3u_plus
 http://underdogg.loginto.me:83/get.php?username=Olga24&password=3614431693&type=m3u_plus

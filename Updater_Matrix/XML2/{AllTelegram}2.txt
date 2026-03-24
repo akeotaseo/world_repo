@@ -654,6 +654,7 @@ http://site.poupadefrutas.shop/get.php?username=tvteste01&password=08000272mac&t
 https://encplay.top/get.php?username=290158&password=025635&type=m3u_plus&output=ts
 iPTV ROMANiA / IPTV Romania==================
 http://anamariaprodan.servebeer.com:8000/get.php?username=Nicoleta_Patrascioiu&password=aP4zAUr6u4&type=m3u_plus
+http://samus.fans:8080/get.php?username=Sergiu_Pop&password=dm9Z3NXf&type=m3u
 ALBA-LIFE-TV==================
 http://balkan.iptelevizija.com:8080/get.php?username=drazenzupanic&password=195THuijb5&type=m3u_plus
 http://mytvstream.net:8080/get.php?username=986555&password=745625&type=m3u_plus

@@ -209,6 +209,7 @@ http://zorrohunter.com:8080/get.php?username=wmT5cMVHUw&password=9370790608&type
 http://1tv41.icu:8080/get.php?username=4Zf4e3&password=722909&type=m3u
 http://1tv41.icu:8080/get.php?username=53892204&password=53892204&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=5WfjcA&password=242699&type=m3u
+http://1tvnow.icu:8080/get.php?username=62023920&password=19925093&type=m3u_plus&output=m3u8
 http://1tv41.icu:8080/get.php?username=9013346454&password=Marconorman.60@gmail.com&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=99391000&password=99391000&type=m3u
 http://1tv41.icu:8080/get.php?username=Dj8p2K&password=309688&type=m3u_plus

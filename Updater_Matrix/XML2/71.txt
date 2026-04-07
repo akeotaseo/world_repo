@@ -25,4 +25,3 @@ http://mundo2.vip:80/get.php?username=usuario16IO&password=8rgei39&type=m3u_plus
 http://mundo2.vip:80/get.php?username=usuario28CG2&password=3dfu33wr2&type=m3u_plus
 http://mundo2.vip:80/get.php?username=xifd804823&password=070423vbc&type=m3u_plus
 http://mundo2.vip:80/get.php?username=xnyPCc3ECD&password=2DAXukMqK&type=m3u_plus
-

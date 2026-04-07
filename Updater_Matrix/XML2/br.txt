@@ -72,6 +72,11 @@ http://site.poupadefrutas.shop/get.php?username=Ze93623&password=Ze253&type=m3u_
 http://site.poupadefrutas.shop/get.php?username=q2Y7tqVAUv&password=dnuavyuZV5&type=m3u_plus&output=ts
 http://site.poupadefrutas.shop/get.php?username=tvteste01&password=08000272mac&type=m3u_plus&output=ts
 https://encplay.top/get.php?username=290158&password=025635&type=m3u_plus&output=ts
+http://dfplay.sbs:80/get.php?username=084113421&password=381029047&type=m3u_plus&output=ts
+http://dfplay.sbs:80/get.php?username=46256028&password=86862086&type=m3u_plus&output=ts
+http://dfplay.sbs:80/get.php?username=6091814797&password=8757236213&type=m3u_plus&output=ts
+http://dfplay.sbs:80/get.php?username=71094432&password=83714689&type=m3u_plus&output=ts
+http://dfplay.sbs:80/get.php?username=93182432&password=86966310&type=m3u_plus&output=ts
 
 OlteanCLΛΝ
 http://7-xcapprota-2.top:8080/get.php?username=08588258823&password=glyunfry&type=m3u

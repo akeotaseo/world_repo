@@ -209,7 +209,6 @@ http://zorrohunter.com:8080/get.php?username=wmT5cMVHUw&password=9370790608&type
 http://1tv41.icu:8080/get.php?username=4Zf4e3&password=722909&type=m3u
 http://1tv41.icu:8080/get.php?username=53892204&password=53892204&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=5WfjcA&password=242699&type=m3u
-http://1tvnow.icu:8080/get.php?username=62023920&password=19925093&type=m3u_plus&output=m3u8
 http://1tv41.icu:8080/get.php?username=9013346454&password=Marconorman.60@gmail.com&type=m3u_plus
 http://1tv41.icu:8080/get.php?username=99391000&password=99391000&type=m3u
 http://1tv41.icu:8080/get.php?username=Dj8p2K&password=309688&type=m3u_plus
@@ -217,6 +216,7 @@ http://1tv41.icu:8080/get.php?username=Janice@443&password=443@9029&type=m3u
 http://1tv41.icu:8080/get.php?username=degatenby@rogers.com&password=degatenby@68&type=m3u
 http://1tv41.icu:8080/get.php?username=qU5K345&password=784922&type=m3u
 http://1tv41.icu:8080/get.php?username=ra_ryan75@yahoo.com&password=46299660&type=m3u
+http://1tvnow.icu:8080/get.php?username=62023920&password=19925093&type=m3u_plus&output=m3u8
 http://1tvnow.icu:8080/get.php?username=V5GF3xKukc&password=gQATNRHv8x&type=m3u_plus&output=m3u8
 http://1tvnow.icu:8080/get.php?username=3fepVc&password=440994&type=m3u_plus&output=m3u8
 http://1tvnow.icu:8080/get.php?username=wowitsbob2024&password=bob199729&type=m3u_plus&output=m3u8
@@ -775,6 +775,7 @@ http://fortv.cc:8080/get.php?username=HHtzm7&password=278091&type=m3u
 http://fortv.cc:8080/get.php?username=Hq3Pdc&password=276988&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=J48zhN&password=827433&type=m3u
 http://fortv.cc:8080/get.php?username=J4imiTEM45&password=9WJoH8jsnz&type=m3u
+http://fortv.cc:8080/get.php?username=Jamesmcmillan@att.net&password=Jamesmcmillan@2023&type=m3u_plus
 http://fortv.cc:8080/get.php?username=JfxHD66&password=8T39qyU&type=m3u_plus
 http://fortv.cc:8080/get.php?username=Jimmy1&password=Jimmy1&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=Johnvlizzi%40gmail.com&password=s3Q6Vkgev59&type=m3u_plus&output=m3u8
@@ -783,10 +784,12 @@ http://fortv.cc:8080/get.php?username=Keem2391@me.com&password=8QCj3wnrS3&type=m
 http://fortv.cc:8080/get.php?username=Kim01&password=Kim01&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=M0JPjK&password=877435&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=N6jb04&password=512906&type=m3u_plus
+http://fortv.cc:8080/get.php?username=NA7Qnj&password=625121&type=m3u
 http://fortv.cc:8080/get.php?username=Ne5Ctw&password=519031&type=m3u_plus
 http://fortv.cc:8080/get.php?username=Ngk96MR&password=vsDye7A&type=m3u
 http://fortv.cc:8080/get.php?username=RThomas&password=9958308&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=SxB4e5&password=149101&type=m3u_plus
+http://fortv.cc:8080/get.php?username=V9uBS5&password=971043&type=m3u_plus
 http://fortv.cc:8080/get.php?username=Vaughn&password=Vaughn1234&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=XpBv08&password=627055&type=m3u_plus
 http://fortv.cc:8080/get.php?username=ap2trill%40gmail.com&password=AlvinPayne%40&type=m3u_plus&output=m3u8
@@ -812,6 +815,7 @@ http://fortv.cc:8080/get.php?username=lhardy902@gmail.com&password=h7ucZN2v6me&t
 http://fortv.cc:8080/get.php?username=lmendivil13@gmail.com&password=mDpSjngw1r&type=m3u_plus
 http://fortv.cc:8080/get.php?username=lwattleyjr%40gmail.com&password=lwattleyjr%402023&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=lynnricky47@yahoo.com&password=xzFQWYZR00&type=m3u_plus
+http://fortv.cc:8080/get.php?username=mB0C7T&password=212913&type=m3u
 http://fortv.cc:8080/get.php?username=mr68rob@yahoo.ca&password=DnMa4fphpE&type=m3u_plus
 http://fortv.cc:8080/get.php?username=murphy.brendanf@gmail.com&password=nRrkqduHFA&type=m3u_plus
 http://fortv.cc:8080/get.php?username=nbbBC6&password=364068&type=m3u
@@ -827,6 +831,8 @@ http://fortv.cc:8080/get.php?username=uWKP5m&password=694877&type=m3u_plus
 http://fortv.cc:8080/get.php?username=v3Y1U2&password=190614&type=m3u_plus&output=m3u8
 http://fortv.cc:8080/get.php?username=vployngam@gmail.com&password=KgZFPE7vCq&type=m3u_plus
 http://fortv.cc:8080/get.php?username=wFbsA7&password=095813&type=m3u
+http://fortv.cc:8080/get.php?username=wMY8CY&password=979898&type=m3u_plus
+http://fortv.cc:8080/get.php?username=zC3Eby&password=245776&type=m3u_plus
 http://line.u-ltra.xyz/get.php?username=40971C&password=3AC803&type=m3u_plus
 GRUPO FOREVER==================
 http://cdnrptv.com:80/get.php?username=578436953&password=448743372&type=m3u_plus
@@ -989,6 +995,7 @@ http://porn-hub.streamtv.to:8080/get.php?username=joseramosmdc&password=D4MZXzlq
 http://porn-hub.streamtv.to:8080/get.php?username=mmascarenhas6&password=Vq2LvzJTGF&type=m3u
 http://porn-hub.streamtv.to:8080/get.php?username=xtraiptv2706&password=rcjGivW7Pu&type=m3u
 http://porn-hub.streamtv.to:8080/get.php?username=yvSZuHjGRN&password=ys94jaTGkK&type=m3u
+http://porn-hub.streamtv.to:8080/get.php?username=1A64T2q8PH&password=ewviImt2lD&type=m3u_plus
 BR
 http://7-xcapprota-2.top:8080/get.php?username=08588258823&password=glyunfry&type=m3u
 http://7-xcapprota-2.top:8080/get.php?username=12bqlupc&password=vqi7tsmd&type=m3u
@@ -1558,3 +1565,29 @@ http://smartntv.pro:25461/get.php?username=dzzenan&password=W5bEpjpxrWDKpjpxrW5b
 http://tv.host-pro2.com:8789/get.php?username=479963&password=jcdsfTH&type=m3u_plus&output=m3u8
 http://vpn.onair8k.xyz:80/get.php?username=c74bc837c0&password=bdd18d2421f8&type=m3u_plus&output=m3u8
 http://wyveep.com:8080/get.php?username=3kyccyWV1TdVVSNC&password=7NMJ1XB6tXNZ51Gx&type=m3u_plus&output=m3u8
+http://tv.diablotv.net:8080/get.php?username=Hurtadoline2&password=cb0b58ae1d26&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=JimmyH2021&password=U99uV4HAGB&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=JoseH26&password=mea5WJFQRy&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=Octavio12&password=db7b9f47575f&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=Patarroyo&password=RsfZAeWtRB&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=USA3323120450&password=dbcae5f092af&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=cesarjt66&password=7GzFha6vAW&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=enzoaguas1&password=bbg5Ujr8eQ&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=jcollazos1&password=be29327a75a8&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=jorge0917&password=quuzzXBMKy&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=mbejarano23&password=f213389e75c3&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=roman10pelusa&password=a20bd443029c&type=m3u_plus
+http://tv.diablotv.net:8080/get.php?username=w47terch4t&password=4f5f6f818b0a&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=14089039526wspzero&password=230221zero&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=43safu98fe98pa35&password=58wumu473muwu85&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=932406198tv&password=b745uiza&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=934331245tv&password=6rswmv&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=93weku76we34be67&password=72maxe529weda74&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=94888759&password=98bcx7867XC7&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=957700796tv3&password=i58pxsw&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=978280496tv3&password=951r8ui&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=979392619tv&password=u84gkpza&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=eXbjfjQzzjTx&password=maScrWxbmV2d&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=txfasmfbak&password=dhutriwcsv&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=valeriaarratia&password=68b3hd78wbd&type=m3u_plus
+http://ultrapremium.cloud:8080/get.php?username=wXmNOkEXpt&password=7441zTwV7t&type=m3u_plus

@@ -1418,7 +1418,12 @@ TEST
 
 
 
-
+00:1A:79:39:65:D7=http://77.74.193.158:88/stalker_portal/c/=,
+00:1A:79:12:B3:9A=http://77.74.193.158:88/stalker_portal/c/=,
+00:1A:79:F3:B9:F3=http://77.74.193.158:88/stalker_portal/c/=,
+00:1A:79:7E:19:BE=http://77.74.193.158:88/stalker_portal/c/=,
+00:1A:79:45:5D:A8=http://77.74.193.158:88/stalker_portal/c/=,
+00:1A:79:26:7F:63=http://77.74.193.158:88/stalker_portal/c/=,
 
 
 

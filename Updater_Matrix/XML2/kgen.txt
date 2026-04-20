@@ -1418,13 +1418,15 @@ TEST
 
 
 
-00:1A:79:39:65:D7=http://77.74.193.158:88/stalker_portal/c/=,
-00:1A:79:12:B3:9A=http://77.74.193.158:88/stalker_portal/c/=,
-00:1A:79:F3:B9:F3=http://77.74.193.158:88/stalker_portal/c/=,
-00:1A:79:7E:19:BE=http://77.74.193.158:88/stalker_portal/c/=,
-00:1A:79:45:5D:A8=http://77.74.193.158:88/stalker_portal/c/=,
-00:1A:79:26:7F:63=http://77.74.193.158:88/stalker_portal/c/=,
-
+00:1A:79:3F:E5:6B=http://xp1.tv/c/=,
+00:1A:79:88:3D:96=http://xp1.tv/c/=,
+00:1A:79:8B:32:C3=http://xp1.tv/c/=,
+00:1A:79:B0:9C:AC=http://xp1.tv/c/=,
+00:1A:79:BA:C0:E4=http://xp1.tv/c/=,
+00:1A:79:C2:8C:C0=http://xp1.tv/c/=,
+00:1A:79:C4:20:67=http://xp1.tv/c/=,
+00:1A:79:C6:3E:9E=http://xp1.tv/c/=,
+00:1A:79:D0:10:65=http://xp1.tv/c/=,
 
 
 

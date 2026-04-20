@@ -1418,16 +1418,6 @@ TEST
 
 
 
-00:1A:79:3F:E5:6B=http://xp1.tv/c/=,
-00:1A:79:88:3D:96=http://xp1.tv/c/=,
-00:1A:79:8B:32:C3=http://xp1.tv/c/=,
-00:1A:79:B0:9C:AC=http://xp1.tv/c/=,
-00:1A:79:BA:C0:E4=http://xp1.tv/c/=,
-00:1A:79:C2:8C:C0=http://xp1.tv/c/=,
-00:1A:79:C4:20:67=http://xp1.tv/c/=,
-00:1A:79:C6:3E:9E=http://xp1.tv/c/=,
-00:1A:79:D0:10:65=http://xp1.tv/c/=,
-
 
 
 

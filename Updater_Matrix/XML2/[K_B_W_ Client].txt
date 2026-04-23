@@ -1,6 +1,3 @@
-Not Tested
-
-
 SGD
 http://cord-cutter.net:8080/get.php?username=0AqJuj&password=750185&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=0QgnMM&password=235554&type=m3u_plus

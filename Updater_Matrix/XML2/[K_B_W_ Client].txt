@@ -1,7 +1,7 @@
 Not Tested
 
 
-SGD_m3u
+SGD m3u
 http://cord-cutter.net:8080/get.php?username=0AqJuj&password=750185&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=0QgnMM&password=235554&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=18488841&password=18488841&type=m3u_plus

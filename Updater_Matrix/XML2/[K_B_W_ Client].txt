@@ -1,4 +1,7 @@
+Not Tested
 
+
+SGD_m3u
 http://cord-cutter.net:8080/get.php?username=0AqJuj&password=750185&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=0QgnMM&password=235554&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=18488841&password=18488841&type=m3u_plus
@@ -367,6 +370,13 @@ http://app.tecnomolly.com:8080/get.php?username=yolandapin2&password=KS79FEux33L
 http://app.tecnomolly.com:8080/get.php?username=zamudioss&password=8pkVvCajKP&type=m3u_plus
 
 
+
+
+
+
+stbemucodesmac.blogspot.com============================
+
+
 http://s1.eldest99.xyz:8080/get.php?username=7774kp&password=n2Ukm2E&type=m3u_plus&output=ts
 http://s1.eldest99.xyz:8080/get.php?username=Eemre1908&password=g6qes6h&type=m3u_plus&output=ts
 http://s1.eldest99.xyz:8080/get.php?username=Emirhan76&password=u16Ku25&type=m3u_plus&output=ts
@@ -426,7 +436,8 @@ http://s1.eldest99.xyz:8080/get.php?username=y8TqQj7U&password=a92Xdy6&type=m3u_
 http://s1.eldest99.xyz:8080/get.php?username=yG2J94hk&password=fBGPX6t&type=m3u_plus&output=ts
 http://s1.eldest99.xyz:8080/get.php?username=ysyrtselcuk&password=sm23GJj&type=m3u_plus&output=ts
 
-
+============================
+DOV back up
 
 http://nocable.cc:8080/get.php?username=07301982&password=23101897&type=m3u_plus
 http://nocable.cc:8080/get.php?username=0QgnMM&password=235554&type=m3u_plus
@@ -1048,6 +1059,7 @@ http://mytvstream.net:8080/get.php?username=43195090&password=43195090&type=m3u_
 http://mytvstream.net:8080/get.php?username=Sean987&password=Sean2584&type=m3u_plus
 
 
+Team Famillia X
 http://ctrlamao.online:80/get.php?username=11057027&password=17488780&type=m3u_plus&output=ts
 http://ctrlamao.online:80/get.php?username=13922701&password=21024674&type=m3u_plus&output=ts
 http://ctrlamao.online:80/get.php?username=19745374&password=76418140&type=m3u_plus&output=ts

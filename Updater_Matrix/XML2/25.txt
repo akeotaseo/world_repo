@@ -11,6 +11,7 @@ http://fortv.cc:8080/get.php?username=clarkcheryl6@aol.com&password=clarkcheryl6
 http://fortv.cc:8080/get.php?username=tpmcdonald79@hotmail.com&password=031@130&type=m3u
 http://ipc.proipciptv.com:8000/get.php?username=325465uz&password=tz4552415&type=m3u_plus
 http://kytv.xyz//get.php?username=brendan1&password=brendan1&type=m3u_plus
+http://librasky.ae/get.php?username=129283939393&password=3838484848&type=m3u_plus
 http://lunar.pm:8080/get.php?username=2055735047&password=PtuUrexwIC&type=m3u_plus&output=m3u8
 http://lunar.pm:8080/get.php?username=Barney25&password=Worth&type=m3u_plus&output=m3u8
 http://lunar.pm:8080/get.php?username=COOPERath&password=w3EBgdaXF0&type=m3u_plus&output=m3u8
@@ -26,6 +27,7 @@ http://nocable.cc:8080/get.php?username=mari2025&password=mari2025@&type=m3u
 http://nocable.cc:8080/get.php?username=rmfhp8AMcM&password=wtjDKG3aRv&type=m3u
 http://nocable.cc:8080/get.php?username=shellewpa@gmail.com&password=zKqbiF22gK&type=m3u
 http://notmepro.com:25461/get.php?username=calvin12&password=minor&type=m3u_plus&output=m3u8
+http://ns2.titv.club:8080/get.php?username=pro9111775936747&password=0eecebd57e47&type=m3u_plus
 http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
 http://reis64.com:2086/get.php?username=nesimisenburo&password=SsNEiv50sB&type=m3u_plus
 http://servx.pro/player_api.php?username=asaidahmed2&password=8mas64786a&type=m3u_plus

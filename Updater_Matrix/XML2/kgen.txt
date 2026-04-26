@@ -1484,9 +1484,3 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 
 
 TEST
-00:1A:79:00:E2:86=http://u8k-pro-iptvstore.cc:80/c/=,
-00:1A:79:02:A0:40=http://u8k-pro-iptvstore.cc:80/c/=,
-00:1A:79:05:D5:09=http://u8k-pro-iptvstore.cc:80/c/=,
-00:1A:79:09:1B:01=http://u8k-pro-iptvstore.cc:80/c/=,
-00:1A:79:0C:B3:27=http://u8k-pro-iptvstore.cc:80/c/=,
-00:1A:79:0E:20:51=http://u8k-pro-iptvstore.cc:80/c/=,

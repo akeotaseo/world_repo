@@ -38,12 +38,6 @@ http://rlatinop.com:8880/get.php?username=Nicotv25&password=2XXh3Dbtn6W6&type=m3
 http://rlatinop.com:8880/get.php?username=OSCARPENA&password=PAT7aNRw48nG&type=m3u_plus
 http://rlatinop.com:8880/get.php?username=Oviedo&password=TsA33QbueNNs&type=m3u_plus
 http://rlatinop.com:8880/get.php?username=QupNT4JGAmpu&password=fLDHwMUTK3ae&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=Raulsoto2&password=kJw4sBbKrMZz&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=ReNeRoj@s&password=SQmJW42bw5Hg&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=VEhTvXcJHt5K&password=SWyumCGdEc3N&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=Yaquelinorqui007&password=9VrE6VZyren6&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=Ygallardo21&password=L6cgmMjFMpBU&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=Ysmale3101&password=4wuuNRNN6qhC&type=m3u_plus
 http://rlatinop.com:8880/get.php?username=agox569a@&password=3zVxSWMPEXAt&type=m3u_plus
 http://rlatinop.com:8880/get.php?username=caroy833&password=rm3p68BTSJNJ&type=m3u_plus
 http://rlatinop.com:8880/get.php?username=cata1205&password=yefM7NrNFTVa&type=m3u_plus
@@ -60,14 +54,6 @@ http://rlatinop.com:8880/get.php?username=jonel2026&password=pcBhGe7KbccQ&type=m
 http://rlatinop.com:8880/get.php?username=jvsxkojjfj&password=KEYTNug3Fzdq&type=m3u_plus
 http://rlatinop.com:8880/get.php?username=lopez6363&password=pv2FEHxqvpLg&type=m3u_plus
 http://rlatinop.com:8880/get.php?username=mcontreras&password=6MwspfgYYBec&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=netnu014&password=6Dv27a7zGWHu&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=pQBgUWEwd26x&password=KGVPbVCUsjHa&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=pandusertv0083432&password=Z7TtUrMB6d9s&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=red39&password=T9R7LvmqAbf9&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=ryurhtqhjg&password=TGkFT7Q3F7dU&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=superplusrestream&password=dEH3pv9zLdWu&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=victoralca2&password=YGuHEGtdSs7a&type=m3u_plus
-http://rlatinop.com:8880/get.php?username=xazayzehep&password=z2NeFZk7Pyxx&type=m3u_plus
 http://tv.diablotv.net:8080/get.php?username=47v4ros44v&password=AAWCZ5xSBy&type=m3u_plus
 http://tv.diablotv.net:8080/get.php?username=54LuisNunez4599&password=964SawQ157L0&type=m3u_plus
 http://tv.diablotv.net:8080/get.php?username=ALopez042521&password=U4D2esgkwi&type=m3u_plus

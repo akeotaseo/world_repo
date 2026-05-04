@@ -812,31 +812,27 @@ https://github.com/Vashiel/repository.adulthideout
     </extension>
 </addon>
 
-<addon id="plugin.video.apex_sports" name="ApeX Sports" version="1.0.7~g3" provider-name="arxtic.ape">
-    <requires>
-        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
-        <import addon="script.module.beautifulsoup4" version="3.2.1"/>
-        <import addon="script.module.requests"  />
-        <import addon="script.module.resolveurl" />
-        <import addon="script.module.dateutil"/>
-        <import addon="script.module.pytz"/>
-        <import addon="script.module.tzlocal"/>
-
-
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">Simple sports addon.</summary>
-        <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
-
-        <platform>all</platform>
-
-        <assets>
-        <icon>icon.jpg</icon>
-    </assets>
-    </extension>
+<addon id="plugin.video.apex_sports" name="ApeX Sports" version="1.0.8tk" provider-name="arxtic.ape">
+	<requires>
+		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
+		<import addon="script.module.beautifulsoup4" version="3.2.1"/>
+		<import addon="script.module.requests"  />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.dateutil"/>
+		<import addon="script.module.pytz"/>
+		<import addon="script.module.tzlocal"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Simple sports addon.</summary>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.jpg</icon>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="plugin.video.arenavisionl" name="ArenaVision" version="0.1.11" provider-name="zkte">
@@ -1349,7 +1345,7 @@ provider-name="fr33p0rt (fr33p0rt@protonmail.com)">
   </extension>
 </addon>
 
-<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.8c" provider-name="Jon Snow">
+<addon id="plugin.video.dracarys" name="[COLORlime]Dracarys[/COLOR]" version="1.2.8tk" provider-name="Jon Snow">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
 		<import addon="script.module.beautifulsoup4" version="3.2.1"/>

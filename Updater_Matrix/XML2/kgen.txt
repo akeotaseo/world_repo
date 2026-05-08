@@ -1868,9 +1868,4 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 
 
 TEST
-00:1A:79:30:34:66=http://klixtv.vip:80/c/=,
-00:1A:79:4B:E9:CD=http://klixtv.vip:80/c/=,
-00:1A:79:88:CC:0E=http://klixtv.vip:80/c/=,
-00:1A:79:C3:9C:55=http://klixtv.vip:80/c/=,
-00:1A:79:C6:59:CF=http://klixtv.vip:80/c/=,
 

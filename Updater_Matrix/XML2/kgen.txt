@@ -1869,3 +1869,19 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 
 TEST
 
+
+00:1A:79:32:C7:B7=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B5:AD:1B=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B5:AD:02=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:32:C2:B7=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B5:AD:0D=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BE:EA:1E=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BD:2E:F1=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:3C:1F:6D=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BA:B8:37=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:32:C7:D6=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B1:00:A4=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:32:C2:0E=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BE:98:A6=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:79:27:C5=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:C2:7C:F2=http://line.8kultradnscloud.ru/c/=,

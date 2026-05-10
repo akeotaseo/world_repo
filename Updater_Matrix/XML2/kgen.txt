@@ -549,6 +549,7 @@
 00:1A:79:41:80:27=http://clientsportals.net:8080/c/=,
 00:1A:79:01:93:11=http://clientsportals.net:8080/c/=,
 
+
 00:1A:79:42:2E:E4=http://d.tvdark.eu/c/=,
 00:1A:79:D0:27:22=http://d.tvdark.eu/c/=,
 00:1A:79:5D:5B:6B=http://d.tvdark.eu/c/=,
@@ -630,6 +631,7 @@
 00:1A:79:c7:07:59=http://innovationtv.eu:8000/c/=,
 00:1A:79:80:8a:6a=http://innovationtv.eu:8000/c/=,
 
+
 00:1A:79:AD:93:1F=http://iptv.darktv.nl:25461/c/=,
 00:1A:79:F8:EA:55=http://iptv.darktv.nl:25461/c/=,
 00:1A:79:D4:3C:C1=http://iptv.darktv.nl:25461/c/=,
@@ -639,6 +641,7 @@
 00:1A:79:AC:8F:16=http://iptv.darktv.nl:25461/c/=,
 00:1A:79:91:44:9F=http://iptv.darktv.nl:25461/c/=,
 00:1A:79:D9:44:5D=http://iptv.darktv.nl:25461/c/=,
+
 
 00:1A:79:00:12:C9=http://klaratv.com:80/c/=,
 00:1A:79:00:1B:7C=http://klaratv.com:80/c/=,
@@ -1293,6 +1296,25 @@
 00:1a:79:bb:ee:4c=http://klaratv.com:80/c/=,
 00:1a:79:f8:0f:4e=http://klaratv.com:80/c/=,
 
+
+00:1A:79:32:C7:B7=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B5:AD:1B=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B5:AD:02=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:32:C2:B7=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B5:AD:0D=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BE:EA:1E=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BD:2E:F1=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:3C:1F:6D=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BA:B8:37=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:32:C7:D6=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:B1:00:A4=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:32:C2:0E=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:BE:98:A6=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:79:27:C5=http://line.8kultradnscloud.ru/c/=,
+00:1A:79:C2:7C:F2=http://line.8kultradnscloud.ru/c/=,
+
+
+
 A0:BB:3E:05:20:3B=http://line.linehunt.org:8000/c/=,
 A0:BB:3E:09:06:80=http://line.linehunt.org:8000/c/=,
 A0:BB:3E:27:A7:AB=http://line.linehunt.org:8000/c/=,
@@ -1304,6 +1326,7 @@ A0:BB:3E:87:F9:11=http://line.linehunt.org:8000/c/=,
 A0:BB:3E:B8:37:E4=http://line.linehunt.org:8000/c/=,
 A0:BB:3E:D4:09:56=http://line.linehunt.org:8000/c/=,
 A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
+
 
 00:1A:79:17:27:05=http://line.watchtivo-8k.com:80/c/=,
 00:1A:79:18:4B:5A=http://line.watchtivo-8k.com:80/c/=,
@@ -1393,6 +1416,7 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 
 00:1A:79:4D:00:4B=http://pars01.com:8080/c/=,
 00:1A:79:4D:00:C2=http://pars01.com:8080/c/=,
+
 
 00:1A:79:0D:10:01=http://prime.casacam.net/c/=,
 00:1A:79:0D:10:51=http://prime.casacam.net/c/=,
@@ -1551,6 +1575,7 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 00:1A:79:bc:d2:73=http://taoufi-eagle2.org/c/=,
 00:1A:79:b7:b6:cf=http://taoufi-eagle2.org/c/=,
 
+
 00:1A:79:82:31:4C=http://technologycloud.eu:80/c/=,
 00:1A:79:24:7D:A8=http://technologycloud.eu:80/c/=,
 00:1A:79:24:7D:1E=http://technologycloud.eu:80/c/=,
@@ -1648,6 +1673,7 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 00:1A:79:D5:6E:C9=http://technologycloud.eu:80/c/=,
 00:1A:79:F1:AC:39=http://technologycloud.eu:80/c/=,
 00:1A:79:F3:EC:69=http://technologycloud.eu:80/c/=,
+
 
 00:1A:79:02:A1:08=http://technologycloud.eu/c/=,
 00:1A:79:02:A1:0F=http://technologycloud.eu/c/=,
@@ -1785,7 +1811,6 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 00:1A:79:EA:0E:75=http://vpn.louis-premium.com/c/=,
 
 
-
 00:1A:79:00:2B:F5=http://weaseltv.live/c/=,
 00:1A:79:21:09:54=http://weaseltv.live/c/=,
 00:1A:79:22:02:0D=http://weaseltv.live/c/=,
@@ -1823,6 +1848,7 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 00:1A:79:FB:17:E4=http://weaseltv.live/c/=,
 00:1A:79:FB:17:E7=http://weaseltv.live/c/=,
 00:1A:79:FB:5F:79=http://weaseltv.live/c/=,
+
 
 00:1A:79:B7:48:59=http://www.fonziptv.com:8080/c/=,
 00:1A:79:AE:40:A5=http://www.fonziptv.com:8080/c/=,
@@ -1893,48 +1919,3 @@ A0:BB:3E:E6:AE:66=http://line.linehunt.org:8000/c/=,
 
 
 TEST
-
-
-00:1A:79:32:C7:B7=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:B5:AD:1B=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:B5:AD:02=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:32:C2:B7=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:B5:AD:0D=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:BE:EA:1E=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:BD:2E:F1=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:3C:1F:6D=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:BA:B8:37=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:32:C7:D6=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:B1:00:A4=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:32:C2:0E=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:BE:98:A6=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:79:27:C5=http://line.8kultradnscloud.ru/c/=,
-00:1A:79:C2:7C:F2=http://line.8kultradnscloud.ru/c/=,
-
-
-
-00:1A:79:04:3f:43=http://innovationdns.eu:80/c/=,
-00:1A:79:14:9c:bb=http://innovationdns.eu:80/c/=,
-00:1A:79:1e:e1:4f=http://innovationdns.eu:80/c/=,
-00:1A:79:29:c4:48=http://innovationdns.eu:80/c/=,
-00:1A:79:42:68:8c=http://innovationdns.eu:80/c/=,
-00:1A:79:44:12:5f=http://innovationdns.eu:80/c/=,
-00:1A:79:50:5b:a9=http://innovationdns.eu:80/c/=,
-00:1A:79:62:9f:50=http://innovationdns.eu:80/c/=,
-00:1A:79:6e:54:db=http://innovationdns.eu:80/c/=,
-00:1A:79:79:88:a4=http://innovationdns.eu:80/c/=,
-00:1A:79:7b:c1:88=http://innovationdns.eu:80/c/=,
-00:1A:79:82:38:d8=http://innovationdns.eu:80/c/=,
-00:1A:79:83:34:87=http://innovationdns.eu:80/c/=,
-00:1A:79:a9:89:a4=http://innovationdns.eu:80/c/=,
-00:1A:79:b5:57:fb=http://innovationdns.eu:80/c/=,
-00:1A:79:b5:82:83=http://innovationdns.eu:80/c/=,
-00:1A:79:b9:ec:21=http://innovationdns.eu:80/c/=,
-00:1A:79:bc:e5:cb=http://innovationdns.eu:80/c/=,
-00:1A:79:bd:6b:05=http://innovationdns.eu:80/c/=,
-00:1A:79:c1:2a:c2=http://innovationdns.eu:80/c/=,
-00:1A:79:c6:db:34=http://innovationdns.eu:80/c/=,
-00:1A:79:cf:8c:c2=http://innovationdns.eu:80/c/=,
-00:1A:79:d1:70:53=http://innovationdns.eu:80/c/=,
-00:1A:79:e8:7e:bf=http://innovationdns.eu:80/c/=,
-00:1A:79:fb:49:e8=http://innovationdns.eu:80/c/=,

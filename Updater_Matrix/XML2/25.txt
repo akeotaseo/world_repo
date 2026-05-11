@@ -3,6 +3,10 @@ http://51.81.106.100:25461/get.php?username=garretth2024&password=6065452377&typ
 http://apx-me.com:8880/get.php?username=live%3Apersian_share&password=Hs6guU9ziF&type=m3u_plus
 http://clientportal-worldiptv.club:8080/get.php?username=a2HbYeBm5E3a&password=D86xHY1hP6Ze&type=m3u_plus
 http://duopro.xyz:83/get.php?username=niK23K022&password=9567135126&type=m3u
+http://fkk.mine.nu:8080/get.php?username=9tvxnP89uyXY&password=zTxJa2W6TKtt&type=m3u_plus&output=m3u8
+http://fkk.mine.nu:8080/get.php?username=Huseyin.parmak&password=23.01.2025&type=m3u_plus&output=m3u8
+http://fkk.mine.nu:8080/get.php?username=K%40murat68&password=J2xEZu9RzJwB&type=m3u_plus&output=m3u8
+http://fkk.mine.nu:8080/get.php?username=UFO9tRAUKwR&password=agufSckWhW2k&type=m3u_plus&output=m3u8
 http://fomo.re:80/get.php?username=48rwR1XU4aADToYc&password=KhFcZBamcPosUfqR&type=m3u&output=mpegts
 http://ipc.proipciptv.com:8000/get.php?username=325465uz&password=tz4552415&type=m3u_plus
 http://kytv.xyz//get.php?username=brendan1&password=brendan1&type=m3u_plus
@@ -34,6 +38,7 @@ http://tkosportz.live:25461/get.php?username=rtaylor2023114515&password=TbEZvh18
 http://tkosportz.live:25461/get.php?username=yfzsRAblAm&password=qg0Wqf3Icw&type=m3u_plus
 http://tvpromas.com:2082/get.php?username=ChinosxArto20255&password=5DSMqGwvfaPb&type=m3u_plus
 http://wp.strmz.cc:80/get.php?username=BCamacho&password=OI6nP3Gkzo&type=m3u_plus&output=m3u8
+
 IPTV Europa======================== (Telegram
 http://0106262.xyz/get.php?username=sdiUbk80fE&password=9hQQIEdAtC&type=m3u_plus
 http://02bdxbd16032025xdbyd.la1tv.com:8080/get.php?username=egala80_mipadre&password=hlbxLEXrDa&type=m3u_plus

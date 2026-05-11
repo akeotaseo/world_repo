@@ -200,7 +200,6 @@ http://mitvpro.online:25461/get.php?username=dtGKZ8fMtwKkmvn&password=ZEbkUYDMEf
 http://mnuy17022025hhtyb.la1tv.com:8080/get.php?username=carlos_21102021&password=342red32432&type=m3u_plus
 http://newultra.xyz:8080/get.php?username=91473231&password=84y8ef93v4&type=m3u_plus
 http://on6.xyz:8080/get.php?username=gerdadams&password=SWHGygjBxR&type=m3u_plus
-http://op.web24.live:8080/get.php?username=recycle_n24&password=network24_selfrestream&type=m3u_plus
 http://planetaiks.info:8000/get.php?username=UEFASPORTS&password=GFmFVkd339RS&type=m3u_plus
 http://playtv44.com:8080/get.php?username=ovallejos654&password=123123&type=m3u_plus
 http://playtvofclat.vip/get.php?username=E281EF1EADB4&password=E281EF1EADB&type=m3u_plus
@@ -278,3 +277,8 @@ http://xpaneltv.com:8080/get.php?username=JoseVSQZ&password=66577899&type=m3u_pl
 http://xpaneltv.com:8080/get.php?username=SerGio&password=43697496&type=m3u_plus
 http://xpaneltv.com:8080/get.php?username=Yoli606&password=0649242416&type=m3u_plus
 https://dns13.top/get.php?username=Sala010203&password=Mrsp14122023&type=m3u_plus
+===============fb
+http://nexskyview.com/get.php?username=123123&password=123123&type=m3u_plus
+http://nexskyview.com/get.php?username=patrick&password=patrick&type=m3u_plus
+http://nexskyview.com/get.php?username=test1234&password=test1234&type=m3u_plus
+http://nexskyview.com/get.php?username=vincent&password=vincent&type=m3u_plus

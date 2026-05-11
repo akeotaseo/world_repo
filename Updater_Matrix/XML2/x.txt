@@ -88,4 +88,9 @@ http://turbonew.ddns.net:80/get.php?username=9888023098448&password=443401145207
 http://turbonew.ddns.net:80/get.php?username=A89754977271020&password=017759262&type=m3u_plus&output=ts
 http://turbonew.ddns.net:80/get.php?username=A9844556564&password=6492862631&type=m3u_plus&output=ts
 http://turbonew.ddns.net:80/get.php?username=matheuslfzk&password=@10203040&type=m3u_plus&output=ts
-
+http://185.182.193.203:25461/get.php?username=Motel6gg&password=PB2733946&type=m3u_plus
+http://185.182.193.203:25461/get.php?username=harshpatel081296&password=BAN6277843&type=m3u
+http://185.182.193.203:25461/get.php?username=harshpatel081296&password=BAN6277843&type=m3u_plus
+http://185.182.193.203:25461/get.php?username=jaydb2324&password=493367254&type=m3u_plus&type=m3u8
+http://185.182.193.203:25461/get.php?username=rgeys&password=VePAgX1nJ4&type=m3u_plus
+http://185.182.193.203:25461/get.php?username=satishbhagat1968&password=3yeapvPGdY&type=m3u_plus&output=m3u8

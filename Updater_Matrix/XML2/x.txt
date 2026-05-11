@@ -2,6 +2,7 @@ http://xc.adultiptv.net:80/get.php?username=0046687&password=8329255&type=m3u_pl
 http://xc.adultiptv.net:80/get.php?username=05183314248&password=fe5nasUk&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=0poc1bw0&password=k880zsln&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=11989339778&password=btupq290&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=12hmg20032002&password=5Nx98EFKbD&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=2023.AndrE&password=cf61rpJu&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=22998802820&password=2299880&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=3399033403&password=333403&type=m3u_plus
@@ -9,12 +10,18 @@ http://xc.adultiptv.net:80/get.php?username=5511946655884&password=34956214&type
 http://xc.adultiptv.net:80/get.php?username=578430678&password=G451K6545d&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=69754976181057&password=245605560460&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=69754976230810&password=y766yy1y&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=918373tiago&password=918373tiago&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=996798725&password=Alaphy8725&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=AT7ItUEHbw&password=2CS5l9RWTX&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=Berndbauer&password=ynfikCWawM&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=BesnikPatoku&password=fXwEHmN6xb&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=Cesar13&password=59374892&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=Flavia&password=flavia2023&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=Jairo1903F&password=70j8r8w&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=Joaomobilar&password=Joao123&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=KeSeemann&password=Rosa0602&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=MishaP&password=SlQUEVfgtR&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=Nedim8&password=L2gyw5iUMX&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=Paulo083&password=34g8mwpt&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=a68o0jq7&password=1qh7xhtc&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=alessandra1&password=123456&type=m3u_plus
@@ -33,6 +40,7 @@ http://xc.adultiptv.net:80/get.php?username=lucasgadelha&password=18645EH8&type=
 http://xc.adultiptv.net:80/get.php?username=marcosantonio276&password=73883689&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=nilton966&password=nilton771149&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=tvsandra&password=718J27K3&type=m3u_plus
+http://xc.adultiptv.net:80/get.php?username=vzG6LQ2Bmt&password=YgPXEuBK8l&type=m3u_plus
 http://server.iptvxxx.net/get.php?username=1473527&password=123456&type=m3u_plus
 http://server.iptvxxx.net/get.php?username=68479652&password=74541442&type=m3u_plus
 http://server.iptvxxx.net/get.php?username=69754975051451&password=449697152519&type=m3u_plus

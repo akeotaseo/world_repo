@@ -1129,4 +1129,3 @@ http://smartntv.pro:25461/get.php?username=StjepanElez&password=VJjvEdFx6Zde&typ
 http://smartntv.pro:25461/get.php?username=dzzenan&password=W5bEpjpxrWDKpjpxrW5bEpjpxrWDKp&type=m3u_plus
 http://tv.host-pro2.com:8789/get.php?username=479963&password=jcdsfTH&type=m3u_plus&output=m3u8
 http://wyveep.com:8080/get.php?username=3kyccyWV1TdVVSNC&password=7NMJ1XB6tXNZ51Gx&type=m3u_plus&output=m3u8
-

@@ -724,52 +724,51 @@ Use this to organize your Favourites.
         <assets><icon>icon.png</icon></assets> </extension>
 </addon>
 
-<addon id="plugin.video.adulthideout" name="AdultHideout" version="0.9.81-beta6" provider-name="Vashiel">
-	<requires>
-	<!-- Commenting xbmc.python allows install on all versions of Kodi -->
-	<!-- <import addon="xbmc.python" version="2.14.0"/> -->
-	<import addon="script.module.six"/>
-	<import addon="script.module.kodi-six"/>
-	</requires>
-	<extension	point="xbmc.python.pluginsource"
-				library="default.py">
-				<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<news>
-v 0.9.81-beta6 24.09.2023
-- fixed Xhamster
-- fixed Uflash
-- fixed Ashemaletube
-- Added Content change (Xhamster, Xvideos)
-- fixed Video Quality in Xvideos (play best possible quality)
-- still experimenting
-		</news>
-		<summary>[COLOR red]XXX[/COLOR] Porn videos</summary>
-		<description>
+<addon id="plugin.video.adulthideout" name="AdultHideout" version="1.0.11" provider-name="Vashiel">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.25.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <settingfile>resources/settings.xml</settingfile>
+        <news>
+v. 1.0.11 "Night Shift" - 2026-05-28
+- **New Sites**: 85po.com, HStream, PremiumPorn, XXXTube, WhereIsMyPorn.
+- **Playback**: Improved KVS, MP4, HLS and Byse playback paths, including seek-safe local Range proxy support.
+- **Zero-Dependency Crypto**: Added bundled pure-Python crypto helpers for Byse/AES flows so PremiumPorn and ThePornBang no longer need external compiled crypto modules.
+- **Explore Similar**: Expanded related lookup/context-menu support for Rule34Video, XVideos, XNXX, SpankBang, Pornhub, HQPorner and 85po.
+- **Fixes**: Improved Pornhub, AVJoy, VikiPorn and XVideos, including Pornhub related playback/thumbs and XVideos pagination after Sort By.
+- **Safety/Release**: Added localized official-source warnings, updated settings, logos and official file hashes.
+        </news>
+        <summary>[COLOR red]XXX[/COLOR] Porn videos</summary>
+        <description>
 Internet [COLOR red]XXX Porn Video[COLOR white] Streams.
 
 [COLOR red][B]WARNING:[/B][COLOR red]Only for adults[/COLOR]
 
+[COLOR white]AdultHideout does not host third-party videos on its own servers and is not affiliated with the websites supported by the addon.
+Content, streams and metadata are provided by third-party websites.[/COLOR]
+
 [COLOR white]Github:
 https://github.com/Vashiel/repository.adulthideout
 [/COLOR]
-
-		</description>
-		<disclaimer>
-		</disclaimer>
-		<platform>all</platform>
-		<license>http://www.gnu.org/licenses/</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<mainsource>https://github.com/Vashiel/repository.adulthideout</mainsource>
-		<source></source>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>resources/logos/fanart.jpg</fanart>
-		</assets>
-	</extension>
+        </description>
+        <disclaimer>AdultHideout does not host third-party videos on its own servers and is not affiliated with the websites supported by the addon. Content, streams and metadata are provided by third-party websites.</disclaimer>
+        <platform>all</platform>
+        <license>http://www.gnu.org/licenses/</license>
+        <forum></forum>
+        <website></website>
+        <email></email>
+        <mainsource>https://github.com/Vashiel/repository.adulthideout</mainsource>
+        <source></source>
+        <assets>
+            <icon>resources/logos/icon.png</icon>
+            <fanart>resources/logos/fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.adultseverywhere" name="[COLOR coral][B]Adults Everywhere[/B][/COLOR]" version="0.0.2" provider-name="AceTorr">

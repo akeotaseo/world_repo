@@ -259,3 +259,18 @@ http://nexskyview.com/get.php?username=vincent&password=vincent&type=m3u_plus
 http://smetv.click/get.php?username=Bryson123&password=Bryson123&type=m3u_plus
 http://smetv.click/get.php?username=Moran123&password=Moran123&type=m3u_plus
 http://smetv.click/get.php?username=simple&password=simple&type=m3u_plus
+GENERAL=============== (Telegram)
+http://vip2.lidyasardesiptv.live/get.php?username=dezelihagumus&password=sdfhwybx&type=m3u_plus
+http://bnt.mai1.store:80/get.php?username=0BrwMXhC8s&password=juanin&type=m3u_plus&output=ts
+http://full-live.ddns.net:80/get.php?username=mgg_324546970&password=secapir&type=m3u_plus&output=m3u8
+http://full-live.ddns.net:80/get.php?username=paolospezia&password=sasy&type=m3u_plus
+http://full-live.ddns.net:80/get.php?username=paolospezia&password=sasy&type=m3u_plus&output=m3u8
+http://line-galaxy.online:80/get.php?username=0e376faace&password=7e9f63747ffd&type=m3u_plus&output=ts
+http://line-galaxy.online:80/get.php?username=1ddf16fae2&password=fb1ac6874ad7&type=m3u_plus&output=ts
+http://neoyjpw.top:8080/get.php?username=23177816568578&password=mbwt36cm4u75&type=m3u_plus
+http://neoyjpw.top:8080/get.php?username=23177816568578&password=mbwt36cm4u75&type=m3u_plus&output=m3u8
+http://neoyjpw.top:8080/get.php?username=3981775032456&password=a75b0f9ef780&type=m3u_plus
+http://neoyjpw.top:8080/get.php?username=3981775032456&password=a75b0f9ef780&type=m3u_plus&output=m3u8
+http://stop.lat/get.php?username=10203040&password=40302010&type=m3u_plus
+http://stop.lat/get.php?username=123456789&password=123456789&type=m3u_plus
+http://stop.lat/get.php?username=939418920&password=268384848&type=m3u_plus

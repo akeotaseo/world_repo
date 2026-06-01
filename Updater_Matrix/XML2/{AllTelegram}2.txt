@@ -1,9 +1,5 @@
 ANB==================
-
 DOV==================
-
-
-
 rg==================TV-TDT / OlteanCLΛΝ
 http://media2.xyz:8080/get.php?username=2055037515&password=81A7Mf522J&type=m3u_plus&output=m3u8
 http://media2.xyz:8080/get.php?username=2059050842&password=gMFsE1cuDr&type=m3u_plus&output=m3u8
@@ -86,6 +82,18 @@ http://asterix-iptv.club:25461/get.php?username=osmmiki123&password=zQG4zmqHkasu
 http://asterix-iptv.club:25461/get.php?username=srdjanrazmjena&password=joerf9843DRNHJ9dcjHJ&type=m3u_plus
 http://asterix-iptv.club:25461/get.php?username=wardenbratmodrica&password=4NzKukSNAL4C&type=m3u_plus
 iPTV ROMANiA / IPTV Romania==================
+http://103trkm25.xyz:8080/get.php?username=Denz167ALP&password=UXBvryrSuE&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=EdiTante24&password=dGUKCWQG&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=HasanTekin&password=ndSNARkYt4TYud&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=Rustemtunctasli&password=FhDeR2aZx5&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=can35berg&password=berg3535cn&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=can35cn&password=cankmsucan&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=fehmi35gdk&password=gedik35fmhi&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=pati1709&password=28052024&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=remzi35glr&password=guler35rmzi&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=tarcan@kaya&password=07dg10sc24&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=vZDFQuJP&password=jWENcb1k&type=m3u_plus
+http://103trkm25.xyz:8080/get.php?username=x7BHUeND&password=eDXKX9qN&type=m3u_plus
 http://anamariaprodan.servebeer.com:8000/get.php?username=Keresztes_Erno&password=fgK2kq1jbz&type=m3u_plus
 http://anamariaprodan.servebeer.com:8000/get.php?username=Nicoleta_Patrascioiu&password=aP4zAUr6u4&type=m3u_plus
 http://danbitman.ddns.net:8008/get.php?username=laura_salagean&password=mrnPmHPa&type=m3u
@@ -186,6 +194,9 @@ http://jocurgratis.uk:8080/get.php?username=tiberiu_manases&password=vXNZUZQo90&
 http://jocurgratis.uk:8080/get.php?username=vasy@orlando&password=pkHZetGbgE&type=m3u
 http://jocurgratis.uk:8080/get.php?username=voicu_lucian&password=szcDEd2QFq&type=m3u
 http://samus.fans:8080/get.php?username=Alexandru_popovici&password=c61bDUyZX9&type=m3u
+http://uygulama.best:2095/get.php?username=hkn6070cep&password=hkk0506gg00&type=m3u_plus&output=ts
+http://vip-flying.xyz:2095/get.php?username=gkh9672tv1&password=gkh2005gg00&type=m3u_plus&output=ts
+http://vip-flying.xyz:2095/get.php?username=tskn9481tv&password=tsk2003gg00&type=m3u_plus&output=ts
 x==================
 http://xc.adultiptv.net:80/get.php?username=0046687&password=8329255&type=m3u_plus
 http://xc.adultiptv.net:80/get.php?username=05183314248&password=fe5nasUk&type=m3u_plus

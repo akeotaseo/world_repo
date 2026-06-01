@@ -9,6 +9,7 @@ http://fkk.mine.nu:8080/get.php?username=UFO9tRAUKwR&password=agufSckWhW2k&type=
 http://fomo.re:80/get.php?username=48rwR1XU4aADToYc&password=KhFcZBamcPosUfqR&type=m3u&output=mpegts
 http://ipc.proipciptv.com:8000/get.php?username=325465uz&password=tz4552415&type=m3u_plus
 http://kytv.xyz//get.php?username=brendan1&password=brendan1&type=m3u_plus
+http://lunar.pm:8080/get.php?username=maco325&password=Fishing&type=m3u_plus
 http://lunar.pm:8080/get.php?username=2055735047&password=PtuUrexwIC&type=m3u_plus&output=m3u8
 http://lunar.pm:8080/get.php?username=Barney25&password=Worth&type=m3u_plus&output=m3u8
 http://notmepro.com:25461/get.php?username=calvin12&password=minor&type=m3u_plus&output=m3u8
@@ -239,7 +240,6 @@ http://jackofclubs.vip:80/get.php?username=jennbetz1&password=flatbutton45&type=
 http://jackofclubs.vip:80/get.php?username=mihir&password=mihir123&type=m3u_plus
 http://jarodtv62000.com:8000/get.php?username=a82204b82951&password=25012023&type=m3u_plus
 http://localiptv.site:85/get.php?username=jozsefmulleruj&password=jozsefmulleruj&type=m3u_plus
-http://lunar.pm:8080/get.php?username=maco325&password=Fishing&type=m3u_plus
 http://norkspkuxae.top:8080/get.php?username=2581760730850522&password=1a3863b678c5&type=m3u_plus
 http://o7cj3.arabcup.org:80/get.php?username=sh3689368837&password=sherif5788378&type=m3u_plus
 http://ogietv.biz.id:80/get.php?username=pahlevimthoriq&password=masthoriq1999&type=m3u_plus

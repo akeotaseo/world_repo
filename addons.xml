@@ -1423,7 +1423,7 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
     </extension>
 </addon>
 
-<addon id="plugin.video.euronews_com" name="euronews.com" version="2.4.0+matrix.1" provider-name="realvito">
+<addon id="plugin.video.euronews_com" name="euronews.com" version="2.4.1+matrix.1" provider-name="realvito">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests" version="2.27.0"/>
@@ -1470,6 +1470,9 @@ We Do Not Host Any Of The Content - It Is All Freely Available On The Internet
 			<fanart>resources/media/fanart.jpg</fanart>
 		</assets>
 		<news>
+[B][COLOR orangered]Version 2.4.1+matrix.1  (03.06.2026)[/COLOR][/B]
+- fixed: Sendungen der Sprachen Arabisch, Englisch und Persisch sind nicht abrufbar
+
 [B][COLOR orangered]Version 2.4.0+matrix.1  (29.05.2026)[/COLOR][/B]
 - fixed: Auf manchen Betriebssystemen tritt erneut der ERROR 406 auf (Euronews setzt für Linux basierende Systeme andere User-Agenten voraus)
 - added: Einstellung für User-Agenten (Standard=automatisch, Windows- oder Linux-basiert)

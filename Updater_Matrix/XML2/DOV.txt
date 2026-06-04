@@ -10,3 +10,4 @@ http://bgdc.live:25461/get.php?username=rodgersaustin&password=8525478&type=m3u_
 http://bgdc.live:25461/get.php?username=rodneyb5777&password=5777&type=m3u_plus
 http://bgdc.live:25461/get.php?username=ryanm1000&password=6062801911&type=m3u_plus
 http://bgdc.live:25461/get.php?username=stevenwhite&password=36326534&type=m3u_plus
+http://1tv41.icu:8080/get.php?username=0Nv0eY&password=146642&type=m3u_plus

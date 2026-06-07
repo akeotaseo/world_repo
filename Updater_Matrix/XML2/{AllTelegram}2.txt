@@ -6,17 +6,15 @@ http://vividmedia.xyz/get.php?username=Vonda123&password=Vonda123&type=m3u_plus
 http://vividmedia.xyz:80/get.php?username=Stacy1234&password=Stacy1234&type=m3u_plus
 DOV==================
 http://bgdc.live:25461/get.php?username=ERczilxPqw&password=VhvkXPycaW&type=m3u_plus
-http://bgdc.live:25461/get.php?username=alfredsabir&password=7524785&type=m3u_plus
 http://bgdc.live:25461/get.php?username=beatricesmith&password=97458623&type=m3u_plus
 http://bgdc.live:25461/get.php?username=calvin12&password=minor&type=m3u_plus
-http://bgdc.live:25461/get.php?username=cathyleibensperger&password=38748532&type=m3u_plus
 http://bgdc.live:25461/get.php?username=charless2997&password=2997&type=m3u_plus
 http://bgdc.live:25461/get.php?username=joan3924&password=3924&type=m3u_plus
 http://bgdc.live:25461/get.php?username=mldriver@yahoo.com&password=10145328&type=m3u_plus
 http://bgdc.live:25461/get.php?username=rodgersaustin&password=8525478&type=m3u_plus
 http://bgdc.live:25461/get.php?username=rodneyb5777&password=5777&type=m3u_plus
-http://bgdc.live:25461/get.php?username=ryanm1000&password=6062801911&type=m3u_plus
 http://bgdc.live:25461/get.php?username=stevenwhite&password=36326534&type=m3u_plus
+
 rg==================TV-TDT / OlteanCLΛΝ
 http://media2.xyz:8080/get.php?username=2055037515&password=81A7Mf522J&type=m3u_plus&output=m3u8
 http://media2.xyz:8080/get.php?username=JHicks248&password=pd4ctABKjaEx&type=m3u_plus&output=m3u8

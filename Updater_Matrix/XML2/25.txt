@@ -43,6 +43,9 @@ http://kwhqn.subgs.xyz:8080/get.php?username=4681418645045441&password=468141864
 http://cdn.zapto.org:8880/get.php?username=pierluigisposato&password=m7mldxucOS&type=m3u
 http://ipwebtv.dyndns.tv:8000/get.php?username=macak&password=FloRiaN&type=m3u
 http://ipwebtv.dyndns.tv:8000/get.php?username=prekajszkizlat&password=FfvvRsAGDv&type=m3u
+http://iptv.tecnohn.com:25461/get.php?username=Carlos_Roberto_Vasquez&password=tecnored21&type=m3u_plus
+http://hdlocal.de:8080/get.php?username=Parentsyoyo&password=Yoyo&type=m3u_plus
+http://hdlocal.de:8080/get.php?username=maximegigout&password=upCyYRecAe&type=m3u_plus
 IPTV Europa======================== (Telegram
 http://0106262.xyz/get.php?username=sdiUbk80fE&password=9hQQIEdAtC&type=m3u_plus
 http://02bdxbd16032025xdbyd.la1tv.com:8080/get.php?username=egala80_mipadre&password=hlbxLEXrDa&type=m3u_plus
@@ -116,6 +119,10 @@ http://english-uk.xyz:8000/get.php?username=armut&password=cikis&type=m3u_plus
 http://ex.guteex.com:8000/get.php?username=bgkanali8778ss&password=wOr2tc579w&type=m3u_plus
 http://exyubalkan-iptv.com.streamtv.to:8080/get.php?username=L9IrwRQdPV&password=gP9Gr573Eh&type=m3u_plus
 http://fastopen.live:8080/get.php?username=ArianTairi&password=JexIujaTrf&type=m3u_plus
+http://fastopen.live:8080/get.php?username=FlorimRogova&password=4gDL6RlJvi&type=m3u_plus
+http://fastopen.live:8080/get.php?username=MartaZbicinskaMAMA&password=QqEUyJx1pn&type=m3u_plus
+http://fastopen.live:8080/get.php?username=PVI7bELTYG&password=8uxQvWtDCS&type=m3u_plus
+http://fastopen.live:8080/get.php?username=RtCxhKwY2i&password=Dw8gaQWo5x&type=m3u_plus
 http://fastopen.live:8080/get.php?username=FlorimRogova&password=4gDL6RlJvi&type=m3u_plus
 http://giptv.biz/get.php?username=sahbi-b&password=98416536&type=m3u_plus
 http://gomn.xplus2.xyz:2095/get.php?username=Tourobox1-6Je0UzDYEU&password=XBrIy8xGxa&type=m3u_plus
@@ -442,3 +449,4 @@ http://front-main.drm-cloud.com:80/get.php?username=YDDMDFKN_657135&password=YL6
 http://front-main.drm-cloud.com:80/get.php?username=YDDMDFKN_657135&password=YL6NCHtb&type=m3u_plus
 http://front-main.drm-cloud.com:80/get.php?username=drmtv01_119504&password=ABgFQ26m&type=m3u_plus
 http://front-main.drm-cloud.com:80/get.php?username=drmtv01_119504&password=ABgFQ26m&type=m3u_plus
+

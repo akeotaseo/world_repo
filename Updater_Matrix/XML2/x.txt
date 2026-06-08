@@ -94,3 +94,8 @@ http://185.182.193.203:25461/get.php?username=harshpatel081296&password=BAN62778
 http://185.182.193.203:25461/get.php?username=jaydb2324&password=493367254&type=m3u_plus&type=m3u8
 http://185.182.193.203:25461/get.php?username=rgeys&password=VePAgX1nJ4&type=m3u_plus
 http://185.182.193.203:25461/get.php?username=satishbhagat1968&password=3yeapvPGdY&type=m3u_plus&output=m3u8
+http://krmbr.com:80/get.php?username=0aiylfn2e1&password=2z7vtl9eo7&type=m3u_plus
+http://krmbr.com:80/get.php?username=11976060220ricardo&password=ppvkbm987456&type=m3u_plus
+http://krmbr.com:80/get.php?username=11983083256danilo2&password=vfdklghj8541&type=m3u_plus
+http://krmbr.com:80/get.php?username=11999890163roberto3&password=2gfrh8f7usm&type=m3u_plus
+http://krmbr.com:80/get.php?username=5197464030josiel2&password=gtsd967kc&type=m3u_plus

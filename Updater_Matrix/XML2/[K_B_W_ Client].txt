@@ -452,12 +452,8 @@ http://goldenpro.xyz/get.php?username=48ZCNZQ&password=EA1VN6Q&type=m3u_plus
 
 http://granelitesrv.com/get.php?username=lourenco123&password=lourenco123&type=m3u_plus
 http://gunslingertv.org:8080/get.php?username=7DWhiJnv46v&password=1sanWE12EwnA&type=m3u_plus
-http://hardcoremedia.xyz/get.php?username=evhbaehp&password=4765328881&type=m3u_plus
-http://hardcoremedia.xyz/get.php?username=gprpqymi&password=5186091915&type=m3u_plus
-http://hardcoremedia.xyz/get.php?username=ymgiaxkw&password=5Hr5ZQuVfU&type=m3u_plus
-http://hardcoremedia.xyz:80/get.php?username=evhbaehp&password=4765328881&type=m3u_plus
-http://hardcoremedia.xyz:80/get.php?username=ymgiaxkw&password=5Hr5ZQuVfU&type=m3u_plus
-http://hdlocal.de:8080/get.php?username=mgstalker.com&password=tHbmCsW2xzdczews&type=m3u_plus
+
+
 http://hg234gb4r5y23vbtby4gsa43l.wtvplus.co:8080/get.php?username=tvsF4asfrg3fcva&password=s234f0w2E309g4n0fo3&type=m3u_plus
 http://hh.hdmediashop.com:2086/get.php?username=T.Tarkan&password=DKiQCHhmAo&type=m3u_plus
 http://hh.hdmediashop.com:2086/get.php?username=TankutG&password=KvHz6Rv6Rh&type=m3u_plus

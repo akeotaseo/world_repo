@@ -21,9 +21,17 @@ http://10026.luzer.org:8080/get.php?username=sanelwachapholandijanet&password=Ho
 http://10026.luzer.org:8080/get.php?username=semsojaran2&password=bBBr2wgmuKY5&type=m3u
 http://10082025xtcvtywdxkup.la1tv.com:8080/get.php?username=2M014425ST251320V&password=vu5mN7KxVZ&type=m3u
 http://51.81.106.100:25461/get.php?username=garretth2024&password=6065452377&type=m3u_plus&output=m3u8
-http://apx-me.com:8880/get.php?username=live%3Apersian_share&password=Hs6guU9ziF&type=m3u_plus
+http://apx-me.com:8880/get.php?username=live%3Apersian_share&password=Hs6guU9ziF&type=m3u_plu
+http://aagwhm.2m2h.im/get.php?username=0912434233&password=2425376860&type=m3u_plus
+http://aagwhm.2m2h.im/get.php?username=akrim2025mahmoued2026&password=akrim2025mahmoued010977543179&type=m3u_plus
+http://aagwhm.2m2h.im/get.php?username=hakim2025&password=dar202526&type=m3u_plus
+http://aagwhm.2m2h.im/get.php?username=mSSKJJt2A7&password=hkkAx0SQ0v&type=m3u_plus
+http://aagwhm.2m2h.im/get.php?username=menna758605&password=nassar485490&type=m3u_plus
+http://aagwhm.2m2h.im/get.php?username=nedaasameh&password=NaD@73941&type=m3u_plus
+http://aagwhm.2m2h.im/get.php?username=sahr2026&password=693400048&type=m3u_plus
 http://cdn.zapto.org:8880/get.php?username=pierluigisposato&password=m7mldxucOS&type=m3u
 http://clientportal-worldiptv.club:8080/get.php?username=a2HbYeBm5E3a&password=D86xHY1hP6Ze&type=m3u_plus
+http://elit64.xyz/get.php?username=Bulo77&password=XB5RL3j6RL&type=m3u
 http://fomo.re:80/get.php?username=48rwR1XU4aADToYc&password=KhFcZBamcPosUfqR&type=m3u&output=mpegts
 http://hdlocal.de:8080/get.php?username=Parentsyoyo&password=Yoyo&type=m3u_plus
 http://hdlocal.de:8080/get.php?username=maximegigout&password=upCyYRecAe&type=m3u_plus
@@ -54,6 +62,7 @@ http://tkosportz.live:25461/get.php?username=miss.sara&password=8749634&type=m3u
 http://tkosportz.live:25461/get.php?username=q5wMq0N536&password=LmYcWnIQgp&type=m3u_plus
 http://tkosportz.live:25461/get.php?username=rtaylor2023114515&password=TbEZvh18A3&type=m3u_plus
 http://tkosportz.live:25461/get.php?username=yfzsRAblAm&password=qg0Wqf3Icw&type=m3u_plus
+http://tprohd.net:8080/get.php?username=TariqEid&password=01771829988&type=m3u
 http://wp.strmz.cc:80/get.php?username=BCamacho&password=OI6nP3Gkzo&type=m3u_plus&output=m3u8
 IPTV Europa======================== (Telegram
 http://05377451541.com/get.php?username=05061698053&password=4G23G39G92&type=m3u_plus

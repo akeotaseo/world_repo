@@ -1,4 +1,19 @@
 not tested
+http://king-tv.net:8080/get.php?username=rszitas&password=uCTE8Vjamu&type=m3u
+http://live.iptv.wtf/get.php?username=mcjdkDMWKA&password=Gjjjeuifn2A&type=m3u
+http://live.iptv.wtf/get.php?username=ogrsfuqe&password=x0oVF79cj7&type=m3u
+http://maho.tsvipsmart.eu:8000/get.php?username=Hurturkel2&password=SLFnebFFAu&type=m3u
+http://mediaiptv.tv/get.php?username=80:47:86:29:34:d1&password=g:PMfC:ZXgxMzR&type=m3u
+http://mediaiptv.tv/get.php?username=xani:tv:8e:4f:44&password=lA:Wc0:5OzcXQK&type=m3u
+http://millenium.live:8000/get.php?username=Hasansahinnn&password=JLxgSKDjdY&type=m3u
+http://nordicstream.xyz:2095/get.php?username=wsDOKmWY3y&password=m2WaAH6b&type=m3u
+http://pk.painter1.fun:43666/get.php?username=qazimmorinaj&password=morinaj&type=m3u
+http://s1.arabitv5.com/get.php?username=UweW&password=13d5r&type=m3u
+
+
+
+
+
 http://0g7hljf4wx.sasa24.xyz:80/get.php?username=129lunario&password=129mArzianOw83xL2h&type=m3u_plus
 http://117.55.202.58/get.php?username=3hEQetL0Qw&password=Ib9A6TaEJJ&type=m3u_plus
 http://117.55.202.58:80/get.php?username=3hEQetL0Qw&password=Ib9A6TaEJJ&type=m3u_plus

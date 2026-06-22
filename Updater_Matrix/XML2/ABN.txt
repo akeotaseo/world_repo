@@ -1,10 +1,6 @@
-http://vividmedia.xyz/get.php?username=Charles1234&password=Charles1234&type=m3u_plus
 http://vividmedia.xyz/get.php?username=Chris1234&password=Chris1234&type=m3u_plus
-http://vividmedia.xyz/get.php?username=Emmett1234&password=Emmett1234&type=m3u_plus
 http://vividmedia.xyz/get.php?username=Vonda123&password=Vonda123&type=m3u_plus
-http://vividmedia.xyz:80/get.php?username=Stacy1234&password=Stacy1234&type=m3u_plus
 http://hardcoremedia.xyz/get.php?username=Tb9XxJsA4&password=TFuTjjFhyj&type=m3u_plus
-http://hardcoremedia.xyz/get.php?username=evhbaehp&password=4765328881&type=m3u_plus
 http://hardcoremedia.xyz/get.php?username=gprpqymi&password=5186091915&type=m3u_plus
 http://hardcoremedia.xyz/get.php?username=lffptaxd&password=1552969540&type=m3u_plus
 http://hardcoremedia.xyz/get.php?username=nrzepqom&password=vGruK584wr&type=m3u_plus
@@ -20,7 +16,6 @@ http://jackofclubs.vip/get.php?username=Binky2021&password=1476280935&type=m3u_p
 http://jackofclubs.vip:80/get.php?username=Life12345&password=Life12345&type=m3u_plus
 http://jackofclubs.vip:80/get.php?username=Reddragon1&password=Reddragon1&type=m3u_plus
 http://jackofclubs.vip:80/get.php?username=jennbetz1&password=flatbutton45&type=m3u_plus
-http://jackofclubs.vip:80/get.php?username=mihir&password=mihir123&type=m3u_plus
 http://cord-cutter.net:8080/get.php?username=13039703&password=13039703&type=m3u
 http://cord-cutter.net:8080/get.php?username=4044386953&password=mellison00@yahoo.com&type=m3u
 http://cord-cutter.net:8080/get.php?username=669318&password=487702&type=m3u

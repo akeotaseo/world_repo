@@ -26,3 +26,5 @@ http://nocable.cc:8080/get.php?username=0pyrVb&password=370384&type=m3u_plus
 http://nocable.cc:8080/get.php?username=0uyGAE&password=040159&type=m3u_plus
 http://nocable.cc:8080/get.php?username=0vbS4B&password=744384&type=m3u_plus
 http://nocable.cc:8080/get.php?username=0y2pJN&password=126445&type=m3u_plus
+http://nocable.cc:8080/get.php?username=142624118&password=142624118&type=m3u_plus
+http://nocable.cc:8080/get.php?username=1yNyea&password=123956&&type=m3u_plus

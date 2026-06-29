@@ -301,8 +301,8 @@ http://nocable.cc:8080/get.php?username=tbmcknight@hotmail.com&password=tbmcknig
 http://nocable.cc:8080/get.php?username=tonygoins95@gmail.com&password=nHpR8BwyKF&type=m3u_plus
 http://nocable.cc:8080/get.php?username=trouble7720%40gmail.com&password=Pa8xWA2AE6&type=m3u_plus
 http://nocable.cc:8080/get.php?username=uh4BeE&password=493375&type=m3u_plus
-http://nocable.cc:8080/get.php?username=xWP0a5&password=674148&type=m3u_plus
-rg==================TV-TDT / OlteanCLΛΝ
+http://nocable.cc:8080/get.php?username=xWP0a5&password=674148&type=m3u_plus 
+brg==================TV-TDT / OlteanCLΛΝ
 http://31.43.191.125:8080/get.php?username=VIP011561749038311476&password=38b560a8504e&type=m3u
 http://31.43.191.125:8080/get.php?username=VIP0121176320218398&password=2rwggukx7pt3&type=m3u
 http://31.43.191.125:8080/get.php?username=VIP016021764786490148&password=afb156975f16&type=m3u

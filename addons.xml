@@ -165,7 +165,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2026.05.26" provider-name="Jon Bovi, [COLOR crimson]King Krimson[/COLOR]">
+<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2026.07.15" provider-name="Jon Bovi, [COLOR crimson]King Krimson[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.future"/>
@@ -176,15 +176,15 @@
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>audio</provides>
     </extension>
-    <extension point="xbmc.service" library="playerMP3.py" start="startup" />
+    <extension point="xbmc.service" library="playerMP3.py" />
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-        <summary>A music streaming Collection.</summary>
-        <description>MP3 Streams Kodi 19+</description>
-        <news>2026.05.26 - Downloads, favorites, dialogs, navigation, see the changelog. 2025.0.1 - Fix Billboard Charts, 2022.0.2 - Fix errors loading pages. 2022.0.1 - Small fix, Kodi 20 ready. 2021.0.6 - Fixed issue with hanging  when skipping tracks. 2021.0.4 - Fixed Settings, 2021.0.3 - Bugfixes. Enjoy!</news>
+        <summary>A Music Streaming Collection</summary>
+        <description>MP3 Streams for Kodi 19+</description>
+        <news>2026.07.15 - Fixed missing genre icons. 2026.07.14 - Kodi 19+ metadata compliance (language .po, service declaration), single-track downloads keep track numbers, collab albums download flat, thank you JMAN730. See the changelog. Enjoy!</news>
         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <icon>art/icon.png</icon>
+            <fanart>art/fanart.jpg</fanart>
         </assets>
     </extension>
 </addon>

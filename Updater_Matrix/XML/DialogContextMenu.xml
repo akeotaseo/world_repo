@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol>1000</defaultcontrol>
+	<coordinates>
+		<left>0</left>
+		<top>0</top>
+	</coordinates>
+	<controls>
+		<control type="image" id="999">
+			<description>background image</description>
+			<left>0</left>
+			<top>0</top>
+			<width>410</width>
+			<height max="1080">auto</height>
+			<texture border="20">dialogcontextmenu2.png</texture>
+		</control>
+		<control type="grouplist" id="996">
+			<description>grouplist for context buttons</description>
+			<left>5</left>
+			<top>10</top>
+			<width>430</width>
+			<height max="1065">auto</height>
+			<include condition="Window.IsActive(programs) + !String.IsEmpty(Window(Home).Property(Progams.Games))">AdvancedLauncherTrailerButton</include>
+		<control type="grouplist" id="1611">
+			<depth>DepthFooter</depth>
+			<include>Window_OpenClose_Animation</include>
+			<left>30</left>
+			<top>70r</top>
+			<onleft></onleft>
+			<onright>1612</onright>
+			<onup >1000</onup>
+			<ondown>630</ondown>
+			<align>center</align>
+			<orientation>horizontal</orientation>
+			<itemgap>15</itemgap>
+			<control type="radiobutton" id="22">
+				<description>Power push button</description>
+				<textureradioonfocus>icon_power.png</textureradioonfocus>
+				<textureradioonnofocus>icon_power.png</textureradioonnofocus>
+				<textureradioofffocus>icon_power.png</textureradioofffocus>
+				<textureradiooffnofocus>icon_power.png</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>52</radiowidth>
+				<radioheight>52</radioheight>
+				<radioposx>8</radioposx>
+				<radioposy>8</radioposy>
+				<label>31003</label>
+				<font></font>
+				<onfocus></onfocus>
+				<onup >2222</onup>
+				<ondown>630</ondown>
+				<onclick>$VAR[HomePowerBtnCommand]</onclick>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+			<control type="radiobutton" id="23">
+				<description>Favourites push button</description>
+	 		   <textureradioonfocus>icon_favourites.png</textureradioonfocus>
+				<textureradioonnofocus>icon_favourites.png</textureradioonnofocus>
+				<textureradioofffocus>icon_favourites.png</textureradioofffocus>
+				<textureradiooffnofocus>icon_favourites.png</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>65</radiowidth>
+				<radioheight>65</radioheight>
+				<radioposx>1</radioposx>
+				<radioposy>1</radioposy>
+				<label>1036</label>
+				<font></font>
+				<onup >2222</onup>
+				<ondown>630</ondown>
+				<onclick condition="!Skin.HasSetting(HideFavorites)">ActivateWindow(Favouritesbrowser)</onclick>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+			<control type="radiobutton" id="24">
+				<description>My Select</description>
+				<textureradioonfocus>autowidget.png</textureradioonfocus>
+				<textureradioonnofocus>autowidget.png</textureradioonnofocus>
+				<textureradioofffocus>autowidget.png</textureradioofffocus>
+				<textureradiooffnofocus>autowidget.png</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>52</radiowidth>
+				<radioheight>52</radioheight>
+				<radioposx>8</radioposx>
+				<radioposy>8</radioposy>
+				<label></label>
+				<font></font>
+				<onup >2222</onup>
+				<ondown>630</ondown>
+				<onclick>RunScript("special://home/addons/skin.19MatrixWorld/xml/MyGroups.py")</onclick>
+				<visible></visible>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+			<control type="radiobutton" id="25">
+				<description>video files</description>
+				<textureradioonfocus>defaultharddisk.png</textureradioonfocus>
+				<textureradioonnofocus>defaultharddisk.png</textureradioonnofocus>
+				<textureradioofffocus>defaultharddisk.png</textureradioofffocus>
+				<textureradiooffnofocus>defaultharddisk.png</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>52</radiowidth>
+				<radioheight>52</radioheight>
+				<radioposx>8</radioposx>
+				<radioposy>8</radioposy>
+				<label></label>
+				<font></font>
+				<onup >2222</onup>
+				<ondown>630</ondown>
+				<onclick>ActivateWindow(Videos,library://video)</onclick>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+			<control type="radiobutton" id="26">
+				<description>Shortcut</description>
+				<textureradioonfocus>special://home/addons/plugin.image.World/resources/media/addonset foto/kodi-.png</textureradioonfocus>
+				<textureradioonnofocus>special://home/addons/plugin.image.World/resources/media/addonset foto/kodi-.png</textureradioonnofocus>
+				<textureradioofffocus>special://home/addons/plugin.image.World/resources/media/addonset foto/kodi-.png</textureradioofffocus>
+				<textureradiooffnofocus>special://home/addons/plugin.image.World/resources/media/addonset foto/kodi-.png</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>52</radiowidth>
+				<radioheight>52</radioheight>
+				<radioposx>8</radioposx>
+				<radioposy>8</radioposy>
+				<onup >2222</onup>
+				<ondown>630</ondown>
+				<onright>1612</onright>
+				<label></label>
+				<font></font>
+				<onclick>RunScript("special://home/addons/plugin.program.myselect/folders/py/ShortCut.py")</onclick>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+		</control>
+				<control type="button" id="630">
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>orange</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>[COLOR blue]HOME[/COLOR]</label>
+					<onclick>Dialog.Close(all,true)</onclick>
+					<onclick>ActivateWindow(Home)</onclick>
+				</control>
+				<control type="button" id="631">
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>[COLOR darkcyan]Είδατε Πρόσφατα[/COLOR]</label>
+					<onclick>RunScript("special://skin/xml/osd/LastPlayed.py")</onclick>
+				</control>
+				<control type="button" id="633">
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<onright>1615</onright>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>[COLOR limegreen]Search for Subs[/COLOR] </label>
+					<onclick>ActivateWindow(subtitlesearch)</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.themoviedb.helper) | String.IsEqual(Container.PluginName, plugin.video.blacklodge) + !String.IsEmpty(ListItem.Title) + !String.IsEmpty(ListItem.Year) + !ListItem.IsFolder</visible>
+				</control>
+				<control type="button" id="634">
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>Addon Settings</label>
+					<onclick>Addon.OpenSettings($INFO[Container.PluginName])</onclick>
+					<visible>!String.IsEmpty(Container.PluginName)</visible>
+				</control>
+				<control type="button" id="639">
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<visible>System.Platform.Android</visible>
+					<label>[B][COLOR white] Android/Apps [/COLOR][/B]</label>
+					<onclick>ActivateWindow(Programs,Androidapp://Sources/Apps/)</onclick>
+				</control>
+				<control type="button" id="641">
+					<description>STAR Player</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR=lime]STAR[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/star.py)</onclick>
+					<visible>System.Platform.Windows | System.Platform.Android</visible>
+					<visible>String.IsEqual(ListItem.AddonName,STAR Player) | String.IsEqual(Container.PluginName, plugin.video.star.gr)</visible>
+				</control>
+				<control type="button" id="642">
+					<description>SKAI Player</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR=cornflowerblue]SKAI[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/skai.py)</onclick>
+					<visible>System.Platform.Windows | System.Platform.Android</visible>
+					<visible>String.IsEqual(ListItem.AddonName,SKAI Player) | String.IsEqual(Container.PluginName, plugin.video.skai.gr)</visible>
+				</control>
+				<control type="button" id="643">
+					<description>ALPHA Player</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR=blue]ALPHA[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/alphatv.py)</onclick>
+					<visible>System.Platform.Windows | System.Platform.Android</visible>
+					<visible>String.IsEqual(ListItem.AddonName,ALPHA Player) | String.IsEqual(Container.PluginName, plugin.video.alphatv.gr)</visible>
+				</control>
+				<control type="button" id="644">
+					<description>ANT1 Player</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR=gold]ANT1[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/antenna.py)</onclick>
+					<visible>System.Platform.Windows | System.Platform.Android</visible>
+					<visible>String.IsEqual(ListItem.AddonName,ANT1 Player) | String.IsEqual(Container.PluginName, plugin.video.antenna.gr)</visible>
+				</control>
+				<control type="button" id="645">
+					<description>Ertflix</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR=blue]ERT[/COLOR][COLOR=red]FLIX[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/ErtflixYesNo.py)</onclick>
+					<visible>System.Platform.Windows | System.Platform.Android</visible>
+					<visible>String.IsEqual(ListItem.AddonName,ERTflix) | String.IsEqual(Container.PluginName, plugin.video.ert.gr)</visible>
+				</control>
+				<control type="button" id="646">
+					<description>World Client</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>blue</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>World Client</label>
+					<onclick>RunScript("special://home/addons/plugin.program.downloaderstartup/RobinhoodTVPortal/KodiBalkanWorld.py")</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.worldclient)</visible>
+				</control>
+				<control type="button" id="647">
+					<description>MicroJen</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>orange</textcolor>
+					<focusedcolor>orange</focusedcolor>
+					<include>NormalButton1</include>
+					<label>MicroJen</label>
+					<onclick>ActivateWindow(10025,"plugin://plugin.video.microjen/get_list/http://gknwizard.eu/repo/Builds/GKoBu/xmls/tests/microjenmain.json")</onclick>
+					<visible>String.IsEqual(ListItem.AddonName,MicroJen) | String.IsEqual(Container.PluginName, plugin.video.microjen) | String.IsEqual(Container.PluginName, plugin.video.shadow)</visible>
+				</control>
+				<control type="button" id="648">
+					<description>Shadow</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>blue</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>Shadow</label>
+					<onclick>ActivateWindow(10025,"plugin://plugin.video.shadow/?all_w={}&amp;data= &amp;dates= &amp;description=One Click&amp;eng_name= &amp;episode= &amp;fanart= &amp;fav_status=false&amp;heb_name= &amp;iconimage= &amp;id= &amp;image_master&amp;isr=0&amp;last_id&amp;mode=189&amp;name= &amp;original_title= &amp;season= &amp;show_original_year= &amp;tmdbid= &amp;url=http://gknwizard.eu/repo/Builds/GKoBu/xmls/shadowjenmain.json&amp;video_data={"title": " ", "mediatype": " ", "TVshowtitle": "", "season": 0, "episode": 0, "OriginalTitle": " ", "rating": "0", "plot": "One Click", "Tag": "None", "id": " "}")</onclick>
+					<visible>String.IsEqual(ListItem.AddonName,Shadow) | String.IsEqual(Container.PluginName, plugin.video.shadow) | String.IsEqual(Container.PluginName, plugin.video.microjen)</visible>
+				</control>
+				<control type="button" id="649">
+					<description>sportsdevil</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>tomato</textcolor>
+					<focusedcolor>tomato</focusedcolor>
+					<include>NormalButton1</include>
+					<label>SportsDevil</label>
+					<onclick>RunScript("special://home/addons/skin.19MatrixWorld/xml/sd.py")</onclick>
+					<visible>String.IsEqual(ListItem.AddonName,SD) | String.IsEqual(Container.PluginName, plugin.video.sportsdevil)</visible>
+				</control>
+				<control type="button" id="650">
+					<description>TVChannels</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>deepskyblue</textcolor>
+					<focusedcolor>deepskyblue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>ΚΑΝΑΛΙΑ</label>
+					<onclick>RunScript("special://home/addons/plugin.program.downloaderstartup/PY/PVR/kanalia.py")</onclick>
+					<visible>System.HasAddon(pvr.stalker)</visible>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.macvod) | String.IsEqual(Container.PluginName, plugin.program.downloader) | String.IsEqual(Container.PluginName, plugin.video.myiptv)</visible>
+				</control>
+				<control type="button" id="651">
+					<description>Mac Pleyer</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>lightskyblue</textcolor>
+					<focusedcolor>lightskyblue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>Mac Player</label>
+					<onclick>ActivateWindow(10025,"plugin://plugin.program.downloader/mac_player_main")</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.myiptv)</visible>
+				</control>
+				<control type="button" id="652">
+					<description>My IPTV</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>darkorange</textcolor>
+					<focusedcolor>darkorange</focusedcolor>
+					<include>NormalButton1</include>
+					<label>My[COLOR orangered]IPTV[/COLOR]</label>
+					<onclick>ActivateWindow(10025,"plugin://plugin.video.myiptv/",)</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.program.downloader) | String.IsEqual(Container.PluginName, plugin.pvr.stalker)</visible>
+				</control>
+				<control type="button" id="653">
+					<description>livetv.sx</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR=blue]livetv[/COLOR].[COLOR=red]sx[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/livetvsx.py)</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.dracarys)</visible>
+				</control>
+				<control type="button" id="654">
+					<description>Stalker Vod Generator</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>font115</font>
+					<align>center</align>
+					<textcolor></textcolor>
+					<focusedcolor></focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR blue]X-Cdoes[/COLOR][/B] [COLOR=lime] Generator[/COLOR]</label>
+					<onclick>RunScript(special://home/addons//plugin.program.downloaderstartup/PY/PVR/list.py)</onclick>
+					<visible>String.IsEqual(ListItem.AddonName,XCUI Streams) | String.IsEqual(Container.PluginName, plugin.video.iptvxc) | String.IsEqual(ListItem.AddonName,Stalker VOD Client) | String.IsEqual(Container.PluginName, plugin.video.stalkervod)</visible>
+				</control>
+				<control type="button" id="655">
+					<description>plugin.program.downloader - GKoBu Tools</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>blue</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>Mac Player-X-treme codes</label>
+					<onclick>RunScript(special://home/addons/plugin.program.myselect/folders/py/MAC_Xcodes.py)</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.macvod)</visible>
+				</control>
+				<control type="button_off" id="656">
+					<description>plugin.program.downloaderstartup / PVR</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>deepskyblue</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>PVR</label>
+					<onclick>RunScript("special://home/addons/plugin.program.downloaderstartup/PY/PVR/kanalia.py")</onclick>
+					<visible>System.HasPVRAddon</visible>
+				</control>
+				<control type="button/0ff" id="657">
+					<description>External Add-Ons - macvod</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>orange</textcolor>
+					<focusedcolor>darkorange</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR orange]External Add-Ons[/COLOR][/B]</label>
+					<onclick>PlayMedia("plugin://plugin.video.macvod/?action=ExternalAddOns&amp;title=%5BB%5D%5BCOLOR+orange%5DExternal+Add-Ons%5B%2FCOLOR%5D%5B%2FB%5D&amp;url=&amp;thumbnail=C%3A%5CPortableApps%5Ckodi%5Ckodi+World+21%5CKodi%5Cportable_data%5Caddons%5Cplugin.video.macvod%5Cicon.png&amp;plot=&amp;extra=&amp;page=")</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.f4mTester) | String.IsEqual(Container.PluginName, plugin.video.playlistloader) | String.IsEqual(Container.PluginName, plugin.video.live.streamspro)</visible>
+				</control>
+				<control type="button" id="658">
+					<description>GREEK TV</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR blue]GREEK TV[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/GREEK_TV.py)</onclick>
+					<visible>String.IsEqual(ListItem.AddonName,AliveGR) | String.IsEqual(Container.PluginName, plugin.video.AliveGR)</visible>
+				</control>
+				<control type="button" id="659">
+					<description>Whiskey Blues</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[COLOR orange]Whiskey Blues[/COLOR]</label>
+					<onclick>ActivateWindow(10025,"plugin://plugin.video.whiskeyblues/?content_type=video")</onclick>
+					<visible>String.IsEqual(Container.PluginName, plugin.video.youtube)</visible>
+				</control>
+				<control type="button" id="660">
+					<description>Daddylive</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>blue</focusedcolor>
+					<include>NormalButton1</include>
+					<label>[B][COLOR=orange]Daddylive[/COLOR][/B]</label>
+					<onclick>RunScript(special://home/addons/skin.19MatrixWorld/xml/DialogContextPair/Daddylive.py)</onclick>
+					<visible>String.IsEqual(ListItem.AddonName,Daddylive) | String.IsEqual(Container.PluginName, plugin.video.daddylive)</visible>
+				</control>
+		<control type="button" id="1000">
+			<description>button template</description>
+			<left></left>
+			<top></top>
+			<width>400</width>
+			<height>57</height>
+			<font>fontContextMenu</font>
+			<align>center</align>
+			<textcolor>grey2</textcolor>
+			<focusedcolor>white</focusedcolor>
+		</control>
+				<control type="button" id="3001">
+					<description>Watch it Later</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>$LOCALIZE[31215]</label>
+					<onclick>RunPlugin(plugin://script.simpleplaylists/?mode=addCurrentUrl)</onclick>
+					<visible>!Skin.HasSetting(DisableWatchItLater) + [Container.Content(Episodes) | Container.Content(Movies) | Container.Content(Songs)]</visible>
+				</control>
+				<control type="button" id="3003">
+					<description>Library Editor</description>
+					<left></left>
+					<top></top>
+					<width>400</width>
+					<height>60</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>grey2</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<include>NormalButton1</include>
+					<label>$LOCALIZE[21450] [LOWERCASE]$LOCALIZE[15101][/LOWERCASE]</label>
+					<onclick>RunScript(script.libraryeditor,DBID=$INFO[ListItem.DBID])</onclick>
+					<visible>System.HasAddon(script.libraryeditor) + !String.IsEmpty(ListItem.DBID) + !Container.Content(Seasons)</visible>
+				</control>
+		<control type="grouplist" id="1610">
+			<depth>YouTube Api Key-Derbid-Coco Scrapers</depth>
+			<include>Window_OpenClose_Animation</include>
+			<left>30</left>
+			<top>70r</top>
+			<onleft></onleft>
+			<onright></onright>
+			<onup ></onup>
+			<ondown>22</ondown>
+			<align>center</align>
+			<orientation>horizontal</orientation>
+			<itemgap>15</itemgap>
+			<control type="radiobutton" id="2222">
+				<description>YouTube Api Key</description>
+				<textureradioonfocus>special://home/addons/plugin.program.downloaderstartup/resources/media/youtube.png</textureradioonfocus>
+				<textureradioonnofocus>special://home/addons/plugin.program.downloaderstartup/resources/media/youtube.png</textureradioonnofocus>
+				<textureradioofffocus>special://home/addons/plugin.program.downloaderstartup/resources/media/youtube.png</textureradioofffocus>
+				<textureradiooffnofocus>special://home/addons/plugin.program.downloaderstartup/resources/media/youtube.png</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>56</radiowidth>
+				<radioheight>56</radioheight>
+				<radioposx>6</radioposx>
+				<radioposy>6</radioposy>
+				<label>31003</label>
+				<font></font>
+				<onfocus></onfocus>
+				<onup >1000</onup>
+				<ondown>22</ondown>
+				<onclick>ActivateWindow(10001,"plugin://plugin.program.downloaderstartup/?description&amp;fanart=special://home/addons%5cplugin.program.downloaderstartup%5cfanart.jpg&amp;icon=special%3a%2f%2fhome%2faddons%2fplugin.program.downloaderstartup%2fresources%2fmedia%2fyoutube.png&amp;mode=1&amp;name=YouTube%20Api%20Key&amp;name2&amp;url&amp;version")</onclick>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+			<control type="radiobutton" id="2223">
+				<description>Coco Scrapers</description>
+				<textureradioonfocus>special://home/addons/plugin.image.World/resources/media/gifs/cocoscrapers_seren.gif</textureradioonfocus>
+				<textureradioonnofocus>special://home/addons/plugin.image.World/resources/media/gifs/cocoscrapers_seren.gif</textureradioonnofocus>
+				<textureradioofffocus>special://home/addons/plugin.image.World/resources/media/gifs/cocoscrapers_seren.gif</textureradioofffocus>
+				<textureradiooffnofocus>special://home/addons/plugin.image.World/resources/media/gifs/cocoscrapers_seren.gif</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>56</radiowidth>
+				<radioheight>56</radioheight>
+				<radioposx>6</radioposx>
+				<radioposy>6</radioposy>
+				<label>31003</label>
+				<font></font>
+				<onfocus></onfocus>
+				<onup >1000</onup>
+				<ondown>22</ondown>
+				<onclick>RunScript("special://home/addons/plugin.program.downloaderstartup/PY/CocoScrapersSeren/CocoScrapersSeren.py")</onclick>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+			<control type="radiobutton" id="2224">
+				<description>Εξουσιοδότηση/Επαναφορά Derbid</description>
+				<textureradioonfocus>special://home/addons/plugin.program.downloaderstartup/resources/media/realdebrid.png</textureradioonfocus>
+				<textureradioonnofocus>special://home/addons/plugin.program.downloaderstartup/resources/media/realdebrid.png</textureradioonnofocus>
+				<textureradioofffocus>special://home/addons/plugin.program.downloaderstartup/resources/media/realdebrid.png</textureradioofffocus>
+				<textureradiooffnofocus>special://home/addons/plugin.program.downloaderstartup/resources/media/realdebrid.png</textureradiooffnofocus>
+				<texturefocus border="5" colordiffuse="$VAR[MainColorOne]">folder-focus.png</texturefocus>
+				<texturenofocus border="5">floor_button.png</texturenofocus>
+				<width>68</width>
+				<height>68</height>
+				<radiowidth>56</radiowidth>
+				<radioheight>56</radioheight>
+				<radioposx>6</radioposx>
+				<radioposy>6</radioposy>
+				<label>31003</label>
+				<font></font>
+				<onfocus></onfocus>
+				<onup >1000</onup>
+				<ondown>22</ondown>
+				<onclick>PlayMedia("plugin://plugin.program.downloaderstartup/?url=&amp;mode=24&amp;name=%CE%95%CE%BE%CE%BF%CF%85%CF%83%CE%B9%CE%BF%CE%B4%CF%8C%CF%84%CE%B7%CF%83%CE%B7%2F%CE%95%CF%80%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC+Derbid&amp;icon=special%3A%2F%2Fhome%2Faddons%2Fplugin.program.downloaderstartup%2Fresources%2Fmedia%2Frealdebrid.png&amp;fanart=C%3A%5CPortableApps%5Ckodi%5CKODI+TEST%5CKodi%5Cportable_data%5Caddons%5Cplugin.program.downloaderstartup%5Cfanart.jpg&amp;description=&amp;name2=&amp;version=")</onclick>
+				<include condition="!String.IsEmpty(Skin.String(HomeTrans))">HomeTransparentEffect</include>
+				<visible></visible>
+			</control>
+		</control>
+		</control>
+			<control type="image///0ff" id="995">
+				<description>arrow image</description>
+				<top>35</top>
+				<left>400</left>
+				<width>30</width>
+				<height>20</height>
+				<texture>arrow-big-right.png</texture>
+				<visible>Control.HasFocus(1611)</visible>
+			</control>
+			<control type="image///0ff" id="1995">
+				<description>arrow image</description>
+				<top>35</top>
+				<left>30</left>
+				<width>30</width>
+				<height>20</height>
+				<texture>arrow-big-left.png</texture>
+				<visible>Control.HasFocus(1611)</visible>
+				<visible>!activatewindow(shutdownmenu)</visible>
+			</control>
+			<control type="image" id="801">
+				<description>background image</description>
+				<top>0</top>
+				<left>408</left>
+				<width>455</width>
+				<height>70</height>
+				<texture border="20">dialogcontextmenu-ULR.png</texture>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+			</control>
+		<control type="grouplist" id="802">
+			<description>grouplist for context buttons</description>
+			<left>410</left>
+			<top>0</top>
+			<width>480</width>
+			<height >70</height>
+			<onright>22</onright>
+			<onleft>1611</onleft>
+			<onup>1617</onup>
+			<ondown>1613</ondown>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+				<control type="button" id="1612">
+					<left></left>
+					<top></top>
+					<width>450</width>
+					<height>70</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>Setings[COLOR blue]KODI[/COLOR]</label>
+					<onclick>RunScript("special://home/addons/skin.19MatrixWorld/xml/ButtonContextMenu/SetingsKodi.py")</onclick>
+					<!--<visible>System.HasAddon(plugin.program.G.K.N.Wizard)</visible>-->
+				</control>
+		</control>
+			<control type="image" id="803">
+				<description>background image</description>
+				<top>70</top>
+				<left>408</left>
+				<width>455</width>
+				<height>70</height>
+				<texture border="20">dialogcontextmenu-LR.png</texture>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+			</control>
+		<control type="grouplist" id="804">
+			<description>grouplist for context buttons</description>
+			<left>412</left>
+			<top>70</top>
+			<width>480</width>
+			<height >70</height>
+			<onleft>26</onleft>
+			<onup>1612</onup>
+			<ondown>1614</ondown>
+			<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+				<control type="button" id="1613">
+					<left></left>
+					<top></top>
+					<width>450</width>
+					<height>70</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>[COLOR goldenrod]Clear Cache/Providers[/COLOR] </label>
+					<onclick>RunPlugin("plugin://plugin.program.G.K.N.Wizard/?mode=clearcache")</onclick>
+					<!--<visible>System.HasAddon(plugin.program.G.K.N.Wizard)</visible>-->
+				</control>
+		</control>
+			<control type="image" id="805">
+				<description>background image</description>
+				<top>140</top>
+				<left>408</left>
+				<width>455</width>
+				<height>70</height>
+				<texture border="20">dialogcontextmenu-LR.png</texture>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+			</control>
+		<control type="grouplist" id="806">
+			<description>grouplist for context buttons</description>
+			<left>412</left>
+			<top>140</top>
+			<width>480</width>
+			<height >70</height>
+			<onleft>26</onleft>
+			<onup>1613</onup>
+			<ondown>1615</ondown>
+			<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+				<control type="button" id="1614">
+					<left></left>
+					<top></top>
+					<width>450</width>
+					<height>70</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>[B][COLOR orange]Pairwith[/COLOR][/B] [B][COLOR grey]Sites[/COLOR][/B]</label>
+					<onclick>RunScript("special://home/addons/plugin.program.downloaderstartup/PY/skin/Sites.py")</onclick>
+					<visible>!System.HasAddon(service.coreelec.settings) + !System.HasAddon(service.libreelec.settings)</visible>
+					<!--<visible>System.HasAddon(plugin.program.G.K.N.Wizard)</visible>-->
+				</control>
+		</control>
+			<control type="image" id="807">
+				<description>background image</description>
+				<top>210</top>
+				<left>408</left>
+				<width>455</width>
+				<height>70</height>
+				<texture border="20">dialogcontextmenu-LR.png</texture>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+			</control>
+		<control type="grouplist" id="808">
+			<description>grouplist for context buttons</description>
+			<left>412</left>
+			<top>210</top>
+			<width>480</width>
+			<height >70</height>
+			<onleft>26</onleft>
+			<onup>1614</onup>
+			<ondown>1616</ondown>
+			<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+				<control type="button" id="1615">
+					<left></left>
+					<top></top>
+					<width>450</width>
+					<height>70</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>Αναζήτηση για υπότιτλους</label>
+					<onclick>RunScript("special://home/addons/plugin.program.downloaderstartup/PY/Tools/SearchSubs.py")</onclick>
+					<!--<visible>System.HasAddon(plugin.program.G.K.N.Wizard)</visible>-->
+				</control>
+		</control>
+		<control type="grouplist" id="809">
+			<description>grouplist for context buttons</description>
+			<left>412</left>
+			<top>210</top>
+			<width>480</width>
+			<height >70</height>
+			<onleft>26</onleft>
+			<onup>1614</onup>
+			<ondown>1616</ondown>
+			<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+				<control type="button" id="1615">
+					<left></left>
+					<top></top>
+					<width>450</width>
+					<height>70</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>Αναζήτηση για υπότιτλους</label>
+					<onclick>RunScript("special://home/addons/plugin.program.downloaderstartup/PY/Tools/SearchSubs.py")</onclick>
+					<!--<visible>System.HasAddon(plugin.program.G.K.N.Wizard)</visible>-->
+				</control>
+		</control>
+			<control type="image" id="810">
+				<description>background image</description>
+				<top>280</top>
+				<left>408</left>
+				<width>455</width>
+				<height>70</height>
+				<texture border="20">dialogcontextmenu-LR.png</texture>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+			</control>
+		<control type="grouplist" id="811">
+			<description>grouplist for context buttons</description>
+			<left>412</left>
+			<top>280</top>
+			<width>480</width>
+			<height >70</height>
+			<onleft>26</onleft>
+			<onup>1615</onup>
+			<ondown>1617</ondown>
+			<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+				<control type="button" id="1616">
+					<left></left>
+					<top></top>
+					<width>450</width>
+					<height>70</height>
+					<font>Roboto-Regular.ttf</font>
+					<align>center</align>
+					<textcolor>white</textcolor>
+					<focusedcolor>white</focusedcolor>
+					<label>TakeScreenshot</label>
+					<onclick>Notification("Προσοχή!","TakeScreenshot",5000,TakeScreenshot/TakeScreenshot.png)</onclick>
+					<onclick>TakeScreenshot</onclick>
+					<!--<visible>System.HasAddon(plugin.program.G.K.N.Wizard)</visible>-->
+				</control>
+		</control>
+			<control type="image" id="812">
+				<description>background image</description>
+				<top>350</top>
+				<left>408</left>
+				<width>455</width>
+				<height>70</height>
+				<texture border="20">dialogcontextmenu-DLR.png</texture>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+		</control>
+			<control type="grouplist" id="813">
+				<description>grouplist for context buttons</description>
+				<left>412</left>
+				<top>350</top>
+				<width>480</width>
+				<height >70</height>
+				<onleft>26</onleft>
+				 <onup>1616</onup>
+				<ondown>1612</ondown>
+				<visible>Control.HasFocus(26) | Control.HasFocus(1612) | Control.HasFocus(1613) | Control.HasFocus(1614) | Control.HasFocus(1615) | Control.HasFocus(1616) | Control.HasFocus(1617) | Control.HasFocus(1618)</visible>
+			<control type="button" id="1617">
+				<left></left>
+				<top></top>
+				<width>450</width>
+				<height>70</height>
+				<font>Roboto-Regular.ttf</font>
+				<align>center</align>
+				<textcolor>white</textcolor>
+				<focusedcolor>white</focusedcolor>
+				<label>[B]Περιηγητής[/B]</label>
+				<onclick>RunScript("special://home/addons/skin.19MatrixWorld/xml/ButtonContextMenu/AddonBrowser.py")</onclick>
+				<!--<visible>System.HasAddon(plugin.program.G.K.N.Wizard)</visible>-->
+			</control>				
+		</control>		
+	</controls>
+</window>
